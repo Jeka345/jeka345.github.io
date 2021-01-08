@@ -1,0 +1,209 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=perviyhd
+#EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС
+http://f0503626.xsph.ru/livecdn.m3u8?media=sts
+#EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=stshd
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=rentv
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=ntv
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
+http://f0503626.xsph.ru/livecdn.m3u8?media=match
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
+http://f0503626.xsph.ru/livecdn.m3u8?media=matchpremiere
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
+http://f0503626.xsph.ru/livecdn.m3u8?media=5tv
+#EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
+http://f0503626.xsph.ru/livecdn.m3u8?media=tvc
+#EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
+http://f0503626.xsph.ru/livecdn.m3u8?media=spas
+#EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
+http://f0503626.xsph.ru/livecdn.m3u8?media=muztv
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3
+http://f0503626.xsph.ru/livecdn.m3u8?media=tv3
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3 HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=tv3hd
+#EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний
+http://f0503626.xsph.ru/livecdn.m3u8?media=domashnii
+#EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=domashniihd
+#EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница
+http://f0503626.xsph.ru/livecdn.m3u8?media=friday
+#EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=fridayhd
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
+http://f0503626.xsph.ru/livecdn.m3u8?media=zvezda
+#EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР
+http://f0503626.xsph.ru/livecdn.m3u8?media=mir
+#EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ
+http://f0503626.xsph.ru/livecdn.m3u8?media=tnt
+#EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=tnthd
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+http://f0503626.xsph.ru/livecdn.m3u8?media=tnt4
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=tnt4hd
+#EXTINF:-1 tvg-id="super" group-title="Развлекательные",Супер
+http://f0503626.xsph.ru/livecdn.m3u8?media=super
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
+http://f0503626.xsph.ru/livecdn.m3u8?media=matchstrana
+#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
+http://f0503626.xsph.ru/livecdn.m3u8?media=2x2
+#EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
+http://f0503626.xsph.ru/livecdn.m3u8?media=che
+#EXTINF:-1 tvg-id="izvestia" group-title="Информационные",Известия
+http://f0503626.xsph.ru/livecdn.m3u8?media=iz
+#EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
+http://f0503626.xsph.ru/livecdn.m3u8?media=stslove
+#EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
+http://f0503626.xsph.ru/livecdn.m3u8?media=78saintpetersburg
+#EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
+http://f0503626.xsph.ru/livecdn.m3u8?media=moscow24
+#EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
+http://f0503626.xsph.ru/livecdn.m3u8?media=vestifm
+#EXTINF:-1 group-title="Эфирные",Россия РТР
+http://f0503626.xsph.ru/livecdn.m3u8?media=russiartr
+#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia24
+#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1
+#EXTINF:-1 tvg-id="rossia1-pl1" group-title="Федеральные",Россия 1 (+1)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-1
+#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Федеральные",Россия 1 (+2)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-2
+#EXTINF:-1 tvg-id="rossia1-pl3" group-title="Федеральные",Россия 1 (+3)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-3
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Федеральные",Россия 1 (+4)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-4
+#EXTINF:-1 tvg-id="rossia1-pl5" group-title="Федеральные",Россия 1 (+5)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-5
+#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Федеральные",Россия 1 (+6)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-6
+#EXTINF:-1 tvg-id="rossia1-pl7" group-title="Федеральные",Россия 1 (+7)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-7
+#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Федеральные",Россия 1 (+8)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-8
+#EXTINF:-1 tvg-id="rossia1-pl9" group-title="Федеральные",Россия 1 (+9)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russia1-9
+#EXTINF:-1 tvg-id="kultura" group-title="Познавательные",Россия К
+http://f0503626.xsph.ru/livecdn.m3u8?media=russiak
+#EXTINF:-1 tvg-id="kultura-pl2" group-title="Федеральные",Россия К (+2)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russiak-2
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="Федеральные",Россия К (+4)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russiak-4
+#EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
+http://f0503626.xsph.ru/livecdn.m3u8?media=russiak-7
+#EXTINF:-1 tvg-id="yu" group-title="Женские",Ю[Резерв]
+http://f0503626.xsph.ru/livecdn.m3u8?media=u_ott_tv
+#EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
+http://f0503626.xsph.ru/livecdn.m3u8?media=u_tv
+#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
+http://f0503626.xsph.ru/livecdn.m3u8?media=karusel
+#EXTINF:-1 group-title="Спортивные",Brazill Football 1
+http://f0503626.xsph.ru/livecdn.m3u8?media=brazilfootball1
+#EXTINF:-1 group-title="Спортивные",Brazill Football 2
+http://f0503626.xsph.ru/livecdn.m3u8?media=brazilfootball2
+#EXTINF:-1 group-title="Спортивные",Brazill Football 3
+http://f0503626.xsph.ru/livecdn.m3u8?media=brazilfootball3
+#EXTINF:-1 group-title="Спортивные",Brazill Football 4
+http://f0503626.xsph.ru/livecdn.m3u8?media=brazilfootball4
+#EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
+http://f0503626.xsph.ru/livecdn.m3u8?media=disney
+#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
+http://f0503626.xsph.ru/livecdn.m3u8?media=ufctv
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=viasatsporthd
+#EXTINF:-1 tvg-id="da-vinci" group-title="Образовательные",Da Vinci
+http://f0503626.xsph.ru/livecdn.m3u8?media=davinci
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
+http://f0503626.xsph.ru/livecdn.m3u8?media=national_geographic
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=viasat_nature
+#EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",Viasat History HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=viasat_history
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",Viasat Explore HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=viasat_explore
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Vip Comedy HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=vip_comedy
+#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial
+http://f0503626.xsph.ru/livecdn.m3u8?media=vip_serial
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=vip_megahit
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Vip Premiere HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=vip_premiere
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино
+http://f0503626.xsph.ru/livecdn.m3u8?media=tv1000ruskino
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action
+http://f0503626.xsph.ru/livecdn.m3u8?media=tv1000action
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000
+http://f0503626.xsph.ru/livecdn.m3u8?media=tv1000
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=ctckids
+#EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=fox
+#EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",Fox Life HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=foxlife
+#EXTINF:-1 tvg-id="pes-i-ko" group-title="Познавательные",Пёс и Ко
+http://f0503626.xsph.ru/livecdn.m3u8?media=pesandko
+#EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
+http://f0503626.xsph.ru/livecdn.m3u8?media=ehomoscow
+#EXTINF:-1 tvg-id="rifey-tv" group-title="Федеральные",Рифей
+http://f0503626.xsph.ru/livecdn.m3u8?media=rifei
+#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
+http://f0503626.xsph.ru/livecdn.m3u8?media=musicboxgold
+#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
+http://f0503626.xsph.ru/livecdn.m3u8?media=tntmusic
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
+http://f0503626.xsph.ru/livecdn.m3u8?media=smile
+#EXTINF:-1 tvg-id="tv-guberniya" group-title="Региональные",ТВ Губерния
+http://f0503626.xsph.ru/livecdn.m3u8?media=tvgubernia
+#EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
+http://f0503626.xsph.ru/livecdn.m3u8?media=otr
+#EXTINF:-1 tvg-id="efir24-relax" group-title="Федеральные",Эфир
+http://f0503626.xsph.ru/livecdn.m3u8?media=efir
+#EXTINF:-1 tvg-id="rostov-papa" group-title="Региональные",Ростов Папа
+http://f0503626.xsph.ru/livecdn.m3u8?media=rostovpapa
+#EXTINF:-1 tvg-id="okino" group-title="Фильмовые",О!Кино
+http://f0503626.xsph.ru/livecdn.m3u8?media=okino
+#EXTINF:-1 tvg-id="utv" group-title="Информационные",UTV Уфа
+http://f0503626.xsph.ru/livecdn.m3u8?media=utvufa
+#EXTINF:-1 tvg-id="mir" group-title="Информационные",Мир HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=mirhd
+#EXTINF:-1 tvg-id="nts-sevastopol" group-title="Федеральные",НТС
+http://f0503626.xsph.ru/livecdn.m3u8?media=ntc
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Радио",Страна FM
+http://f0503626.xsph.ru/livecdn.m3u8?media=stranafm
+#EXTINF:-1 tvg-id="yamal-region" group-title="Региональные",Ямал-Регион
+http://f0503626.xsph.ru/livecdn.m3u8?media=yamal
+#EXTINF:-1 tvg-id="samara24" group-title="Региональные",Самара 24
+http://f0503626.xsph.ru/livecdn.m3u8?media=samara24
+#EXTINF:-1 tvg-id="dzenzhinsk-tv" group-title="Региональные",Дзержинск ТВ
+http://f0503626.xsph.ru/livecdn.m3u8?media=dzertv
+#EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные",Вместе РФ
+http://f0503626.xsph.ru/livecdn.m3u8?media=vmesterf
+#EXTINF:-1 tvg-id="beauty-tv",Бьюти ТВ
+http://f0503626.xsph.ru/livecdn.m3u8?media=beautytv
+#EXTINF:-1 tvg-id="afontovo-kr" group-title="Региональные",Афонтово
+http://f0503626.xsph.ru/livecdn.m3u8?media=afontovo
+#EXTINF:-1 tvg-id="univer-tv" group-title="Региональные",Univer TV
+http://f0503626.xsph.ru/livecdn.m3u8?media=univertv
+#EXTINF:-1 group-title="Эфирные",Мир HD Premium
+http://f0503626.xsph.ru/livecdn.m3u8?media=mirhdpremium
+#EXTINF:-1 tvg-id="kinopokaz-hd1" group-title="Фильмовые",Шокирующее
+http://f0503626.xsph.ru/livecdn.m3u8?media=shok
+#EXTINF:-1 tvg-id="kinopokaz-hd2" group-title="Фильмовые",Комедийное
+http://f0503626.xsph.ru/livecdn.m3u8?media=komediinoe
+#EXTINF:-1 tvg-id="nash-kinoroman" group-title="Фильмовые",Душевное
+http://f0503626.xsph.ru/livecdn.m3u8?media=kinoroman
+#EXTINF:-1 tvg-id="nash-detektiv" group-title="Фильмовые",Наше Крутое HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=nashe
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и Рыбалка
+http://f0503626.xsph.ru/livecdn.m3u8?media=ohotairibalka
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Фильмовые",Острюсюжетное HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=ostrov
+#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Фильмовые",Премиальное HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=premiumkino
+#EXTINF:-1 tvg-id="ictv-ua" group-title="Фильмовые",ICTV HD
+http://f0503626.xsph.ru/livecdn.m3u8?media=ictv
