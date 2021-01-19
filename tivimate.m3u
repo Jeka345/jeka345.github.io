@@ -211,3 +211,23 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=ohotairibalka
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=ostrov
 #EXTINF:-1 tvg-id="kinopremium-hd" group-title="Фильмовые",Премиальное HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=premiumkino
+#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=starthd
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" group-title="Познавательные",Охотник и Рыболов HD Int
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=ohotnikiribalovhdint
+#EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=zagorodhdint
+#EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashasibirhd
+#EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=tvrainhd
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=europaplustv
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 1
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey1
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 2
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey2
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 3
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey3
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 4
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey4
