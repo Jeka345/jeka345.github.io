@@ -1,5 +1,5 @@
 {
-    "total_items": 28,
+    "total_items": 29,
     "items": [
         {
             "number": 0,
@@ -250,6 +250,15 @@
             "sources": [
                 {
                     "url": "https://s26881.cdn.ngenix.net/iframe/stream/live_id/30337"
+                }
+            ]
+        },
+	    {
+            "number": 28,
+            "name": "Ростов Папа",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/rospapa/rospapa0_169_1080p.json/index-v1-a1.m3u8"
                 }
             ]
         }
