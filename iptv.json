@@ -48,15 +48,6 @@
         },
         {
             "number": 5,
-            "name": "Music Box Gold",
-            "sources": [
-                {
-                    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8"
-                }
-            ]
-        },
-        {
-            "number": 6,
             "name": "Смайлик",
             "sources": [
                 {
@@ -65,7 +56,7 @@
             ]
         },
         {
-            "number": 7,
+            "number": 6,
             "name": "ТВ Губерния",
             "sources": [
                 {
@@ -74,7 +65,7 @@
             ]
         },
         {
-            "number": 8,
+            "number": 7,
             "name": "Общественное телевидение России",
             "sources": [
                 {
@@ -83,7 +74,7 @@
             ]
         },
         {
-            "number": 9,
+            "number": 8,
             "name": "Эфир",
             "sources": [
                 {
@@ -92,7 +83,7 @@
             ]
         },
         {
-            "number": 10,
+            "number": 9,
             "name": "О! Кино",
             "sources": [
                 {
@@ -101,7 +92,7 @@
             ]
         },
         {
-            "number": 11,
+            "number": 10,
             "name": "UTV Уфа",
             "sources": [
                 {
@@ -110,7 +101,7 @@
             ]
         },
         {
-            "number": 12,
+            "number": 11,
             "name": "Мир HD",
             "sources": [
                 {
@@ -119,7 +110,7 @@
             ]
         },
         {
-            "number": 13,
+            "number": 12,
             "name": "НТС",
             "sources": [
                 {
@@ -128,7 +119,7 @@
             ]
         },
         {
-            "number": 14,
+            "number": 13,
             "name": "Страна ФМ",
             "sources": [
                 {
@@ -137,7 +128,7 @@
             ]
         },
         {
-            "number": 15,
+            "number": 14,
             "name": "Ямал Регион",
             "sources": [
                 {
@@ -146,7 +137,7 @@
             ]
         },
         {
-            "number": 16,
+            "number": 15,
             "name": "Самара 24",
             "sources": [
                 {
@@ -155,7 +146,7 @@
             ]
         },
         {
-            "number": 17,
+            "number": 16,
             "name": "Дзержинск ТВ",
             "sources": [
                 {
@@ -164,7 +155,7 @@
             ]
         },
         {
-            "number": 18,
+            "number": 17,
             "name": "Вместе РФ",
             "sources": [
                 {
@@ -173,7 +164,7 @@
             ]
         },
         {
-            "number": 19,
+            "number": 18,
             "name": "Бьюти ТВ",
             "sources": [
                 {
@@ -182,7 +173,7 @@
             ]
         },
         {
-            "number": 20,
+            "number": 19,
             "name": "Афонтово",
             "sources": [
                 {
@@ -191,7 +182,7 @@
             ]
         },
         {
-            "number": 21,
+            "number": 20,
             "name": "Универ ТВ",
             "sources": [
                 {
@@ -200,7 +191,7 @@
             ]
         },
         {
-            "number": 22,
+            "number": 21,
             "name": "Мир 24 HD",
             "sources": [
                 {
@@ -209,7 +200,7 @@
             ]
         },
         {
-            "number": 23,
+            "number": 22,
             "name": "Старт HD",
             "sources": [
                 {
@@ -218,7 +209,7 @@
             ]
         },
         {
-            "number": 24,
+            "number": 23,
             "name": "Охотник и Рыболов Интернациональный",
             "sources": [
                 {
@@ -227,7 +218,7 @@
             ]
         },
         {
-            "number": 25,
+            "number": 24,
             "name": "Загородный Интернациональный",
             "sources": [
                 {
@@ -236,7 +227,7 @@
             ]
         },
         {
-            "number": 26,
+            "number": 25,
             "name": "Наша Сибирь",
             "sources": [
                 {
@@ -245,7 +236,7 @@
             ]
         },
         {
-            "number": 27,
+            "number": 26,
             "name": "Европа Плюс ТВ",
             "sources": [
                 {
@@ -254,7 +245,7 @@
             ]
         },
 		{
-            "number": 28,
+            "number": 27,
             "name": "Москва Доверие",
             "sources": [
                 {
