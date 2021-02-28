@@ -199,7 +199,7 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=beautytv
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=afontovo
 #EXTINF:-1 tvg-id="univer-tv" group-title="Региональные",Univer TV
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=univertv
-#EXTINF:-1 group-title="Эфирные",Мир HD Premium
+#EXTINF:-1 group-title="Эфирные",Мир 24 HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=mirhdpremium
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=starthd
