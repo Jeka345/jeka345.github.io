@@ -61,8 +61,12 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=stslove
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=78saintpetersburg
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=moscow24
+#EXTINF:-1 tvg-id="doverie" group-title="Региональные",Москва Доверие
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=moscvadoverie
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vestifm
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=myplanet
 #EXTINF:-1 group-title="Эфирные",Россия РТР
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=russiartr
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
@@ -197,20 +201,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=afontovo
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=univertv
 #EXTINF:-1 group-title="Эфирные",Мир HD Premium
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=mirhdpremium
-#EXTINF:-1 tvg-id="kinopokaz-hd1" group-title="Фильмовые",Шокирующее (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
-#EXTINF:-1 tvg-id="kinopokaz-hd2" group-title="Фильмовые",Комедийное (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=komediinoe
-#EXTINF:-1 tvg-id="nash-kinoroman" group-title="Фильмовые",Душевное (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=kinoroman
-#EXTINF:-1 tvg-id="nash-detektiv" group-title="Фильмовые",Наше Крутое HD (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashe
-#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и Рыбалка
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=ohotairibalka
-#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Фильмовые",Острюсюжетное HD (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=ostrov
-#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Фильмовые",Премиальное HD (не стабильный)
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=premiumkino
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=starthd
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" group-title="Познавательные",Охотник и Рыболов HD Int
@@ -223,13 +213,13 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashasibirhd
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tvrainhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=europaplustv
-#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 1
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey1
-#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 2
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey2
-#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 3
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 3
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey3
-#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 4
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 4
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey4
-#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Хоккей 5
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 5
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey5
