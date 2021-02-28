@@ -1,0 +1,266 @@
+{
+    "total_items": 29,
+    "items": [
+        {
+            "number": 0,
+            "name": "Пёс и Ко",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/pesiko/pesiko0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 1,
+            "name": "Эхо Москвы",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/echomoscow_supres/echomoscow_supres0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "name": "Рифей",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/rifey/rifey0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "name": "Music Box Gold",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "name": "ТНТ Music",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "name": "Смайлик",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "name": "ТВ Губерния",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/tvgubernia/tvgubernia0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "name": "Общественное телевидение России",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/otr/otr0_169_720p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "name": "Эфир",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/efir_supres/efir_supres0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "name": "О! Кино",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/okino/okino0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "name": "UTV Уфа",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/utvtv/utvtv0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "name": "Мир HD",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/mir/mir0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "name": "НТС",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/nts/nts0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "name": "Страна ФМ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_720p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "name": "Ямал Регион",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "name": "Самара 24",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/samara24/samara240_24_576p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "name": "Дзержинск ТВ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/dzertv/dzertv0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 17,
+            "name": "Вместе РФ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 18,
+            "name": "Бьюти ТВ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/beauty/beauty0_169_720p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 19,
+            "name": "Афонтово",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/afontovo/afontovo0_169_480p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 20,
+            "name": "Универ ТВ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/univer/univer0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 21,
+            "name": "Мир 24 HD",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/mirhd/mirhd0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 22,
+            "name": "Старт HD",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 23,
+            "name": "Охотник и Рыболов Интернациональный",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 24,
+            "name": "Загородный Интернациональный",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 25,
+            "name": "Наша Сибирь",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+        {
+            "number": 26,
+            "name": "Европа Плюс ТВ",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 27,
+            "name": "Москва Доверие",
+            "sources": [
+                {
+                    "url": "https://s26881.cdn.ngenix.net/iframe/stream/live_id/30337"
+                }
+            ]
+        },
+	    {
+            "number": 28,
+            "name": "Ростов Папа",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/rospapa/rospapa0_169_1080p.json/index-v1-a1.m3u8"
+                }
+            ]
+        }
+    ]
+}
