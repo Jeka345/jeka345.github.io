@@ -131,17 +131,17 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_explore
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Vip Comedy HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
-#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial
+#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Vip Premiere HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000ruskino
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000action
-#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=ctckids
