@@ -22,8 +22,7 @@
 			"id": 7,
 			"icon": "",
 			"title": "Спортивные",
-			"target": 
-			{
+			"target": {
 				"type": "tv",
 				"link": null
 			}
@@ -32,8 +31,7 @@
 			"id": 3,
 			"icon": "",
 			"title": "Музыкальные",
-			"target": 
-			{
+			"target": {
 				"type": "tv",
 				"link": null
 			}
@@ -42,8 +40,7 @@
 			"id": 5,
 			"icon": "",
 			"title": "Детские",
-			"target": 
-			{
+			"target": {
 				"type": "tv",
 				"link": null
 			}
@@ -52,8 +49,7 @@
 			"id": 6,
 			"icon": "",
 			"title": "Развлекательные",
-			"target": 
-			{
+			"target": {
 				"type": "tv",
 				"link": null
 			}
@@ -113,15 +109,6 @@
 				}
 			},
 			"icon": "/images/bqo1mvloldao2j46lpg0.png"
-		},
-		{
-			"id": 18,
-			"icon": "",
-			"title": "WEB CAMERA",
-			"target": {
-				"type": "tv",
-				"link": null
-			}
 		},
 		{
 			"id": 17,
