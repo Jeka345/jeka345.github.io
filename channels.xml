@@ -89,7 +89,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/ntv"
+					"url": "http://streamslivetv.uk.to/ntv/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/5tv"
+					"url": "http://streamslivetv.uk.to/5tv/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -209,7 +209,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/tvc"
+					"url": "http://streamslivetv.uk.to:17300/tvc/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -233,7 +233,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/rentv"
+					"url": "http://streamslivetv.uk.to:17300/rentv/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -257,7 +257,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/spas"
+					"url": "http://streamslivetv.uk.to:17300/spas/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -377,7 +377,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/zvezda"
+					"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8"
 				}
 			],
 			"themes": [
@@ -408,7 +408,7 @@
 				1,
 				19
 			],
-			"full_logo": "/sdp/ct/nclogo1536614125323.png",
+			"full_logo": "/sdp/mos/nclogo1536614122484.png",
 			"logo": "",
 			"background": ""
 		},
@@ -499,7 +499,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/muztv"
+					"url": "http://streamslivetv.uk.to:17300/muztv/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -523,7 +523,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/che"
+					"url": "http://streamslivetv.uk.to:17300/che/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -595,7 +595,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/stslove"
+					"url": "http://streamslivetv.uk.to:17300/stslove/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -667,7 +667,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/disney"
+					"url": "http://streamslivetv.uk.to:17300/disney/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1294,7 +1294,7 @@
 			},
 			"sources": [
 			{
-				"url": "http://freeiptv.uk.to:8738/channels/78saintpetersburg"
+				"url": "https://78.gcdn.co/streams/877_13/480n/index.m3u8"
 			}
 			],
 			"themes": [
@@ -1342,7 +1342,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/national_geographic"
+					"url": "http://streamslivetv.uk.to:17300/natgeo/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1366,7 +1366,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/viasat_explore"
+					"url": "http://streamslivetv.uk.to:17300/vipexpolorehd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1390,7 +1390,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/viasat_history"
+					"url": "http://streamslivetv.uk.to:17300/viphistoryhd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1438,7 +1438,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/viasat_nature"
+					"url": "http://streamslivetv.uk.to:17300/vipnaturehd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1462,7 +1462,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/oruzhie"
+					"url": "http://streamslivetv.uk.to:17300/weapon/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1486,7 +1486,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/iz"
+					"url": "http://streamslivetv.uk.to:17300/izvestiya/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1534,7 +1534,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/tv1000action"
+					"url": "http://streamslivetv.uk.to:17300/vipaction/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1558,7 +1558,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/tv1000"
+					"url": "http://streamslivetv.uk.to:17300/vip1000/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1582,7 +1582,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/tv1000ruskino"
+					"url": "http://streamslivetv.uk.to:17300/vipruskino/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1606,7 +1606,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/fox"
+					"url": "http://streamslivetv.uk.to:17300/fox/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1630,7 +1630,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/foxlife"
+					"url": "http://streamslivetv.uk.to:17300/fox-life/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1654,7 +1654,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/fenixkino"
+					"url": "http://streamslivetv.uk.to:17300/fenikskino/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1678,7 +1678,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/vip_premiere"
+					"url": "http://streamslivetv.uk.to:17300/vippremierehd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1702,7 +1702,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/vip_megahit"
+					"url": "http://streamslivetv.uk.to:17300/vipmegahithd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1726,7 +1726,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/vip_comedy"
+					"url": "http://streamslivetv.uk.to:17300/vipcomedyhd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1750,7 +1750,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/vip_serial"
+					"url": "http://streamslivetv.uk.to:17300/vipserialhd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1824,7 +1824,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/viasatsporthd"
+					"url": "http://streamslivetv.uk.to:17300/vipsporthd/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1849,7 +1849,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/davinci"
+					"url": "http://streamslivetv.uk.to:17300/davinci/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1873,7 +1873,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/ctckids"
+					"url": "http://streamslivetv.uk.to:17300/stskids/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -1897,7 +1897,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/anekdot"
+					"url": "http://streamslivetv.uk.to:17300/funtv/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -2138,7 +2138,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/ufctv"
+					"url": "http://streamslivetv.uk.to:17300/ufc/video.m3u8?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
@@ -2248,6 +2248,31 @@
 			"full_logo": "/sdp/mos/nclogo1497600683226.png",
 			"logo": "",
 			"background": ""
-		}		
+		},		
+		{
+			"number": 93,
+			"name": "Под водой",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://live-1.otcnet.ru/podvodoi/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1497600683226.png",
+			"logo": "",
+			"background": ""
+		}
 	]
 }
