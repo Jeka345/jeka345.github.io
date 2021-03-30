@@ -89,7 +89,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamslivetv.uk.to:17300/ntv/video.m3u8?token=T5EHNGjKK1"
+					"url": "http://streamslivetv.uk.to:17300/ntv/mpegts?token=T5EHNGjKK1"
 				}
 			],
 			"themes": [
