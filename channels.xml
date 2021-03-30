@@ -575,7 +575,7 @@
 				}
 			],
 			"themes": [
-				3
+				8
 			],
 			"full_logo": "/sdp/mos/nclogo1612112008234.png",
 			"logo": "",
@@ -599,7 +599,8 @@
 				}
 			],
 			"themes": [
-				3
+				6,
+				8
 			],
 			"full_logo": "/sdp/mos/nclogo1560865516031.png",
 			"logo": "",
@@ -623,7 +624,7 @@
 				}
 			],
 			"themes": [
-				3
+				6
 			],
 			"full_logo": "/sdp/mos/nclogo1508250192087.png",
 			"logo": "",
@@ -647,7 +648,7 @@
 				}
 			],
 			"themes": [
-				3
+				6
 			],
 			"full_logo": "/sdp/mos/nclogo1534762634936.png",
 			"logo": "",
@@ -1294,7 +1295,7 @@
 			},
 			"sources": [
 			{
-				"url": "https://78.gcdn.co/streams/877_13/480n/index.m3u8"
+				"url": "https://78.gcdn.co/streams/877_13/1080n/index.m3u8"
 			}
 			],
 			"themes": [
@@ -1949,7 +1950,7 @@
 				}
 			],
 			"themes": [
-				4
+				2
 			],
 			"full_logo": "",
 			"logo": "",
