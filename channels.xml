@@ -595,7 +595,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamslivetv.uk.to:17300/stslove/video.m3u8?token=T5EHNGjKK1"
+					"url": "http://51.68.141.106:8081/tv/sts-love/playlist.m3u8"
 				}
 			],
 			"themes": [
