@@ -132,7 +132,7 @@
             "name": "Ямал Регион",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/yamal/yamal0_169_576p.json/index-v1-a1.m3u8"
                 }
             ]
         },

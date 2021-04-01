@@ -1163,11 +1163,11 @@
 		},
 		{
 			"number": 48,
-			"name": "Самара-24",
-			"id": 231685210,
+			"name": "Телеканал 360",
+			"id": 7937480,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "vlg",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1175,18 +1175,42 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/samara24"
+					"url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8"
 				}
 			],
 			"themes": [
 				16
 			],
-			"full_logo": "/sdp/ural/nclogo1525680745523.png",
-			"logo": "/sdp/ural/nclogo1525680748724.png",
-			"background": "/sdp/ural/nclogo1525680752433.png"
+			"full_logo": "/sdp/mos/nclogo1524557207303.png",
+			"logo": "/sdp/mos/nclogo1524557210653.png",
+			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
 			"number": 49,
+			"name": "Новости 360",
+			"id": 115567629,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8"
+				}
+			],
+			"themes": [
+				16
+			],
+			"full_logo": "/sdp/mos/nclogo1533293011586.png",
+			"logo": "/sdp/mos/nclogo1533293014777.png",
+			"background": "/sdp/mos/nclogo1524557213973.png"
+		},
+		{
+			"number": 50,
 			"name": "ТВ-Губерния",
 			"id": 65191813,
 			"is_barker": false,
@@ -1210,7 +1234,7 @@
 			"background": "/sdp/ural/nclogo1525680752433.png"
 		},
 		{
-			"number": 50,
+			"number": 51,
 			"name": "Универ-ТВ",
 			"id": 88943140,
 			"is_barker": false,
@@ -1234,7 +1258,7 @@
 			"background": "/sdp/ural/nclogo1525680752433.png"
 		},
 		{
-			"number": 51,
+			"number": 52,
 			"name": "Эфир",
 			"id": 212211925,
 			"is_barker": false,
@@ -1258,7 +1282,7 @@
 			"background": "/sdp/ural/nclogo1525680752433.png"
 		},
 		{
-			"number": 52,
+			"number": 53,
 			"name": "Ямал-Регион",
 			"id": 1000520,
 			"is_barker": false,
@@ -1282,7 +1306,7 @@
 			"background": "/sdp/ural/nclogo1525680019874.png"
 		},
 		{
-			"number": 53,
+			"number": 54,
 			"name": "78 канал Санкт Петербург",
 			"id": 1131048,
 			"is_barker": false,
@@ -1306,7 +1330,7 @@
 			"background": ""
 		},
 		{
-			"number": 54,
+			"number": 55,
 			"name": "Россия РТР",
 			"id": 0,
 			"is_barker": false,
@@ -1330,7 +1354,7 @@
 			"background": ""
 		},
 		{
-			"number": 55,
+			"number": 56,
 			"name": "National Geographic HD",
 			"id": 1130896,
 			"is_barker": true,
@@ -1354,7 +1378,7 @@
 			"background": ""
 		},
 		{
-			"number": 56,
+			"number": 57,
 			"name": "Viasat Explore HD",
 			"id": 80882991,
 			"is_barker": false,
@@ -1378,7 +1402,7 @@
 			"background": ""
 		},
 		{
-			"number": 57,
+			"number": 58,
 			"name": "Viasat History HD",
 			"id": 80882936,
 			"is_barker": false,
@@ -1402,7 +1426,7 @@
 			"background": ""
 		},
 		{
-			"number": 58,
+			"number": 59,
 			"name": "Моя Планета",
 			"id": 1131022,
 			"is_barker": true,
@@ -1426,7 +1450,7 @@
 			"background": ""
 		},
 		{
-			"number": 59,
+			"number": 60,
 			"name": "Viasat Nature HD",
 			"id": 104701055,
 			"is_barker": false,
@@ -1450,7 +1474,7 @@
 			"background": ""
 		},
 		{
-			"number": 60,
+			"number": 61,
 			"name": "Оружие",
 			"id": 2371393,
 			"is_barker": false,
@@ -1474,7 +1498,7 @@
 			"background": ""
 		},
 		{
-			"number": 61,
+			"number": 62,
 			"name": "Известия HD",
 			"id": 77742527,
 			"is_barker": false,
@@ -1498,7 +1522,7 @@
 			"background": ""
 		},
 		{
-			"number": 62,
+			"number": 63,
 			"name": "ВМЕСТЕ-РФ",
 			"id": 21741731,
 			"is_barker": false,
@@ -1522,7 +1546,7 @@
 			"background": ""
 		},
 		{
-			"number": 63,
+			"number": 64,
 			"name": "TV1000 Action HD",
 			"id": 80882794,
 			"is_barker": false,
@@ -1546,7 +1570,7 @@
 			"background": ""
 		},
 		{
-			"number": 64,
+			"number": 65,
 			"name": "TV1000 HD",
 			"id": 80882339,
 			"is_barker": false,
@@ -1570,7 +1594,7 @@
 			"background": ""
 		},
 		{
-			"number": 65,
+			"number": 66,
 			"name": "TV1000 Русское кино HD",
 			"id": 80882836,
 			"is_barker": false,
@@ -1594,7 +1618,7 @@
 			"background": ""
 		},
 		{
-			"number": 66,
+			"number": 67,
 			"name": "FOX HD",
 			"id": 1144589,
 			"is_barker": false,
@@ -1618,7 +1642,7 @@
 			"background": ""
 		},
 		{
-			"number": 67,
+			"number": 68,
 			"name": "Fox Life HD",
 			"id": 2371796,
 			"is_barker": false,
@@ -1642,7 +1666,7 @@
 			"background": ""
 		},
 		{
-			"number": 68,
+			"number": 69,
 			"name": "Феникс+ Кино",
 			"id": 1131005,
 			"is_barker": false,
@@ -1666,7 +1690,7 @@
 			"background": ""
 		},
 		{
-			"number": 69,
+			"number": 70,
 			"name": "ViP Premiere HD",
 			"id": 7686511,
 			"is_barker": false,
@@ -1690,7 +1714,7 @@
 			"background": ""
 		},
 		{
-			"number": 70,
+			"number": 71,
 			"name": "ViP Megahit HD",
 			"id": 7686532,
 			"is_barker": false,
@@ -1714,7 +1738,7 @@
 			"background": ""
 		},
 		{
-			"number": 71,
+			"number": 72,
 			"name": "ViP Comedy HD",
 			"id": 7686580,
 			"is_barker": false,
@@ -1738,7 +1762,7 @@
 			"background": ""
 		},
 		{
-			"number": 72,
+			"number": 73,
 			"name": "ViP Serial HD",
 			"id": 27109203,
 			"is_barker": false,
@@ -1762,7 +1786,7 @@
 			"background": ""
 		},
 		{
-			"number": 73,
+			"number": 74,
 			"name": "Матч! Страна",
 			"id": 2371350,
 			"is_barker": false,
@@ -1787,7 +1811,7 @@
 			"background": ""
 		},
 		{
-			"number": 74,
+			"number": 75,
 			"name": "Матч! Премьер",
 			"id": 20244318,
 			"is_barker": false,
@@ -1812,7 +1836,7 @@
 			"background": ""
 		},
 		{
-			"number": 75,
+			"number": 76,
 			"name": "Viasat Sport HD",
 			"id": 1144444,
 			"is_barker": false,
@@ -1837,7 +1861,7 @@
 			"background": ""
 		},
 		{
-			"number": 76,
+			"number": 77,
 			"name": "Da Vinci",
 			"id": 2370547,
 			"is_barker": true,
@@ -1861,7 +1885,7 @@
 			"background": ""
 		},
 		{
-			"number": 77,
+			"number": 78,
 			"name": "СТС Kids HD",
 			"id": 114063401,
 			"is_barker": true,
@@ -1885,7 +1909,7 @@
 			"background": ""
 		},
 		{
-			"number": 78,
+			"number": 79,
 			"name": "Анекдот ТВ",
 			"id": 91984073,
 			"is_barker": true,
@@ -1909,7 +1933,7 @@
 			"background": ""
 		},
 		{
-			"number": 79,
+			"number": 80,
 			"name": "Пёс и Ко",
 			"id": 0,
 			"is_barker": true,
@@ -1933,7 +1957,7 @@
 			"background": ""
 		},
 		{
-			"number": 80,
+			"number": 81,
 			"name": "Эхо Москвы",
 			"id": 0,
 			"is_barker": true,
@@ -1957,7 +1981,7 @@
 			"background": ""
 		},
 		{
-			"number": 81,
+			"number": 82,
 			"name": "Music Box Gold",
 			"id": 1144332,
 			"is_barker": true,
@@ -1981,7 +2005,7 @@
 			"background": ""
 		},
 		{
-			"number": 82,
+			"number": 83,
 			"name": "ТНТ Music",
 			"id": 1144324,
 			"is_barker": true,
@@ -2005,7 +2029,7 @@
 			"background": ""
 		},
 		{
-			"number": 83,
+			"number": 84,
 			"name": "Смайлик",
 			"id": 0,
 			"is_barker": true,
@@ -2029,7 +2053,7 @@
 			"background": ""
 		},
 		{
-			"number": 84,
+			"number": 85,
 			"name": "О! Кино",
 			"id": 0,
 			"is_barker": true,
@@ -2053,7 +2077,7 @@
 			"background": ""
 		},
 		{
-			"number": 85,
+			"number": 86,
 			"name": "НТС Севастополь",
 			"id": 0,
 			"is_barker": true,
@@ -2077,7 +2101,7 @@
 			"background": ""
 		},
 		{
-			"number": 86,
+			"number": 87,
 			"name": "Страна FM",
 			"id": 0,
 			"is_barker": true,
@@ -2101,7 +2125,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 88,
 			"name": "Старт HD",
 			"id": 162103183,
 			"is_barker": true,
@@ -2126,7 +2150,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 89,
 			"name": "UFC ТВ",
 			"id": 137053402,
 			"is_barker": true,
@@ -2151,7 +2175,7 @@
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 90,
 			"name": "Охотник и Рыболов HD Int",
 			"id": 0,
 			"is_barker": true,
@@ -2176,7 +2200,7 @@
 			"background": ""
 		},	
 		{
-			"number": 90,
+			"number": 91,
 			"name": "Загородный HD Int",
 			"id": 0,
 			"is_barker": true,
@@ -2201,7 +2225,7 @@
 			"background": ""
 		},	
 		{
-			"number": 91,
+			"number": 92,
 			"name": "Наша Сибирь HD",
 			"id": 212313670,
 			"is_barker": true,
@@ -2226,7 +2250,7 @@
 			"background": ""
 		},	
 		{
-			"number": 92,
+			"number": 93,
 			"name": "Европа Плюс ТВ",
 			"id": 2370649,
 			"is_barker": true,
@@ -2251,7 +2275,7 @@
 			"background": ""
 		},		
 		{
-			"number": 93,
+			"number": 94,
 			"name": "Под водой",
 			"id": 0,
 			"is_barker": true,
