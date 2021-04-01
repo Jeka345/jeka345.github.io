@@ -187,8 +187,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=ntc
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=stranafm
 #EXTINF:-1 tvg-id="yamal-region" group-title="Региональные",Ямал-Регион
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=yamal
-#EXTINF:-1 tvg-id="samara24" group-title="Региональные",Самара 24
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=samara24
 #EXTINF:-1 tvg-id="dzenzhinsk-tv" group-title="Региональные",Дзержинск ТВ
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=dzertv
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные",Вместе РФ
