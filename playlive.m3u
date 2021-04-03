@@ -105,14 +105,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=u_ott_tv
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=u_tv
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=karusel
-#EXTINF:-1 group-title="Спортивные",Brazill Football 1
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=brazilfootball1
-#EXTINF:-1 group-title="Спортивные",Brazill Football 2
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=brazilfootball2
-#EXTINF:-1 group-title="Спортивные",Brazill Football 3
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=brazilfootball3
-#EXTINF:-1 group-title="Спортивные",Brazill Football 4
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=brazilfootball4
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=disney
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
@@ -143,6 +135,8 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000ruskino
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000action
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=tv1000
+#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",ZeeTV
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=zeetv
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=ctckids
 #EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
