@@ -102,7 +102,12 @@
 		{
 			"number": 5,
 			"name": "Пятый канал",
-			"id": 273694742,
+			"id": [
+				1000189,
+				1000194,
+				273694742,
+				352455932
+			],
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "ural",
