@@ -28,7 +28,9 @@
 		{
 			"number": 2,
 			"name": "Россия 1 HD",
-			"id": 11989811,
+			"id": [
+				1000174
+			],
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
