@@ -1,5 +1,5 @@
 {
-	"total_items": 97,
+	"total_items": 96,
 	"items": [
 		{
 			"number": 1,
@@ -2323,30 +2323,6 @@
 			"full_logo": "/sdp/ct/nclogo1524819883354.png",
 			"logo": "/sdp/ct/nclogo1524819886089.png",
 			"background": "/sdp/ct/nclogo1524819889030.png"
-		},
-		{
-			"number": 97,
-			"name": "Радио Хит FM",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "16+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hit_FM.m3u8&serviceArea=MSK-SA-1"
-				}
-			],
-			"themes": [
-				9
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
 		}
 	]
 }
