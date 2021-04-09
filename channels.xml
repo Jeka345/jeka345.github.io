@@ -1,5 +1,5 @@
 {
-	"total_items": 96,
+	"total_items": 97,
 	"items": [
 		{
 			"number": 1,
@@ -2302,10 +2302,10 @@
 		{
 			"number": 96,
 			"name": "Zee ТВ",
-			"id": 234515376,
+			"id": 1144348,
 			"is_barker": true,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
 				"name": "16+",
@@ -2320,9 +2320,33 @@
 				0,
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1606740481616.png",
-			"logo": "/sdp/mos/nclogo1606740484172.png",
-			"background": "/sdp/mos/nclogo1606740487483.png"
+			"full_logo": "/sdp/ct/nclogo1524819883354.png",
+			"logo": "/sdp/ct/nclogo1524819886089.png",
+			"background": "/sdp/ct/nclogo1524819889030.png"
+		}
+		{
+			"number": 97,
+			"name": "Радио Хит FM",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hit_FM.m3u8&serviceArea=MSK-SA-1"
+				}
+			],
+			"themes": [
+				9
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
 		}
 	]
 }
