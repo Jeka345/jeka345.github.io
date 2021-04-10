@@ -215,3 +215,23 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey3
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey4
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 5
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=nashhokkey5
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Родных Дорог
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiorodniyxdorog
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiomaximus
+#EXTINF:-1 tvg-id="" group-title="Радио",Русское Радио
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=rusradio
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Ваня
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiovanya
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио DFM
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiodfm
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио ХИТ FM
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiohitfm
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Комсомольская правда
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiokomsomolpravda
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио для двоих
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiodlyadvoix
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио ТВ
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiotv
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Град Петров
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=radiogradpetrov
