@@ -1,1 +1,321 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" refresh="3600"
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch001
+#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch002
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch003
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch004
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch005
+#EXTINF:-1 tvg-id="kultura" group-title="Познавательные",Россия Культура
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch006
+#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch007
+#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch008
+#EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch009
+#EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch010
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch011
+#EXTINF:-1 tvg-id="spas" group-title="Религиозные",Спас
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch012
+#EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch013
+#EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch014
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch015
+#EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch016
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch017
+#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch018
+#EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch019
+#EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch020
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="Фильмовые",Про Любовь
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch021
+#EXTINF:-1 tvg-id="7tv" group-title="Развлекательные",7 канал
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch022
+#EXTINF:-1 tvg-id="no_epg" group-title="Информационные",Дом Ру Телегид
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch023
+#EXTINF:-1 tvg-id="shopping-live" group-title="Телемагазины",Shopping Live
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch024
+#EXTINF:-1 tvg-id="shop-n-show" group-title="Телемагазины",Shop and Show
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch025
+#EXTINF:-1 tvg-id="che" group-title="Мужские",Че
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch026
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="Телемагазины",Ювелирочка
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch027
+#EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch028
+#EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch029
+#EXTINF:-1 tvg-id="leomax" group-title="Телемагазины",Леомакс+
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch030
+#EXTINF:-1 tvg-id="shop24" group-title="Телемагазины",Леомакс24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch031
+#EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch032
+#EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch033
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch034
+#EXTINF:-1 tvg-id="russky-roman" group-title="Фильмовые",Русский роман HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch035
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Фильмовые",Русский детектив
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch036
+#EXTINF:-1 tvg-id="spike" group-title="Фильмовые",Spike HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch037
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",VIP Megahit HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch038
+#EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch039
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Фильмовые",Кинокомедия
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch040
+#EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch041
+#EXTINF:-1 tvg-id="kinomiks" group-title="Фильмовые",Киномикс
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch042
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Фильмовые",Наше Новое Кино
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch043
+#EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch044
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмовые",Киносемья
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch045
+#EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",A2 про любовь
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch046
+#EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",A1 смотри один
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch047
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Фильмовые",Amedia Premium HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch048
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch049
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="Фильмовые",Hollywood HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch050
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",VIP Premiere HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch051
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",VIP Comedy HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch052
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Фильмовые",Кинопремьера HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch053
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Фильмовые",Киносвидание HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch054
+#EXTINF:-1 tvg-id="nst" group-title="Фильмовые",Настоящее страшное телевидение
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch055
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Фильмовые",Amedia HIT HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch056
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Фильмовые",Русский Иллюзион
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch057
+#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch058
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Фильмовые",Родное Кино
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch059
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское Кино HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch060
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch061
+#EXTINF:-1 tvg-id="dorama" group-title="Фильмовые",Дорама
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch062
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Фильмовые",Комедия
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch063
+#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",ZeeTV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch064
+#EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch065
+#EXTINF:-1 tvg-id="paramount-channel" group-title="Фильмовые",Paramount Channel HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch066
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch067
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch068
+#EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch069
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch070
+#EXTINF:-1 tvg-id="e-tv" group-title="Развлекательные",E HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch071
+#EXTINF:-1 tvg-id="myzen-tv" group-title="Познавательные",myZen.tv HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch072
+#EXTINF:-1 tvg-id="mtv-russia" group-title="Развлекательные",MTV HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch073
+#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch074
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch075
+#EXTINF:-1 tvg-id="nostalgia" group-title="Развлекательные",Ностальгия
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch076
+#EXTINF:-1 tvg-id="sarafan" group-title="Познавательные",Сарафан ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch077
+#EXTINF:-1 tvg-id="zhara" group-title="Музыкальные",Жара ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch078
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Познавательные",World Fashion TV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch079
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя планета
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch080
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательные",Охотник и рыболов HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch081
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательные",В мире животных HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch082
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="Познавательные",Загородная жизнь HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch083
+#EXTINF:-1 tvg-id="mama" group-title="Познавательные",Мама
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch084
+#EXTINF:-1 tvg-id="365-dnej" group-title="Познавательные",365 Дней
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch085
+#EXTINF:-1 tvg-id="english-club-tv" group-title="Познавательные",English Club HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch086
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch087
+#EXTINF:-1 tvg-id="hd-life" group-title="Познавательные",HDL
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch088
+#EXTINF:-1 tvg-id="istoria" group-title="Познавательные",История
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch089
+#EXTINF:-1 tvg-id="rtd-hd" group-title="Познавательные",Russia Today Doc HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch090
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch091
+#EXTINF:-1 tvg-id="zhivaya-planeta" group-title="Познавательные",Живая планета
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch092
+#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="Познавательные",Первый вегетарианский
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch093
+#EXTINF:-1 tvg-id="hgtv" group-title="Познавательные",HGTV HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch094
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные",Дикая рыбалка HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch095
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Познавательные",RTG HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch096
+#EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные",Docubox HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch097
+#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя планета HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch098
+#EXTINF:-1 tvg-id="galaxy-tv" group-title="Познавательные",Galaxy
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch099
+#EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm001
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm002
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Матч! Боец
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm003
+#EXTINF:-1 tvg-id="avto-plus" group-title="Развлекательные",Авто плюс
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm004
+#EXTINF:-1 tvg-id="avto24" group-title="Развлекательные",Авто 24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm005
+#EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Матч! Арена HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm006
+#EXTINF:-1 tvg-id="motorsportv-tv" group-title="Спортивные",Моторспорт HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm007
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные",Матч! Игра HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm008
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 1 HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm009
+#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M1 Global HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm010
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm011
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm012
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",Бокс ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm013
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm014
+#EXTINF:-1 tvg-id="russky-ekstrim" group-title="Развлекательные",Русский Экстрим
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm015
+#EXTINF:-1 tvg-id="kxl" group-title="Спортивные",КХЛ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm016
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Матч! Футбол 2 HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=ch017
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные",Матч! Футбол 3 HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm018
+#EXTINF:-1 tvg-id="drive" group-title="Развлекательные",Драйв
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm019
+#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные",Телеканал Футбол HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm020
+#EXTINF:-1 tvg-id="tiji" group-title="Детские",Tiji
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm021
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские",Nickelodeon
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm022
+#EXTINF:-1 tvg-id="nick-jr" group-title="Детские",Nick JR
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm023
+#EXTINF:-1 tvg-id="ani" group-title="Детские",Ani
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm024
+#EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm025
+#EXTINF:-1 tvg-id="malysh" group-title="Детские",Малыш
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm026
+#EXTINF:-1 tvg-id="detsky" group-title="Детские",Уникум
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm027
+#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm028
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Детские",Gulli Girl
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm029
+#EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Детские",Nickelodeon HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm030
+#EXTINF:-1 tvg-id="radost-moya" group-title="Детские",Радость моя
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm031
+#EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm032
+#EXTINF:-1 tvg-id="multimuzyka" group-title="Детские",Мультимузыка
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm033
+#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm034
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU TV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm035
+#EXTINF:-1 tvg-id="o2tv" group-title="Музыкальные",О2
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm036
+#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cmh037
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge TV Русский хит
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm038
+#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm039
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge TV Classic
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm040
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Europa Plus TV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm041
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm042
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Музыкальные",Mezzo Live HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm043
+#EXTINF:-1 tvg-id="euronews" group-title="Информационные",Euronews
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm044
+#EXTINF:-1 tvg-id="rbk" group-title="Информационные",РБК ТВ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm045
+#EXTINF:-1 tvg-id="france-24" group-title="Информационные",France 24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm046
+#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Информационные",Deutsche Welle
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm047
+#EXTINF:-1 tvg-id="russia-today-ru" group-title="Информационные",Russia Today
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm048
+#EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm049
+#EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm050
+#EXTINF:-1 tvg-id="izvestia" group-title="Информационные",Известия HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm051
+#EXTINF:-1 tvg-id="shant-premium-hd" group-title="Фильмовые",Шант Premium HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm052
+#EXTINF:-1 tvg-id="maydan" group-title="Музыкальные",Майдан
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm053
+#EXTINF:-1 tvg-id="nhk-world" group-title="Информационные",NHK WORLD-JAPAN
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm054
+#EXTINF:-1 tvg-id="tnv" group-title="Региональные",ТНВ Татарстан
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm055
+#EXTINF:-1 tvg-id="grozny" group-title="Региональные",Грозный
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm056
+#EXTINF:-1 tvg-id="tnv-planeta" group-title="Региональные",ТНВ Планета
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm057
+#EXTINF:-1 tvg-id="arirang" group-title="Развлекательные",Arirang
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm058
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="Информационные",Kazakh TV
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm059
+#EXTINF:-1 tvg-id="belarus24" group-title="Информационные",Беларусь 24
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm060
+#EXTINF:-1 tvg-id="bst" group-title="Региональные",БСТ
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm061
