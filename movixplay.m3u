@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" refresh="3600"
+#EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
 http://freeiptv.uk.to:8738/movix.m3u8?channel=ch001
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
