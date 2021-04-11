@@ -91,15 +91,6 @@
 			}
 		},
 		{
-			"id": 14,
-			"icon": "",
-			"title": "Национальные",
-			"target": {
-				"type": "tv",
-				"link": null
-			}
-		},
-		{
 			"id": 8,
 			"title": "Фильмы",
 			"target": {
