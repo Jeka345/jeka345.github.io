@@ -64,7 +64,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://freeiptv.uk.to:8738/channels/match"
+					"url": "http://95.70.84.17:1212/udp/239.4.10.39:2020"
 				}
 			],
 			"themes": [
