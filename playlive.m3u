@@ -9,6 +9,8 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=stshd
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=rentv
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=ntv
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" description="Без ограничения на матчи",Матч! HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=matchhd_nocensored
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=match
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
