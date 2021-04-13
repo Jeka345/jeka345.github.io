@@ -2326,31 +2326,6 @@
 			"background": "/sdp/ct/nclogo1524819889030.png"
 		},
 		{
-			"number": 97,
-			"name": "Мосфильм. Золотая коллекция",
-			"id": 242075993,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://streamslivetv.uk.to:17300/flslffmsfm/video.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "/sdp/mos/nclogo1609141825334.png",
-			"logo": "/sdp/mos/nclogo1609141828155.png",
-			"background": "/sdp/mos/nclogo1609141830469.png"
-		},
-		{
 			"number": 100,
 			"name": "Радио Родных Дорог",
 			"id": 0,
