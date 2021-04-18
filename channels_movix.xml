@@ -863,7 +863,7 @@
 		{
 			"number": 202,
 			"name": "Русский детектив",
-			"id": 0,
+			"id": 1144364,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -881,14 +881,14 @@
 				0,
 				8
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1547078143787.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 203,
 			"name": "Spike HD",
-			"id": 0,
+			"id": 92151524,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -906,7 +906,7 @@
 				0,
 				8
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/vlg/nclogo1540549525073.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1565,10 +1565,10 @@
 		{
 			"number": 241,
 			"name": "ZEETV",
-			"id": 1144348,
+			"id": 234515376,
 			"is_barker": true,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1583,7 +1583,7 @@
 				0,
 				8
 			],
-			"full_logo": "/sdp/ct/nclogo1524819883354.png",
+			"full_logo": "/sdp/mos/nclogo1606740481616.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2115,7 +2115,7 @@
 		{
 			"number": 417,
 			"name": "English Club HD",
-			"id": 0,
+			"id": 123326084,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2133,7 +2133,7 @@
 				0,
 				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1551429255318.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2233,7 +2233,7 @@
 				0,
 				19
 			],
-			"full_logo": "/sdp/mos/nclogo1508932319284.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
@@ -2290,7 +2290,7 @@
 		{
 			"number": 428,
 			"name": "Первый вегетарианский",
-			"id": 0,
+			"id": 165090627,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2308,7 +2308,7 @@
 				0,
 				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1578653747671.png",
 			"logo": "",
 			"background": ""
 		},	
@@ -2416,10 +2416,10 @@
 		{
 			"number": 436,
 			"name": "Моя планета HD",
-			"id": 80893735,
+			"id": 71711934,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "16+",
@@ -2434,7 +2434,7 @@
 				0,
 				4
 			],
-			"full_logo": "/sdp/ct/nclogo1575273813024.png",
+			"full_logo": "/sdp/mos/nclogo1575272794154.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2618,7 +2618,7 @@
 		{
 			"number": 507,
 			"name": "Мотоспорт ТВ HD",
-			"id": 279271125,
+			"id": 193392798,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2636,7 +2636,7 @@
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/broadcastChannel1593688396333.png",
+			"full_logo": "/sdp/mos/nclogo1600681012010.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2693,7 +2693,7 @@
 		{
 			"number": 511,
 			"name": "M1 Global HD",
-			"id": 0,
+			"id": 1144272,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2711,7 +2711,7 @@
 				0,
 				7
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1533053496654.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3319,7 +3319,7 @@
 		{
 			"number": 616,
 			"name": "Мульт HD",
-			"id": 39680352,
+			"id": 84779285,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -3337,7 +3337,7 @@
 				0,
 				5
 			],
-			"full_logo": "/sdp/ct/nclogo1575273599598.png",
+			"full_logo": "/sdp/mos/nclogo1575272877044.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3447,7 +3447,7 @@
 			"id": 85860208,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -3462,7 +3462,7 @@
 				0,
 				3
 			],
-			"full_logo": "/sdp/ct/nclogo1598949465804.png",
+			"full_logo": "/sdp/mos/nclogo1598949465804.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3637,7 +3637,7 @@
 				0,
 				19
 			],
-			"full_logo": "/sdp/ct/nclogo1542181477626.png",
+			"full_logo": "/sdp/mos/nclogo1542181477626.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3737,7 +3737,7 @@
 				0,
 				19
 			],
-			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
@@ -3794,10 +3794,10 @@
 		{
 			"number": 751,
 			"name": "Майдан",
-			"id": 0,
+			"id": 52311482,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "vlg",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -3812,7 +3812,7 @@
 				0,
 				3
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/vlg/nclogo1555679580771.png",
 			"logo": "",
 			"background": ""
 		},
@@ -4011,7 +4011,7 @@
 				0,
 				16
 			],
-			"full_logo": "/sdp/ct/nclogo1525677619599.png",
+			"full_logo": "/sdp/ural/nclogo1525677619599.png",
 			"logo": "",
 			"background": ""
 		}

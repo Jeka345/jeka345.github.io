@@ -511,30 +511,6 @@
 			"background": ""
 		},
 		{
-			"number": 21,
-			"name": "ТНТ",
-			"id": 1000209,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://freeiptv.uk.to:8738/channels/tnt"
-				}
-			],
-			"themes": [
-				1
-			],
-			"full_logo": "/sdp/mos/nclogo1525334027576.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 22,
 			"name": "Муз ТВ",
 			"id": 1125412,
@@ -634,10 +610,10 @@
 		{
 			"number": 26,
 			"name": "СТС Love",
-			"id": 64804355,
+			"id": 1130957,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -652,7 +628,7 @@
 				6,
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1560865516031.png",
+			"full_logo": "/sdp/ct/nclogo1560865178804.png",
 			"logo": "",
 			"background": ""
 		},
