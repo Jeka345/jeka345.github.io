@@ -1,0 +1,115 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"icon": "",
+			"title": "Все каналы",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 1,
+			"icon": "/images/bqo1tk5oldao2j46lppg.png",
+			"title": "Эфирные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 7,
+			"icon": "",
+			"title": "Спортивные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 3,
+			"icon": "",
+			"title": "Музыкальные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},		
+		{
+			"id": 5,
+			"icon": "",
+			"title": "Детские",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 6,
+			"icon": "",
+			"title": "Развлекательные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},		
+		{
+			"id": 15,
+			"icon": "",
+			"title": "Федеральные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 16,
+			"icon": "",
+			"title": "Региональные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 4,
+			"icon": "",
+			"title": "Познавательные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 19,
+			"icon": "",
+			"title": "Информационные",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},
+		{
+			"id": 9,
+			"icon": "",
+			"title": "Телемагазины",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
+		},		
+		{
+			"id": 8,
+			"title": "Фильмы",
+			"target": {
+				"type": "media_view",
+				"link": {
+					"name": "movies"
+				}
+			},
+			"icon": "/images/bqo1mvloldao2j46lpg0.png"
+		}
+	],
+	"default": 0
+}

@@ -39,7 +39,7 @@ http://freeiptv.uk.to:8738/movix.m3u8?channel=ch018
 http://freeiptv.uk.to:8738/movix.m3u8?channel=ch019
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
 http://freeiptv.uk.to:8738/movix.m3u8?channel=ch020
-#EXTINF:-1 tvg-id="pro-lyubov" group-title="Фильмовые",Про Любовь
+#EXTINF:-1 tvg-id="nicktoons" group-title="Детские",NickToons
 http://freeiptv.uk.to:8738/movix.m3u8?channel=ch021
 #EXTINF:-1 tvg-id="7tv" group-title="Развлекательные",7 канал
 http://freeiptv.uk.to:8738/movix.m3u8?channel=ch022
@@ -257,6 +257,8 @@ http://freeiptv.uk.to:8738/movix.m3u8?channel=cm028
 http://freeiptv.uk.to:8738/movix.m3u8?channel=cm029
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Детские",Nickelodeon HD
 http://freeiptv.uk.to:8738/movix.m3u8?channel=cm030
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
+http://freeiptv.uk.to:8738/movix.m3u8?channel=cm062
 #EXTINF:-1 tvg-id="radost-moya" group-title="Детские",Радость моя
 http://freeiptv.uk.to:8738/movix.m3u8?channel=cm031
 #EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
