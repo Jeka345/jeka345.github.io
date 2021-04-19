@@ -2740,7 +2740,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiogradpetrov"
+					"url": "http://cdn02.mylifeisgood.ml:8080/apsuaregional/video.m3u8"
 				}
 			],
 			"themes": [
