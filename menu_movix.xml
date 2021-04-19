@@ -91,15 +91,6 @@
 			}
 		},
 		{
-			"id": 9,
-			"icon": "",
-			"title": "Телемагазины",
-			"target": {
-				"type": "tv",
-				"link": null
-			}
-		},		
-		{
 			"id": 8,
 			"title": "Фильмы",
 			"target": {
@@ -109,6 +100,15 @@
 				}
 			},
 			"icon": "/images/bqo1mvloldao2j46lpg0.png"
+		},		
+		{
+			"id": 9,
+			"icon": "",
+			"title": "Телемагазины",
+			"target": {
+				"type": "tv",
+				"link": null
+			}
 		}
 	],
 	"default": 0
