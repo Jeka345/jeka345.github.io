@@ -40,7 +40,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/d73678c52445e6d8a48ba7a619a6da9a4b5edc76783e2a615a7d6b1ed19823b5.m3u8"
 				}
 			],
 			"themes": [
@@ -114,7 +114,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-1-streamer-ntv/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:80/hls/38391bce49f90672676395541190276ed9c23ad1436cd12fd4fb200f2372d7dc.m3u8"
 				}
 			],
 			"themes": [
@@ -138,7 +138,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-39-streamer-5tv/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:80/hls/caf2ff791c6fde2f68be5ac8201de7d1f128068919957ef94fc7a97c4ad20756.m3u8"
 				}
 			],
 			"themes": [
@@ -210,7 +210,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/karuselweb/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/38636a6bb99e4507ff9d00cc8b6f8534a442142e74e792fb8b36ecccf40f3fad.m3u8"
 				}
 			],
 			"themes": [
@@ -282,7 +282,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-85-streamer-rentv/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:80/hls/198fe8ebb9d75ff74b6bf21f727990e22ef2065e78a6de3d3671b6db0343fdc3.m3u8"
 				}
 			],
 			"themes": [
@@ -330,7 +330,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/stsweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/cda5c9dd0449a9ba7ffe7682251bb09d41d358a48bd518dc421a9c1c127c6cff.m3u8"
 				}
 			],
 			"themes": [
@@ -354,7 +354,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/domatvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/861310fb86d13b260ba7e3578a5192d2ebfcafebbbde0905470c94d0440d668e.m3u8"
 				}
 			],
 			"themes": [
@@ -524,7 +524,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/muztvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:80/hls/f37e4fed2884da92b7f06caff3a5d4b62eb7099416fc0f5dd7c04e0bf63f14b6.m3u8"
 				}
 			],
 			"themes": [
@@ -548,7 +548,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-114-streamer-che/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:80/hls/250fccd5f5f76c7c866647d737ea3af37a8404744a5fc7c2628245194242304d.m3u8"
 				}
 			],
 			"themes": [
@@ -573,7 +573,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/utvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/595e448114cdfb6239465808a6d49281e8a7a6ab40f6eb753311bbf0b0fa15e1.m3u8"
 				}
 			],
 			"themes": [
@@ -694,7 +694,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-21-streamer-disney/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml/hls/34a533dfd7273a9bb03656b32956a2b1d08dc62533b11c813b28d0ef23ec8e67.m3u8"
 				}
 			],
 			"themes": [
