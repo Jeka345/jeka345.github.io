@@ -511,31 +511,6 @@
 			"background": ""
 		},
 		{
-			"number": 21,
-			"name": "Eurosport 4K",
-			"id": 138628565,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				7
-			],
-			"full_logo": "/sdp/mos/nclogo1566550767579.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 22,
 			"name": "Муз ТВ",
 			"id": 1125412,
@@ -2778,7 +2753,7 @@
 		},
 		{
 			"number": 114,
-			"name": "Абхазия HD",
+			"name": "АГТРК HD",
 			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
