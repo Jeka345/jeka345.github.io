@@ -1,5 +1,5 @@
 {
-	"total_items": 113,
+	"total_items": 115,
 	"items": [
 		{
 			"number": 0,
@@ -40,7 +40,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/d73678c52445e6d8a48ba7a619a6da9a4b5edc76783e2a615a7d6b1ed19823b5.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/index.m3u8"
 				}
 			],
 			"themes": [
@@ -114,7 +114,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:80/hls/38391bce49f90672676395541190276ed9c23ad1436cd12fd4fb200f2372d7dc.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-1-streamer-ntv/index.m3u8"
 				}
 			],
 			"themes": [
@@ -138,7 +138,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:80/hls/caf2ff791c6fde2f68be5ac8201de7d1f128068919957ef94fc7a97c4ad20756.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-39-streamer-5tv/index.m3u8"
 				}
 			],
 			"themes": [
@@ -210,7 +210,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/38636a6bb99e4507ff9d00cc8b6f8534a442142e74e792fb8b36ecccf40f3fad.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/karuselweb/index.m3u8"
 				}
 			],
 			"themes": [
@@ -282,7 +282,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:80/hls/198fe8ebb9d75ff74b6bf21f727990e22ef2065e78a6de3d3671b6db0343fdc3.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-85-streamer-rentv/index.m3u8"
 				}
 			],
 			"themes": [
@@ -330,7 +330,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/cda5c9dd0449a9ba7ffe7682251bb09d41d358a48bd518dc421a9c1c127c6cff.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/stsweb/index.m3u8"
 				}
 			],
 			"themes": [
@@ -354,7 +354,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/861310fb86d13b260ba7e3578a5192d2ebfcafebbbde0905470c94d0440d668e.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/domatvweb/index.m3u8"
 				}
 			],
 			"themes": [
@@ -511,6 +511,31 @@
 			"background": ""
 		},
 		{
+			"number": 21,
+			"name": "Eurosport 4K",
+			"id": 138628565,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1566550767579.png",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 22,
 			"name": "Муз ТВ",
 			"id": 1125412,
@@ -524,7 +549,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:80/hls/f37e4fed2884da92b7f06caff3a5d4b62eb7099416fc0f5dd7c04e0bf63f14b6.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/muztvweb/index.m3u8"
 				}
 			],
 			"themes": [
@@ -548,7 +573,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:80/hls/250fccd5f5f76c7c866647d737ea3af37a8404744a5fc7c2628245194242304d.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-114-streamer-che/index.m3u8"
 				}
 			],
 			"themes": [
@@ -573,7 +598,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/595e448114cdfb6239465808a6d49281e8a7a6ab40f6eb753311bbf0b0fa15e1.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/utvweb/index.m3u8"
 				}
 			],
 			"themes": [
@@ -694,7 +719,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml/hls/34a533dfd7273a9bb03656b32956a2b1d08dc62533b11c813b28d0ef23ec8e67.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-21-streamer-disney/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1369,7 +1394,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-96-streamer-nafgkcfkxa/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-96-streamer-nafgkcfkxa/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1417,7 +1442,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-2-streamer-viphistoryhd/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-2-streamer-viphistoryhd/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1465,7 +1490,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-14-streamer-vbfms3/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-14-streamer-vbfms3/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1489,7 +1514,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-84-streamer-wfsflflfl/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-84-streamer-wfsflflfl/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1513,7 +1538,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-4-streamer-izyabi/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-4-streamer-izyabi/index.m3u8"
 				}
 			],
 			"themes": [
@@ -2329,13 +2354,13 @@
 		{
 			"number": 97,
 			"name": "Матч! Футбол 1",
-			"id": 61426874,
-			"is_barker": true,
+			"id": 66476111,
+			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
-				"name": "16+",
+				"name": "0+",
 				"age_value": 0
 			},
 			"sources": [
@@ -2347,20 +2372,20 @@
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1501848171532.png",
-			"logo": "/sdp/mos/nclogo1501848174671.png",
-			"background": "/sdp/mos/nclogo1501848177256.png"
+			"full_logo": "/sdp/ct/nclogo1501849625746.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 98,
 			"name": "Матч! Футбол 2",
-			"id": 61426888,
-			"is_barker": true,
+			"id": 66476687,
+			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
-				"name": "16+",
+				"name": "0+",
 				"age_value": 0
 			},
 			"sources": [
@@ -2372,20 +2397,20 @@
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1501848190846.png",
-			"logo": "/sdp/mos/nclogo1501848193360.png",
-			"background": "/sdp/mos/nclogo1501848195548.png"
+			"full_logo": "/sdp/ct/nclogo1501849658331.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 99,
 			"name": "Матч! Футбол 3",
-			"id": 61426900,
-			"is_barker": true,
+			"id": 66476983,
+			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
-				"name": "16+",
+				"name": "0+",
 				"age_value": 0
 			},
 			"sources": [
@@ -2397,10 +2422,10 @@
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1501848213415.png",
-			"logo": "/sdp/mos/nclogo1501848216119.png",
-			"background": "/sdp/mos/nclogo1501848218269.png"
-		},	
+			"full_logo": "/sdp/ct/nclogo1501849696895.png",
+			"logo": "",
+			"background": ""
+		},
 		{
 			"number": 100,
 			"name": "Матч! Арена",
@@ -2453,6 +2478,31 @@
 		},
 		{
 			"number": 102,
+			"name": "Матч! Игра HD",
+			"id": 77742737,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://cdn02.mylifeisgood.ml:8080/mprigr/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251445090.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 103,
 			"name": "Discovery ENG",
 			"id": 1144543,
 			"is_barker": true,
@@ -2477,7 +2527,7 @@
 			"background": "/sdp/mos/nclogo1567606578908.png"
 		},
 		{
-			"number": 103,
+			"number": 104,
 			"name": "Радио Родных Дорог",
 			"id": 0,
 			"is_barker": false,
@@ -2502,7 +2552,7 @@
 			"background": ""
 		},
 		{
-			"number": 104,
+			"number": 105,
 			"name": "Радио Maximus",
 			"id": 0,
 			"is_barker": false,
@@ -2527,7 +2577,7 @@
 			"background": ""
 		},
 		{
-			"number": 105,
+			"number": 106,
 			"name": "Русское Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2552,7 +2602,7 @@
 			"background": ""
 		},
 		{
-			"number": 106,
+			"number": 107,
 			"name": "Радио Ваня",
 			"id": 0,
 			"is_barker": false,
@@ -2577,7 +2627,7 @@
 			"background": ""
 		},
 		{
-			"number": 107,
+			"number": 108,
 			"name": "Радио DFM",
 			"id": 0,
 			"is_barker": false,
@@ -2602,7 +2652,7 @@
 			"background": ""
 		},
 		{
-			"number": 108,
+			"number": 109,
 			"name": "Радио ХИТ ФМ",
 			"id": 0,
 			"is_barker": false,
@@ -2627,7 +2677,7 @@
 			"background": ""
 		},
 		{
-			"number": 109,
+			"number": 110,
 			"name": "Радио Комсомольская правда",
 			"id": 0,
 			"is_barker": false,
@@ -2652,7 +2702,7 @@
 			"background": ""
 		},
 		{
-			"number": 110,
+			"number": 111,
 			"name": "Радио для двоих",
 			"id": 0,
 			"is_barker": false,
@@ -2677,7 +2727,7 @@
 			"background": ""
 		},
 		{
-			"number": 111,
+			"number": 112,
 			"name": "Радио ТВ",
 			"id": 0,
 			"is_barker": false,
@@ -2702,7 +2752,7 @@
 			"background": ""
 		},
 		{
-			"number": 112,
+			"number": 113,
 			"name": "Радио Град Петров",
 			"id": 0,
 			"is_barker": false,
@@ -2727,7 +2777,7 @@
 			"background": ""
 		},
 		{
-			"number": 113,
+			"number": 114,
 			"name": "Абхазия HD",
 			"id": 0,
 			"is_barker": false,
