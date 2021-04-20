@@ -524,7 +524,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8"
+					"url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8"
 				}
 			],
 			"themes": [
