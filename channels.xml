@@ -1824,7 +1824,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/mprhdweb1/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml/channels/matchpremiere"
 				}
 			],
 			"themes": [
