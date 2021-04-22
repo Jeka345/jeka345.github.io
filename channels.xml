@@ -2,31 +2,6 @@
 	"total_items": 115,
 	"items": [
 		{
-			"number": 0,
-			"name": "Инфоканал",
-			"id": 0,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://flussoniclive.mylifeisgood.ml:8080/infochannel/video.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				19
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 1,
 			"name": "Первый канал HD",
 			"id": 1000069,
@@ -40,7 +15,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/index.m3u8"
+					"url": "http://livetv.mylifeisgood.ml/channels/perviyhd"
 				}
 			],
 			"themes": [
