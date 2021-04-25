@@ -15,7 +15,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/perviyhd"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/video.m3u8"
 				}
 			],
 			"themes": [
