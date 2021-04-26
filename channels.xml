@@ -1,5 +1,5 @@
 {
-	"total_items": 115,
+	"total_items": 119,
 	"items": [
 		{
 			"number": 1,
@@ -482,6 +482,31 @@
 				19
 			],
 			"full_logo": "/sdp/mos/nclogo1508420635111.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 21,
+			"name": "Кино ТВ",
+			"id": 94802108,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://live-1.otcnet.ru/kinotvsd/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1509023376742.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2476,6 +2501,56 @@
 		},
 		{
 			"number": 103,
+			"name": "Tiji",
+			"id": 1144316,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://live-1.otcnet.ru/TiJi_OT/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1606126555684.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 104,
+			"name": "Gulli Girl",
+			"id": 2370718,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1536766285308.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 105,
 			"name": "Discovery ENG",
 			"id": 1144543,
 			"is_barker": true,
@@ -2500,7 +2575,7 @@
 			"background": "/sdp/mos/nclogo1567606578908.png"
 		},
 		{
-			"number": 104,
+			"number": 110,
 			"name": "Радио Родных Дорог",
 			"id": 0,
 			"is_barker": false,
@@ -2525,7 +2600,7 @@
 			"background": ""
 		},
 		{
-			"number": 105,
+			"number": 111,
 			"name": "Радио Maximus",
 			"id": 0,
 			"is_barker": false,
@@ -2550,7 +2625,7 @@
 			"background": ""
 		},
 		{
-			"number": 106,
+			"number": 112,
 			"name": "Русское Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2575,7 +2650,7 @@
 			"background": ""
 		},
 		{
-			"number": 107,
+			"number": 113,
 			"name": "Радио Ваня",
 			"id": 0,
 			"is_barker": false,
@@ -2600,7 +2675,7 @@
 			"background": ""
 		},
 		{
-			"number": 108,
+			"number": 114,
 			"name": "Радио DFM",
 			"id": 0,
 			"is_barker": false,
@@ -2625,7 +2700,7 @@
 			"background": ""
 		},
 		{
-			"number": 109,
+			"number": 115,
 			"name": "Радио ХИТ ФМ",
 			"id": 0,
 			"is_barker": false,
@@ -2650,7 +2725,7 @@
 			"background": ""
 		},
 		{
-			"number": 110,
+			"number": 116,
 			"name": "Радио Комсомольская правда",
 			"id": 0,
 			"is_barker": false,
@@ -2675,7 +2750,7 @@
 			"background": ""
 		},
 		{
-			"number": 111,
+			"number": 117,
 			"name": "Радио для двоих",
 			"id": 0,
 			"is_barker": false,
@@ -2700,7 +2775,7 @@
 			"background": ""
 		},
 		{
-			"number": 112,
+			"number": 118,
 			"name": "Радио ТВ",
 			"id": 0,
 			"is_barker": false,
@@ -2725,7 +2800,7 @@
 			"background": ""
 		},
 		{
-			"number": 113,
+			"number": 119,
 			"name": "Радио Град Петров",
 			"id": 0,
 			"is_barker": false,
