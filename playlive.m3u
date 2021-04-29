@@ -207,6 +207,12 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashasibirhd
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=europaplustv
+#EXTINF:-1 tvg-id="discovery-ru" group-title="Познавательные",Discovery Channel HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverybreak
+#EXTINF:-1 tvg-id="eurosport1-ru" group-title="Спортивные",Eurosport 1 HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=eurosport1hd
+#EXTINF:-1 tvg-id="tlc" group-title="Женские",TLC HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tlchd
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey1
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
@@ -217,21 +223,45 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey3
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey4
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 5
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey5
-#EXTINF:-1 tvg-id="" group-title="Радио",Радио Родных Дорог
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 6
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey6
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 7
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey7
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey8
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 9
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nashhokkey9
+#EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiorodniyxdorog
+#EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=dorojnoeradio
+#EXTINF:-1 tvg-id="europa-plus-radio" group-title="Радио",Европа плюс радио
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=europaplusradio
+#EXTINF:-1 tvg-id="avtoradio" group-title="Радио",Авторадио
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=avtoradio
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiomaximus
-#EXTINF:-1 tvg-id="" group-title="Радио",Русское Радио
+#EXTINF:-1 tvg-id="russkoe-radio" group-title="Радио",Русское Радио
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=rusradio
-#EXTINF:-1 tvg-id="" group-title="Радио",Радио Ваня
+#EXTINF:-1 tvg-id="yumor-fm" group-title="Радио",Юмор ФМ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=yumorfm
+#EXTINF:-1 tvg-id="radio-vania" group-title="Радио",Радио Ваня
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiovanya
-#EXTINF:-1 tvg-id="" group-title="Радио",Радио DFM
+#EXTINF:-1 tvg-id="comedy-radio" group-title="Радио",Comedy Radio
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=comedyradio
+#EXTINF:-1 tvg-id="radio-dfm" group-title="Радио",Радио DFM
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiodfm
+#EXTINF:-1 tvg-id="retro-fm" group-title="Радио",Ретро ФМ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=retrofm
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ХИТ FM
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiohitfm
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Комсомольская правда
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiokomsomolpravda
-#EXTINF:-1 tvg-id="" group-title="Радио",Радио для двоих
+#EXTINF:-1 tvg-id="radio-energy" group-title="Радио",Energy FM
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radioenegry
+#EXTINF:-1 tvg-id="radio-romantika" group-title="Радио",Радио Romantica
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radioromantica
+#EXTINF:-1 tvg-id="radio-dlia-dvoix" group-title="Радио",Радио для двоих
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiodlyadvoix
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ТВ
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=radiotv
