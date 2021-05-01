@@ -107,6 +107,12 @@ http://website.mylifeisgood.ml/mfolive.m3u8?media=u_ott_tv
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=u_tv
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=karusel
+#EXTINF:-1 tvg-id="tiji" group-title="Детские",Tiji
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tiji
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Детские",Gulli
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
+#EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
 http://website.mylifeisgood.ml/mfolive.m3u8?media=disney
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
