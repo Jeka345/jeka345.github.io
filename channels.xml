@@ -2575,6 +2575,31 @@
 			"background": "/sdp/mos/nclogo1567606578908.png"
 		},
 		{
+			"number": 106,
+			"name": "Eurosport 1 HD",
+			"id": 1144521,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://streamer2.iptvsmotri.ru:9600/eurosport_1_hd_hlkygfgj/index.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
+			"logo": "/sdp/mos/nclogo1508251612797.png",
+			"background": "/sdp/mos/nclogo1508251616819.png"
+		},
+		{
 			"number": 107,
 			"name": "Eurosport 2 HD",
 			"id": 1144428,
@@ -2598,6 +2623,31 @@
 			"full_logo": "/sdp/mos/nclogo1579851788766.png",
 			"logo": "/sdp/mos/nclogo1579851792322.png",
 			"background": "/sdp/mos/nclogo1579851795321.png"
+		},
+		{
+			"number": 108,
+			"name": "TLC HD",
+			"id": 30792359,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://streamer2.iptvsmotri.ru:9600/tlc_hd_hfgtuhj/index.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1497613030115.png",
+			"logo": "/sdp/mos/nclogo1497613034654.png",
+			"background": "/sdp/mos/nclogo1497613038266.png"
 		},
 		{
 			"number": 111,
