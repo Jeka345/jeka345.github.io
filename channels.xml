@@ -1017,7 +1017,7 @@
 			"background": ""
 		},
 		{
-			"number": 114,
+			"number": 043,
 			"name": "АГТРК HD",
 			"id": 0,
 			"is_barker": false,
@@ -1849,7 +1849,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/matchpremiere"
+					"url": "http://cdn02.mylifeisgood.ml:8080/mprhdweb1/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2551,7 +2551,7 @@
 		},
 		{
 			"number": 105,
-			"name": "Discovery ENG",
+			"name": "Discovery",
 			"id": 1144543,
 			"is_barker": true,
 			"is_erotic": false,
@@ -2575,7 +2575,132 @@
 			"background": "/sdp/mos/nclogo1567606578908.png"
 		},
 		{
+			"number": 106,
+			"name": "Eurosport 1 HD",
+			"id": 1144521,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/eurosport1hd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
+			"logo": "/sdp/mos/nclogo1508251612797.png",
+			"background": "/sdp/mos/nclogo1508251616819.png"
+		},
+		{
+			"number": 107,
+			"name": "Eurosport 2 HD",
+			"id": 1144428,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/eurosport2hd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1579851788766.png",
+			"logo": "/sdp/mos/nclogo1579851792322.png",
+			"background": "/sdp/mos/nclogo1579851795321.png"
+		},
+		{
+			"number": 108,
+			"name": "TLC HD",
+			"id": 30792359,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/tlchd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1497613030115.png",
+			"logo": "/sdp/mos/nclogo1497613034654.png",
+			"background": "/sdp/mos/nclogo1497613038266.png"
+		},
+		{
+			"number": 109,
+			"name": "Конный мир HD",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/koniymir"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 110,
+			"name": "Звезда+",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/zvezdaplus"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 111,
 			"name": "Радио Родных Дорог",
 			"id": 0,
 			"is_barker": false,
@@ -2600,7 +2725,82 @@
 			"background": ""
 		},
 		{
-			"number": 111,
+			"number": 112,
+			"name": "Дорожное Радио",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/dorojnoeradio"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 113,
+			"name": "Радио ЕвропаПлюс",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/europaplusradio"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 114,
+			"name": "Авторадио",
+			"id": 215275922,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/avtoradio"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1601368938045.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 115,
 			"name": "Радио Maximus",
 			"id": 0,
 			"is_barker": false,
@@ -2625,7 +2825,7 @@
 			"background": ""
 		},
 		{
-			"number": 112,
+			"number": 116,
 			"name": "Русское Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2650,7 +2850,32 @@
 			"background": ""
 		},
 		{
-			"number": 113,
+			"number": 117,
+			"name": "Юмор ФМ",
+			"id": 215276582,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/yumorfm"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1601369186643.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 118,
 			"name": "Радио Ваня",
 			"id": 0,
 			"is_barker": false,
@@ -2675,7 +2900,32 @@
 			"background": ""
 		},
 		{
-			"number": 114,
+			"number": 119,
+			"name": "Comedy Radio",
+			"id": 215277173,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/comedyradio"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1601369599292.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 120,
 			"name": "Радио DFM",
 			"id": 0,
 			"is_barker": false,
@@ -2700,7 +2950,32 @@
 			"background": ""
 		},
 		{
-			"number": 115,
+			"number": 121,
+			"name": "Retro FM",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/retrofm"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 122,
 			"name": "Радио ХИТ ФМ",
 			"id": 0,
 			"is_barker": false,
@@ -2725,7 +3000,7 @@
 			"background": ""
 		},
 		{
-			"number": 116,
+			"number": 123,
 			"name": "Радио Комсомольская правда",
 			"id": 0,
 			"is_barker": false,
@@ -2750,7 +3025,57 @@
 			"background": ""
 		},
 		{
-			"number": 117,
+			"number": 124,
+			"name": "Energy FM",
+			"id": 215275912,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/radioenegry"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1601368850846.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 125,
+			"name": "Радио Romantica",
+			"id": 215276200,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml/channels/radioromantica"
+				}
+			],
+			"themes": [
+				0,
+				9
+			],
+			"full_logo": "/sdp/mos/nclogo1601369024005.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 126,
 			"name": "Радио для двоих",
 			"id": 0,
 			"is_barker": false,
@@ -2775,7 +3100,7 @@
 			"background": ""
 		},
 		{
-			"number": 118,
+			"number": 127,
 			"name": "Радио ТВ",
 			"id": 0,
 			"is_barker": false,
@@ -2800,7 +3125,7 @@
 			"background": ""
 		},
 		{
-			"number": 119,
+			"number": 128,
 			"name": "Радио Град Петров",
 			"id": 0,
 			"is_barker": false,
