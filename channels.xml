@@ -1948,7 +1948,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-34-streamer-anekdottv/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a016/index.m3u8"
 				}
 			],
 			"themes": [
