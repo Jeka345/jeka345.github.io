@@ -16,7 +16,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/mpegts"
 				}
 			],
 			"themes": [
@@ -90,7 +90,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-1-streamer-ntv/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00a/index.m3u8"
 				}
 			],
 			"themes": [
@@ -114,7 +114,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-39-streamer-5tv/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00b/index.m3u8"
 				}
 			],
 			"themes": [
@@ -186,7 +186,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/karuselweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a018/index.m3u8"
 				}
 			],
 			"themes": [
@@ -258,7 +258,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-85-streamer-rentv/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a009/index.m3u8"
 				}
 			],
 			"themes": [
@@ -306,7 +306,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/stsweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a008/index.m3u8"
 				}
 			],
 			"themes": [
@@ -330,7 +330,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/domatvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00f/index.m3u8"
 				}
 			],
 			"themes": [
@@ -525,7 +525,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/muztvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00e/index.m3u8"
 				}
 			],
 			"themes": [
@@ -549,7 +549,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-114-streamer-che/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00g/index.m3u8"
 				}
 			],
 			"themes": [
@@ -574,7 +574,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/utvweb/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00k/index.m3u8"
 				}
 			],
 			"themes": [
@@ -610,11 +610,11 @@
 		},
 		{
 			"number": 26,
-			"name": "СТС Love",
-			"id": 1130957,
+			"name": "Победа HD",
+			"id": 136173557,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -622,14 +622,14 @@
 			},
 			"sources": [
 				{
-					"url": "http://51.68.141.106:8081/tv/sts-love/playlist.m3u8"
+					"url": "https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8"
 				}
 			],
 			"themes": [
-				6,
-				8
+				0,
+				4
 			],
-			"full_logo": "/sdp/ct/nclogo1560865178804.png",
+			"full_logo": "/sdp/mos/nclogo1554828871350.png",
 			"logo": "",
 			"background": ""
 		},
@@ -695,7 +695,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-21-streamer-disney/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00l/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1332,30 +1332,6 @@
 			"background": "/sdp/ural/nclogo1525680019874.png"
 		},
 		{
-			"number": 55,
-			"name": "78 канал Санкт Петербург",
-			"id": 1131048,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "nw",
-			"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-			},
-			"sources": [
-			{
-				"url": "http://livetv.mylifeisgood.ml/channels/78saintpetersburg"
-			}
-			],
-			"themes": [
-			15
-			],
-			"full_logo": "/sdp/nw/broadcastChannel1504246349591.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 56,
 			"name": "Россия РТР",
 			"id": 0,
@@ -1393,7 +1369,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-96-streamer-nafgkcfkxa/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00p/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1417,7 +1393,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-9-streamer-vipexplorehd/video.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00s/index.m3u8"
 				}
 			],
 			"themes": [
@@ -1441,7 +1417,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-2-streamer-viphistoryhd/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00r/index.m3u8"
 				}
 			],
 			"themes": [
