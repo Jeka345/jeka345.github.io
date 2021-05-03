@@ -16,7 +16,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/mpegts"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-11-streamer-perviy/video.m3u8"
 				}
 			],
 			"themes": [
@@ -90,7 +90,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00a/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-1-streamer-ntv/video.m3u8"
 				}
 			],
 			"themes": [
@@ -114,7 +114,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00b/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-39-streamer-5tv/video.m3u8"
 				}
 			],
 			"themes": [
@@ -186,7 +186,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a018/index.m3u8"
+					"url": "https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126"
 				}
 			],
 			"themes": [
@@ -258,7 +258,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a009/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-85-streamer-rentv/video.m3u8"
 				}
 			],
 			"themes": [
@@ -306,7 +306,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a008/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/stsweb/video.m3u8"
 				}
 			],
 			"themes": [
@@ -330,7 +330,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00f/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/domatvweb/video.m3u8"
 				}
 			],
 			"themes": [
@@ -525,7 +525,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00e/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/muztvweb/video.m3u8"
 				}
 			],
 			"themes": [
@@ -549,7 +549,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00g/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-114-streamer-che/video.m3u8"
 				}
 			],
 			"themes": [
@@ -574,7 +574,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00k/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/utvweb/video.m3u8"
 				}
 			],
 			"themes": [
@@ -695,7 +695,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00l/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-21-streamer-disney/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1369,7 +1369,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00p/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-96-streamer-nafgkcfkxa/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1393,7 +1393,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00s/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-9-streamer-vipexplorehd/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1417,7 +1417,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a00r/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-2-streamer-viphistoryhd/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1924,7 +1924,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:8000/play/a016/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:8080/catena-1-34-streamer-anekdottv/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2473,56 +2473,6 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1508251445090.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 103,
-			"name": "Tiji",
-			"id": 1144316,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://live-1.otcnet.ru/TiJi_OT/video.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				5
-			],
-			"full_logo": "/sdp/mos/nclogo1606126555684.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 104,
-			"name": "Gulli Girl",
-			"id": 2370718,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				5
-			],
-			"full_logo": "/sdp/mos/nclogo1536766285308.png",
 			"logo": "",
 			"background": ""
 		},
