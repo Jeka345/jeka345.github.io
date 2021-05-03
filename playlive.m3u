@@ -139,8 +139,6 @@ http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000ruskino
 http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000action
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
 http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000
-#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",ZeeTV
-http://website.mylifeisgood.ml/mfolive.m3u8?media=zeetv
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
 http://website.mylifeisgood.ml/mfolive.m3u8?media=ctckids
 #EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
