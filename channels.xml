@@ -402,7 +402,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8"
+					"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
 				}
 			],
 			"themes": [
@@ -2302,7 +2302,57 @@
 			"background": ""
 		},
 		{
+			"number": 96,
+			"name": "Мосфильм. Золотая коллекция",
+			"id": 242075993,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://bitrix.powernet.com.ru/mosfilm/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1609141825334.png",
+			"logo": "/sdp/mos/nclogo1609141828155.png",
+			"background": "/sdp/mos/nclogo1609141830469.png"
+		},
+		{
 			"number": 97,
+			"name": "Gulli Girl",
+			"id": 2370718,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1536766285308.png",
+			"logo": "/sdp/mos/nclogo1536766289571.png",
+			"background": "/sdp/mos/nclogo1536766292139.png"
+		},
+		{
+			"number": 98,
 			"name": "Матч! Футбол 1",
 			"id": 66476111,
 			"is_barker": false,
@@ -2327,7 +2377,7 @@
 			"background": ""
 		},
 		{
-			"number": 98,
+			"number": 99,
 			"name": "Матч! Футбол 2",
 			"id": 66476687,
 			"is_barker": false,
@@ -2352,7 +2402,7 @@
 			"background": ""
 		},
 		{
-			"number": 99,
+			"number": 100,
 			"name": "Матч! Футбол 3",
 			"id": 66476983,
 			"is_barker": false,
@@ -2377,7 +2427,7 @@
 			"background": ""
 		},
 		{
-			"number": 100,
+			"number": 101,
 			"name": "Матч! Арена",
 			"id": 1144499,
 			"is_barker": true,
@@ -2402,7 +2452,7 @@
 			"background": "/sdp/mos/nclogo1508251183569.png"
 		},	
 		{
-			"number": 101,
+			"number": 102,
 			"name": "Матч! Боец",
 			"id": 1144436,
 			"is_barker": true,
@@ -2427,7 +2477,7 @@
 			"background": "/sdp/mos/nclogo1497608844700.png"
 		},
 		{
-			"number": 102,
+			"number": 103,
 			"name": "Матч! Игра HD",
 			"id": 77742737,
 			"is_barker": false,
