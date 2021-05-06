@@ -2315,7 +2315,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://bitrix.powernet.com.ru/mosfilm/video.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/index.m3u8"
 				}
 			],
 			"themes": [
