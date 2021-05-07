@@ -2353,6 +2353,31 @@
 		},
 		{
 			"number": 98,
+			"name": "Остросюжетное HD",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://iptvsmotri.keenetic.pro:9600/ostrosujet_hd/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 99,
 			"name": "Матч! Футбол 1",
 			"id": 66476111,
 			"is_barker": false,
@@ -2377,7 +2402,7 @@
 			"background": ""
 		},
 		{
-			"number": 99,
+			"number": 100,
 			"name": "Матч! Футбол 2",
 			"id": 66476687,
 			"is_barker": false,
@@ -2402,7 +2427,7 @@
 			"background": ""
 		},
 		{
-			"number": 100,
+			"number": 101,
 			"name": "Матч! Футбол 3",
 			"id": 66476983,
 			"is_barker": false,
@@ -2427,7 +2452,7 @@
 			"background": ""
 		},
 		{
-			"number": 101,
+			"number": 102,
 			"name": "Матч! Арена",
 			"id": 1144499,
 			"is_barker": true,
@@ -2452,7 +2477,7 @@
 			"background": "/sdp/mos/nclogo1508251183569.png"
 		},	
 		{
-			"number": 102,
+			"number": 103,
 			"name": "Матч! Боец",
 			"id": 1144436,
 			"is_barker": true,
@@ -2477,7 +2502,7 @@
 			"background": "/sdp/mos/nclogo1497608844700.png"
 		},
 		{
-			"number": 103,
+			"number": 104,
 			"name": "Матч! Игра HD",
 			"id": 77742737,
 			"is_barker": false,
