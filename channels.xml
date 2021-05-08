@@ -40,7 +40,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1"
 				}
 			],
 			"themes": [
@@ -65,7 +65,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/matchhd_nocensored"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored"
 				}
 			],
 			"themes": [
@@ -138,7 +138,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russiak"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak"
 				}
 			],
 			"themes": [
@@ -162,7 +162,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia24"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia24"
 				}
 			],
 			"themes": [
@@ -210,7 +210,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/otr"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/otr"
 				}
 			],
 			"themes": [
@@ -354,7 +354,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/tv3hd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tv3hd"
 				}
 			],
 			"themes": [
@@ -378,7 +378,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/fridayhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/fridayhd"
 				}
 			],
 			"themes": [
@@ -426,7 +426,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/mirhdpremium"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium"
 				}
 			],
 			"themes": [
@@ -451,7 +451,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/mirhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/mirhd"
 				}
 			],
 			"themes": [
@@ -475,7 +475,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/tnthd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnthd"
 				}
 			],
 			"themes": [
@@ -598,7 +598,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/super"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/super"
 				}
 			],
 			"themes": [
@@ -647,7 +647,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/2x2"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/2x2"
 				}
 			],
 			"themes": [
@@ -671,7 +671,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/tnt4"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnt4"
 				}
 			],
 			"themes": [
@@ -719,7 +719,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-1"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-1"
 				}
 			],
 			"themes": [
@@ -743,7 +743,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-2"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-2"
 				}
 			],
 			"themes": [
@@ -767,7 +767,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-3"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-3"
 				}
 			],
 			"themes": [
@@ -791,7 +791,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-4"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-4"
 				}
 			],
 			"themes": [
@@ -815,7 +815,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-5"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-5"
 				}
 			],
 			"themes": [
@@ -839,7 +839,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-6"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-6"
 				}
 			],
 			"themes": [
@@ -863,7 +863,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-7"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-7"
 				}
 			],
 			"themes": [
@@ -887,7 +887,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-8"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-8"
 				}
 			],
 			"themes": [
@@ -911,7 +911,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russia1-9"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-9"
 				}
 			],
 			"themes": [
@@ -935,7 +935,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russiak-2"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-2"
 				}
 			],
 			"themes": [
@@ -959,7 +959,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russiak-4"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-4"
 				}
 			],
 			"themes": [
@@ -983,7 +983,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/russiak-7"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-7"
 				}
 			],
 			"themes": [
@@ -1007,7 +1007,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/vestifm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/vestifm"
 				}
 			],
 			"themes": [
@@ -1055,7 +1055,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/moscow24"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/moscow24"
 				}
 			],
 			"themes": [
@@ -1079,7 +1079,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/moscvadoverie"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie"
 				}
 			],
 			"themes": [
@@ -1103,7 +1103,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/afontovo"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/afontovo"
 				}
 			],
 			"themes": [
@@ -1128,7 +1128,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/dzertv"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/dzertv"
 				}
 			],
 			"themes": [
@@ -1152,7 +1152,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/rifei"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/rifei"
 				}
 			],
 			"themes": [
@@ -1176,7 +1176,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/rostovpapa"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/rostovpapa"
 				}
 			],
 			"themes": [
@@ -1249,7 +1249,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/tvgubernia"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tvgubernia"
 				}
 			],
 			"themes": [
@@ -1273,7 +1273,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/univertv"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/univertv"
 				}
 			],
 			"themes": [
@@ -1297,7 +1297,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/efir"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/efir"
 				}
 			],
 			"themes": [
@@ -1321,7 +1321,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/yamal"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/yamal"
 				}
 			],
 			"themes": [
@@ -1345,7 +1345,7 @@
 			},
 			"sources": [
 			{
-				"url": "http://livetv.mylifeisgood.ml/channels/russiartr"
+				"url": "http://livetv.mylifeisgood.ml:8880/channels/russiartr"
 			}
 			],
 			"themes": [
@@ -1441,7 +1441,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/myplanet"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/myplanet"
 				}
 			],
 			"themes": [
@@ -1537,7 +1537,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/vmesterf"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/vmesterf"
 				}
 			],
 			"themes": [
@@ -1801,7 +1801,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/matchstrana"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/matchstrana"
 				}
 			],
 			"themes": [
@@ -1948,7 +1948,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/pesandko"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/pesandko"
 				}
 			],
 			"themes": [
@@ -1972,7 +1972,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/ehomoscow"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/ehomoscow"
 				}
 			],
 			"themes": [
@@ -1996,7 +1996,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/musicboxgold"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/musicboxgold"
 				}
 			],
 			"themes": [
@@ -2020,7 +2020,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/tntmusic"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tntmusic"
 				}
 			],
 			"themes": [
@@ -2044,7 +2044,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/smile"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/smile"
 				}
 			],
 			"themes": [
@@ -2068,7 +2068,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/okino"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/okino"
 				}
 			],
 			"themes": [
@@ -2092,7 +2092,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/ntc"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/ntc"
 				}
 			],
 			"themes": [
@@ -2116,7 +2116,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/stranafm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/stranafm"
 				}
 			],
 			"themes": [
@@ -2140,7 +2140,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/starthd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/starthd"
 				}
 			],
 			"themes": [
@@ -2190,7 +2190,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/ohotnikiribalovhdint"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint"
 				}
 			],
 			"themes": [
@@ -2215,7 +2215,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/zagorodhdint"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint"
 				}
 			],
 			"themes": [
@@ -2240,7 +2240,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/nashasibirhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd"
 				}
 			],
 			"themes": [
@@ -2265,7 +2265,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/europaplustv"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/europaplustv"
 				}
 			],
 			"themes": [
@@ -2640,7 +2640,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiorodniyxdorog"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog"
 				}
 			],
 			"themes": [
@@ -2665,7 +2665,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/dorojnoeradio"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio"
 				}
 			],
 			"themes": [
@@ -2690,7 +2690,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/europaplusradio"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/europaplusradio"
 				}
 			],
 			"themes": [
@@ -2715,7 +2715,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/avtoradio"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/avtoradio"
 				}
 			],
 			"themes": [
@@ -2740,7 +2740,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiomaximus"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiomaximus"
 				}
 			],
 			"themes": [
@@ -2765,7 +2765,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/rusradio"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/rusradio"
 				}
 			],
 			"themes": [
@@ -2790,7 +2790,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/yumorfm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/yumorfm"
 				}
 			],
 			"themes": [
@@ -2815,7 +2815,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiovanya"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiovanya"
 				}
 			],
 			"themes": [
@@ -2840,7 +2840,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/comedyradio"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/comedyradio"
 				}
 			],
 			"themes": [
@@ -2865,7 +2865,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiodfm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiodfm"
 				}
 			],
 			"themes": [
@@ -2890,7 +2890,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/retrofm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/retrofm"
 				}
 			],
 			"themes": [
@@ -2915,7 +2915,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiohitfm"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiohitfm"
 				}
 			],
 			"themes": [
@@ -2940,7 +2940,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiokomsomolpravda"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda"
 				}
 			],
 			"themes": [
@@ -2965,7 +2965,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radioenegry"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radioenegry"
 				}
 			],
 			"themes": [
@@ -2990,7 +2990,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radioromantica"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radioromantica"
 				}
 			],
 			"themes": [
@@ -3015,7 +3015,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiodlyadvoix"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix"
 				}
 			],
 			"themes": [
@@ -3040,7 +3040,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiotv"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiotv"
 				}
 			],
 			"themes": [
@@ -3065,7 +3065,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml/channels/radiogradpetrov"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov"
 				}
 			],
 			"themes": [
