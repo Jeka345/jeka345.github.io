@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "id": 3,
+            "icon": "",
+            "title": "Поиск",
+            "target": {
+                "type": "screen",
+                "link": {
+                    "screen_name": "search"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "icon": "/images/bp3d5ltoldao1e3knlk0.png",
+            "title": "ТВ-каналы",
+            "target": {
+                "type": "tv",
+                "link": null
+            }
+        },
+        {
+            "id": 12,
+            "icon": "",
+            "title": "Моё",
+            "target": {
+                "type": "screen",
+                "link": {
+                    "screen_name": "my"
+                }
+            }
+        }
+    ],
+    "default": 5
+}
