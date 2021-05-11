@@ -18,102 +18,122 @@
         {
             "id":"1",
             "name":"Первый канал HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-11-streamer-perviy/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-11-streamer-perviy/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1529397813326.png"
         },
         {
             "id":"2",
             "name":"Россия 1 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612738365.png"
         },
 		{
 			"id":"3",
 			"name":"Матч! HD",
-			"stream":"http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored"
+			"stream":"http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1572514677030.png"			
 		},
         {
             "id":"4",
             "name":"НТВ HD",
-            "stream":"http://website.mylifeisgood.ml/channels/ntv"
+            "stream":"http://website.mylifeisgood.ml/channels/ntv",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516193016598.png"			
         },
         {
             "id":"5",
             "name":"Пятый канал",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-39-streamer-5tv/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-39-streamer-5tv/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png"			
         },
         {
             "id":"6",
             "name":"Россия Культура",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png"
         },
         {
             "id":"7",
             "name":"Россия 24",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia24"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia24",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497528181419.png"
         },
         {
             "id":"8",
             "name":"Карусель",
-            "stream":"https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126"
+            "stream":"https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602681864854.png"			
         },
         {
             "id":"9",
             "name":"ОТР",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/otr"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/otr",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png"			
         },
         {
             "id":"10",
             "name":"ТВ Центр",
-            "stream":"https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8"
+            "stream":"https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536609967851.png"			
         },
         {
             "id":"11",
             "name":"Рен ТВ HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-85-streamer-rentv/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-85-streamer-rentv/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1532358088298.png"			
         },
         {
             "id":"12",
             "name":"Спас",
-            "stream":"http://spastv.ru/playlist.m3u8"
+            "stream":"http://spastv.ru/playlist.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1569483524977.png"			
         },
         {
             "id":"13",
             "name":"CТС HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/stsweb/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/stsweb/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1533311356055.png"			
         },
         {
             "id":"14",
             "name":"Домашний",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/domatvweb/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/domatvweb/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1519580577683.png"			
         },
         {
             "id":"15",
             "name":"ТВ3 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tv3hd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tv3hd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1507133404466.png"			
         },
         {
             "id":"16",
             "name":"Пятница HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/fridayhd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/fridayhd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1522312220352.png"			
         },
         {
             "id":"17",
             "name":"Звезда HD",
-            "stream":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
+            "stream":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536610730242.png"			
         },
         {
             "id":"18",
             "name":"МИР 24 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536614122484.png"			
         },
         {
             "id":"19",
             "name":"МИР HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508243678871.png"			
         },
         {
             "id":"20",
             "name":"ТНТ HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnthd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnthd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508420635111.png"			
         },
         {
             "id":"21",
