@@ -1,4 +1,21 @@
 {
+    "version":"1.6b",
+    "adFullScreenSettings":
+	{
+        "amountStepsShowAD":1,
+        "timeShowAd":10000
+    },
+    "urgentUpdate":"false",
+    "whatNew":{
+        "title_new":"Глаз.ТВ 1.6",
+        "description_new":"Что было сделано:",
+        "items_new":[
+            " Добавлен формат HQ для популярных каналов",
+            " Исправлены ошибки"
+        ]
+    },
+    "timeBuffering":6,
+    "link_app":"https://glaz.tv/a/app-beta-1.6-release.apk",
     "channels":[
         {
             "id":"1",
