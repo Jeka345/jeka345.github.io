@@ -1,0 +1,348 @@
+{
+    "sources": {
+        "numbers": [
+            1,
+            3,
+            4,
+            5,
+            11,
+            13,
+            14,
+            15,
+            16,
+            19,
+            54,
+            302,
+            408,
+            988
+        ],
+        "replace": {
+            "/CH_1TV/": 1,
+            "/CH_MATCHTV_OTT/": 3,
+            "/CH_NTV/": 936,
+            "/CH_5TV_OTT/": 5,
+            "/CH_RENTV_OTT/": 11,
+            "/CH_STS_OTT/": 13,
+            "/CH_DOMASHNIY_OTT/": 14,
+            "/CH_TV3_OTT/": 15,
+            "/CH_PYATNIZZA_OTT/": 16,
+            "/CH_TNT_OTT/": 19,
+            "/CH_SUPER_OTT/": 54,
+            "/CH_DISNEY_OTT/": 302,
+            "/CH_TNT4_OTT/": 408,
+            "/CH_LOVENATURE4K/": 988
+        }
+    },
+    "categories": {
+        "1": 4,
+        "2": 3,
+        "3": 5,
+        "4": 6,
+        "5": 13,
+        "6": 6,
+        "7": 12,
+        "8": 11,
+        "9": 6,
+        "10": 5,
+        "11": 7,
+        "12": 173,
+        "13": 6,
+        "14": 1,
+        "15": 4,
+        "16": 9,
+        "17": 8,
+        "18": 10,
+        "19": 2
+    },
+    "itv_cats": {
+        "1": 47702,
+        "2": 10786,
+        "3": 23655,
+        "4": 46055,
+        "5": 10787,
+        "6": 46055,
+        "7": 10788,
+        "8": 4351208,
+        "9": 46055,
+        "10": 23655,
+        "11": 10820,
+        "12": 178437113,
+        "13": 46055,
+        "14": 114554800,
+        "15": 47702,
+        "16": 25361733,
+        "17": 108753427,
+        "18": 4352254,
+        "19": 2331473
+    },
+    "vod_domain": "https://zabava-htvod.cdn.ngenix.net/",
+    "asset_url": "https://fe-%s.svc.iptv.rt.ru/CacheClientJson/json/VideoMovie/list_assets?ID=%s&locationId=%s&deviceType=OTTSTB",
+    "asset_types": {
+        "0": {
+            "is_purchased": true,
+            "asset_id": 0,
+            "content_type": "media_item",
+            "media_item_type": "film",
+            "content_id": 0,
+            "content_name": "",
+            "purchase_info": {
+                "title": "Смотреть бесплатно",
+                "short_description": "Смотреть бесплатно",
+                "full_description": "Смотреть бесплатно",
+                "by_period": "Смотреть бесплатно",
+                "text_amount": "0 ₽",
+                "duration": "бесплатно",
+                "quality": "Хорошее качество"
+            },
+            "variants": [],
+            "asset_type": 0,
+            "features": [],
+            "is_download_allowed": true,
+            "seq_id": 1,
+            "is_quick_purchase": false,
+            "id": 0,
+            "bonus_price_id": 0,
+            "package_id": 0,
+            "amount": 0,
+            "currency": "RUB",
+            "price_desc": "",
+            "icon": "",
+            "usage_model": "FREE",
+            "period": -1,
+            "external_id": "",
+            "portal_id": "",
+            "apple_id": "",
+            "android_id": ""
+        },
+        "1000059": {
+            "is_purchased": true,
+            "asset_id": 0,
+            "content_type": "media_item",
+            "media_item_type": "film",
+            "content_id": 0,
+            "content_name": "",
+            "purchase_info": {
+                "title": "Высокое качество",
+                "short_description": "Смотреть в HD",
+                "full_description": "Смотреть в высоком качестве",
+                "by_period": "Смотреть в HD бесплатно",
+                "text_amount": "0 ₽",
+                "duration": "бесплатно",
+                "quality": "Качество HD"
+            },
+            "variants": [],
+            "asset_type": 1000059,
+            "features": [
+                {
+                    "title": "Высокое (HD) качество",
+                    "is_active": true
+                },
+                {
+                    "title": "Можно (попробовать) скачать в мобильном моде",
+                    "is_active": true
+                },
+                {
+                    "title": "Доступно благодаря модификации",
+                    "is_active": true
+                }
+            ],
+            "is_download_allowed": true,
+            "seq_id": 4,
+            "is_quick_purchase": false,
+            "id": 0,
+            "bonus_price_id": 0,
+            "package_id": 0,
+            "amount": 0,
+            "currency": "RUB",
+            "price_desc": "",
+            "icon": "",
+            "usage_model": "FREE",
+            "period": -1,
+            "external_id": "",
+            "portal_id": "",
+            "apple_id": "",
+            "android_id": ""
+        },
+        "2377438": {
+            "is_purchased": true,
+            "asset_id": 0,
+            "content_type": "media_item",
+            "media_item_type": "film",
+            "content_id": 0,
+            "content_name": "",
+            "purchase_info": {
+                "title": "Стандартное качество",
+                "short_description": "Смотреть в SD",
+                "full_description": "Смотреть в стандартном качестве",
+                "by_period": "Смотреть в SD бесплатно",
+                "text_amount": "0 ₽",
+                "duration": "бесплатно",
+                "quality": "Качество SD"
+            },
+            "variants": [],
+            "asset_type": 2377438,
+            "features": [
+                {
+                    "title": "Стандартное (SD) качество",
+                    "is_active": true
+                },
+                {
+                    "title": "Можно (попробовать) скачать в мобильном моде",
+                    "is_active": true
+                },
+                {
+                    "title": "Доступно благодаря модификации",
+                    "is_active": true
+                }
+            ],
+            "is_download_allowed": true,
+            "seq_id": 3,
+            "is_quick_purchase": false,
+            "id": 0,
+            "bonus_price_id": 0,
+            "package_id": 0,
+            "amount": 0,
+            "currency": "RUB",
+            "price_desc": "",
+            "icon": "",
+            "usage_model": "FREE",
+            "period": -1,
+            "external_id": "",
+            "portal_id": "",
+            "apple_id": "",
+            "android_id": ""
+        },
+        "48528946": {
+            "is_purchased": true,
+            "asset_id": 0,
+            "content_type": "media_item",
+            "media_item_type": "film",
+            "content_id": 0,
+            "content_name": "",
+            "purchase_info": {
+                "title": "Высокое качество",
+                "short_description": "Смотреть в Full HD",
+                "full_description": "Смотреть в высоком качестве",
+                "by_period": "Смотреть в Full HD бесплатно",
+                "text_amount": "0 ₽",
+                "duration": "бесплатно",
+                "quality": "Качество Full HD"
+            },
+            "variants": [],
+            "asset_type": 48528946,
+            "features": [
+                {
+                    "title": "Высокое (Full HD) качество",
+                    "is_active": true
+                },
+                {
+                    "title": "Можно (попробовать) скачать в мобильном моде",
+                    "is_active": true
+                },
+                {
+                    "title": "Доступно благодаря модификации",
+                    "is_active": true
+                }
+            ],
+            "is_download_allowed": true,
+            "seq_id": 4,
+            "is_quick_purchase": false,
+            "id": 0,
+            "bonus_price_id": 0,
+            "package_id": 0,
+            "amount": 0,
+            "currency": "RUB",
+            "price_desc": "",
+            "icon": "",
+            "usage_model": "FREE",
+            "period": -1,
+            "external_id": "",
+            "portal_id": "",
+            "apple_id": "",
+            "android_id": ""
+        },
+        "81180663": {
+            "is_purchased": true,
+            "asset_id": 0,
+            "content_type": "media_item",
+            "media_item_type": "film",
+            "content_id": 0,
+            "content_name": "",
+            "purchase_info": {
+                "title": "Сверхвысокое качество",
+                "short_description": "Смотреть в 4K",
+                "full_description": "Смотреть в сверхвысоком качестве",
+                "by_period": "Смотреть в 4K бесплатно",
+                "text_amount": "0 ₽",
+                "duration": "бесплатно",
+                "quality": "Качество 4K"
+            },
+            "variants": [],
+            "asset_type": 81180663,
+            "features": [
+                {
+                    "title": "Ультравысокое (4K) качество",
+                    "is_active": true
+                },
+                {
+                    "title": "Можно (попробовать) скачать в мобильном моде",
+                    "is_active": true
+                },
+                {
+                    "title": "Доступно благодаря модификации",
+                    "is_active": true
+                }
+            ],
+            "is_download_allowed": true,
+            "seq_id": 5,
+            "is_quick_purchase": false,
+            "id": 0,
+            "bonus_price_id": 0,
+            "package_id": 0,
+            "amount": 0,
+            "currency": "RUB",
+            "price_desc": "",
+            "icon": "",
+            "usage_model": "FREE",
+            "period": -1,
+            "external_id": "",
+            "portal_id": "",
+            "apple_id": "",
+            "android_id": ""
+        }
+    },
+    "asset_content": {
+        "id": 0,
+        "type": "ott",
+        "asset_type": 0,
+        "quality": "SD",
+        "duration": 0,
+        "ifn": "",
+        "url": "",
+        "is_crypted": true,
+        "transport": "http",
+        "is_preview": false,
+        "is_purchased": true,
+        "purchased_till": 20240924,
+        "sort_order": 4,
+        "is_download_allowed": true,
+        "drm_id": "",
+        "file_size": "",
+        "file_size_bytes": 0
+    },
+    "purchase_group": {
+        "id": 4,
+        "name": "Просмотр",
+        "options": [
+            {
+                "seq_id": 4
+            },
+            {
+                "seq_id": 3
+            }
+        ]
+    },
+    "karaoke_id": ".*user/services/20739999$",
+    "bypass_id": "0",
+    "user_agent": "WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer"
+}
