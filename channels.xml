@@ -1465,7 +1465,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-14-streamer-vbfms3/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-14-streamer-vbfms3/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1489,7 +1489,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-84-streamer-wfsflflfl/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-84-streamer-wfsflflfl/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1513,7 +1513,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-4-streamer-izyabi/index.m3u8"
+					"url": "http://cdn02.mylifeisgood.ml:24500/catena-1-4-streamer-izyabi/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1549,7 +1549,7 @@
 		},
 		{
 			"number": 65,
-			"name": "TV1000 Action HD",
+			"name": "ТВ1000 Action HD",
 			"id": 80882794,
 			"is_barker": true,
 			"is_erotic": false,
@@ -1573,7 +1573,7 @@
 		},
 		{
 			"number": 66,
-			"name": "TV1000 HD",
+			"name": "ТВ1000 HD",
 			"id": 80882339,
 			"is_barker": true,
 			"is_erotic": false,
@@ -1597,7 +1597,7 @@
 		},
 		{
 			"number": 67,
-			"name": "TV1000 Русское кино HD",
+			"name": "ТВ1000 Русское кино HD",
 			"id": 80882836,
 			"is_barker": true,
 			"is_erotic": false,
@@ -1826,7 +1826,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/matchpremiere_hd_hgkjdh/index.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/matchpremiere_hd_hgkjdh/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2315,7 +2315,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/index.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2350,31 +2350,6 @@
 			"full_logo": "/sdp/mos/nclogo1536766285308.png",
 			"logo": "/sdp/mos/nclogo1536766289571.png",
 			"background": "/sdp/mos/nclogo1536766292139.png"
-		},
-		{
-			"number": 98,
-			"name": "Остросюжетное HD",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://iptvsmotri.keenetic.pro:9600/ostrosujet_hd/video.m3u8"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
 		},
 		{
 			"number": 99,
@@ -2565,7 +2540,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/eurosport_1_hd_hlkygfgj/index.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/eurosport_1_hd_hlkygfgj/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2590,7 +2565,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/eurosport_2_hd_jtybndkhg/index.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/eurosport_2_hd_jtybndkhg/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2615,7 +2590,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/tlc_hd_hfgtuhj/index.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/tlc_hd_hfgtuhj/video.m3u8"
 				}
 			],
 			"themes": [

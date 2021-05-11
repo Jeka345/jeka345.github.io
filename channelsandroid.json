@@ -1,0 +1,629 @@
+{
+    "channels":[
+        {
+            "id":"1",
+            "name":"Первый канал HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-11-streamer-perviy/video.m3u8"
+        },
+        {
+            "id":"2",
+            "name":"Россия 1 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1"
+        },
+		{
+			"id":"3",
+			"name":"Матч! HD",
+			"stream":"http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored"
+		},
+        {
+            "id":"4",
+            "name":"НТВ HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-1-streamer-ntv/video.m3u8"
+        },
+        {
+            "id":"5",
+            "name":"Пятый канал",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-39-streamer-5tv/video.m3u8"
+        },
+        {
+            "id":"6",
+            "name":"Россия Культура",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak"
+        },
+        {
+            "id":"7",
+            "name":"Россия 24",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia24"
+        },
+        {
+            "id":"8",
+            "name":"Карусель",
+            "stream":"https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126"
+        },
+        {
+            "id":"9",
+            "name":"ОТР",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/otr"
+        },
+        {
+            "id":"10",
+            "name":"ТВ Центр",
+            "stream":"https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8"
+        },
+        {
+            "id":"11",
+            "name":"Рен ТВ HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-85-streamer-rentv/video.m3u8"
+        },
+        {
+            "id":"12",
+            "name":"Спас",
+            "stream":"http://spastv.ru/playlist.m3u8"
+        },
+        {
+            "id":"13",
+            "name":"CТС HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/stsweb/video.m3u8"
+        },
+        {
+            "id":"14",
+            "name":"Домашний",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/domatvweb/video.m3u8"
+        },
+        {
+            "id":"15",
+            "name":"ТВ3 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tv3hd"
+        },
+        {
+            "id":"16",
+            "name":"Пятница HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/fridayhd"
+        },
+        {
+            "id":"17",
+            "name":"Звезда HD",
+            "stream":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
+        },
+        {
+            "id":"18",
+            "name":"МИР 24 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium"
+        },
+        {
+            "id":"19",
+            "name":"МИР HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/mirhd"
+        },
+        {
+            "id":"20",
+            "name":"ТНТ HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnthd"
+        },
+        {
+            "id":"21",
+            "name":"Кино ТВ",
+            "stream":"http://live-1.otcnet.ru/kinotvsd/video.m3u8"
+        },
+		{
+            "id":"22",
+            "name":"Муз ТВ",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/muztvweb/video.m3u8"
+        },
+        {
+            "id":"23",
+            "name":"Че",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-114-streamer-che/video.m3u8"
+        },
+		{
+			"id":"24",
+			"name":"Ю",
+			"stream":"http://cdn02.mylifeisgood.ml:24500/utvweb/video.m3u8"
+		},
+        {
+            "id":"25",
+            "name":"Суббота HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/super"
+        },
+        {
+            "id":"26",
+            "name":"Победа HD",
+            "stream":"https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8"
+        },
+        {
+            "id":"27",
+            "name":"2x2 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/2x2"
+        },
+        {
+            "id":"28",
+            "name":"ТНТ4 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnt4"
+        },
+        {
+            "id":"29",
+            "name":"Disney",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-21-streamer-disney/video.m3u8"
+        },
+        {
+            "id":"30",
+            "name":"Россия 1 (+1)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-1"
+        },
+        {
+            "id":"31",
+            "name":"Россия 1 (+2)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-2"
+        },
+        {
+            "id":"32",
+            "name":"Россия 1 (+3)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-3"
+        },
+        {
+            "id":"33",
+            "name":"Россия 1 (+4)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-4"
+        },
+        {
+            "id":"34",
+            "name":"Россия 1 (+5)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-5"
+        },
+        {
+            "id":"35",
+            "name":"Россия 1 (+6)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-6"
+        },
+        {
+            "id":"36",
+			"name":"Россия 1 (+7)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-7"
+        },
+        {
+            "id":"37",
+            "name":"Россия 1 (+8)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-8"
+        },
+        {
+            "id":"38",
+            "name":"Россия 1 (+9)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-9"
+        },
+        {
+            "id":"39",
+            "name":"Россия К (+2)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-2"
+        },
+        {
+            "id":"40",
+            "name":"Россия К (+4)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-4"
+        },
+        {
+            "id":"41",
+            "name":"Россия К (+7)",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-7"
+        },
+        {
+            "id":"42",
+            "name":"Вести FM",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vestifm"
+        },
+		{
+            "id":"43",
+            "name":"АГТРК HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/apsuaregional/video.m3u8"
+        },
+        {
+            "id":"44",
+            "name":"Москва 24",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/moscow24"
+        },
+		{
+			"id":"45",
+			"name":"Москва. Доверие",
+			"stream":"http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie"
+		},
+        {
+            "id":"46",
+            "name":"Афонтово",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/afontovo"
+        },
+        {
+            "id":"47",
+            "name":"Дзержинск ТВ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dzertv"
+        },
+        {
+            "id":"48",
+            "name":"Рифей ТВ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rifei"
+        },
+        {
+            "id":"49",
+            "name":"Ростов Папа HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rostovpapa"
+        },
+        {
+            "id":"50",
+            "name":"Телеканал 360",
+            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8"
+        },
+        {
+            "id":"51",
+            "name":"Новости 360",
+            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8"
+        },
+        {
+            "id":"52",
+            "name":"ТВ Губерния",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tvgubernia"
+        },
+        {
+            "id":"53",
+            "name":"Универ ТВ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/univertv"
+        },
+        {
+            "id":"54",
+            "name":"Эфир Казань",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/efir"
+        },
+        {
+            "id":"55",
+            "name":"Ямал регион",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yamal"
+        },
+        {
+            "id":"56",
+            "name":"Россия РТР",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiartr"
+        },
+        {
+            "id":"57",
+            "name":"National Geographic HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-96-streamer-nafgkcfkxa/video.m3u8"
+        },
+        {
+            "id":"58",
+            "name":"Viasat Explore HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-9-streamer-vipexplorehd/video.m3u8"
+        },
+        {
+            "id":"59",
+            "name":"Viasat History HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-2-streamer-viphistoryhd/video.m3u8"
+        },
+        {
+            "id":"60",
+            "name":"Моя Планета",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/myplanet"
+        },
+        {
+            "id":"61",
+            "name":"Viasat Nature HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-14-streamer-vbfms3/index.m3u8"
+        },
+        {
+            "id":"62",
+            "name":"Оружие",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-84-streamer-wfsflflfl/index.m3u8"
+        },
+        {
+            "id":"63",
+            "name":"Известия HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-4-streamer-izyabi/index.m3u8"
+        },
+		{
+            "id":"64",
+            "name":"Вместе РФ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vmesterf"
+        },
+        {
+            "id":"65",
+            "name":"ТВ1000 Action HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-71-streamer-vipaction/video.m3u8"
+        },
+        {
+            "id":"66",
+            "name":"ТВ1000 HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-26-streamer-vip1000/video.m3u8"
+        },
+        {
+            "id":"67",
+			"name":"ТВ1000 Русское Кино HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-51-streamer-vipruskino/video.m3u8"
+        },
+        {
+            "id":"68",
+            "name":"FOX HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-112-streamer-fox/video.m3u8"
+        },
+        {
+            "id":"69",
+            "name":"Fox Life HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-88-streamer-fox-life/video.m3u8"
+        },
+        {
+            "id":"70",
+            "name":"Феникс+Кино",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-59-streamer-fenikskino/video.m3u8"
+        },
+        {
+            "id":"71",
+            "name":"VIP Premiere HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-32-streamer-vippremiere/video.m3u8"
+        },
+        {
+            "id":"72",
+            "name":"VIP Megahit HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-97-streamer-vipmegahit/video.m3u8"
+        },
+        {
+            "id":"73",
+            "name":"VIP Comedy HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-77-streamer-vipcomedy/video.m3u8"
+        },
+		{
+            "id":"74",
+            "name":"VIP Serial HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-100-streamer-vipserialhd/video.m3u8"
+        },
+        {
+            "id":"75",
+            "name":"Матч! Страна",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/matchstrana"
+        },
+		{
+			"id":"76",
+			"name":"Матч! Премьер HD",
+			"stream":"http://streamer2.iptvsmotri.ru:9600/matchpremiere_hd_hgkjdh/index.m3u8"
+		},
+        {
+            "id":"77",
+            "name":"Viasat Sport HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-107-streamer-vipsporthd/video.m3u8"
+        },
+        {
+            "id":"78",
+            "name":"Da vinci",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-113-streamer-davinci/video.m3u8"
+        },
+        {
+            "id":"79",
+            "name":"СТС Kids HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-54-streamer-davictc/video.m3u8"
+        },
+        {
+            "id":"80",
+            "name":"Анекдот ТВ",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-34-streamer-anekdottv/video.m3u8"
+        },
+        {
+            "id":"81",
+            "name":"Пес и Ко",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/pesandko"
+        },
+        {
+            "id":"82",
+            "name":"Эхо Москвы",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ehomoscow"
+        },
+        {
+            "id":"83",
+            "name":"Music Box Gold",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/musicboxgold"
+        },
+        {
+            "id":"84",
+            "name":"ТНТ Music",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tntmusic"
+        },
+        {
+            "id":"85",
+            "name":"Смайлик",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/smile"
+        },
+        {
+            "id":"86",
+            "name":"О Кино",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/okino"
+        },
+        {
+            "id":"87",
+            "name":"НТС Севастополь",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ntc"
+        },
+        {
+            "id":"88",
+            "name":"Страна FM",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/stranafm"
+        },
+        {
+            "id":"89",
+            "name":"Старт HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/starthd"
+        },
+        {
+            "id":"90",
+            "name":"UFC ТВ",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-42-streamer-ufc/video.m3u8"
+        },
+        {
+            "id":"91",
+            "name":"Охотник и Рыболов HD Int",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint"
+        },
+        {
+            "id":"92",
+            "name":"Загородный HD Int",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint"
+        },
+        {
+            "id":"93",
+            "name":"Наша Сибирь HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd"
+        },
+        {
+            "id":"94",
+            "name":"Европа Плюс ТВ HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplustv"
+        },
+		{
+            "id":"95",
+            "name":"Под Водой",
+            "stream":"http://live-1.otcnet.ru/podvodoi/video.m3u8"
+        },
+		{
+			"id":"96",
+			"name":"Мосфильм. Золотая коллекция HD",
+			"stream":"http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/index.m3u8"
+		},
+        {
+            "id":"97",
+            "name":"Gulli Girl",
+            "stream":"http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
+        },
+        {
+            "id":"98",
+            "name":"Матч! Футбол 1",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl1/video.m3u8"
+        },
+        {
+            "id":"99",
+            "name":"Матч! Футбол 2",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl2/video.m3u8"
+        },
+        {
+            "id":"100",
+            "name":"Матч! Футбол 3",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl3/video.m3u8"
+        },
+        {
+            "id":"101",
+            "name":"Матч! Арена",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprarn/video.m3u8"
+        },
+        {
+            "id":"102",
+            "name":"Матч! Боец",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprbec/video.m3u8"
+        },
+        {
+            "id":"103",
+            "name":"Матч! Игра HD",
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprigr/video.m3u8"
+        },
+        {
+            "id":"104",
+            "name":"Discovery HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/discoverybreak"
+        },
+        {
+            "id":"105",
+            "name":"Евроспорт 1 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport1hd"
+        },
+        {
+            "id":"106",
+            "name":"Евроспорт 2 HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport2hd"
+        },
+        {
+            "id":"107",
+            "name":"TLC HD",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tlchd"
+        },
+        {
+            "id":"108",
+            "name":"Радио родных дорог",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog"
+        },
+        {
+            "id":"109",
+            "name":"Дорожное Радио",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio"
+        },
+        {
+            "id":"110",
+            "name":"Радио Европа Плюс",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplusradio"
+        },
+        {
+            "id":"111",
+            "name":"Авторадио",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/avtoradio"
+        },
+        {
+            "id":"112",
+            "name":"Радио Maximus",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiomaximus"
+        },
+        {
+            "id":"113",
+            "name":"Русское Радио",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rusradio"
+        },
+        {
+            "id":"114",
+            "name":"Юмор ФМ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yumorfm"
+        },
+		{
+            "id":"115",
+            "name":"Радио Ваня",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiovanya"
+        },
+        {
+            "id":"116",
+            "name":"Радио Comedy",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/comedyradio"
+        },
+        {
+            "id":"117",
+            "name":"Радио DFM",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodfm"
+        },
+        {
+            "id":"118",
+            "name":"Ретро ФМ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/retrofm"
+        },
+        {
+            "id":"119",
+            "name":"Радио Хит ФМ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiohitfm"
+        },
+        {
+            "id":"120",
+            "name":"Радио комсомольская правда",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda"
+        },
+        {
+            "id":"121",
+            "name":"Energy FM",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioenegry"
+        },
+        {
+            "id":"122",
+            "name":"Радио Romantica",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioromantica"
+        },
+		{
+            "id":"123",
+            "name":"Радио для двоих",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix"
+        },
+        {
+            "id":"124",
+            "name":"Радио ТВ",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiotv"
+        },
+        {
+            "id":"125",
+            "name":"Радио Град Петров",
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov"
+        }
+    ]
+}
