@@ -33,7 +33,7 @@
         {
             "id":"4",
             "name":"НТВ HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-1-streamer-ntv/video.m3u8"
+            "stream":"http://website.mylifeisgood.ml/channels/ntv"
         },
         {
             "id":"5",
