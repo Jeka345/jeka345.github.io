@@ -22,43 +22,43 @@
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1529397813326.png"
         },
         {
-            "id":"2",
+            "id":"576",
             "name":"Россия 1 HD",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612738365.png"
         },
 		{
-			"id":"3",
+			"id":"577",
 			"name":"Матч! HD",
 			"stream":"http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1572514677030.png"			
 		},
         {
-            "id":"4",
+            "id":"519",
             "name":"НТВ HD",
             "stream":"http://website.mylifeisgood.ml/channels/ntv",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516193016598.png"			
         },
         {
-            "id":"5",
+            "id":"548",
             "name":"Пятый канал",
             "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-39-streamer-5tv/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png"			
         },
         {
-            "id":"6",
+            "id":"680",
             "name":"Россия Культура",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png"
         },
         {
-            "id":"7",
+            "id":"578",
             "name":"Россия 24",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia24",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497528181419.png"
         },
         {
-            "id":"8",
+            "id":"481",
             "name":"Карусель",
             "stream":"https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602681864854.png"			
@@ -70,49 +70,49 @@
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png"			
         },
         {
-            "id":"10",
+            "id":"708",
             "name":"ТВ Центр",
             "stream":"https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536609967851.png"			
         },
         {
-            "id":"11",
+            "id":"556",
             "name":"Рен ТВ HD",
             "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-85-streamer-rentv/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1532358088298.png"			
         },
         {
-            "id":"12",
+            "id":"784",
             "name":"Спас",
             "stream":"http://spastv.ru/playlist.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1569483524977.png"			
         },
         {
-            "id":"13",
+            "id":"601",
             "name":"CТС HD",
             "stream":"http://cdn02.mylifeisgood.ml:24500/stsweb/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1533311356055.png"			
         },
         {
-            "id":"14",
+            "id":"672",
             "name":"Домашний",
             "stream":"http://cdn02.mylifeisgood.ml:24500/domatvweb/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1519580577683.png"			
         },
         {
-            "id":"15",
+            "id":"677",
             "name":"ТВ3 HD",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/tv3hd",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1507133404466.png"			
         },
         {
-            "id":"16",
+            "id":"455",
             "name":"Пятница HD",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/fridayhd",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1522312220352.png"			
         },
         {
-            "id":"17",
+            "id":"460",
             "name":"Звезда HD",
             "stream":"https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536610730242.png"			
@@ -130,7 +130,7 @@
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508243678871.png"			
         },
         {
-            "id":"20",
+            "id":"659",
             "name":"ТНТ HD",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnthd",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508420635111.png"			
@@ -138,447 +138,536 @@
         {
             "id":"21",
             "name":"Кино ТВ",
-            "stream":"http://live-1.otcnet.ru/kinotvsd/video.m3u8"
+            "stream":"http://live-1.otcnet.ru/kinotvsd/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png"			
         },
 		{
-            "id":"22",
+            "id":"508",
             "name":"Муз ТВ",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/muztvweb/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/muztvweb/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536675148376.png"
         },
         {
-            "id":"23",
+            "id":"454",
             "name":"Че",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-114-streamer-che/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-114-streamer-che/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1549532917385.png"
         },
 		{
 			"id":"24",
 			"name":"Ю",
-			"stream":"http://cdn02.mylifeisgood.ml:24500/utvweb/video.m3u8"
+			"stream":"http://cdn02.mylifeisgood.ml:24500/utvweb/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536331049265.png"
 		},
         {
-            "id":"25",
+            "id":"811",
             "name":"Суббота HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/super"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/super",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1612112008234.png"
         },
         {
             "id":"26",
             "name":"Победа HD",
-            "stream":"https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8"
+            "stream":"https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1554828871350.png"			
         },
         {
-            "id":"27",
+            "id":"681",
             "name":"2x2 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/2x2"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/2x2",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508250192087.png"			
         },
         {
-            "id":"28",
+            "id":"764",
             "name":"ТНТ4 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnt4"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tnt4",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1534762634936.png"			
         },
         {
             "id":"29",
             "name":"Disney",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-21-streamer-disney/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-21-streamer-disney/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1544172455207.png"
         },
         {
             "id":"30",
             "name":"Россия 1 (+1)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-1"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-1",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"31",
             "name":"Россия 1 (+2)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-2"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-2",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"32",
             "name":"Россия 1 (+3)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-3"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-3",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"33",
             "name":"Россия 1 (+4)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-4"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-4",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"34",
             "name":"Россия 1 (+5)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-5"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-5",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"35",
             "name":"Россия 1 (+6)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-6"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-6",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"36",
 			"name":"Россия 1 (+7)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-7"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-7",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"37",
             "name":"Россия 1 (+8)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-8"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"38",
             "name":"Россия 1 (+9)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-9"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russia1-9",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png"
         },
         {
             "id":"39",
             "name":"Россия К (+2)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-2"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-2",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497344375928.png"			
         },
         {
             "id":"40",
             "name":"Россия К (+4)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-4"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-4",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497344375928.png"		
         },
         {
             "id":"41",
             "name":"Россия К (+7)",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-7"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiak-7",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497344375928.png"	
         },
         {
             "id":"42",
             "name":"Вести FM",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vestifm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vestifm",
+			"logo": "https://radiopotok.ru/f/station/512/644.png"
         },
 		{
             "id":"43",
             "name":"АГТРК HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/apsuaregional/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/apsuaregional/video.m3u8",
+			"logo": "https://i.imgur.com/j0RUk4F.png"
         },
         {
             "id":"44",
             "name":"Москва 24",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/moscow24"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/moscow24",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1583844644861.png"			
         },
 		{
 			"id":"45",
 			"name":"Москва. Доверие",
-			"stream":"http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie"
+			"stream":"http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1515662710213.png"		
 		},
         {
             "id":"46",
             "name":"Афонтово",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/afontovo"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/afontovo",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ural/nclogo1525680745523.png"
         },
         {
             "id":"47",
             "name":"Дзержинск ТВ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dzertv"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dzertv",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/broadcastChannel1584428583719.png"
         },
         {
             "id":"48",
             "name":"Рифей ТВ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rifei"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rifei",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ural/nclogo1567404503191.png"
         },
         {
             "id":"49",
             "name":"Ростов Папа HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rostovpapa"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rostovpapa",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/sth/nclogo1509619940307.png"
         },
         {
             "id":"50",
             "name":"Телеканал 360",
-            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8"
+            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1524557207303.png"
         },
         {
             "id":"51",
             "name":"Новости 360",
-            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8"
+            "stream":"https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1533293011586.png"
         },
         {
             "id":"52",
             "name":"ТВ Губерния",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tvgubernia"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tvgubernia",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/broadcastChannel1424271967464.png"
         },
         {
             "id":"53",
             "name":"Универ ТВ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/univertv"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/univertv",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/broadcastChannel1478000377891.jpg"
         },
         {
             "id":"54",
             "name":"Эфир Казань",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/efir"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/efir",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/vlg/broadcastChannel1553852165519.jpg"
         },
         {
             "id":"55",
             "name":"Ямал регион",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yamal"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yamal",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ural/nclogo1525680009102.png"
         },
         {
             "id":"56",
             "name":"Россия РТР",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiartr"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/russiartr",
+			"logo": "http://cdnfilesproject.sytes.net/iptvdevcm/russiartr.png"
         },
         {
             "id":"57",
             "name":"National Geographic HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-96-streamer-nafgkcfkxa/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-96-streamer-nafgkcfkxa/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1535620466339.png"
         },
         {
             "id":"58",
             "name":"Viasat Explore HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-9-streamer-vipexplorehd/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-9-streamer-vipexplorehd/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593515024787.png"
         },
         {
             "id":"59",
             "name":"Viasat History HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-2-streamer-viphistoryhd/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-2-streamer-viphistoryhd/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514427579.png"
         },
         {
-            "id":"60",
+            "id":"682",
             "name":"Моя Планета",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/myplanet"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/myplanet",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246944970.png"
         },
         {
             "id":"61",
             "name":"Viasat Nature HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-14-streamer-vbfms3/index.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-14-streamer-vbfms3/index.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514405658.png"
         },
         {
-            "id":"62",
+            "id":"777",
             "name":"Оружие",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-84-streamer-wfsflflfl/index.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-84-streamer-wfsflflfl/index.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1547125351834.png"
         },
         {
             "id":"63",
             "name":"Известия HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-4-streamer-izyabi/index.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-4-streamer-izyabi/index.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1543571854883.png"
         },
 		{
             "id":"64",
             "name":"Вместе РФ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vmesterf"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/vmesterf",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1535892504685.png"
         },
         {
             "id":"65",
             "name":"ТВ1000 Action HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-71-streamer-vipaction/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-71-streamer-vipaction/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514116881.png"
         },
         {
             "id":"66",
             "name":"ТВ1000 HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-26-streamer-vip1000/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-26-streamer-vip1000/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514194654.png"
         },
         {
             "id":"67",
 			"name":"ТВ1000 Русское Кино HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-51-streamer-vipruskino/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-51-streamer-vipruskino/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514220982.png"
         },
         {
             "id":"68",
             "name":"FOX HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-112-streamer-fox/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-112-streamer-fox/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536308528386.png"
         },
         {
             "id":"69",
             "name":"Fox Life HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-88-streamer-fox-life/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-88-streamer-fox-life/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508933868682.png"
         },
         {
             "id":"70",
             "name":"Феникс+Кино",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-59-streamer-fenikskino/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-59-streamer-fenikskino/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1546048595577.png"
         },
         {
             "id":"71",
             "name":"VIP Premiere HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-32-streamer-vippremiere/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-32-streamer-vippremiere/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514245957.png"
         },
         {
             "id":"72",
             "name":"VIP Megahit HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-97-streamer-vipmegahit/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-97-streamer-vipmegahit/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514267143.png"
         },
         {
             "id":"73",
             "name":"VIP Comedy HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-77-streamer-vipcomedy/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-77-streamer-vipcomedy/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514287074.png"
         },
 		{
             "id":"74",
             "name":"VIP Serial HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-100-streamer-vipserialhd/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-100-streamer-vipserialhd/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514331524.png"
         },
         {
             "id":"75",
             "name":"Матч! Страна",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/matchstrana"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/matchstrana",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1551687506107.png"
         },
 		{
 			"id":"76",
 			"name":"Матч! Премьер HD",
-			"stream":"http://streamer2.iptvsmotri.ru:9600/matchpremiere_hd_hgkjdh/index.m3u8"
+			"stream":"http://streamer2.iptvsmotri.ru:9600/matchpremiere_hd_hgkjdh/index.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1532695038074.png"
 		},
         {
             "id":"77",
             "name":"Viasat Sport HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-107-streamer-vipsporthd/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-107-streamer-vipsporthd/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514353890.png"
         },
         {
             "id":"78",
             "name":"Da vinci",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-113-streamer-davinci/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-113-streamer-davinci/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514521243.png"
         },
         {
             "id":"79",
             "name":"СТС Kids HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-54-streamer-davictc/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-54-streamer-davictc/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1534923709826.png"
         },
         {
             "id":"80",
             "name":"Анекдот ТВ",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-34-streamer-anekdottv/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-34-streamer-anekdottv/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600539849.png"
         },
         {
             "id":"81",
             "name":"Пес и Ко",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/pesandko"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/pesandko",
+			"logo": "https://www.cableman.ru/sites/default/files/pes_i_ko_obychnyy.jpg"
         },
         {
             "id":"82",
             "name":"Эхо Москвы",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ehomoscow"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ehomoscow",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Echo_of_moscow_logo.svg/1200px-Echo_of_moscow_logo.svg.png"
         },
         {
             "id":"83",
             "name":"Music Box Gold",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/musicboxgold"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/musicboxgold",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949637593.png"
         },
         {
             "id":"84",
             "name":"ТНТ Music",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tntmusic"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tntmusic",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1531394833182.png"
         },
         {
             "id":"85",
             "name":"Смайлик",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/smile"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/smile",
+			"logo": "https://smilik.tv/wp-content/uploads/2015/01/logo2_smilik.png"
         },
         {
             "id":"86",
             "name":"О Кино",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/okino"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/okino",
+			"logo": "https://www.cableman.ru/sites/default/files/o_kino_obychnyy_1.png"
         },
         {
             "id":"87",
             "name":"НТС Севастополь",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ntc"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ntc",
+			"logo": "http://cdnfilesproject.sytes.net/iptvdevcm/ntc.jpg"
         },
         {
             "id":"88",
             "name":"Страна FM",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/stranafm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/stranafm",
+			"logo": "http://cdnfilesproject.sytes.net/iptvdevcm/stranafm.png"
         },
         {
             "id":"89",
             "name":"Старт HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/starthd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/starthd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1575564894923.png"
         },
         {
             "id":"90",
             "name":"UFC ТВ",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-42-streamer-ufc/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-42-streamer-ufc/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1555519051273.png"
         },
         {
             "id":"91",
             "name":"Охотник и Рыболов HD Int",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1535708220234.png"
         },
         {
             "id":"92",
             "name":"Загородный HD Int",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint",
+			"logo": "https://kino.tricolor.tv/upload/iblock/0be/0befe5b0472a891c4830faced9d5d07e.jpeg"
         },
         {
             "id":"93",
             "name":"Наша Сибирь HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601882614829.png"
         },
         {
-            "id":"94",
+            "id":"675",
             "name":"Европа Плюс ТВ HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplustv"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplustv",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600683226.png"
         },
 		{
             "id":"95",
             "name":"Под Водой",
-            "stream":"http://live-1.otcnet.ru/podvodoi/video.m3u8"
+            "stream":"http://live-1.otcnet.ru/podvodoi/video.m3u8",
+			"logo": "https://www.cableman.ru/sites/default/files/2020/pv_logo.jpg"
         },
 		{
 			"id":"96",
 			"name":"Мосфильм. Золотая коллекция HD",
-			"stream":"http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/index.m3u8"
+			"stream":"http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/index.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1609141825334.png"
 		},
         {
             "id":"97",
             "name":"Gulli Girl",
-            "stream":"http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
+            "stream":"http://live-1.otcnet.ru/Gulli_OT/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536766285308.png"
         },
         {
             "id":"98",
             "name":"Матч! Футбол 1",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl1/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl1/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849625746.png"
         },
         {
             "id":"99",
             "name":"Матч! Футбол 2",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl2/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl2/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849658331.png"
         },
         {
             "id":"100",
             "name":"Матч! Футбол 3",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl3/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprftbl3/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849696895.png"
         },
         {
             "id":"101",
             "name":"Матч! Арена",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprarn/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprarn/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251174538.png"
         },
         {
-            "id":"102",
+            "id":"723",
             "name":"Матч! Боец",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprbec/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprbec/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497608835928.png"
         },
         {
             "id":"103",
             "name":"Матч! Игра HD",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/mprigr/video.m3u8"
+            "stream":"http://cdn02.mylifeisgood.ml:24500/mprigr/video.m3u8",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251445090.png"
         },
         {
             "id":"104",
             "name":"Discovery HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/discoverybreak"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/discoverybreak",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1567606573248.png"
         },
         {
             "id":"105",
             "name":"Евроспорт 1 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport1hd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport1hd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251593211.png"
         },
         {
             "id":"106",
             "name":"Евроспорт 2 HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport2hd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/eurosport2hd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png"
         },
         {
             "id":"107",
             "name":"TLC HD",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tlchd"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/tlchd",
+			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497613030115.png"
         },
         {
             "id":"108",
             "name":"Радио родных дорог",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog",
+			"logo": "https://kino.tricolor.tv/upload/iblock/929/929f9d277bd15f65a1bd3f0bc65c7647.jpeg"
         },
         {
             "id":"109",
             "name":"Дорожное Радио",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio",
+			"logo": "https://kino.tricolor.tv/upload/iblock/69a/69acd964ef8ca7df4f01984349978e85.jpeg"
         },
         {
             "id":"110",
@@ -593,22 +682,26 @@
         {
             "id":"112",
             "name":"Радио Maximus",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiomaximus"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiomaximus",
+			"logo": "https://kino.tricolor.tv/upload/iblock/c43/c43139a6cc8d55ae2ee1bc29fe632865.jpeg"
         },
         {
             "id":"113",
             "name":"Русское Радио",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rusradio"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/rusradio",
+			"logo": "https://kino.tricolor.tv/upload/iblock/648/648722c94140132b7026731a06d75d4a.jpeg"
         },
         {
             "id":"114",
             "name":"Юмор ФМ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yumorfm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/yumorfm",
+			"logo": "https://kino.tricolor.tv/upload/iblock/768/76883d3b5b93d0c3ec1460595bedac6e.jpeg"
         },
 		{
             "id":"115",
             "name":"Радио Ваня",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiovanya"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiovanya",
+			"logo": "https://kino.tricolor.tv/upload/iblock/570/570dba4d1dd75cfe1f1c9da971dcfd2c.jpeg"
         },
         {
             "id":"116",
@@ -623,7 +716,8 @@
         {
             "id":"118",
             "name":"Ретро ФМ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/retrofm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/retrofm",
+			"logo": "https://kino.tricolor.tv/upload/iblock/0fb/0fb425f8b21139aa7c39d3da322abdda.jpeg"
         },
         {
             "id":"119",
@@ -633,7 +727,8 @@
         {
             "id":"120",
             "name":"Радио комсомольская правда",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda",
+			"logo": "https://kino.tricolor.tv/upload/iblock/41e/41e5956ecfe081f79647c712696cc023.jpeg"
         },
         {
             "id":"121",
@@ -643,22 +738,26 @@
         {
             "id":"122",
             "name":"Радио Romantica",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioromantica"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioromantica",
+			"logo": "https://kino.tricolor.tv/upload/iblock/1f2/1f2c57926178d49e2ee5b8fb1eb08cc5.jpeg"
         },
 		{
             "id":"123",
             "name":"Радио для двоих",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix",
+			"logo": "https://kino.tricolor.tv/upload/iblock/081/081c177687e8bac8abfa2a816d4376c8.jpeg"
         },
         {
             "id":"124",
             "name":"Радио ТВ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiotv"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiotv",
+			"logo": "https://kino.tricolor.tv/upload/iblock/0b2/0b2907cb47684b41b78205db3c1bb611.png"
         },
         {
             "id":"125",
             "name":"Радио Град Петров",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov",
+			"logo": "https://kino.tricolor.tv/upload/iblock/1ba/1ba26f3d6c54ed08cebeb1174f36d7a8.jpeg"
         }
     ]
 }
