@@ -16,7 +16,7 @@
     "link_app":"",
     "channels":[
         {
-            "id":"1",
+            "id":"534",
             "name":"Первый канал HD",
             "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-11-streamer-perviy/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1529397813326.png"
