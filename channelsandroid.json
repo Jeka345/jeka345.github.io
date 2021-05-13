@@ -12,7 +12,7 @@
         "description_new":"",
         "items_new":[ "", "" ]
     },
-    "timeBuffering":6,
+    "timeBuffering":12,
     "link_app":"",
     "channels":[
         {
