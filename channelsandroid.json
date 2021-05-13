@@ -42,7 +42,7 @@
         {
             "id":"548",
             "name":"Пятый канал",
-            "stream":"http://cdn02.mylifeisgood.ml:24500/catena-1-39-streamer-5tv/video.m3u8",
+            "stream":"http://website.mylifeisgood.ml/channels/5tv",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png"			
         },
         {
