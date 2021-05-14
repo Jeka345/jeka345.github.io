@@ -2314,7 +2314,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd/video.m3u8"
+					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd_hgytufj/index.m3u8"
 				}
 			],
 			"themes": [
