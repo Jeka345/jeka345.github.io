@@ -661,103 +661,109 @@
             "id":"108",
             "name":"Радио родных дорог",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog",
-			"logo": "https://kino.tricolor.tv/upload/iblock/929/929f9d277bd15f65a1bd3f0bc65c7647.jpeg"
+			"logo": "https://i.imgur.com/YlgJdT6.png"
         },
         {
             "id":"109",
             "name":"Дорожное Радио",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio",
-			"logo": "https://kino.tricolor.tv/upload/iblock/69a/69acd964ef8ca7df4f01984349978e85.jpeg"
+			"logo": "https://i.imgur.com/rbfVLm8.png"
         },
         {
             "id":"110",
             "name":"Радио Европа Плюс",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplusradio"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/europaplusradio",
+			"logo": "https://i.imgur.com/PlAiIoT.png"
         },
         {
             "id":"111",
             "name":"Авторадио",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/avtoradio"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/avtoradio",
+			"logo": "https://i.imgur.com/SPaSFKm.png"
         },
         {
             "id":"112",
             "name":"Радио Maximus",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiomaximus",
-			"logo": "https://kino.tricolor.tv/upload/iblock/c43/c43139a6cc8d55ae2ee1bc29fe632865.jpeg"
+			"logo": "https://i.imgur.com/C9PbJi8.png"
         },
         {
             "id":"113",
             "name":"Русское Радио",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/rusradio",
-			"logo": "https://kino.tricolor.tv/upload/iblock/648/648722c94140132b7026731a06d75d4a.jpeg"
+			"logo": "https://i.imgur.com/lGpIWNJ.png"
         },
         {
             "id":"114",
             "name":"Юмор ФМ",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/yumorfm",
-			"logo": "https://kino.tricolor.tv/upload/iblock/768/76883d3b5b93d0c3ec1460595bedac6e.jpeg"
+			"logo": "https://i.imgur.com/gHSUj4O.png"
         },
 		{
             "id":"115",
             "name":"Радио Ваня",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiovanya",
-			"logo": "https://kino.tricolor.tv/upload/iblock/570/570dba4d1dd75cfe1f1c9da971dcfd2c.jpeg"
+			"logo": "https://i.imgur.com/1eUJFXg.png"
         },
         {
             "id":"116",
             "name":"Радио Comedy",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/comedyradio"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/comedyradio",
+			"logo": "https://i.imgur.com/ZNEfhcZ.png"
         },
         {
             "id":"117",
             "name":"Радио DFM",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodfm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodfm",
+			"logo": "https://i.imgur.com/JpP6WVP.png"
         },
         {
             "id":"118",
             "name":"Ретро ФМ",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/retrofm",
-			"logo": "https://kino.tricolor.tv/upload/iblock/0fb/0fb425f8b21139aa7c39d3da322abdda.jpeg"
+			"logo": "https://i.imgur.com/QX43rbX.png"
         },
         {
             "id":"119",
             "name":"Радио Хит ФМ",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiohitfm"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiohitfm",
+			"logo": "https://i.imgur.com/SRvmcnD.png"
         },
         {
             "id":"120",
             "name":"Радио комсомольская правда",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda",
-			"logo": "https://kino.tricolor.tv/upload/iblock/41e/41e5956ecfe081f79647c712696cc023.jpeg"
+			"logo": "https://i.imgur.com/egHo3Ce.png"
         },
         {
             "id":"121",
             "name":"Energy FM",
-            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioenegry"
+            "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioenegry",
+			"logo": "https://i.imgur.com/DFP7eYW.png"
         },
         {
             "id":"122",
             "name":"Радио Romantica",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radioromantica",
-			"logo": "https://kino.tricolor.tv/upload/iblock/1f2/1f2c57926178d49e2ee5b8fb1eb08cc5.jpeg"
+			"logo": "https://i.imgur.com/hqB4yKd.png"
         },
 		{
             "id":"123",
             "name":"Радио для двоих",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix",
-			"logo": "https://kino.tricolor.tv/upload/iblock/081/081c177687e8bac8abfa2a816d4376c8.jpeg"
+			"logo": "https://i.imgur.com/9g2vos8.png"
         },
         {
             "id":"124",
             "name":"Радио ТВ",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiotv",
-			"logo": "https://kino.tricolor.tv/upload/iblock/0b2/0b2907cb47684b41b78205db3c1bb611.png"
+			"logo": "https://i.imgur.com/8jjubUD.png"
         },
         {
             "id":"125",
             "name":"Радио Град Петров",
             "stream":"http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov",
-			"logo": "https://kino.tricolor.tv/upload/iblock/1ba/1ba26f3d6c54ed08cebeb1174f36d7a8.jpeg"
+			"logo": "https://i.imgur.com/yzaxw6y.png"
         }
     ]
 }
