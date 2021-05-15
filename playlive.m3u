@@ -14,7 +14,13 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchhd_nocensored
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
 http://website.mylifeisgood.ml/mfolive.m3u8?media=match
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchpremiere
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchpremace
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb1ace
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 2
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb2ace
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb3ace
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
 http://website.mylifeisgood.ml/mfolive.m3u8?media=5tv
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
