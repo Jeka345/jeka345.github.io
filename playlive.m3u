@@ -10,9 +10,7 @@ http://website.mylifeisgood.ml/mfolive.m3u8?media=rentv
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
 http://website.mylifeisgood.ml/mfolive.m3u8?media=ntv
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" description="Без ограничения на матчи",Матч! HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchhd_nocensored
-#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч!
-http://website.mylifeisgood.ml/mfolive.m3u8?media=match
+http://website.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchpremace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
