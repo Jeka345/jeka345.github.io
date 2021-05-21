@@ -64,7 +64,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored"
+					"url": "http://website.mylifeisgood.ml/channels/matchhd_nocensored"
 				}
 			],
 			"themes": [
