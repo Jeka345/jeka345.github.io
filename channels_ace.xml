@@ -2,33 +2,9 @@
 	"total_items": 125,
 	"items": [
 		{
-			"number": 0,
-			"name": "Информационный HD",
-			"id": 0,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://webfight.mylifeisgood.ml/play/infochannel/j5Wzdx9Ho0/video.m3u8"
-				}
-			],
-			"themes": [
-				0
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 1,
-			"name": "Первый канал HD",
-			"id": 1000069,
+			"name": "В гостях у сказки",
+			"id": 95475825,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -39,21 +15,22 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-11-streamer-perviy/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/7fc09845ec7a75283f22147697b5475f5da475b7"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"full_logo": "/sdp/mos/nclogo1509023895504.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 2,
-			"name": "Россия 1 HD",
-			"id": 1000174,
-			"is_barker": false,
+			"name": "Cartoon Network",
+			"id": 88882882,
+			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -63,22 +40,22 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c37b5c6625f7cd01976300ee000a5279e96afae6"
 				}
 			],
 			"themes": [
-				1,
-				19
+				0,
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1497612738365.png",
+			"full_logo": "/sdp/mos/nclogo1533310367347.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 3,
-			"name": "Матч! ТВ HD",
-			"id": 1000199,
-			"is_barker": true,
+			"name": "JimJam",
+			"id": 1144296,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -88,21 +65,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/matchhd_nocensored"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/482304bd49a2258e33e7e78e5d865bd3b79ccff4"
 				}
 			],
 			"themes": [
 				0,
-				7
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1572514677030.png",
+			"full_logo": "/sdp/mos/nclogo1533107529440.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 4,
-			"name": "НТВ HD",
-			"id": 1000179,
+			"name": "Уникум",
+			"id": 1144308,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -113,21 +90,22 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-1-streamer-ntv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/1bee546f61ddad853fee63745ae2ca4c97dac004"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1516193016598.png",
+			"full_logo": "/sdp/mos/nclogo1591006481717.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 5,
-			"name": "Пятый канал",
-			"id": 1000189,
-			"is_barker": false,
+			"name": "Disney",
+			"id": 1144307,
+			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -137,20 +115,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-39-streamer-5tv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/fc61ebd287c68dd88bb0acb8327d91817ccfb1de"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1536600415211.png",
+			"full_logo": "/sdp/ct/nclogo1544172455207.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 6,
-			"name": "Россия К",
-			"id": 1000194,
+			"name": "Карусель",
+			"id": 1000204,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -161,20 +140,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/4580840e267b62796891781241ea66a4c2ec9f30"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1497430120145.png",
+			"full_logo": "/sdp/mos/nclogo1602681864854.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 7,
-			"name": "Россия 24",
-			"id": 1000184,
+			"name": "Мульт HD",
+			"id": 84779285,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -185,20 +165,46 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia24"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/52dc5025e0ed31a6f75ebfaaaef45b87ccf3d4ed"
 				}
 			],
 			"themes": [
-				2
+				0,
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1497528181419.png",
+			"full_logo": "/sdp/mos/nclogo1575272877044.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 8,
+			"name": "Мама",
+			"id": 1144292,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/4fc690c47bd8d6ad75f1906ff7bb2ed74d264423"
+				}
+			],
+			"themes": [
+				0,
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1508249698461.png",
 			"logo": "",
 			"background": ""
 		},		
 		{
-			"number": 8,
-			"name": "Карусель",
-			"id": 1000204,
+			"number": 9,
+			"name": "Мультимузыка",
+			"id": 2856402,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -213,40 +219,17 @@
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1602681864854.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 9,
-			"name": "ОТР",
-			"id": 17349814,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/otr"
-				}
-			],
-			"themes": [
-				1
-			],
-			"full_logo": "/sdp/mos/nclogo1536676739922.png",
+			"full_logo": "/sdp/mos/nclogo1513672997795.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 10,
-			"name": "ТВ Центр",
-			"id": 1125456,
+			"name": "Nick JR",
+			"id": 2370850,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -257,20 +240,46 @@
 			},
 			"sources": [
 				{
-					"url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/de940c9bdf80b702bf627196c5593f4b84e6b33e"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"full_logo": "/sdp/mos/nclogo1536655049310.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 11,
-			"name": "РЕН ТВ HD",
-			"id": 1125460,
+			"name": "Nickelodeon HD",
+			"id": 1144581,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/031ef952db1903fee04541ac5090de308a8ba566"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1497612622596.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 12,
+			"name": "О!",
+			"id": 93801543,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -281,20 +290,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-85-streamer-rentv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/6d1fa776e6036d75cd2b53a188f8be351f24a5ad"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1532358088298.png",
+			"full_logo": "/sdp/mos/nclogo1508249739753.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 12,
-			"name": "Спас",
-			"id": 1144472,
+			"number": 13,
+			"name": "Рыжий",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -305,44 +315,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://spastv.ru/playlist.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/3642d9ccbcd96f885b356d5054b216c33a36a4de"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
 			"full_logo": "/sdp/mos/nclogo1569483524977.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 13,
-			"name": "СТС HD",
-			"id": 1125464,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://website.mylifeisgood.ml/play/stsweb/JXsXB1utz3/video.m3u8"
-				}
-			],
-			"themes": [
-				1
-			],
-			"full_logo": "/sdp/ct/nclogo1533311356055.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 14,
-			"name": "Домашний HD",
-			"id": 1125469,
+			"name": "Tiji",
+			"id": 1144316,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -353,20 +340,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/domatvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/02552d0b3029b592496f36d41574643157897e4d"
 				}
 			],
 			"themes": [
-				1
+				0,
+				5
 			],
-			"full_logo": "/sdp/ct/nclogo1519580577683.png",
+			"full_logo": "/sdp/mos/nclogo1606126555684.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 15,
-			"name": "ТВ 3",
-			"id": 1058216,
+			"name": "TV1000",
+			"id": 80882339,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -377,20 +365,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tv3hd"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/bdcd46d5b6b08a85fbcb0146a707f339a897085c"
 				}
 			],
 			"themes": [
-				1
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1507133404466.png",
+			"full_logo": "/sdp/mos/nclogo1593514194654.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 16,
-			"name": "Пятница! HD",
-			"id": 1130915,
+			"name": "TV1000 Action",
+			"id": 80882794,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -401,20 +390,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/fridayhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/bdcd46d5b6b08a85fbcb0146a707f339a897085c"
 				}
 			],
 			"themes": [
-				1
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1522312220352.png",
+			"full_logo": "/sdp/mos/nclogo1593514116881.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 17,
-			"name": "Звезда",
-			"id": 1125476,
+			"name": "TV1000 Русское Кино",
+			"id": 80882836,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -425,20 +415,21 @@
 			},
 			"sources": [
 				{
-					"url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/6051bab20caf4dd19c09c7e334fa2c49fc4c56ab"
 				}
 			],
 			"themes": [
-				1
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"full_logo": "/sdp/mos/nclogo1593514220982.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 18,
-			"name": "Мир 24 HD",
-			"id": 2370986,
+			"name": "ViP Comedy HD",
+			"id": 7686580,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -449,21 +440,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/3e9dfa075eaac432d7fd95ea21aa05db4c559a65"
 				}
 			],
 			"themes": [
-				1,
-				19
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1536614122484.png",
+			"full_logo": "/sdp/mos/nclogo1593514287074.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 19,
-			"name": "Мир HD",
-			"id": 1130945,
+			"name": "ViP Megahit HD",
+			"id": 7686532,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -474,20 +465,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/mirhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/f5c5472b4c33da87d8b185cb62566c7012b68c5a"
 				}
 			],
 			"themes": [
-				1
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"full_logo": "/sdp/mos/nclogo1593514267143.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 20,
-			"name": "ТНТ HD",
-			"id": 1000209,
+			"name": "ViP Premiere HD",
+			"id": 7686511,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -498,20 +490,20 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnthd"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/844466e115fe5dc0a9dfe5abc59ab14ccf1dd547"
 				}
 			],
 			"themes": [
-				1,
-				19
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1508420635111.png",
+			"full_logo": "/sdp/mos/nclogo1593514245957.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 21,
-			"name": "Кино ТВ",
+			"name": "Кино ТВ HD",
 			"id": 94802108,
 			"is_barker": false,
 			"is_erotic": false,
@@ -523,7 +515,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://live-1.otcnet.ru/kinotvsd/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/69cae515f1b88f3695e09a55988295b2fe9b9e61"
 				}
 			],
 			"themes": [
@@ -536,8 +528,8 @@
 		},
 		{
 			"number": 22,
-			"name": "Муз ТВ",
-			"id": 1125412,
+			"name": "Киномикс HD",
+			"id": 2371240,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -548,20 +540,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/muztvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/bfa49750d8153978629b6dcffcd13d0a59cb35a0"
 				}
 			],
 			"themes": [
-				1
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"full_logo": "/sdp/mos/nclogo1547076450742.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 23,
-			"name": "Че!",
-			"id": 1125411,
+			"name": "Кинопремьера HD",
+			"id": 115579462,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -572,21 +565,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-114-streamer-che/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/be5599ac4112e2d0a4765f6e05a42aa683d6dd31"
 				}
 			],
 			"themes": [
 				0,
-				6
+				8
 			],
-			"full_logo": "/sdp/ct/nclogo1549532917385.png",
+			"full_logo": "/sdp/mos/nclogo1533657057305.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 24,
-			"name": "Ю",
-			"id": 1125465,
+			"name": "Киносвидание HD",
+			"id": 115579435,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -597,20 +590,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/utvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/10e5781bbfac4fed4059c2084cb4bef3b4c338a5"
 				}
 			],
 			"themes": [
-				10
+				0,
+				8
 			],
-			"full_logo": "/sdp/ct/nclogo1536331049265.png",
+			"full_logo": "/sdp/mos/nclogo1533657027685.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 25,
-			"name": "Суббота HD",
-			"id": 118361294,
+			"name": "Киносемья",
+			"id": 115579387,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -621,19 +615,70 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/super"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/8e41521482e2daf70b032dea8348abc06f58192a"
 				}
 			],
 			"themes": [
+				0,
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1612112008234.png",
+			"full_logo": "/sdp/mos/nclogo1533657004424.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 26,
-			"name": "День победы HD",
+			"name": "Кинохит",
+			"id": 115579332,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/17a7bdf381d98ea110654d230a22b08136cc6d7b"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1533656979515.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 27,
+			"name": "Комедия",
+			"id": 84779399,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1508245982973.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 28,
+			"name": "Премиальное HD",
 			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
@@ -645,69 +690,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://webfight.mylifeisgood.ml/play/denpobedy/j5Wzdx9Ho0/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/6a45f49f6cb3f271cf28d94bd0a6c61897134c61"
 				}
 			],
 			"themes": [
 				0,
-				4
+				8
 			],
 			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 27,
-			"name": "2x2 HD",
-			"id": 1144360,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/2x2"
-				}
-			],
-			"themes": [
-				6
-			],
-			"full_logo": "/sdp/mos/nclogo1508250192087.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 28,
-			"name": "ТНТ4 HD",
-			"id": 86274026,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnt4"
-				}
-			],
-			"themes": [
-				6
-			],
-			"full_logo": "/sdp/mos/nclogo1534762634936.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 29,
-			"name": "Disney",
-			"id": 1144307,
+			"name": "Кинопоказ",
+			"id": 218539726,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -722,9 +719,10 @@
 				}
 			],
 			"themes": [
-				5
+				0,
+				8
 			],
-			"full_logo": "/sdp/ct/nclogo1544172455207.png",
+			"full_logo": "/sdp/mos/nclogo1602162513898.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2080,7 +2078,7 @@
 		{
 			"number": 86,
 			"name": "О! Кино",
-			"id": 134076503,
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2097,7 +2095,7 @@
 			"themes": [
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1553536946266.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
