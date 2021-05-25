@@ -63,7 +63,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/2961"
 				}
 			],
 			"themes": [
@@ -161,7 +161,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/19201"
 				}
 			],
 			"themes": [
@@ -185,7 +185,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia24"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/21"
 				}
 			],
 			"themes": [
@@ -209,7 +209,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://s26881.cdn.ngenix.net/iframe/stream/live_id/61126"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/61126"
 				}
 			],
 			"themes": [
@@ -742,7 +742,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-1"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60262"
 				}
 			],
 			"themes": [
@@ -766,7 +766,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-2"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/58511"
 				}
 			],
 			"themes": [
@@ -790,7 +790,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-3"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60263"
 				}
 			],
 			"themes": [
@@ -814,7 +814,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-4"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/58510"
 				}
 			],
 			"themes": [
@@ -838,7 +838,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-5"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60264"
 				}
 			],
 			"themes": [
@@ -862,7 +862,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-6"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/58509"
 				}
 			],
 			"themes": [
@@ -886,7 +886,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-7"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60265"
 				}
 			],
 			"themes": [
@@ -910,7 +910,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-8"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/58508"
 				}
 			],
 			"themes": [
@@ -934,7 +934,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russia1-9"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60266"
 				}
 			],
 			"themes": [
@@ -958,7 +958,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-2"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60881"
 				}
 			],
 			"themes": [
@@ -982,7 +982,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-4"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60882"
 				}
 			],
 			"themes": [
@@ -1006,7 +1006,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/russiak-7"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/60883"
 				}
 			],
 			"themes": [
@@ -1030,7 +1030,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/vestifm"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/52035"
 				}
 			],
 			"themes": [
@@ -1078,37 +1078,13 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/moscow24"
+					"url": "https://player.vgtrk.com/iframe/stream/live_id/1661"
 				}
 			],
 			"themes": [
 				16
 			],
 			"full_logo": "/sdp/mos/nclogo1583844644861.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 44,
-			"name": "Москва. Доверие",
-			"id": 11800609,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie"
-				}
-			],
-			"themes": [
-				16
-			],
-			"full_logo": "/sdp/mos/nclogo1515662710213.png",
 			"logo": "",
 			"background": ""
 		},
