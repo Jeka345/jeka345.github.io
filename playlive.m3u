@@ -73,8 +73,6 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=moscvadoverie
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=vestifm
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=myplanet
-#EXTINF:-1 group-title="Эфирные",Россия РТР
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russiartr
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia24
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1

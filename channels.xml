@@ -1355,30 +1355,6 @@
 			"background": "/sdp/ural/nclogo1525680019874.png"
 		},
 		{
-			"number": 56,
-			"name": "Россия РТР",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-			"id": 3,
-			"name": "0+",
-			"age_value": 0
-			},
-			"sources": [
-			{
-				"url": "http://livetv.mylifeisgood.ml:8880/channels/russiartr"
-			}
-			],
-			"themes": [
-			15
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 57,
 			"name": "National Geographic HD",
 			"id": 1130896,
