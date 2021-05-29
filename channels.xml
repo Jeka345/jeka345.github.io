@@ -1344,7 +1344,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/national_geographic"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/c85b237440311af584189416af11b5da6d26b782"
 				}
 			],
 			"themes": [
@@ -1368,7 +1368,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/viasat_explore"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/8741cb4c557eaf3d1ddc2a2d6754d315a2b0e924"
 				}
 			],
 			"themes": [
@@ -1392,7 +1392,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/viasat_history"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/f436d1be2a972f18f0b1852c3289b266aa0aa83c"
 				}
 			],
 			"themes": [
@@ -1428,7 +1428,7 @@
 		},
 		{
 			"number": 61,
-			"name": "Viasat Nature HD",
+			"name": "Viasat Nature / History HD",
 			"id": 7862873,
 			"is_barker": true,
 			"is_erotic": false,
@@ -1440,7 +1440,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/viasat_nature"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/d053183905f49e78b26df9da22c3c5e305ce9b8a"
 				}
 			],
 			"themes": [
@@ -1464,7 +1464,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/channels/oruzhie"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/ca5065b307dc69e88bea2779a3eaa26b7885dbce"
 				}
 			],
 			"themes": [
@@ -1488,7 +1488,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/2f2d2d6aeecf0c643becb8806db98f02d14cc49f"
 				}
 			],
 			"themes": [
