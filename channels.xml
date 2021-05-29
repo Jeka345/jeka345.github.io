@@ -101,7 +101,7 @@
 		},
 		{
 			"number": 4,
-			"name": "НТВ",
+			"name": "НТВ HD",
 			"id": 1000179,
 			"is_barker": true,
 			"is_erotic": false,
@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/ntvsd"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-1-streamer-ntv/JXsXB1utz3/video.m3u8"
 				}
 			],
 			"themes": [
