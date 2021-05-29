@@ -39,7 +39,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-11-streamer-perviy/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/perviyhd"
 				}
 			],
 			"themes": [
@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-1-streamer-ntv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/6d0b0e524057ec6ccd471791c4158b479e0e07f9"
 				}
 			],
 			"themes": [
@@ -137,7 +137,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-39-streamer-5tv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/1ce26ecb6dcca16fc3756aa4add89ff1dfd5fe08"
 				}
 			],
 			"themes": [
@@ -281,7 +281,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-85-streamer-rentv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/7a0683c15b7f93b03edc48ed19de6502334ec110"
 				}
 			],
 			"themes": [
@@ -329,7 +329,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/stsweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/stshd"
 				}
 			],
 			"themes": [
@@ -353,7 +353,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/domatvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/domashniihd"
 				}
 			],
 			"themes": [
@@ -548,7 +548,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/muztvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://website.mylifeisgood.ml/channels/muztv"
 				}
 			],
 			"themes": [
@@ -572,7 +572,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-114-streamer-che/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/e17d178435a9dbe1636910bf71da391ce712a979"
 				}
 			],
 			"themes": [
@@ -597,7 +597,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/utvweb/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/05319408fe815362c6a60aae8a5aed2312512a8e"
 				}
 			],
 			"themes": [
@@ -718,7 +718,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-21-streamer-disney/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/fc61ebd287c68dd88bb0acb8327d91817ccfb1de"
 				}
 			],
 			"themes": [
@@ -1041,30 +1041,6 @@
 			"background": ""
 		},
 		{
-			"number": 129,
-			"name": "АГТРК HD",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "16+",
-				"age_value": 16
-			},
-			"sources": [
-				{
-					"url": "http://website.mylifeisgood.ml/play/apsuaregional/JXsXB1utz3/video.m3u8"
-				}
-			],
-			"themes": [
-				16
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 43,
 			"name": "Москва 24",
 			"id": 51919527,
@@ -1368,7 +1344,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-96-streamer-nafgkcfkxa/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/c85b237440311af584189416af11b5da6d26b782"
 				}
 			],
 			"themes": [
@@ -1392,7 +1368,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-9-streamer-vipexplorehd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/8741cb4c557eaf3d1ddc2a2d6754d315a2b0e924"
 				}
 			],
 			"themes": [
@@ -1416,7 +1392,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-2-streamer-viphistoryhd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/f436d1be2a972f18f0b1852c3289b266aa0aa83c"
 				}
 			],
 			"themes": [
@@ -1452,8 +1428,8 @@
 		},
 		{
 			"number": 61,
-			"name": "Viasat Nature HD",
-			"id": 104701055,
+			"name": "Viasat Nature / History HD",
+			"id": 7862873,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1464,13 +1440,13 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-14-streamer-vbfms3/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/d053183905f49e78b26df9da22c3c5e305ce9b8a"
 				}
 			],
 			"themes": [
 				4
 			],
-			"full_logo": "/sdp/mos/nclogo1593514405658.png",
+			"full_logo": "/sdp/mos/nclogo1593514310571.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1488,7 +1464,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-84-streamer-wfsflflfl/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/ca5065b307dc69e88bea2779a3eaa26b7885dbce"
 				}
 			],
 			"themes": [
@@ -1512,7 +1488,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-4-streamer-izyabi/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/2f2d2d6aeecf0c643becb8806db98f02d14cc49f"
 				}
 			],
 			"themes": [
@@ -1560,7 +1536,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-71-streamer-vipaction/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/bdcd46d5b6b08a85fbcb0146a707f339a897085c
 				}
 			],
 			"themes": [
@@ -1584,7 +1560,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-26-streamer-vip1000/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/1c6ef905c025dd41d420ac7ac41f46c9b9145600"
 				}
 			],
 			"themes": [
@@ -1608,7 +1584,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-51-streamer-vipruskino/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/6051bab20caf4dd19c09c7e334fa2c49fc4c56ab"
 				}
 			],
 			"themes": [
@@ -1632,7 +1608,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-112-streamer-fox/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/d19479886c008e532ce21d31680cc5f76ba554c8"
 				}
 			],
 			"themes": [
@@ -1656,37 +1632,13 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-88-streamer-fox-life/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/e1b682595ae741b97327f2319742c0c29db711b2"
 				}
 			],
 			"themes": [
 				8
 			],
 			"full_logo": "/sdp/mos/nclogo1508933868682.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 70,
-			"name": "Феникс+ Кино",
-			"id": 1131005,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-59-streamer-fenikskino/JXsXB1utz3/video.m3u8"
-				}
-			],
-			"themes": [
-				8
-			],
-			"full_logo": "/sdp/mos/nclogo1546048595577.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1704,7 +1656,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-32-streamer-vippremiere/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/34aab5a24a3eb8b0bab69a23b76a02369234e0b7"
 				}
 			],
 			"themes": [
@@ -1728,7 +1680,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-97-streamer-vipmegahit/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/0f819b92534844b9ba65a02ca160aa6bd9b59046"
 				}
 			],
 			"themes": [
@@ -1752,7 +1704,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-77-streamer-vipcomedy/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/ad03ff368b6049147c0ff74c787d42b88573d4ce"
 				}
 			],
 			"themes": [
@@ -1850,7 +1802,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-107-streamer-vipsporthd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playhashace/116b5697eeaa56ac3c7a42f9f509be7964d43a90"
 				}
 			],
 			"themes": [
@@ -1875,7 +1827,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-113-streamer-davinci/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/2541bbfe690e9c9e6ac3b012d7e720aebcf0cedb"
 				}
 			],
 			"themes": [
@@ -1899,7 +1851,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-54-streamer-davictc/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/9c0d51967ec4ac831c72f947ae75a4fef56f38a1"
 				}
 			],
 			"themes": [
@@ -1923,7 +1875,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-34-streamer-anekdottv/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playidace/21f7596cd9032b55c2587694c662f17083df9a41"
 				}
 			],
 			"themes": [

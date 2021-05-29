@@ -1177,36 +1177,12 @@
 			"background": ""
 		},
 		{
-			"number": 47,
-			"name": "Рифей-ТВ",
-			"id": 188124255,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "ural",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/rifei"
-				}
-			],
-			"themes": [
-				16
-			],
-			"full_logo": "/sdp/ural/nclogo1567404503191.png",
-			"logo": "/sdp/ural/nclogo1567404506036.png",
-			"background": "/sdp/ural/nclogo1567404508340.png"
-		},
-		{
 			"number": 48,
-			"name": "Ростов-папа HD",
-			"id": 71466976,
+			"name": "Русский Иллюзион",
+			"id": 1130969,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "sth",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1214,21 +1190,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/rostovpapa"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/f4ecf0af2c5f6e72024de7d7703a919c9ac7af87"
 				}
 			],
 			"themes": [
-				16,
-				19
+				0,
+				8
 			],
-			"full_logo": "/sdp/sth/nclogo1509619940307.png",
-			"logo": "/sdp/sth/nclogo1509619944283.png",
-			"background": "/sdp/sth/nclogo1509619948146.png"
+			"full_logo": "/sdp/mos/nclogo1524908003625.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 49,
-			"name": "Телеканал 360",
-			"id": 7937480,
+			"name": "Paramount Comedy",
+			"id": 48484413,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1239,20 +1215,21 @@
 			},
 			"sources": [
 				{
-					"url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/1b4696e85c29c86ecaf1abbcf423c136039bf6ee"
 				}
 			],
 			"themes": [
-				16
+				0,
+				6
 			],
-			"full_logo": "/sdp/mos/nclogo1524557207303.png",
-			"logo": "/sdp/mos/nclogo1524557210653.png",
-			"background": "/sdp/mos/nclogo1524557213973.png"
+			"full_logo": "/sdp/mos/nclogo1497612786986.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 50,
-			"name": "Новости 360",
-			"id": 115567629,
+			"name": "Fox",
+			"id": 1144589,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1263,23 +1240,24 @@
 			},
 			"sources": [
 				{
-					"url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/d19479886c008e532ce21d31680cc5f76ba554c8"
 				}
 			],
 			"themes": [
-				16
+				0,
+				8
 			],
-			"full_logo": "/sdp/mos/nclogo1533293011586.png",
-			"logo": "/sdp/mos/nclogo1533293014777.png",
-			"background": "/sdp/mos/nclogo1524557213973.png"
+			"full_logo": "/sdp/mos/nclogo1536308528386.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 51,
-			"name": "ТВ-Губерния",
-			"id": 65191813,
+			"name": "Fox Life",
+			"id": 2371796,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1287,15 +1265,41 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tvgubernia"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e1b682595ae741b97327f2319742c0c29db711b2"
 				}
 			],
 			"themes": [
-				16
+				0,
+				8
 			],
-			"full_logo": "/sdp/ct/broadcastChannel1424271967464.png",
-			"logo": "/sdp/ct/broadcastChannel1424271969939.png",
-			"background": "/sdp/ural/nclogo1525680752433.png"
+			"full_logo": "/sdp/mos/nclogo1508933868682.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 52,
+			"name": "Sony Sci-Fi",
+			"id": 65191813,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/89b9742c5623772f78f70a073059bc96083e1aca"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/broadcastChannel1424271967464.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 52,
