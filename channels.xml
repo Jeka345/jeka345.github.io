@@ -1331,6 +1331,56 @@
 			"background": "/sdp/ural/nclogo1525680019874.png"
 		},
 		{
+			"number": 55,
+			"name": "НТВ Право",
+			"id": 295498997,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://webfight.mylifeisgood.ml/play/pravovoi/j5Wzdx9Ho0/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				6
+			],
+			"full_logo": "/sdp/mos/broadcastChannel1622457458496.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 56,
+			"name": "НТВ Хит",
+			"id": 116536643,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://webfight.mylifeisgood.ml/play/hitoviy/j5Wzdx9Ho0/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1565015693388.png",
+			"logo": "/sdp/mos/nclogo1565015696374.png",
+			"background": "/sdp/mos/nclogo1565015700033.png"
+		},
+		{
 			"number": 57,
 			"name": "National Geographic HD",
 			"id": 1130896,
@@ -1642,6 +1692,30 @@
 			"logo": "",
 			"background": ""
 		},
+		{
+			"number": 70,
+			"name": "НТВ Сериал",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://webfight.mylifeisgood.ml/play/serialnyi/j5Wzdx9Ho0/video.m3u8"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},		
 		{
 			"number": 71,
 			"name": "ViP Premiere HD",
@@ -2628,7 +2702,107 @@
 			"background": ""
 		},
 		{
+			"number": 111,
+			"name": "НТВ Стиль",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://webfight.mylifeisgood.ml/play/stilnyi/j5Wzdx9Ho0/video.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},		
+		{
 			"number": 112,
+			"name": "Живи Активно HD",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/jiviactivno"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},	
+		{
+			"number": 113,
+			"name": "Глазами Туриста HD",
+			"id": 160772212,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/glazamiturista"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1574337364513.png",
+			"logo": "",
+			"background": ""
+		},	
+		{
+			"number": 114,
+			"name": "Живая природа HD",
+			"id": 160772386,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/jivyapriroda"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1574337312666.png",
+			"logo": "",
+			"background": ""
+		},		
+		{
+			"number": 120,
 			"name": "Радио Родных Дорог",
 			"id": 0,
 			"is_barker": false,
@@ -2653,7 +2827,7 @@
 			"background": ""
 		},
 		{
-			"number": 113,
+			"number": 121,
 			"name": "Дорожное Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2678,7 +2852,7 @@
 			"background": ""
 		},
 		{
-			"number": 114,
+			"number": 122,
 			"name": "Радио ЕвропаПлюс",
 			"id": 0,
 			"is_barker": false,
@@ -2703,7 +2877,7 @@
 			"background": ""
 		},
 		{
-			"number": 115,
+			"number": 123,
 			"name": "Авторадио",
 			"id": 215275922,
 			"is_barker": false,
@@ -2728,7 +2902,7 @@
 			"background": ""
 		},
 		{
-			"number": 116,
+			"number": 124,
 			"name": "Радио Maximus",
 			"id": 0,
 			"is_barker": false,
@@ -2753,7 +2927,7 @@
 			"background": ""
 		},
 		{
-			"number": 117,
+			"number": 125,
 			"name": "Русское Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2778,7 +2952,7 @@
 			"background": ""
 		},
 		{
-			"number": 118,
+			"number": 126,
 			"name": "Юмор ФМ",
 			"id": 215276582,
 			"is_barker": false,
@@ -2803,7 +2977,7 @@
 			"background": ""
 		},
 		{
-			"number": 119,
+			"number": 127,
 			"name": "Радио Ваня",
 			"id": 0,
 			"is_barker": false,
@@ -2828,7 +3002,7 @@
 			"background": ""
 		},
 		{
-			"number": 120,
+			"number": 128,
 			"name": "Comedy Radio",
 			"id": 215277173,
 			"is_barker": false,
@@ -2853,7 +3027,7 @@
 			"background": ""
 		},
 		{
-			"number": 121,
+			"number": 129,
 			"name": "Радио DFM",
 			"id": 0,
 			"is_barker": false,
@@ -2878,7 +3052,7 @@
 			"background": ""
 		},
 		{
-			"number": 122,
+			"number": 130,
 			"name": "Retro FM",
 			"id": 0,
 			"is_barker": false,
@@ -2903,7 +3077,7 @@
 			"background": ""
 		},
 		{
-			"number": 123,
+			"number": 131,
 			"name": "Радио ХИТ ФМ",
 			"id": 0,
 			"is_barker": false,
@@ -2928,7 +3102,7 @@
 			"background": ""
 		},
 		{
-			"number": 124,
+			"number": 132,
 			"name": "Радио Комсомольская правда",
 			"id": 0,
 			"is_barker": false,
@@ -2953,7 +3127,7 @@
 			"background": ""
 		},
 		{
-			"number": 125,
+			"number": 133,
 			"name": "Energy FM",
 			"id": 215275912,
 			"is_barker": false,
@@ -2978,7 +3152,7 @@
 			"background": ""
 		},
 		{
-			"number": 126,
+			"number": 134,
 			"name": "Радио Romantica",
 			"id": 215276200,
 			"is_barker": false,
@@ -3003,7 +3177,7 @@
 			"background": ""
 		},
 		{
-			"number": 127,
+			"number": 135,
 			"name": "Радио для двоих",
 			"id": 0,
 			"is_barker": false,
@@ -3028,7 +3202,7 @@
 			"background": ""
 		},
 		{
-			"number": 128,
+			"number": 136,
 			"name": "Радио ТВ",
 			"id": 0,
 			"is_barker": false,
@@ -3053,7 +3227,7 @@
 			"background": ""
 		},
 		{
-			"number": 129,
+			"number": 137,
 			"name": "Радио Град Петров",
 			"id": 0,
 			"is_barker": false,
