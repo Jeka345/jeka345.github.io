@@ -1690,7 +1690,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-112-streamer-fox/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/30a49eef2476820106c8292374838d03a72f2307"
 				}
 			],
 			"themes": [
@@ -1703,8 +1703,8 @@
 		},
 		{
 			"number": 69,
-			"name": "Fox Life HD",
-			"id": 2371796,
+			"name": "Extreme Sports",
+			"id": 1144456,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1715,20 +1715,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-88-streamer-fox-life/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b"
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1508933868682.png",
+			"full_logo": "/sdp/mos/nclogo1497608895905.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 70,
-			"name": "Феникс+ Кино",
-			"id": 1131005,
+			"name": "Viasat Sport",
+			"id": 1144444,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1739,20 +1740,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-59-streamer-fenikskino/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e95e00dd1127c22d4ac7e7c1f745711ea879c61d"
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1546048595577.png",
+			"full_logo": "/sdp/mos/nclogo1593514353890.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 71,
-			"name": "ViP Premiere HD",
-			"id": 7686511,
+			"name": "СТС",
+			"id": 1125464,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1763,20 +1765,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-32-streamer-vippremiere/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e2fe666bbec21148dc37c34985cbf81837c1f93e"
 				}
 			],
 			"themes": [
-				8
+				0,
+				1
 			],
-			"full_logo": "/sdp/mos/nclogo1593514245957.png",
+			"full_logo": "/sdp/ct/nclogo1533311356055.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 72,
-			"name": "ViP Megahit HD",
-			"id": 7686532,
+			"name": "СТС Love",
+			"id": 64804355,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1787,19 +1790,20 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-97-streamer-vipmegahit/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/38e076293a21e7f43904ab85e5dc3509783af111"
 				}
 			],
 			"themes": [
-				8
+				0,
+				6
 			],
-			"full_logo": "/sdp/mos/nclogo1593514267143.png",
+			"full_logo": "/sdp/mos/nclogo1560865516031.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 73,
-			"name": "ViP Comedy HD",
+			"name": "ТНТ HD",
 			"id": 7686580,
 			"is_barker": true,
 			"is_erotic": false,
@@ -1811,20 +1815,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-77-streamer-vipcomedy/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/9477d75fd3fe2be6df2ba3fcb4f98009339da3d6"
 				}
 			],
 			"themes": [
-				8
+				0,
+				19
 			],
-			"full_logo": "/sdp/mos/nclogo1593514287074.png",
+			"full_logo": "/sdp/mos/nclogo1508420635111.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 74,
-			"name": "ViP Serial HD",
-			"id": 27109203,
+			"name": "ТНТ4",
+			"id": 86274026,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1835,20 +1840,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-100-streamer-vipserialhd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/d127c8ae736ff66271f69a35ab91c361ed5256c8"
 				}
 			],
 			"themes": [
-				8
+				0,
+				6
 			],
-			"full_logo": "/sdp/mos/nclogo1593514331524.png",
+			"full_logo": "/sdp/mos/nclogo1534762634936.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 75,
-			"name": "Матч! Страна",
-			"id": 2371350,
+			"name": "Пятница",
+			"id": 1130915,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1859,14 +1865,14 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/matchstrana"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/34c41ff85e605d67d3cce2fb6bbb0e5bb2c40675"
 				}
 			],
 			"themes": [
 				0,
-				7
+				1
 			],
-			"full_logo": "/sdp/mos/nclogo1551687506107.png",
+			"full_logo": "/sdp/mos/nclogo1522312220352.png",
 			"logo": "",
 			"background": ""
 		},
