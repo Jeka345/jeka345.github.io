@@ -1603,8 +1603,8 @@
 		},
 		{
 			"number": 65,
-			"name": "ТВ1000 Action HD",
-			"id": 80882794,
+			"name": "Бокс ТВ",
+			"id": 0,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1615,20 +1615,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-71-streamer-vipaction/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/2ee8cc6d23f5ea4013385343e42d037233e7ad6d"
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593514116881.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 66,
-			"name": "ТВ1000 HD",
-			"id": 80882339,
+			"name": "КХЛ HD",
+			"id": 15294825,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1639,20 +1640,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-26-streamer-vip1000/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/18699df05bd2b99c37b2d827a6206a04b0b9c891"
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593514194654.png",
+			"full_logo": "/sdp/mos/nclogo1501848145083.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 67,
-			"name": "ТВ1000 Русское кино HD",
-			"id": 80882836,
+			"name": "Eurosport 1 HD",
+			"id": 1144521,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1663,20 +1665,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-51-streamer-vipruskino/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/5e9f075c9f6703b4dd355f649c424d715570e51b"
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593514220982.png",
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 68,
-			"name": "FOX HD",
-			"id": 1144589,
+			"name": "Eurosport 2 HD",
+			"id": 168540810,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1691,9 +1694,10 @@
 				}
 			],
 			"themes": [
-				8
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1536308528386.png",
+			"full_logo": "/sdp/mos/nclogo1579851967138.png",
 			"logo": "",
 			"background": ""
 		},
