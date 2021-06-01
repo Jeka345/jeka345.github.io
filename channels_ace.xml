@@ -2226,8 +2226,8 @@
 		},
 		{
 			"number": 90,
-			"name": "UFC ТВ",
-			"id": 137053402,
+			"name": "НТВ МИР",
+			"id": 0,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2238,21 +2238,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-42-streamer-ufc/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c1bed36330081a131ae0c38482bdbb106f5e29f5"
 				}
 			],
 			"themes": [
 				0,
-				7
+				2
 			],
-			"full_logo": "/sdp/mos/nclogo1555519051273.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 91,
-			"name": "Охотник и Рыболов HD Int",
-			"id": 0,
+			"name": "ОТР",
+			"id": 17349814,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2263,21 +2263,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/36d3858d3426edfb564e3526868ca9a2c1558821"
 				}
 			],
 			"themes": [
 				0,
-				4
+				1
 			],
-			"full_logo": "/sdp/mos/nclogo1535708220234.png",
+			"full_logo": "/sdp/mos/nclogo1536676739922.png",
 			"logo": "",
 			"background": ""
 		},	
 		{
 			"number": 92,
-			"name": "Загородный HD Int",
-			"id": 0,
+			"name": "Россия 1 HD",
+			"id": 1000174,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2288,21 +2288,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/3f2d29b82d9216cf3ae86c7826e3197ad699af62"
 				}
 			],
 			"themes": [
-				0,
-				4
+				1,
+				19
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1497612738365.png",
 			"logo": "",
 			"background": ""
 		},	
 		{
 			"number": 93,
-			"name": "Наша Сибирь HD",
-			"id": 212313670,
+			"name": "Первый канал HD",
+			"id": 1000069,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2313,24 +2313,24 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/ee3ce944fa3a5f49428240d363ffc368454c6b72"
 				}
 			],
 			"themes": [
 				0,
-				4
+				1
 			],
-			"full_logo": "/sdp/mos/nclogo1601882614829.png",
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
 			"logo": "",
 			"background": ""
 		},	
 		{
 			"number": 94,
-			"name": "Европа Плюс ТВ",
-			"id": 2370649,
+			"name": "Первый +4 HD",
+			"id": 1000069,
 			"is_barker": true,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "sib",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -2338,21 +2338,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/europaplustv"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c6eb4bbbafb780ed39136674f167e6d47a90c569"
 				}
 			],
 			"themes": [
 				0,
-				4
+				15
 			],
-			"full_logo": "/sdp/mos/nclogo1497600683226.png",
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
 			"logo": "",
 			"background": ""
 		},		
 		{
 			"number": 95,
-			"name": "Под водой",
-			"id": 0,
+			"name": "Звезда",
+			"id": 1125476,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2363,21 +2363,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://live-1.otcnet.ru/podvodoi/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/58af396101a2c9848267cacb05f37221f33584ee"
 				}
 			],
 			"themes": [
 				0,
-				4
+				1
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 96,
-			"name": "Мосфильм. Золотая коллекция",
-			"id": 242075993,
+			"name": "ТВ Центр",
+			"id": 1125456,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2388,16 +2388,16 @@
 			},
 			"sources": [
 				{
-					"url": "http://streamer2.iptvsmotri.ru:9600/mosfilm_hd_hgytufj/index.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/b4fcbcbae7f5d96e5ab4ce3cf033ab5a61daec71"
 				}
 			],
 			"themes": [
 				0,
-				8
+				1
 			],
-			"full_logo": "/sdp/mos/nclogo1609141825334.png",
-			"logo": "/sdp/mos/nclogo1609141828155.png",
-			"background": "/sdp/mos/nclogo1609141830469.png"
+			"full_logo": "/sdp/ct/nclogo1536609967851.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 97,
