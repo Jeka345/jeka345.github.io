@@ -2401,8 +2401,8 @@
 		},
 		{
 			"number": 97,
-			"name": "Gulli Girl",
-			"id": 2370718,
+			"name": "Ностальгия",
+			"id": 2371192,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2413,24 +2413,24 @@
 			},
 			"sources": [
 				{
-					"url": "http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/2f9396451bd715a234be52d092849d408754d307"
 				}
 			],
 			"themes": [
 				0,
-				5
+				4
 			],
-			"full_logo": "/sdp/mos/nclogo1536766285308.png",
-			"logo": "/sdp/mos/nclogo1536766289571.png",
-			"background": "/sdp/mos/nclogo1536766292139.png"
+			"full_logo": "/sdp/mos/nclogo1497532835710.png",
+			"logo": "/sdp/mos/nclogo1497532840919.png",
+			"background": "/sdp/mos/nclogo1497532844481.png"
 		},
 		{
 			"number": 98,
-			"name": "Матч! Футбол 1",
-			"id": 66476111,
+			"name": "Время",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -2438,24 +2438,24 @@
 			},
 			"sources": [
 				{
-					"url": "http://webfight.mylifeisgood.ml/play/mbrftb1/j5Wzdx9Ho0/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/448976660278e2e3ce3979320a26f943b820e54a"
 				}
 			],
 			"themes": [
 				0,
-				7
+				4
 			],
-			"full_logo": "/sdp/ct/nclogo1501849625746.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 99,
-			"name": "Матч! Футбол 2",
-			"id": 66476687,
+			"name": "Домашний",
+			"id": 1125469,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -2463,24 +2463,24 @@
 			},
 			"sources": [
 				{
-					"url": "http://webfight.mylifeisgood.ml/play/mbrftb2/j5Wzdx9Ho0/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/b717267a2f1e407848534f39ae7d187669e3e748"
 				}
 			],
 			"themes": [
 				0,
-				7
+				1
 			],
-			"full_logo": "/sdp/ct/nclogo1501849658331.png",
+			"full_logo": "/sdp/ct/nclogo1519580577683.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 100,
-			"name": "Матч! Футбол 3",
-			"id": 66476983,
+			"name": "Россия 24",
+			"id": 1000184,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ct",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -2488,21 +2488,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://webfight.mylifeisgood.ml/play/mbrftb3/j5Wzdx9Ho0/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/4572f64d3ed7636a341a5446933bdb0d76a92232"
 				}
 			],
 			"themes": [
 				0,
-				7
+				2
 			],
-			"full_logo": "/sdp/ct/nclogo1501849696895.png",
+			"full_logo": "/sdp/mos/nclogo1497528181419.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 101,
-			"name": "Матч! Арена",
-			"id": 1144499,
+			"name": "Москва 24",
+			"id": 51919527,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2513,16 +2513,16 @@
 			},
 			"sources": [
 				{
-					"url": "http://webfight.mylifeisgood.ml/play/mbrarena/j5Wzdx9Ho0/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/1bc39383ec59589802efe4ae4e610e8a014e1946"
 				}
 			],
 			"themes": [
 				0,
-				7
+				16
 			],
-			"full_logo": "/sdp/mos/nclogo1508251174538.png",
-			"logo": "/sdp/mos/nclogo1508251179525.png",
-			"background": "/sdp/mos/nclogo1508251183569.png"
+			"full_logo": "/sdp/mos/nclogo1583844644861.png",
+			"logo": "",
+			"background": ""
 		},	
 		{
 			"number": 102,
