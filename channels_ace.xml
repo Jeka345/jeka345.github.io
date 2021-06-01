@@ -1302,36 +1302,12 @@
 			"background": ""
 		},
 		{
-			"number": 52,
-			"name": "Универ-ТВ",
-			"id": 88943140,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "vlg",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/univertv"
-				}
-			],
-			"themes": [
-				16
-			],
-			"full_logo": "/sdp/vlg/broadcastChannel1478000377891.jpg",
-			"logo": "/sdp/vlg/broadcastChannel1478000373926.png",
-			"background": "/sdp/ural/nclogo1525680752433.png"
-		},
-		{
 			"number": 53,
-			"name": "Эфир",
-			"id": 212211925,
+			"name": "Sony Channel HD",
+			"id": 1144585,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "vlg",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1339,23 +1315,24 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/efir"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/8789f606f62a64354d6612dabeef0863d3e2bda5"
 				}
 			],
 			"themes": [
-				16
+				0,
+				8
 			],
-			"full_logo": "/sdp/vlg/broadcastChannel1553852165519.jpg",
-			"logo": "/sdp/vlg/broadcastChannel1553852171156.png",
-			"background": "/sdp/ural/nclogo1525680752433.png"
+			"full_logo": "/sdp/mos/nclogo1566836604211.png",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 54,
-			"name": "Ямал-Регион",
-			"id": 1000520,
+			"name": "A1",
+			"id": 21458137,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "ural",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -1363,20 +1340,46 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/yamal"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/32806720cc363a53ac0ae2791a005a02cd252ee8"
 				}
 			],
 			"themes": [
-				16
+				0,
+				8
 			],
-			"full_logo": "/sdp/ural/nclogo1525680009102.png",
-			"logo": "/sdp/ural/nclogo1525680014617.png",
-			"background": "/sdp/ural/nclogo1525680019874.png"
+			"full_logo": "/sdp/mos/nclogo1547052339636.png",
+			"logo": "/sdp/mos/nclogo1547052344637.png",
+			"background": "/sdp/mos/nclogo1547052361807.png"
+		},
+		{
+			"number": 55,
+			"name": "AMEDIA Hit HD",
+			"id": 58886702,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/0bfc429fafe7563f70ec4e1b69541de0aa738e1e"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1530632737515.png",
+			"logo": "/sdp/mos/nclogo1530632740083.png",
+			"background": "/sdp/mos/nclogo1530632743244.png"
 		},
 		{
 			"number": 56,
-			"name": "Россия РТР",
-			"id": 0,
+			"name": "Amedia Premium HD",
+			"id": 21458644,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1387,20 +1390,21 @@
 			},
 			"sources": [
 			{
-				"url": "http://livetv.mylifeisgood.ml:8880/channels/russiartr"
+				"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/8418cfd5a4af2e384f02040f5950211bd47a00a0"
 			}
 			],
 			"themes": [
-			15
+				0,
+				8
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1537888724808.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 57,
-			"name": "National Geographic HD",
-			"id": 1130896,
+			"name": "Матч! HD",
+			"id": 74658596,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1411,20 +1415,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-96-streamer-nafgkcfkxa/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/781f1e0f92475b086b3988bf45da9fbf88de3e63"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1535620466339.png",
+			"full_logo": "/sdp/mos/nclogo1572956617832.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 58,
-			"name": "Viasat Explore HD",
-			"id": 80882991,
+			"name": "Матч! Арена HD",
+			"id": 1144499,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1435,20 +1440,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-9-streamer-vipexplorehd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/38fd1372406c976bb926eb5f14d2e6a8f9e3a6da"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593515024787.png",
+			"full_logo": "/sdp/mos/nclogo1508251174538.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 59,
-			"name": "Viasat History HD",
-			"id": 80882936,
+			"name": "Матч! Боец",
+			"id": 1144436,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1459,13 +1465,14 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-2-streamer-viphistoryhd/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e0b837bec8581ef40011401fec2c2c7717c7fba5"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593514427579.png",
+			"full_logo": "/sdp/mos/nclogo1497608835928.png",
 			"logo": "",
 			"background": ""
 		},
