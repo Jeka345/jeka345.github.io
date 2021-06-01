@@ -1478,8 +1478,8 @@
 		},
 		{
 			"number": 60,
-			"name": "Моя Планета",
-			"id": 1131022,
+			"name": "Матч! Игра HD",
+			"id": 77742737,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1490,20 +1490,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/myplanet"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/62ef7e82275b9f50a51b6dd19123e460f68e678a"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1508246944970.png",
+			"full_logo": "/sdp/mos/nclogo1508251445090.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 61,
-			"name": "Viasat Nature HD",
-			"id": 104701055,
+			"name": "Матч! Страна",
+			"id": 2371350,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1514,20 +1515,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-14-streamer-vbfms3/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/501018635ad5a212639acc8f1857120390b0e699"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1593514405658.png",
+			"full_logo": "/sdp/mos/nclogo1551687506107.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 62,
-			"name": "Оружие",
-			"id": 2371393,
+			"name": "Матч! Футбол 1 HD",
+			"id": 61426874,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1538,20 +1540,21 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-84-streamer-wfsflflfl/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/92550ac34357a69bf6c734145fa359197d62fec0"
 				}
 			],
 			"themes": [
-				4
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1547125351834.png",
+			"full_logo": "/sdp/mos/nclogo1501848171532.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 63,
-			"name": "Известия HD",
-			"id": 77742527,
+			"name": "Матч! Футбол 2 HD",
+			"id": 61426888,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1566,16 +1569,17 @@
 				}
 			],
 			"themes": [
-				19
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1543571854883.png",
+			"full_logo": "/sdp/mos/nclogo1501848190846.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 64,
-			"name": "ВМЕСТЕ-РФ",
-			"id": 21741731,
+			"name": "Матч! Футбол 3 HD",
+			"id": 61426900,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1590,9 +1594,10 @@
 				}
 			],
 			"themes": [
-				19
+				0,
+				7
 			],
-			"full_logo": "/sdp/mos/nclogo1535892504685.png",
+			"full_logo": "/sdp/mos/nclogo1501848213415.png",
 			"logo": "",
 			"background": ""
 		},
