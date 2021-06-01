@@ -2740,7 +2740,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/jiviactivno"
+					"url": "http://webfight.mylifeisgood.ml/play/activnohd/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2765,7 +2765,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/glazamiturista"
+					"url": "http://webfight.mylifeisgood.ml/play/turisthd/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2790,7 +2790,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/jivyapriroda"
+					"url": "http://webfight.mylifeisgood.ml/play/prirodahd/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
