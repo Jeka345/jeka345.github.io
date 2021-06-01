@@ -221,6 +221,12 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=koniymir
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tlchd
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательные",Звезда+
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=zvezdaplus
+#EXTINF:-1 tvg-id="" group-title="Познавательные",Живи Активно HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=jiviactivno
+#EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=glazamiturista
+#EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=jivyapriroda
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey1
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
