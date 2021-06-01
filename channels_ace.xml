@@ -1565,7 +1565,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/catena-1-4-streamer-izyabi/JXsXB1utz3/video.m3u8"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/153e4a4098ada1e6150a5e62cdd58db806fddada"
 				}
 			],
 			"themes": [
@@ -1590,7 +1590,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/vmesterf"
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/70b20efc8b27aa84025b7fe5752dea186429b08c"
 				}
 			],
 			"themes": [
