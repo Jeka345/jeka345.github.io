@@ -3249,6 +3249,1030 @@
 			"full_logo": "/sdp/mos/nclogo1567606573248.png",
 			"logo": "",
 			"background": ""
+		},
+		{
+			"number": 131,
+			"name": "DTX HD",
+			"id": 101192514,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/42118d3d5389d7bed5174d72b5349125cd1ee85b"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1516106158586.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 132,
+			"name": "ID Xtra HD",
+			"id": 77742450,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/20d9966df3f07d76ea1a88bc048f3ff6a5f37c19"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1602255131051.png",
+			"logo": "",
+			"background": ""
+		},	
+		{
+			"number": 133,
+			"name": "Travel Channel HD",
+			"id": 115482782,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c5273075b1d933b249f3c028c9a493388ed17386"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1533216246776.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 134,
+			"name": "Travel+Adventure HD",
+			"id": 1144533,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/2b9b8f57396ffd86f9d073e485a343f018b38e10"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1591627431875.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 135,
+			"name": "Живая Планета",
+			"id": 84779394,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/5a87114ca438e68e8e76545209ef9f36c2ce8964"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1508248235053.png",
+			"logo": "/sdp/mos/nclogo1508248244632.png",
+			"background": "/sdp/mos/nclogo1508248248545.png"
+		},
+		{
+			"number": 136,
+			"name": "Живая природа HD",
+			"id": 160772386,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/316d1b7040316331048af158fccd7ec6fba584cf"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1574337312666.png",
+			"logo": "/sdp/mos/nclogo1574337315945.png",
+			"background": "/sdp/mos/nclogo1574337318342.png"
+		},
+		{
+			"number": 137,
+			"name": "Моя планета",
+			"id": 1131022,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/73c3a5c9252a32d45035fa4af0ba4b72b2fa6287"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1508246944970.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 138,
+			"name": "Приключение HD",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/9ef190f19a4d6599ae91719be2dfadc53a6eef59"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 139,
+			"name": "Оружие",
+			"id": 2371393,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/4de056047c91fd99323656a319cc020bed898595"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1547125351834.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 140,
+			"name": "Охота и рыбалка",
+			"id": 1144256,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e10d90875c6a8f97e9d2477520dfc0f18f777c80"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1543854294064.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 141,
+			"name": "Охотник и Рыболов HD",
+			"id": 77742339,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/95d537b8495956e6a7a7cd9a0211bcb0bc1b3066"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1535708220234.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 142,
+			"name": "Outdoor Channel HD",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/277dc43008da557b2c62e57dd768fd8d91e541b3"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 143,
+			"name": "TLC HD",
+			"id": 30792359,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/d288e303032c9f4fa27d56d2ebe4a7ef40b13d5f"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1497613030115.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 144,
+			"name": "HD Life",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/468433bee3cb168902e2515557b91563491923c3"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 145,
+			"name": "Первый Космический HD",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/16af01541aa6c0bd281658af2b289c4960252946"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 146,
+			"name": "Наука",
+			"id": 2371216,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/08a18f6447551ca01165e2fab8aa2fdf2200ae2b"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1606226004172.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 147,
+			"name": "Бобер ТВ",
+			"id": 69997157,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/541234fd63cb992905d78a1bef42cc93da805b62"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1508250034007.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 148,
+			"name": "Da Vinci",
+			"id": 2370547,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/2541bbfe690e9c9e6ac3b012d7e720aebcf0cedb"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "/sdp/mos/nclogo1593514521243.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 149,
+			"name": "Авто Плюс",
+			"id": 1131052,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e73c851d2c986049b324d6b5c3c6c9da64ad4b65"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1497612326178.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 150,
+			"name": "Авто24",
+			"id": 77742404,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/0773996c860084df683b8372089f82fa0018c5f4"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1535708203610.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 151,
+			"name": "Моя Стихия",
+			"id": 92150591,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/9bb9e82adb00d4f39d317cc520a91572ead8a5e5"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1620805775036.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 152,
+			"name": "Телеканал Доктор",
+			"id": 2350181,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/435b828d0f7e0941660f85109fae9ec44c622493"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1606226024475.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 153,
+			"name": "WFC",
+			"id": 1144569,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/0bb548d3e2e3bcdec3a6c560ac9c2c6a0eb26406"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1509023995121.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 154,
+			"name": "Еда HD",
+			"id": 98026616,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/038826b5a2a923d90a57ac235290044db0079dd5"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1527695212533.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 155,
+			"name": "Кухня ТВ",
+			"id": 131341238,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/ca196b06b1056cdd4ebe1f19fd95b79090ade4ae"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1550239277905.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 156,
+			"name": "БелРос",
+			"id": 1144480,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/15c4461e5ac2c7e20192c170393e66d151e08ba3"
+				}
+			],
+			"themes": [
+				0
+			],
+			"full_logo": "/sdp/mos/nclogo1537367900435.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 157,
+			"name": "МИР HD",
+			"id": 1130945,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/d7c03e5f76d97edb3d6d6fed29b32829a8433ebd"
+				}
+			],
+			"themes": [
+				0,
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1508243678871.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 158,
+			"name": "Звезда HD",
+			"id": 1125476,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/f05e2b268500fe6e195e50aeafacebd871ec27e3"
+				}
+			],
+			"themes": [
+				0,
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1536610730242.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 159,
+			"name": "RU.TV HD",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/617dd49b614bf4f3d57a121d002af97ae158ec80"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 160,
+			"name": "1HD Music Television",
+			"id": 121720925,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c517025fb332581cd05ff60923810f150b723785"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1540376320156.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 161,
+			"name": "Fox HD",
+			"id": 1144589,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/7c88db85e2cef7b59d04070d0724a1ba71267a69"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1536308528386.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 162,
+			"name": "Paramount Channel HD",
+			"id": 92150591,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/4c1abbb5396ff7373ba49b5280cd70db50c39147"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1620805775036.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 163,
+			"name": "Кинотеатр Akudji",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/6d21522f93a4294aa8dfa1f1413518536e848a21"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 164,
+			"name": "Советское Кино",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/626c6adbd4cb244b501c95d4db3dd8277fba9a6d"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 165,
+			"name": "Первый канал (+2)",
+			"id": 1000069,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/743244c3a526aa5b68d1f7ef9c8a2f36a1d505ec"
+				}
+			],
+			"themes": [
+				0,
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 166,
+			"name": "Первый канал (+4) HD",
+			"id": 1000069,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c6eb4bbbafb780ed39136674f167e6d47a90c569"
+				}
+			],
+			"themes": [
+				0,
+				15
+			],
+			"full_logo": "/sdp/ct/nclogo1529397813326.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 167,
+			"name": "BBC World News",
+			"id": 2350325,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/c092caf6e38bd661f5f9ca1329ec0be1284cb5e5"
+				}
+			],
+			"themes": [
+				0,
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1497532360607.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 168,
+			"name": "CNN",
+			"id": 84819188,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/a94663619c928aacf01fedbf2e10c2de1ae758b2"
+				}
+			],
+			"themes": [
+				0,
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1536651590942.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 169,
+			"name": "Euronews",
+			"id": 1130935,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/e6eb125a5b314f84697e5f4ba3a937b272081850"
+				}
+			],
+			"themes": [
+				0,
+				2
+			],
+			"full_logo": "/sdp/mos/nclogo1542017564849.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 170,
+			"name": "Дождь HD",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/8545daedf7d866a7678332adf71ab472dc9d9a1f"
+				}
+			],
+			"themes": [
+				0,
+				2
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 171,
+			"name": "Матч! Премьер HD",
+			"id": 20244318,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playlocalace/73d8f7f6bc68b12878d73180fd06f0e3d211acfd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"logo": "",
+			"background": ""
 		}
 	]
 }
