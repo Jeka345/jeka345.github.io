@@ -138,7 +138,7 @@
         {
             "id":"21",
             "name":"Кино ТВ",
-            "stream":"http://live-1.otcnet.ru/kinotvsd/video.m3u8",
+            "stream":"http://live-1.otcnet.ru/KINOTVTEST/video.m3u8",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png"			
         },
 		{
