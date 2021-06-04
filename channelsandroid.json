@@ -438,25 +438,25 @@
         {
             "id":"71",
             "name":"VIP Premiere HD",
-            "stream":"http://website.mylifeisgood.ml/play/catena-1-32-streamer-vippremiere/JXsXB1utz3/video.m3u8",
+            "stream":"http://website.mylifeisgood.ml/channels/vip_premiere",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514245957.png"
         },
         {
             "id":"72",
             "name":"VIP Megahit HD",
-            "stream":"http://website.mylifeisgood.ml/play/catena-1-97-streamer-vipmegahit/JXsXB1utz3/video.m3u8",
+            "stream":"http://website.mylifeisgood.ml/channels/vip_megahit",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514267143.png"
         },
         {
             "id":"73",
             "name":"VIP Comedy HD",
-            "stream":"http://website.mylifeisgood.ml/play/catena-1-77-streamer-vipcomedy/JXsXB1utz3/video.m3u8",
+            "stream":"http://website.mylifeisgood.ml/channels/vip_comedy",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514287074.png"
         },
 		{
             "id":"74",
             "name":"VIP Serial HD",
-            "stream":"http://website.mylifeisgood.ml/play/catena-1-100-streamer-vipserialhd/JXsXB1utz3/video.m3u8",
+            "stream":"http://website.mylifeisgood.ml/channels/vip_serial",
 			"logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514331524.png"
         },
         {
