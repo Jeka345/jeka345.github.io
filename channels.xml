@@ -498,7 +498,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnthd"
+					"url": "http://website.mylifeisgood.ml/channels/tnthd"
 				}
 			],
 			"themes": [
@@ -694,7 +694,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnt4"
+					"url": "http://livetv.mylifeisgood.ml:8880/channels/tnt4hd"
 				}
 			],
 			"themes": [
