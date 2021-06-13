@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/ntvsd"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-1-streamer-ntv/JXsXB1utz3/video.m3u8"
 				}
 			],
 			"themes": [
@@ -377,7 +377,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/tv3hd"
+					"url": "http://website.mylifeisgood.ml/channels/tv3hd"
 				}
 			],
 			"themes": [
@@ -401,7 +401,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://livetv.mylifeisgood.ml:8880/channels/fridayhd"
+					"url": "http://website.mylifeisgood.ml/channels/fridayhd"
 				}
 			],
 			"themes": [
