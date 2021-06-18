@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=perviyhd
+http:/livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=perviyhd
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС
 http://website.mylifeisgood.ml/mfolive.m3u8?media=sts
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС HD
