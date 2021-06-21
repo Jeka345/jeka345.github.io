@@ -113,6 +113,10 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=karusel
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
 http://website.mylifeisgood.ml/mfolive.m3u8?media=disney
+#EXTINF:-1 tvg-id="sportivny" group-title="Спортивные",Спортивный HD
+http://website.mylifeisgood.ml/mfolive.m3u8?media=sportivniylive
+#EXTINF:-1 tvg-id="xokkejny" group-title="Спортивные",Хоккейный HD
+http://website.mylifeisgood.ml/mfolive.m3u8?media=hokkeyniylive
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
 http://website.mylifeisgood.ml/mfolive.m3u8?media=ufctv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
@@ -163,6 +167,18 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rifei
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=musicboxgold
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tntmusic
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgetv24h
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge TV Classic
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgeclassictv
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgedeluxetv
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge TV Hits
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgehitstv
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge TV Русский хит
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgerushittv
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgetvshlyager
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=smile
 #EXTINF:-1 tvg-id="tv-guberniya" group-title="Региональные",ТВ Губерния
