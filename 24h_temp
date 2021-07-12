@@ -1815,3 +1815,19 @@ http://сервер/mbrjwt/ключик/ch225/ch225.m3u8
 http://сервер/mbrjwt/ключик/ch596/ch596.m3u8
 #EXTINF:-1 tvg-id="babes-tv" group-title="Эротические",Babes TV [1080p]
 http://сервер/mbrjwt/ключик/ch3976/ch3976.m3u8
+#EXTINF:-1 tvg-id="star-cinema" group-title="Кино",Star Cinema Россия [1080p]
+http://сервер/mbrjwt/ключик/ch2898/ch2898.m3u8
+#EXTINF:-1 tvg-id="star-family" group-title="Кино",Star Family Россия [1080p]
+http://сервер/mbrjwt/ключик/ch2899/ch2899.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl2" group-title="Развлекательные",СТС Love +2 [576p]
+http://сервер/mbrjwt/ключик/ch3485/ch3485.m3u8
+#EXTINF:-1 tvg-id="pervy-pl7" group-title="Плюсовые",Первый канал +7 [576p]
+http://сервер/mbrjwt/ключик/ch3516/ch3516.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",MusicBox Gold [576p]
+http://сервер/mbrjwt/ключик/ch47/ch47.m3u8
+#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт [576p]
+http://сервер/mbrjwt/ключик/ch4886/ch4886.m3u8
+#EXTINF:-1 tvg-id="super-pl2" group-title="Развлекательные",Суббота +2 (Супер) [576p]
+http://сервер/mbrjwt/ключик/ch5514/ch5514.m3u8
+#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные HD",Россия 1 HD [1080p]
+http://сервер/mbrjwt/ключик/ch5515/ch5515.m3u8
