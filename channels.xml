@@ -39,7 +39,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/1211557620"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-11-streamer-perviy/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:9981/stream/channelid/1868754284"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-1-streamer-ntv/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -523,7 +523,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/615573964"
+					"url": "http://webfight.mylifeisgood.ml/play/bmfmsllfslf/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -645,7 +645,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/964203162"
+					"url": "http://webfight.mylifeisgood.ml/play/denpobedy/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1394,7 +1394,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:9981/stream/channelid/642892586"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-96-streamer-nafgkcfkxa/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1442,7 +1442,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:9981/stream/channelid/1748071537"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-2-streamer-viphistoryhd/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1490,7 +1490,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:9981/stream/channelid/280609114"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-14-streamer-vbfms3/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1706,7 +1706,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/2000289403"
+					"url": "http://webfight.mylifeisgood.ml/play/serialnyi/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -1778,7 +1778,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn02.mylifeisgood.ml:9981/stream/channelid/2060124607"
+					"url": "http://website.mylifeisgood.ml/play/catena-1-77-streamer-vipcomedy/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2365,7 +2365,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/1805975916"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrftb1/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2390,7 +2390,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/1613415515"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrftb2/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2415,7 +2415,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/400996763"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrftb3/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2440,7 +2440,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/912807622"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrarena/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2465,7 +2465,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/1047708170"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrboew/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2490,7 +2490,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/187898518"
+					"url": "http://webfight.mylifeisgood.ml/play/mbrigra/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2503,8 +2503,8 @@
 		},
 		{
 			"number": 104,
-			"name": "Discovery",
-			"id": 1144543,
+			"name": "Bridge ТВ Шлягер",
+			"id": 213115392,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -2515,16 +2515,16 @@
 			},
 			"sources": [
 				{
-					"url": "http://website.mylifeisgood.ml/play/discoverfyy/JXsXB1utz3/video.m3u8"
+					"url": "http://website.mylifeisgood.ml/play/discoverfyy/tB6Ef1xqR2/video.m3u8"
 				}
 			],
 			"themes": [
 				0,
-				4
+				3
 			],
-			"full_logo": "/sdp/mos/nclogo1567606573248.png",
-			"logo": "/sdp/mos/nclogo1567606576529.png",
-			"background": "/sdp/mos/nclogo1567606578908.png"
+			"full_logo": "/sdp/mos/nclogo1602157236453.png",
+			"logo": "/sdp/mos/nclogo1602157239315.png",
+			"background": "/sdp/mos/nclogo1602157242722.png"
 		},
 		{
 			"number": 105,
@@ -2615,7 +2615,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/1391910561"
+					"url": "http://webfight.mylifeisgood.ml/play/hokkeinky/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2640,7 +2640,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/2044942548"
+					"url": "http://webfight.mylifeisgood.ml/play/futbolniy/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
@@ -2665,7 +2665,7 @@
 			},
 			"sources": [
 				{
-					"url": "http://cdn1730.mylifeisgood.ml:9981/stream/channelid/666330002"
+					"url": "http://webfight.mylifeisgood.ml/play/sportivniy/j5Wzdx9Ho0/video.m3u8"
 				}
 			],
 			"themes": [
