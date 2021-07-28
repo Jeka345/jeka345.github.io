@@ -1,301 +1,301 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
-http:/livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=perviyhd
+http://f0565819.xsph.ru/play/perviyhd
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС
-http://website.mylifeisgood.ml/mfolive.m3u8?media=sts
+http://f0565819.xsph.ru/play/sts
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=stshd
+http://f0565819.xsph.ru/play/stshd
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=rentv
+http://f0565819.xsph.ru/play/rentv
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=ntv
+http://f0565819.xsph.ru/play/ntv
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" description="Без ограничения на матчи",Матч! HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
+http://f0565819.xsph.ru/play/matchhd_nocensored
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchpremace
+http://f0565819.xsph.ru/play/matchpremace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb1ace
+http://f0565819.xsph.ru/play/matchftb1ace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 2
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb2ace
+http://f0565819.xsph.ru/play/matchftb2ace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchftb3ace
+http://f0565819.xsph.ru/play/matchftb3ace
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
-http://website.mylifeisgood.ml/mfolive.m3u8?media=5tv
+http://f0565819.xsph.ru/play/5tv
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tvc
+http://f0565819.xsph.ru/play/tvc
 #EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
-http://website.mylifeisgood.ml/mfolive.m3u8?media=spas
+http://f0565819.xsph.ru/play/spas
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
-http://website.mylifeisgood.ml/mfolive.m3u8?media=muztv
+http://f0565819.xsph.ru/play/muztv
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tv3
+http://f0565819.xsph.ru/play/tv3
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tv3hd
+http://f0565819.xsph.ru/play/tv3hd
 #EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний
-http://website.mylifeisgood.ml/mfolive.m3u8?media=domashnii
+http://f0565819.xsph.ru/play/domashnii
 #EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=domashniihd
+http://f0565819.xsph.ru/play/domashniihd
 #EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница
-http://website.mylifeisgood.ml/mfolive.m3u8?media=friday
+http://f0565819.xsph.ru/play/friday
 #EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=fridayhd
+http://f0565819.xsph.ru/play/fridayhd
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
-http://website.mylifeisgood.ml/mfolive.m3u8?media=zvezda
+http://f0565819.xsph.ru/play/zvezda
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР
-http://website.mylifeisgood.ml/mfolive.m3u8?media=mir
+http://f0565819.xsph.ru/play/mir
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tnt
+http://f0565819.xsph.ru/play/tnt
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tnthd
+http://f0565819.xsph.ru/play/tnthd
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tnt4
+http://f0565819.xsph.ru/play/tnt4
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tnt4hd
+http://f0565819.xsph.ru/play/tnt4hd
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=super
+http://f0565819.xsph.ru/play/super
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
+http://f0565819.xsph.ru/play/matchstrana
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=2x2
+http://f0565819.xsph.ru/play/2x2
 #EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
-http://website.mylifeisgood.ml/mfolive.m3u8?media=che
+http://f0565819.xsph.ru/play/che
 #EXTINF:-1 tvg-id="izvestia" group-title="Информационные",Известия
-http://website.mylifeisgood.ml/mfolive.m3u8?media=iz
+http://f0565819.xsph.ru/play/iz
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
-http://website.mylifeisgood.ml/mfolive.m3u8?media=stslove
+http://f0565819.xsph.ru/play/stslove
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
-http://website.mylifeisgood.ml/mfolive.m3u8?media=78saintpetersburg
+http://f0565819.xsph.ru/play/78saintpetersburg
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=moscow24
+http://f0565819.xsph.ru/play/moscow24
 #EXTINF:-1 tvg-id="doverie" group-title="Региональные",Москва Доверие
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=moscvadoverie
+http://f0565819.xsph.ru/play/moscvadoverie
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=vestifm
+http://f0565819.xsph.ru/play/vestifm
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=myplanet
+http://f0565819.xsph.ru/play/myplanet
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia24
+http://f0565819.xsph.ru/play/russia24
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1
+http://f0565819.xsph.ru/play/russia1
 #EXTINF:-1 tvg-id="rossia1-pl1" group-title="Федеральные",Россия 1 (+1)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-1
+http://f0565819.xsph.ru/play/russia1-1
 #EXTINF:-1 tvg-id="rossia1-pl2" group-title="Федеральные",Россия 1 (+2)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-2
+http://f0565819.xsph.ru/play/russia1-2
 #EXTINF:-1 tvg-id="rossia1-pl3" group-title="Федеральные",Россия 1 (+3)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-3
+http://f0565819.xsph.ru/play/russia1-3
 #EXTINF:-1 tvg-id="rossia1-pl4" group-title="Федеральные",Россия 1 (+4)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-4
+http://f0565819.xsph.ru/play/russia1-4
 #EXTINF:-1 tvg-id="rossia1-pl5" group-title="Федеральные",Россия 1 (+5)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-5
+http://f0565819.xsph.ru/play/russia1-5
 #EXTINF:-1 tvg-id="rossia1-pl6" group-title="Федеральные",Россия 1 (+6)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-6
+http://f0565819.xsph.ru/play/russia1-6
 #EXTINF:-1 tvg-id="rossia1-pl7" group-title="Федеральные",Россия 1 (+7)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-7
+http://f0565819.xsph.ru/play/russia1-7
 #EXTINF:-1 tvg-id="rossia1-pl8" group-title="Федеральные",Россия 1 (+8)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-8
+http://f0565819.xsph.ru/play/russia1-8
 #EXTINF:-1 tvg-id="rossia1-pl9" group-title="Федеральные",Россия 1 (+9)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russia1-9
+http://f0565819.xsph.ru/play/russia1-9
 #EXTINF:-1 tvg-id="kultura" group-title="Познавательные",Россия К
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russiak
+http://f0565819.xsph.ru/play/russiak
 #EXTINF:-1 tvg-id="kultura-pl2" group-title="Федеральные",Россия К (+2)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russiak-2
+http://f0565819.xsph.ru/play/russiak-2
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="Федеральные",Россия К (+4)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russiak-4
+http://f0565819.xsph.ru/play/russiak-4
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=russiak-7
+http://f0565819.xsph.ru/play/russiak-7
 #EXTINF:-1 tvg-id="yu" group-title="Женские",Ю[Резерв]
-http://website.mylifeisgood.ml/mfolive.m3u8?media=u_ott_tv
+http://f0565819.xsph.ru/play/u_ott_tv
 #EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=u_tv
+http://f0565819.xsph.ru/play/u_tv
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=karusel
+http://f0565819.xsph.ru/play/karusel
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=kinotv
+http://f0565819.xsph.ru/play/kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
-http://website.mylifeisgood.ml/mfolive.m3u8?media=disney
+http://f0565819.xsph.ru/play/disney
 #EXTINF:-1 tvg-id="sportivny" group-title="Спортивные",Спортивный HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=sportivniylive
+http://f0565819.xsph.ru/play/sportivniylive
 #EXTINF:-1 tvg-id="xokkejny" group-title="Спортивные",Хоккейный HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=hokkeyniylive
+http://f0565819.xsph.ru/play/hokkeyniylive
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
-http://website.mylifeisgood.ml/mfolive.m3u8?media=ufctv
+http://f0565819.xsph.ru/play/ufctv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=viasatsporthd
+http://f0565819.xsph.ru/play/viasatsporthd
 #EXTINF:-1 tvg-id="da-vinci" group-title="Образовательные",Da Vinci
-http://website.mylifeisgood.ml/mfolive.m3u8?media=davinci
+http://f0565819.xsph.ru/play/davinci
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
-http://website.mylifeisgood.ml/mfolive.m3u8?media=national_geographic
+http://f0565819.xsph.ru/play/national_geographic
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=viasat_nature
+http://f0565819.xsph.ru/play/viasat_nature
 #EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",Viasat History HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=viasat_history
+http://f0565819.xsph.ru/play/viasat_history
 #EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",Viasat Explore HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=viasat_explore
+http://f0565819.xsph.ru/play/viasat_explore
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Vip Comedy HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=vip_comedy
+http://f0565819.xsph.ru/play/vip_comedy
 #EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
+http://f0565819.xsph.ru/play/vip_serial
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=vip_megahit
+http://f0565819.xsph.ru/play/vip_megahit
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Vip Premiere HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=vip_premiere
+http://f0565819.xsph.ru/play/vip_premiere
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000ruskino
+http://f0565819.xsph.ru/play/tv1000ruskino
 #EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mosfilm
+http://f0565819.xsph.ru/play/mosfilm
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000action
+http://f0565819.xsph.ru/play/tv1000action
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=tv1000
+http://f0565819.xsph.ru/play/tv1000
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=ctckids
+http://f0565819.xsph.ru/play/ctckids
 #EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=fox
+http://f0565819.xsph.ru/play/fox
 #EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",Fox Life HD
-http://website.mylifeisgood.ml/mfolive.m3u8?media=foxlife
+http://f0565819.xsph.ru/play/foxlife
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Кино
-http://website.mylifeisgood.ml/mfolive.m3u8?media=fenixkino
+http://f0565819.xsph.ru/play/fenixkino
 #EXTINF:-1 tvg-id="oruzhie" group-title="Мужские",Оружие
-http://website.mylifeisgood.ml/mfolive.m3u8?media=oruzhie
+http://f0565819.xsph.ru/play/oruzhie
 #EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
-http://website.mylifeisgood.ml/mfolive.m3u8?media=anekdot
+http://f0565819.xsph.ru/play/anekdot
 #EXTINF:-1 tvg-id="pes-i-ko" group-title="Познавательные",Пёс и Ко
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=pesandko
+http://f0565819.xsph.ru/play/pesandko
 #EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=ehomoscow
+http://f0565819.xsph.ru/play/ehomoscow
 #EXTINF:-1 tvg-id="rifey-tv" group-title="Федеральные",Рифей
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rifei
+http://f0565819.xsph.ru/play/rifei
 #EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=musicboxgold
+http://f0565819.xsph.ru/play/musicboxgold
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tntmusic
+http://f0565819.xsph.ru/play/tntmusic
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgetv24h
+http://f0565819.xsph.ru/play/bridgetv24h
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge TV Classic
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgeclassictv
+http://f0565819.xsph.ru/play/bridgeclassictv
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgedeluxetv
+http://f0565819.xsph.ru/play/bridgedeluxetv
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge TV Hits
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgehitstv
+http://f0565819.xsph.ru/play/bridgehitstv
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge TV Русский хит
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgerushittv
+http://f0565819.xsph.ru/play/bridgerushittv
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=bridgetvshlyager
+http://f0565819.xsph.ru/play/bridgetvshlyager
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=smile
+http://f0565819.xsph.ru/play/smile
 #EXTINF:-1 tvg-id="tv-guberniya" group-title="Региональные",ТВ Губерния
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tvgubernia
+http://f0565819.xsph.ru/play/tvgubernia
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=otr
+http://f0565819.xsph.ru/play/otr
 #EXTINF:-1 tvg-id="efir24-relax" group-title="Федеральные",Эфир
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=efir
+http://f0565819.xsph.ru/play/efir
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Региональные",Ростов Папа
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rostovpapa
+http://f0565819.xsph.ru/play/rostovpapa
 #EXTINF:-1 tvg-id="okino" group-title="Фильмовые",О!Кино
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=okino
+http://f0565819.xsph.ru/play/okino
 #EXTINF:-1 tvg-id="utv" group-title="Информационные",UTV Уфа
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=utvufa
+http://f0565819.xsph.ru/play/utvufa
 #EXTINF:-1 tvg-id="mir" group-title="Информационные",Мир HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mirhd
+http://f0565819.xsph.ru/play/mirhd
 #EXTINF:-1 tvg-id="nts-sevastopol" group-title="Федеральные",НТС
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=ntc
+http://f0565819.xsph.ru/play/ntc
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Радио",Страна FM
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=stranafm
+http://f0565819.xsph.ru/play/stranafm
 #EXTINF:-1 tvg-id="yamal-region" group-title="Региональные",Ямал-Регион
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=yamal
+http://f0565819.xsph.ru/play/yamal
 #EXTINF:-1 tvg-id="dzenzhinsk-tv" group-title="Региональные",Дзержинск ТВ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=dzertv
+http://f0565819.xsph.ru/play/dzertv
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные",Вместе РФ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=vmesterf
+http://f0565819.xsph.ru/play/vmesterf
 #EXTINF:-1 tvg-id="beauty-tv",Бьюти ТВ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=beautytv
+http://f0565819.xsph.ru/play/beautytv
 #EXTINF:-1 tvg-id="afontovo-kr" group-title="Региональные",Афонтово
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=afontovo
+http://f0565819.xsph.ru/play/afontovo
 #EXTINF:-1 tvg-id="univer-tv" group-title="Региональные",Univer TV
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=univertv
+http://f0565819.xsph.ru/play/univertv
 #EXTINF:-1 group-title="Эфирные",Мир 24 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mirhdpremium
+http://f0565819.xsph.ru/play/mirhdpremium
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=starthd
+http://f0565819.xsph.ru/play/starthd
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" group-title="Познавательные",Охотник и Рыболов HD Int
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=ohotnikiribalovhdint
+http://f0565819.xsph.ru/play/ohotnikiribalovhdint
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=zagorodhdint
+http://f0565819.xsph.ru/play/zagorodhdint
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashasibirhd
+http://f0565819.xsph.ru/play/nashasibirhd
 #EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tvrainhd
+http://f0565819.xsph.ru/play/tvrainhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=europaplustv
+http://f0565819.xsph.ru/play/europaplustv
 #EXTINF:-1 tvg-id="discovery-ru" group-title="Познавательные",Discovery Channel HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=discoverybreak
+http://f0565819.xsph.ru/play/discoverybreak
 #EXTINF:-1 tvg-id="eurosport1-ru" group-title="Спортивные",Eurosport 1 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport1hd
+http://f0565819.xsph.ru/play/eurosport1hd
 #EXTINF:-1 tvg-id="eurosport2-ru" group-title="Спортивные",Eurosport 2 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2hd
+http://f0565819.xsph.ru/play/eurosport2hd
 #EXTINF:-1 tvg-id="konny-mir" group-title="Спортивные",Конный Мир HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=koniymir
+http://f0565819.xsph.ru/play/koniymir
 #EXTINF:-1 tvg-id="tlc" group-title="Женские",TLC HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=tlchd
+http://f0565819.xsph.ru/play/tlchd
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Познавательные",Звезда+
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=zvezdaplus
+http://f0565819.xsph.ru/play/zvezdaplus
 #EXTINF:-1 tvg-id="" group-title="Познавательные",Живи Активно HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=jiviactivno
+http://f0565819.xsph.ru/play/jiviactivno
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=glazamiturista
+http://f0565819.xsph.ru/play/glazamiturista
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=jivyapriroda
+http://f0565819.xsph.ru/play/jivyapriroda
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey1
+http://f0565819.xsph.ru/play/nashhokkey1
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey2
+http://f0565819.xsph.ru/play/nashhokkey2
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 3
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey3
+http://f0565819.xsph.ru/play/nashhokkey3
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 4
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey4
+http://f0565819.xsph.ru/play/nashhokkey4
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 5
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey5
+http://f0565819.xsph.ru/play/nashhokkey5
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 6
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey6
+http://f0565819.xsph.ru/play/nashhokkey6
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 7
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey7
+http://f0565819.xsph.ru/play/nashhokkey7
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 8
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey8
+http://f0565819.xsph.ru/play/nashhokkey8
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 9
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=nashhokkey9
+http://f0565819.xsph.ru/play/nashhokkey9
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiorodniyxdorog
+http://f0565819.xsph.ru/play/radiorodniyxdorog
 #EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=dorojnoeradio
+http://f0565819.xsph.ru/play/dorojnoeradio
 #EXTINF:-1 tvg-id="europa-plus-radio" group-title="Радио",Европа плюс радио
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=europaplusradio
+http://f0565819.xsph.ru/play/europaplusradio
 #EXTINF:-1 tvg-id="avtoradio" group-title="Радио",Авторадио
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=avtoradio
+http://f0565819.xsph.ru/play/avtoradio
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiomaximus
+http://f0565819.xsph.ru/play/radiomaximus
 #EXTINF:-1 tvg-id="russkoe-radio" group-title="Радио",Русское Радио
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=rusradio
+http://f0565819.xsph.ru/play/rusradio
 #EXTINF:-1 tvg-id="yumor-fm" group-title="Радио",Юмор ФМ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=yumorfm
+http://f0565819.xsph.ru/play/yumorfm
 #EXTINF:-1 tvg-id="radio-vania" group-title="Радио",Радио Ваня
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiovanya
+http://f0565819.xsph.ru/play/radiovanya
 #EXTINF:-1 tvg-id="comedy-radio" group-title="Радио",Comedy Radio
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=comedyradio
+http://f0565819.xsph.ru/play/comedyradio
 #EXTINF:-1 tvg-id="radio-dfm" group-title="Радио",Радио DFM
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiodfm
+http://f0565819.xsph.ru/play/radiodfm
 #EXTINF:-1 tvg-id="retro-fm" group-title="Радио",Ретро ФМ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=retrofm
+http://f0565819.xsph.ru/play/retrofm
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ХИТ FM
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiohitfm
+http://f0565819.xsph.ru/play/radiohitfm
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Комсомольская правда
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiokomsomolpravda
+http://f0565819.xsph.ru/play/radiokomsomolpravda
 #EXTINF:-1 tvg-id="radio-energy" group-title="Радио",Energy FM
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radioenegry
+http://f0565819.xsph.ru/play/radioenegry
 #EXTINF:-1 tvg-id="radio-romantika" group-title="Радио",Радио Romantica
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radioromantica
+http://f0565819.xsph.ru/play/radioromantica
 #EXTINF:-1 tvg-id="radio-dlia-dvoix" group-title="Радио",Радио для двоих
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiodlyadvoix
+http://f0565819.xsph.ru/play/radiodlyadvoix
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ТВ
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiotv
+http://f0565819.xsph.ru/play/radiotv
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Град Петров
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=radiogradpetrov
+http://f0565819.xsph.ru/play/radiogradpetrov
