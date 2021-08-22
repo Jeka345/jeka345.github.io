@@ -629,241 +629,241 @@ http://сервер/mbrjwt/ключик/ch394/ch394.m3u8
 http://сервер/mbrjwt/ключик/ch317/ch317.m3u8
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Спортивные",Моторспорт ТВ
 http://сервер/mbrjwt/ключик/ch3918/ch3918.m3u8
-#EXTINF:-1 tvg-id="amedia1" group-title="Кино",Amedia 1
+#EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",Amedia 1
 http://сервер/mbrjwt/ключик/ch267/ch267.m3u8
-#EXTINF:-1 tvg-id="amedia1" group-title="Кино",Amedia 1
+#EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",Amedia 1
 http://сервер/mbrjwt/ключик/ch629/ch629.m3u8
-#EXTINF:-1 tvg-id="amedia2" group-title="Кино",Amedia 2
+#EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",Amedia 2
 http://сервер/mbrjwt/ключик/ch261/ch261.m3u8
-#EXTINF:-1 tvg-id="amedia2" group-title="Кино",Amedia 2
+#EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",Amedia 2
 http://сервер/mbrjwt/ключик/ch228/ch228.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" group-title="Кино",Amedia Hit
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Фильмовые",Amedia Hit
 http://сервер/mbrjwt/ключик/ch631/ch631.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" group-title="Кино",Amedia Hit
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Фильмовые",Amedia Hit
 http://сервер/mbrjwt/ключик/ch632/ch632.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" group-title="Кино",Amedia Premium
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Фильмовые",Amedia Premium
 http://сервер/mbrjwt/ключик/ch630/ch630.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" group-title="Кино",Amedia Premium
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Фильмовые",Amedia Premium
 http://сервер/mbrjwt/ключик/ch187/ch187.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" group-title="Кино",VIP Premiere
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",VIP Premiere
 http://сервер/mbrjwt/ключик/ch196/ch196.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" group-title="Кино",VIP Megahit
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",VIP Megahit
 http://сервер/mbrjwt/ключик/ch195/ch195.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" group-title="Кино",VIP Comedy
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",VIP Comedy
 http://сервер/mbrjwt/ключик/ch194/ch194.m3u8
-#EXTINF:-1 tvg-id="vip-serial" group-title="Кино",VIP Serial
+#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",VIP Serial
 http://сервер/mbrjwt/ключик/ch3592/ch3592.m3u8
-#EXTINF:-1 tvg-id="tv1000" group-title="Кино",TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000
 http://сервер/mbrjwt/ключик/ch82/ch82.m3u8
-#EXTINF:-1 tvg-id="tv1000" group-title="Кино",TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000
 http://сервер/mbrjwt/ключик/ch488/ch488.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action
 http://сервер/mbrjwt/ключик/ch83/ch83.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action
 http://сервер/mbrjwt/ключик/ch487/ch487.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Фильмовые
 http://сервер/mbrjwt/ключик/ch81/ch81.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино",TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Фильмовые
 http://сервер/mbrjwt/ключик/ch489/ch489.m3u8
-#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино",Ultra HD Cinema
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Фильмовые",Ultra HD Cinema
 http://сервер/mbrjwt/ключик/ch799/ch799.m3u8
-#EXTINF:-1 tvg-id="kino-tv" group-title="Кино",Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Фильмовые ТВ
 http://сервер/mbrjwt/ключик/ch388/ch388.m3u8
-#EXTINF:-1 tvg-id="kino-tv" group-title="Кино",Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Фильмовые ТВ
 http://сервер/mbrjwt/ключик/ch381/ch381.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Кино",Кинопремьера
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Фильмовые",Кинопремьера
 http://сервер/mbrjwt/ключик/ch183/ch183.m3u8
-#EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит
 http://сервер/mbrjwt/ключик/ch33/ch33.m3u8
-#EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит
 http://сервер/mbrjwt/ключик/ch534/ch534.m3u8
-#EXTINF:-1 tvg-id="kinomiks" group-title="Кино",Киномикс
+#EXTINF:-1 tvg-id="kinomiks" group-title="Фильмовые",Киномикс
 http://сервер/mbrjwt/ключик/ch167/ch167.m3u8
-#EXTINF:-1 tvg-id="kinomiks" group-title="Кино",Киномикс
+#EXTINF:-1 tvg-id="kinomiks" group-title="Фильмовые",Киномикс
 http://сервер/mbrjwt/ключик/ch521/ch521.m3u8
-#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино",Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас
 http://сервер/mbrjwt/ключик/ch259/ch259.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" group-title="Кино",Киносемья
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмовые",Киносемья
 http://сервер/mbrjwt/ключик/ch13/ch13.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" group-title="Кино",Киносемья
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмовые",Киносемья
 http://сервер/mbrjwt/ключик/ch528/ch528.m3u8
-#EXTINF:-1 tvg-id="kinosvidanie" group-title="Кино",Киносвидание
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Фильмовые",Киносвидание
 http://сервер/mbrjwt/ключик/ch11/ch11.m3u8
-#EXTINF:-1 tvg-id="kinosvidanie" group-title="Кино",Киносвидание
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Фильмовые",Киносвидание
 http://сервер/mbrjwt/ключик/ch526/ch526.m3u8
-#EXTINF:-1 tvg-id="kinokomedia" group-title="Кино",Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Фильмовые",Кинокомедия
 http://сервер/mbrjwt/ключик/ch26/ch26.m3u8
-#EXTINF:-1 tvg-id="kinokomedia" group-title="Кино",Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Фильмовые",Кинокомедия
 http://сервер/mbrjwt/ключик/ch3738/ch3738.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское Фильмовые
 http://сервер/mbrjwt/ключик/ch209/ch209.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское Фильмовые
 http://сервер/mbrjwt/ключик/ch4222/ch4222.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское Фильмовые
 http://сервер/mbrjwt/ключик/ch148/ch148.m3u8
-#EXTINF:-1 tvg-id="kinoseria" group-title="Кино",Киносерия
+#EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия
 http://сервер/mbrjwt/ключик/ch208/ch208.m3u8
-#EXTINF:-1 tvg-id="kinoseria" group-title="Кино",Киносерия
+#EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия
 http://сервер/mbrjwt/ключик/ch529/ch529.m3u8
-#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино",Родное кино
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Фильмовые",Родное Фильмовые
 http://сервер/mbrjwt/ключик/ch12/ch12.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино",Наше новое кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Фильмовые",Наше новое Фильмовые
 http://сервер/mbrjwt/ключик/ch35/ch35.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино",Наше новое кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Фильмовые",Наше новое Фильмовые
 http://сервер/mbrjwt/ключик/ch3739/ch3739.m3u8
-#EXTINF:-1 tvg-id="blokbaster-hd" group-title="Кино",Блокбастер HD
+#EXTINF:-1 tvg-id="blokbaster-hd" group-title="Фильмовые",Блокбастер HD
 http://сервер/mbrjwt/ключик/ch4776/ch4776.m3u8
-#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Кино",Премиальное HD
+#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Фильмовые",Премиальное HD
 http://сервер/mbrjwt/ключик/ch367/ch367.m3u8
-#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Кино",Премиальное HD (50fps)
+#EXTINF:-1 tvg-id="kinopremium-hd" group-title="Фильмовые",Премиальное HD (50fps)
 http://сервер/mbrjwt/ключик/ch4470/ch4470.m3u8
-#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Кино",Остросюжетное HD
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Фильмовые",Остросюжетное HD
 http://сервер/mbrjwt/ключик/ch368/ch368.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd1" group-title="Кино",Шокирующее HD
+#EXTINF:-1 tvg-id="kinopokaz-hd1" group-title="Фильмовые",Шокирующее HD
 http://сервер/mbrjwt/ключик/ch137/ch137.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd2" group-title="Кино",Комедийное HD
+#EXTINF:-1 tvg-id="kinopokaz-hd2" group-title="Фильмовые",Комедийное HD
 http://сервер/mbrjwt/ключик/ch138/ch138.m3u8
-#EXTINF:-1 tvg-id="nashe-lubimoe" group-title="Кино",Любимое HD (Наше любимое)
+#EXTINF:-1 tvg-id="nashe-lubimoe" group-title="Фильмовые",Любимое HD (Наше любимое)
 http://сервер/mbrjwt/ключик/ch499/ch499.m3u8
-#EXTINF:-1 tvg-id="nash-kinoroman" group-title="Кино",Душевное HD
+#EXTINF:-1 tvg-id="nash-kinoroman" group-title="Фильмовые",Душевное HD
 http://сервер/mbrjwt/ключик/ch369/ch369.m3u8
-#EXTINF:-1 tvg-id="pro-lyubov" group-title="Кино",Про Любовь
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="Фильмовые",Про Любовь
 http://сервер/mbrjwt/ключик/ch4874/ch4874.m3u8
-#EXTINF:-1 tvg-id="pro-lyubov" group-title="Кино",Про Любовь
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="Фильмовые",Про Любовь
 http://сервер/mbrjwt/ключик/ch4778/ch4778.m3u8
-#EXTINF:-1 tvg-id="nash-detektiv" group-title="Кино",Наше HD (Наше Крутое)
+#EXTINF:-1 tvg-id="nash-detektiv" group-title="Фильмовые",Наше HD (Наше Крутое)
 http://сервер/mbrjwt/ключик/ch370/ch370.m3u8
-#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="Кино",Наше Мужское HD
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="Фильмовые",Наше Мужское HD
 http://сервер/mbrjwt/ключик/ch4777/ch4777.m3u8
-#EXTINF:-1 tvg-id="strashnoe-hd" group-title="Кино",Страшное HD
+#EXTINF:-1 tvg-id="strashnoe-hd" group-title="Фильмовые",Страшное HD
 http://сервер/mbrjwt/ключик/ch371/ch371.m3u8
-#EXTINF:-1 tvg-id="hollywood" group-title="Кино",Hollywood
+#EXTINF:-1 tvg-id="hollywood" group-title="Фильмовые",Hollywood
 http://сервер/mbrjwt/ключик/ch3723/ch3723.m3u8
-#EXTINF:-1 tvg-id="hollywood-hd" group-title="Кино",Hollywood HD
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="Фильмовые",Hollywood HD
 http://сервер/mbrjwt/ключик/ch176/ch176.m3u8
-#EXTINF:-1 tvg-id="flixsnip" group-title="Кино",FlixSnip
+#EXTINF:-1 tvg-id="flixsnip" group-title="Фильмовые",FlixSnip
 http://сервер/mbrjwt/ключик/ch263/ch263.m3u8
-#EXTINF:-1 tvg-id="kinosat" group-title="Кино",КиноСат
+#EXTINF:-1 tvg-id="kinosat" group-title="Фильмовые",КиноСат
 http://сервер/mbrjwt/ключик/ch3670/ch3670.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="Кино",Кинопоказ
+#EXTINF:-1 tvg-id="kinopokaz" group-title="Фильмовые",Кинопоказ
 http://сервер/mbrjwt/ключик/ch129/ch129.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Кино",Кинопоказ HD
+#EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Фильмовые",Кинопоказ HD
 http://сервер/mbrjwt/ключик/ch4781/ch4781.m3u8
-#EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Кино",Наш Кинопоказ HD
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Фильмовые",Наш Кинопоказ HD
 http://сервер/mbrjwt/ключик/ch4775/ch4775.m3u8
-#EXTINF:-1 tvg-id="khit-hd" group-title="Кино",Хит HD
+#EXTINF:-1 tvg-id="khit-hd" group-title="Фильмовые",Хит HD
 http://сервер/mbrjwt/ключик/ch4779/ch4779.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино",Cinema
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema
 http://сервер/mbrjwt/ключик/ch223/ch223.m3u8
-#EXTINF:-1 tvg-id="nst" group-title="Кино",НСТ
+#EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
 http://сервер/mbrjwt/ключик/ch93/ch93.m3u8
-#EXTINF:-1 tvg-id="tvxxi" group-title="Кино",TV XXI
+#EXTINF:-1 tvg-id="tvxxi" group-title="Фильмовые",TV XXI
 http://сервер/mbrjwt/ключик/ch84/ch84.m3u8
-#EXTINF:-1 tvg-id="evrokino" group-title="Кино",Еврокино
+#EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино
 http://сервер/mbrjwt/ключик/ch96/ch96.m3u8
-#EXTINF:-1 tvg-id="evrokino" group-title="Кино",Еврокино
+#EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино
 http://сервер/mbrjwt/ключик/ch3450/ch3450.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="Кино",FOX
+#EXTINF:-1 tvg-id="fox" group-title="Фильмовые",FOX
 http://сервер/mbrjwt/ключик/ch95/ch95.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="Кино",FOX HD
+#EXTINF:-1 tvg-id="fox" group-title="Фильмовые",FOX HD
 http://сервер/mbrjwt/ключик/ch178/ch178.m3u8
-#EXTINF:-1 tvg-id="foxlife" group-title="Кино",FOX Life
+#EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",FOX Life
 http://сервер/mbrjwt/ключик/ch94/ch94.m3u8
-#EXTINF:-1 tvg-id="foxlife" group-title="Кино",FOX Life HD
+#EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",FOX Life HD
 http://сервер/mbrjwt/ключик/ch179/ch179.m3u8
-#EXTINF:-1 tvg-id="paramount-channel" group-title="Кино",Paramount Channel
+#EXTINF:-1 tvg-id="paramount-channel" group-title="Фильмовые",Paramount Channel
 http://сервер/mbrjwt/ключик/ch255/ch255.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино",Paramount Comedy Russia
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="Фильмовые",Paramount Comedy Russia
 http://сервер/mbrjwt/ключик/ch181/ch181.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино",Paramount Comedy Russia HD
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="Фильмовые",Paramount Comedy Russia HD
 http://сервер/mbrjwt/ключик/ch382/ch382.m3u8
-#EXTINF:-1 tvg-id="sony-tv" group-title="Кино",.Red	
+#EXTINF:-1 tvg-id="sony-tv" group-title="Фильмовые",.Red	
 http://сервер/mbrjwt/ключик/ch85/ch85.m3u8
-#EXTINF:-1 tvg-id="sony-tv" group-title="Кино",.Red
+#EXTINF:-1 tvg-id="sony-tv" group-title="Фильмовые",.Red
 http://сервер/mbrjwt/ключик/ch292/ch292.m3u8
-#EXTINF:-1 tvg-id="sony-scifi" group-title="Кино",.Sci-Fi
+#EXTINF:-1 tvg-id="sony-scifi" group-title="Фильмовые",.Sci-Fi
 http://сервер/mbrjwt/ключик/ch102/ch102.m3u8
-#EXTINF:-1 tvg-id="sony-scifi" group-title="Кино",.Sci-Fi
+#EXTINF:-1 tvg-id="sony-scifi" group-title="Фильмовые",.Sci-Fi
 http://сервер/mbrjwt/ключик/ch290/ch290.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" group-title="Кино",.Black
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.Black
 http://сервер/mbrjwt/ключик/ch235/ch235.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" group-title="Кино",.Black
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.Black
 http://сервер/mbrjwt/ключик/ch275/ch275.m3u8
-#EXTINF:-1 tvg-id="dorama" group-title="Кино",Дорама
+#EXTINF:-1 tvg-id="dorama" group-title="Фильмовые",Дорама
 http://сервер/mbrjwt/ключик/ch4095/ch4095.m3u8
-#EXTINF:-1 tvg-id="dorama" group-title="Кино",Дорама
+#EXTINF:-1 tvg-id="dorama" group-title="Фильмовые",Дорама
 http://сервер/mbrjwt/ключик/ch3737/ch3737.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино",FilmBox
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Фильмовые",FilmBox
 http://сервер/mbrjwt/ключик/ch3774/ch3774.m3u8
-#EXTINF:-1 tvg-id="filmbox-arthouse" group-title="Кино",FilmBox ArtHouse
+#EXTINF:-1 tvg-id="filmbox-arthouse" group-title="Фильмовые",FilmBox ArtHouse
 http://сервер/mbrjwt/ключик/ch2614/ch2614.m3u8
-#EXTINF:-1 tvg-id="shot-tv" group-title="Кино",Shot TV
+#EXTINF:-1 tvg-id="shot-tv" group-title="Фильмовые",Shot TV
 http://сервер/mbrjwt/ключик/ch150/ch150.m3u8
-#EXTINF:-1 tvg-id="trashtv" group-title="Кино",Trash
+#EXTINF:-1 tvg-id="trashtv" group-title="Фильмовые",Trash
 http://сервер/mbrjwt/ключик/ch4830/ch4830.m3u8
-#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино",Индийское Кино
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Фильмовые",Индийское Фильмовые
 http://сервер/mbrjwt/ключик/ch62/ch62.m3u8
-#EXTINF:-1 tvg-id="zee-tv" group-title="Кино",Zee TV
+#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",Zee TV
 http://сервер/mbrjwt/ключик/ch245/ch245.m3u8
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино",Bollywood HD
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Фильмовые",Bollywood HD
 http://сервер/mbrjwt/ключик/ch932/ch932.m3u8
-#EXTINF:-1 tvg-id="siestahd" group-title="Кино",Сиеста
+#EXTINF:-1 tvg-id="siestahd" group-title="Фильмовые",Сиеста
 http://сервер/mbrjwt/ключик/ch4800/ch4800.m3u8
-#EXTINF:-1 tvg-id="pobeda" group-title="Кино",Победа
+#EXTINF:-1 tvg-id="pobeda" group-title="Фильмовые",Победа
 http://сервер/mbrjwt/ключик/ch3770/ch3770.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" group-title="Кино",Арсенал HD
+#EXTINF:-1 tvg-id="arsenaltv" group-title="Фильмовые",Арсенал HD
 http://сервер/mbrjwt/ключик/ch387/ch387.m3u8
-#EXTINF:-1 tvg-id="mosfilm" group-title="Кино",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
 http://сервер/mbrjwt/ключик/ch4875/ch4875.m3u8
-#EXTINF:-1 tvg-id="mosfilm" group-title="Кино",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
 http://сервер/mbrjwt/ключик/ch4985/ch4985.m3u8
-#EXTINF:-1 tvg-id="mosfilm" group-title="Кино",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм. Золотая коллекция
 http://сервер/mbrjwt/ключик/ch3919/ch3919.m3u8
-#EXTINF:-1 tvg-id="domkino" group-title="Кино",Дом кино
+#EXTINF:-1 tvg-id="domkino" group-title="Фильмовые",Дом Фильмовые
 http://сервер/mbrjwt/ключик/ch42/ch42.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" group-title="Кино",Дом кино Премиум HD
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Фильмовые Премиум HD
 http://сервер/mbrjwt/ключик/ch931/ch931.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Кино",Наше любимое кино
+#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Фильмовые",Наше любимое Фильмовые
 http://сервер/mbrjwt/ключик/ch342/ch342.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Кино",Наше любимое кино
+#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Фильмовые",Наше любимое Фильмовые
 http://сервер/mbrjwt/ключик/ch347/ch347.m3u8
-#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино",Феникс + Кино
+#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Фильмовые
 http://сервер/mbrjwt/ключик/ch204/ch204.m3u8
-#EXTINF:-1 tvg-id="kamedi" group-title="Кино",Камеди
+#EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди
 http://сервер/mbrjwt/ключик/ch4873/ch4873.m3u8
-#EXTINF:-1 tvg-id="kamedi" group-title="Кино",Камеди
+#EXTINF:-1 tvg-id="kamedi" group-title="Фильмовые",Камеди
 http://сервер/mbrjwt/ключик/ch4780/ch4780.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Кино",Комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Фильмовые",Комедия
 http://сервер/mbrjwt/ключик/ch280/ch280.m3u8
-#EXTINF:-1 tvg-id="russky-roman" group-title="Кино",Русский роман
+#EXTINF:-1 tvg-id="russky-roman" group-title="Фильмовые",Русский роман
 http://сервер/mbrjwt/ключик/ch172/ch172.m3u8
-#EXTINF:-1 tvg-id="russky-roman" group-title="Кино",Русский роман
+#EXTINF:-1 tvg-id="russky-roman" group-title="Фильмовые",Русский роман
 http://сервер/mbrjwt/ключик/ch326/ch326.m3u8
-#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино",Русский Бестселлер
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Фильмовые",Русский Бестселлер
 http://сервер/mbrjwt/ключик/ch281/ch281.m3u8
-#EXTINF:-1 tvg-id="russky-detektiv" group-title="Кино",Русский Детектив
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Фильмовые",Русский Детектив
 http://сервер/mbrjwt/ключик/ch282/ch282.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино",Русский Иллюзион
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Фильмовые",Русский Иллюзион
 http://сервер/mbrjwt/ключик/ch201/ch201.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино",Русский Иллюзион
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Фильмовые",Русский Иллюзион
 http://сервер/mbrjwt/ключик/ch3454/ch3454.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" group-title="Кино",Иллюзион+
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+
 http://сервер/mbrjwt/ключик/ch202/ch202.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" group-title="Кино",Иллюзион+
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Фильмовые",Иллюзион+
 http://сервер/mbrjwt/ключик/ch3451/ch3451.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" group-title="Кино",Мир сериала
+#EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала
 http://сервер/mbrjwt/ключик/ch291/ch291.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" group-title="Кино",Мир сериала
+#EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала
 http://сервер/mbrjwt/ключик/ch5086/ch5086.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Кино",НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 http://сервер/mbrjwt/ключик/ch3781/ch3781.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Кино",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал
 http://сервер/mbrjwt/ключик/ch784/ch784.m3u8
-#EXTINF:-1 tvg-id="timeless-dizi" group-title="Кино",Timeless Dizi Channel (TDC)
+#EXTINF:-1 tvg-id="timeless-dizi" group-title="Фильмовые",Timeless Dizi Channel (TDC)
 http://сервер/mbrjwt/ключик/ch4829/ch4829.m3u8
-#EXTINF:-1 tvg-id="fanhd" group-title="Кино",FAN
+#EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN
 http://сервер/mbrjwt/ключик/ch3563/ch3563.m3u8
-#EXTINF:-1 tvg-id="fanhd" group-title="Кино",FAN
+#EXTINF:-1 tvg-id="fanhd" group-title="Фильмовые",FAN
 http://сервер/mbrjwt/ключик/ch3562/ch3562.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
 http://сервер/mbrjwt/ключик/ch40/ch40.m3u8
@@ -1263,7 +1263,7 @@ http://сервер/mbrjwt/ключик/ch211/ch211.m3u8
 http://сервер/mbrjwt/ключик/ch229/ch229.m3u8
 #EXTINF:-1 tvg-id="globalstar" group-title="Мужские",Global Star TV
 http://сервер/mbrjwt/ключик/ch185/ch185.m3u8
-#EXTINF:-1 tvg-id="okino" group-title="Женские",О!Кино
+#EXTINF:-1 tvg-id="okino" group-title="Женские",О!Фильмовые
 http://сервер/mbrjwt/ключик/ch4887/ch4887.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="Женские",TLC
 http://сервер/mbrjwt/ключик/ch23/ch23.m3u8
@@ -1829,9 +1829,9 @@ http://сервер/mbrjwt/ключик/ch225/ch225.m3u8
 http://сервер/mbrjwt/ключик/ch596/ch596.m3u8
 #EXTINF:-1 tvg-id="babes-tv" group-title="Эротические",Babes TV
 http://сервер/mbrjwt/ключик/ch3976/ch3976.m3u8
-#EXTINF:-1 tvg-id="star-cinema" group-title="Кино",Star Cinema Россия
+#EXTINF:-1 tvg-id="star-cinema" group-title="Фильмовые",Star Cinema Россия
 http://сервер/mbrjwt/ключик/ch2898/ch2898.m3u8
-#EXTINF:-1 tvg-id="star-family" group-title="Кино",Star Family Россия
+#EXTINF:-1 tvg-id="star-family" group-title="Фильмовые",Star Family Россия
 http://сервер/mbrjwt/ключик/ch2899/ch2899.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl2" group-title="Развлекательные",СТС Love +2
 http://сервер/mbrjwt/ключик/ch3485/ch3485.m3u8
