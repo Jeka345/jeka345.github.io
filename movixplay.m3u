@@ -39,12 +39,14 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch018
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch019
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch020
-#EXTINF:-1 tvg-id="nicktoons" group-title="Детские",NickToons
+#EXTINF:-1 tvg-id="arsenaltv" group-title="Фильмовые",Арсенал (тест)
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch021
 #EXTINF:-1 tvg-id="7tv" group-title="Развлекательные",7 канал
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch022
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные",Дом Ру Телегид
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch023
+#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1 HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm075
 #EXTINF:-1 tvg-id="shopping-live" group-title="Телемагазины",Shopping Live
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch024
 #EXTINF:-1 tvg-id="shop-n-show" group-title="Телемагазины",Shop and Show
@@ -71,12 +73,16 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch034
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch035
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Фильмовые",Русский детектив
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch036
-#EXTINF:-1 tvg-id="spike" group-title="Фильмовые",Spike HD
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch037
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",VIP Megahit HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch038
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch039
+#EXTINF:-1 tvg-id="sony-enter" group-title="Фильмовые",.red
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm011
+#EXTINF:-1 tvg-id="sony-scifi" group-title="Фильмовые",.sci-fi
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm016
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Фильмовые",Кинокомедия
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch040
 #EXTINF:-1 tvg-id="evrokino" group-title="Фильмовые",Еврокино
@@ -87,6 +93,8 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch042
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch043
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch044
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.black
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch074
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмовые",Киносемья
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch045
 #EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",A2 про любовь
@@ -129,10 +137,18 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch063
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch064
 #EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch065
+#EXTINF:-1 tvg-id="star-family" group-title="Фильмовые",Star Familly
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm063
+#EXTINF:-1 tvg-id="star-cinema" group-title="Фильмовые",Star Cinema
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm064
 #EXTINF:-1 tvg-id="paramount-channel" group-title="Фильмовые",Paramount Channel HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch066
+#EXTINF:-1 tvg-id="bolt-ru" group-title="Фильмовые",Bolt HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm065
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch067
+#EXTINF:-1 tvg-id="fanhd" group-title="Развлекательные",FAN HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm066
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch068
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
@@ -145,8 +161,6 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch071
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch072
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Развлекательные",MTV HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch073
-#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
-http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch074
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательные",Кухня ТВ
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch075
 #EXTINF:-1 tvg-id="nostalgia" group-title="Развлекательные",Ностальгия
@@ -157,8 +171,18 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch077
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch078
 #EXTINF:-1 tvg-id="world-fashion-channel" group-title="Познавательные",World Fashion TV
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch079
+#EXTINF:-1 tvg-id="animal-planet" group-title="Познавательные",Animal Planet
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm067
+#EXTINF:-1 tvg-id="discovery-ru" group-title="Познавательные",Discovery Channel HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm068
+#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные",Discovery Science HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm069
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя планета
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch080
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm070
+#EXTINF:-1 tvg-id="kluch" group-title="Познавательные",Ключ
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm071
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательные",Охотник и рыболов HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch081
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательные",В мире животных HD
@@ -199,6 +223,10 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch098
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=ch099
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm001
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm072
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2 HD
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm073
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm002
 #EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Матч! Боец
@@ -217,8 +245,6 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm008
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm009
 #EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M1 Global HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm010
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ HD
-http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm011
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm012
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",Бокс ТВ
@@ -227,8 +253,6 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm013
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm014
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="Развлекательные",Русский Экстрим
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm015
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные",КХЛ
-http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm016
 #EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Матч! Футбол 2 HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm017
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные",Матч! Футбол 3 HD
@@ -267,6 +291,8 @@ http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm032
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm033
 #EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт HD
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm034
+#EXTINF:-1 tvg-id="nicktoons" group-title="Детские",Nicktoons
+http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm074
 #EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU TV
 http://livetv.mylifeisgood.ml:8880/movix.m3u8?channel=cm035
 #EXTINF:-1 tvg-id="o2tv" group-title="Музыкальные",О2

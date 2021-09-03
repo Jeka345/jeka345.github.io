@@ -487,8 +487,8 @@
 		},
 		{
 			"number": 33,
-			"name": "Nicktoons",
-			"id": 0,
+			"name": "Арсенал (тест)",
+			"id": 218540344,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -504,11 +504,11 @@
 			],
 			"themes": [
 				0,
-				5
+				8
 			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
+			"full_logo": "/sdp/mos/nclogo1602160177490.png",
+			"logo": "/sdp/mos/nclogo1602160179867.png",
+			"background": "/sdp/mos/nclogo1602160182676.png"
 		},
 		{
 			"number": 34,
@@ -557,6 +557,30 @@
 				6
 			],
 			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 42,
+			"name": "Россия 1 HD",
+			"id": 11989811,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm075"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1497612738365.png",
 			"logo": "",
 			"background": ""
 		},
@@ -887,8 +911,8 @@
 		},
 		{
 			"number": 203,
-			"name": "Spike HD",
-			"id": 92151524,
+			"name": "Киноужас",
+			"id": 159784524,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -906,7 +930,7 @@
 				0,
 				8
 			],
-			"full_logo": "/sdp/vlg/nclogo1540549525073.png",
+			"full_logo": "/sdp/mos/nclogo1573801740209.png",
 			"logo": "",
 			"background": ""
 		},
@@ -957,6 +981,56 @@
 				8
 			],
 			"full_logo": "/sdp/mos/nclogo1612112008234.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 209,
+			"name": ".red",
+			"id": 1144585,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm016"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1624434332565.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 210,
+			"name": ".sci-fi",
+			"id": 2350245,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm011"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1624434360578.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1083,6 +1157,31 @@
 				8
 			],
 			"full_logo": "/sdp/ct/nclogo1560865178804.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 217,
+			"name": ".black",
+			"id": 107576607,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/ch074"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1624434378643.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1613,6 +1712,56 @@
 			"background": ""
 		},
 		{
+			"number": 243,
+			"name": "Star Family",
+			"id": 115483194,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm063"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1533216208212.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 244,
+			"name": "Star Cinema",
+			"id": 115483264,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm064"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1533216194484.png",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 245,
 			"name": "Paramount Channel HD",
 			"id": 29944315,
@@ -1639,6 +1788,31 @@
 			"background": ""
 		},
 		{
+			"number": 246,
+			"name": "Bolt HD",
+			"id": 115483452,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm065"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1533216227542.png",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 247,
 			"name": "НТВ Хит",
 			"id": 116536643,
@@ -1660,6 +1834,31 @@
 				8
 			],
 			"full_logo": "/sdp/mos/nclogo1565015693388.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 250,
+			"name": "FAN HD",
+			"id": 132876570,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm066"
+				}
+			],
+			"themes": [
+				0,
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1551776619997.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1815,31 +2014,6 @@
 			"background": ""
 		},
 		{
-			"number": 306,
-			"name": "2x2",
-			"id": 1144360,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/playmv/ch074"
-				}
-			],
-			"themes": [
-				0,
-				6
-			],
-			"full_logo": "/sdp/mos/nclogo1508250192087.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 308,
 			"name": "Кухня ТВ",
 			"id": 2371149,
@@ -1965,6 +2139,78 @@
 			"background": ""
 		},
 		{
+			"number": 401,
+			"name": "Animal Planet",
+			"id": 1144547,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm067"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1548669133906.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 402,
+			"name": "Discovery Channel HD",
+			"id": 1144543,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm068"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1567606573248.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 403,
+			"name": "Discovery Science HD",
+			"id": 30792224,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm069"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1536686299279.png",
+			"logo": "",
+			"background": ""
+		},		
+		{
 			"number": 406,
 			"name": "Моя планета",
 			"id": 1131022,
@@ -1985,6 +2231,54 @@
 				6
 			],
 			"full_logo": "/sdp/mos/nclogo1508246944970.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 408,
+			"name": "Наука 2.0",
+			"id": 2371216,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm070"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1606226004172.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 410,
+			"name": "Ключ",
+			"id": 1131079,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm071"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1584530445737.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2365,7 +2659,7 @@
 		},
 		{
 			"number": 432,
-			"name": "RTG HG",
+			"name": "RTG HD",
 			"id": 89612011,
 			"is_barker": true,
 			"is_erotic": false,
@@ -2485,6 +2779,56 @@
 				4
 			],
 			"full_logo": "/sdp/ct/nclogo1538143000835.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 500,
+			"name": "Eurosport 1 HD",
+			"id": 1144521,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm072"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 501,
+			"name": "Eurosport 2 HD",
+			"id": 1144428,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm073"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1579851788766.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2716,31 +3060,6 @@
 			"background": ""
 		},
 		{
-			"number": 512,
-			"name": "КХЛ HD",
-			"id": 15294825,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm011"
-				}
-			],
-			"themes": [
-				0,
-				7
-			],
-			"full_logo": "/sdp/mos/nclogo1501848145083.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 513,
 			"name": "Viasat Sport HD",
 			"id": 1144444,
@@ -2838,31 +3157,6 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1612722208154.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 517,
-			"name": "КХЛ ТВ",
-			"id": 1144432,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm016"
-				}
-			],
-			"themes": [
-				0,
-				7
-			],
-			"full_logo": "/sdp/mos/nclogo1536761410567.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3338,6 +3632,31 @@
 				5
 			],
 			"full_logo": "/sdp/mos/nclogo1575272877044.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 617,
+			"name": "Nicktoons",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://livetv.mylifeisgood.ml:8880/playmv/cm074"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
