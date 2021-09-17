@@ -201,8 +201,6 @@ http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint
 http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
 http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd
-#EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь HD
-http://livetv.mylifeisgood.ml:8880/channels/tvrainhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
 http://livetv.mylifeisgood.ml:8880/channels/europaplustv
 #EXTINF:-1 tvg-id="" group-title="Познавательные",Живи Активно HD
@@ -211,6 +209,12 @@ http://livetv.mylifeisgood.ml:8880/channels/jiviactivno
 http://livetv.mylifeisgood.ml:8880/channels/glazamiturista
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
 http://livetv.mylifeisgood.ml:8880/channels/jivyapriroda
+#EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K [HEVEC]
+http://livetv.mylifeisgood.ml:8880/channels/nashasibir4k
+#EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",Home 4K [HEVEC]
+http://livetv.mylifeisgood.ml:8880/channels/home4k
+#EXTINF:-1 tvg-id="glazami-turista-4k" group-title="Познавательные UHD",Глазами Туриста 4K [HEVEC]
+http://livetv.mylifeisgood.ml:8880/channels/glazamiturista4k
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
 http://livetv.mylifeisgood.ml:8880/channels/nashhokkey1
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
