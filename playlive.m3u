@@ -1,100 +1,100 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
-http://livetv.mylifeisgood.ml:8880/channels/perviyhd
+https://livetv.mylifeisgood.ml/channels/perviyhd
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС HD
-http://livetv.mylifeisgood.ml:8880/channels/stshd
+https://livetv.mylifeisgood.ml/channels/stshd
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
-http://livetv.mylifeisgood.ml:8880/channels/rentvhd
+https://livetv.mylifeisgood.ml/channels/rentvhd
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ
-http://livetv.mylifeisgood.ml:8880/channels/ntvsd
+https://livetv.mylifeisgood.ml/channels/ntvsd
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" description="Без ограничения на матчи",Матч! HD
-http://livetv.mylifeisgood.ml:8880/channels/matchhd_nocensored
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
-http://livetv.mylifeisgood.ml:8880/channels/matchpremace
+https://livetv.mylifeisgood.ml/channels/matchpremace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
-http://livetv.mylifeisgood.ml:8880/channels//matchftb1ace
+https://livetv.mylifeisgood.ml/channels//matchftb1ace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 2
-http://livetv.mylifeisgood.ml:8880/channels/matchftb2ace
+https://livetv.mylifeisgood.ml/channels/matchftb2ace
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
-http://livetv.mylifeisgood.ml:8880/channels/matchftb3ace
+https://livetv.mylifeisgood.ml/channels/matchftb3ace
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
-http://livetv.mylifeisgood.ml:8880/channels/5tvmv
+https://livetv.mylifeisgood.ml/channels/5tvmv
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
 http://f0565819.xsph.ru/play/tvc
 #EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
 http://f0565819.xsph.ru/play/spas
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
-http://livetv.mylifeisgood.ml:8880/channels/muztvsd
+https://livetv.mylifeisgood.ml/channels/muztvsd
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3 HD
-http://livetv.mylifeisgood.ml:8880/channels/tv3hd
+https://livetv.mylifeisgood.ml/channels/tv3hd
 #EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний HD
-http://livetv.mylifeisgood.ml:8880/channels/domashniihd
+https://livetv.mylifeisgood.ml/channels/domashniihd
 #EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница HD
-http://livetv.mylifeisgood.ml:8880/channels/fridayhd
+https://livetv.mylifeisgood.ml/channels/fridayhd
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 http://f0565819.xsph.ru/play/zvezda
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
-http://livetv.mylifeisgood.ml:8880/channels/mirhd
+https://livetv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
-http://livetv.mylifeisgood.ml:8880/channels/tnthd
+https://livetv.mylifeisgood.ml/channels/tnthd
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
-http://livetv.mylifeisgood.ml:8880/channels/tnt4hd
+https://livetv.mylifeisgood.ml/channels/tnt4hd
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
-http://livetv.mylifeisgood.ml:8880/channels/super
+https://livetv.mylifeisgood.ml/channels/super
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
-http://livetv.mylifeisgood.ml:8880/channels/matchstrana
+https://livetv.mylifeisgood.ml/channels/matchstrana
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
-http://livetv.mylifeisgood.ml:8880/channels/2x2
+https://livetv.mylifeisgood.ml/channels/2x2
 #EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
-http://livetv.mylifeisgood.ml:8880/channels/chesd
+https://livetv.mylifeisgood.ml/channels/chesd
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 http://f0565819.xsph.ru/play/78saintpetersburg
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
-http://livetv.mylifeisgood.ml:8880/channels/moscow24
+https://livetv.mylifeisgood.ml/channels/moscow24
 #EXTINF:-1 tvg-id="doverie" group-title="Региональные",Москва Доверие
-http://livetv.mylifeisgood.ml:8880/channels/moscvadoverie
+https://livetv.mylifeisgood.ml/channels/moscvadoverie
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
-http://livetv.mylifeisgood.ml:8880/channels/vestifm
+https://livetv.mylifeisgood.ml/channels/vestifm
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
-http://livetv.mylifeisgood.ml:8880/channels/myplanet
+https://livetv.mylifeisgood.ml/channels/myplanet
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
-http://livetv.mylifeisgood.ml:8880/channels/russia24
+https://livetv.mylifeisgood.ml/channels/russia24
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
-http://livetv.mylifeisgood.ml:8880/channels/russia1
+https://livetv.mylifeisgood.ml/channels/russia1
 #EXTINF:-1 tvg-id="rossia1-pl1" group-title="Федеральные",Россия 1 (+1)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-1
+https://livetv.mylifeisgood.ml/channels/russia1-1
 #EXTINF:-1 tvg-id="rossia1-pl2" group-title="Федеральные",Россия 1 (+2)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-2
+https://livetv.mylifeisgood.ml/channels/russia1-2
 #EXTINF:-1 tvg-id="rossia1-pl3" group-title="Федеральные",Россия 1 (+3)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-3
+https://livetv.mylifeisgood.ml/channels/russia1-3
 #EXTINF:-1 tvg-id="rossia1-pl4" group-title="Федеральные",Россия 1 (+4)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-4
+https://livetv.mylifeisgood.ml/channels/russia1-4
 #EXTINF:-1 tvg-id="rossia1-pl5" group-title="Федеральные",Россия 1 (+5)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-5
+https://livetv.mylifeisgood.ml/channels/russia1-5
 #EXTINF:-1 tvg-id="rossia1-pl6" group-title="Федеральные",Россия 1 (+6)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-6
+https://livetv.mylifeisgood.ml/channels/russia1-6
 #EXTINF:-1 tvg-id="rossia1-pl7" group-title="Федеральные",Россия 1 (+7)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-7
+https://livetv.mylifeisgood.ml/channels/russia1-7
 #EXTINF:-1 tvg-id="rossia1-pl8" group-title="Федеральные",Россия 1 (+8)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-8
+https://livetv.mylifeisgood.ml/channels/russia1-8
 #EXTINF:-1 tvg-id="rossia1-pl9" group-title="Федеральные",Россия 1 (+9)
-http://livetv.mylifeisgood.ml:8880/channels/russia1-9
+https://livetv.mylifeisgood.ml/channels/russia1-9
 #EXTINF:-1 tvg-id="kultura" group-title="Познавательные",Россия К
-http://livetv.mylifeisgood.ml:8880/channels/russiak
+https://livetv.mylifeisgood.ml/channels/russiak
 #EXTINF:-1 tvg-id="kultura-pl2" group-title="Федеральные",Россия К (+2)
-http://livetv.mylifeisgood.ml:8880/channels/russiak-2
+https://livetv.mylifeisgood.ml/channels/russiak-2
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="Федеральные",Россия К (+4)
-http://livetv.mylifeisgood.ml:8880/channels/russiak-4
+https://livetv.mylifeisgood.ml/channels/russiak-4
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
-http://livetv.mylifeisgood.ml:8880/channels/russiak-7
+https://livetv.mylifeisgood.ml/channels/russiak-7
 #EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
-http://livetv.mylifeisgood.ml:8880/channels/u_tv
+https://livetv.mylifeisgood.ml/channels/u_tv
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
-http://livetv.mylifeisgood.ml:8880/channels/karusel
+https://livetv.mylifeisgood.ml/channels/karusel
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
-http://livetv.mylifeisgood.ml:8880/channels/kinotv
+https://livetv.mylifeisgood.ml/channels/kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
-http://livetv.mylifeisgood.ml:8880/channels/disneysd
+https://livetv.mylifeisgood.ml/channels/disneysd
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
 http://f0565819.xsph.ru/play/ufctv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
@@ -136,136 +136,150 @@ http://f0565819.xsph.ru/play/fenixkino
 #EXTINF:-1 tvg-id="oruzhie" group-title="Мужские",Оружие
 http://f0565819.xsph.ru/play/oruzhie
 #EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
-http://livetv.mylifeisgood.ml:8880/channels/anekdot
-#EXTINF:-1 tvg-id="pes-i-ko" group-title="Познавательные",Пёс и Ко
-http://livetv.mylifeisgood.ml:8880/channels/pesandko
+https://livetv.mylifeisgood.ml/channels/anekdot
 #EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
-http://livetv.mylifeisgood.ml:8880/channels/ehomoscow
-#EXTINF:-1 tvg-id="rifey-tv" group-title="Федеральные",Рифей
-http://livetv.mylifeisgood.ml:8880/channels/rifei
+https://livetv.mylifeisgood.ml/channels/ehomoscow
 #EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
-http://livetv.mylifeisgood.ml:8880/channels/musicboxgold
+https://livetv.mylifeisgood.ml/channels/musicboxgold
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
-http://livetv.mylifeisgood.ml:8880/channels/tntmusic
+https://livetv.mylifeisgood.ml/channels/tntmusic
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
-http://livetv.mylifeisgood.ml:8880/channels/bridgetv24h
+https://livetv.mylifeisgood.ml/channels/bridgetv24h
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge TV Classic
-http://livetv.mylifeisgood.ml:8880/channels/bridgeclassictv
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
-http://livetv.mylifeisgood.ml:8880/channels/bridgedeluxetv
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge TV Hits
-http://livetv.mylifeisgood.ml:8880/channels/bridgehitstv
+https://livetv.mylifeisgood.ml/channels/bridgehitstv
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge TV Русский хит
-http://livetv.mylifeisgood.ml:8880/channels/bridgerushittv
+https://livetv.mylifeisgood.ml/channels/bridgerushittv
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
-http://livetv.mylifeisgood.ml:8880/channels/bridgetvshlyager
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
-http://livetv.mylifeisgood.ml:8880/channels/smile
-#EXTINF:-1 tvg-id="tv-guberniya" group-title="Региональные",ТВ Губерния
-http://livetv.mylifeisgood.ml:8880/channels/tvgubernia
+https://livetv.mylifeisgood.ml/channels/smile
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-http://livetv.mylifeisgood.ml:8880/channels/otr
-#EXTINF:-1 tvg-id="efir24-relax" group-title="Федеральные",Эфир
-http://livetv.mylifeisgood.ml:8880/channels/efir
-#EXTINF:-1 tvg-id="rostov-papa" group-title="Региональные",Ростов Папа
-http://livetv.mylifeisgood.ml:8880/channels/rostovpapa
-#EXTINF:-1 tvg-id="okino" group-title="Фильмовые",О!Кино
-http://livetv.mylifeisgood.ml:8880/channels/okino
+https://livetv.mylifeisgood.ml/channels/otr
 #EXTINF:-1 tvg-id="utv" group-title="Информационные",UTV Уфа
-http://livetv.mylifeisgood.ml:8880/channels/utvufa
+https://livetv.mylifeisgood.ml/channels/utvufa
 #EXTINF:-1 tvg-id="mir" group-title="Информационные",Мир HD
-http://livetv.mylifeisgood.ml:8880/channels/mirhd
+https://livetv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="nts-sevastopol" group-title="Федеральные",НТС
-http://livetv.mylifeisgood.ml:8880/channels/ntc
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Радио",Страна FM
-http://livetv.mylifeisgood.ml:8880/channels/stranafm
-#EXTINF:-1 tvg-id="yamal-region" group-title="Региональные",Ямал-Регион
-http://livetv.mylifeisgood.ml:8880/channels/yamal
-#EXTINF:-1 tvg-id="dzenzhinsk-tv" group-title="Региональные",Дзержинск ТВ
-http://livetv.mylifeisgood.ml:8880/channels/dzertv
-#EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные",Вместе РФ
-http://livetv.mylifeisgood.ml:8880/channels/vmesterf
-#EXTINF:-1 tvg-id="beauty-tv",Бьюти ТВ
-http://livetv.mylifeisgood.ml:8880/channels/beautytv
-#EXTINF:-1 tvg-id="afontovo-kr" group-title="Региональные",Афонтово
-http://livetv.mylifeisgood.ml:8880/channels/afontovo
-#EXTINF:-1 tvg-id="univer-tv" group-title="Региональные",Univer TV
-http://livetv.mylifeisgood.ml:8880/channels/univertv
+https://livetv.mylifeisgood.ml/channels/ntc
 #EXTINF:-1 group-title="Эфирные",Мир 24 HD
-http://livetv.mylifeisgood.ml:8880/channels/mirhdpremium
+https://livetv.mylifeisgood.ml/channels/mir24hd
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-http://livetv.mylifeisgood.ml:8880/channels/starthd
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" group-title="Познавательные",Охотник и Рыболов HD Int
-http://livetv.mylifeisgood.ml:8880/channels/ohotnikiribalovhdint
+https://livetv.mylifeisgood.ml/channels/starthd
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
-http://livetv.mylifeisgood.ml:8880/channels/zagorodhdint
+https://livetv.mylifeisgood.ml/channels/zagorodhdint
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
-http://livetv.mylifeisgood.ml:8880/channels/nashasibirhd
+https://livetv.mylifeisgood.ml/channels/nashasibirhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
-http://livetv.mylifeisgood.ml:8880/channels/europaplustv
+https://livetv.mylifeisgood.ml/channels/europaplustv
 #EXTINF:-1 tvg-id="" group-title="Познавательные",Живи Активно HD
-http://livetv.mylifeisgood.ml:8880/channels/jiviactivno
+https://livetv.mylifeisgood.ml/channels/jiviactivno
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
-http://livetv.mylifeisgood.ml:8880/channels/glazamiturista
+https://livetv.mylifeisgood.ml/channels/glazamiturista
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
-http://livetv.mylifeisgood.ml:8880/channels/jivyapriroda
+https://livetv.mylifeisgood.ml/channels/jivyapriroda
 #EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K [HEVEC]
-http://livetv.mylifeisgood.ml:8880/channels/nashasibir4k
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
 #EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",Home 4K [HEVEC]
-http://livetv.mylifeisgood.ml:8880/channels/home4k
+https://livetv.mylifeisgood.ml/channels/home4k
 #EXTINF:-1 tvg-id="glazami-turista-4k" group-title="Познавательные UHD",Глазами Туриста 4K [HEVEC]
-http://livetv.mylifeisgood.ml:8880/channels/glazamiturista4k
+https://livetv.mylifeisgood.ml/channels/glazamiturista4k
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 1
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey1
+https://livetv.mylifeisgood.ml/channels/nashhokkey1
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 2
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey2
+https://livetv.mylifeisgood.ml/channels/nashhokkey2
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 3
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey3
+https://livetv.mylifeisgood.ml/channels/nashhokkey3
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 4
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey4
+https://livetv.mylifeisgood.ml/channels/nashhokkey4
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 5
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey5
+https://livetv.mylifeisgood.ml/channels/nashhokkey5
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 6
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey6
+https://livetv.mylifeisgood.ml/channels/nashhokkey6
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 7
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey7
+https://livetv.mylifeisgood.ml/channels/nashhokkey7
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 8
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey8
+https://livetv.mylifeisgood.ml/channels/nashhokkey8
 #EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 9
-http://livetv.mylifeisgood.ml:8880/channels/nashhokkey9
+https://livetv.mylifeisgood.ml/channels/nashhokkey9
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 10
+https://livetv.mylifeisgood.ml/channels/nashsport10
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 11
+https://livetv.mylifeisgood.ml/channels/nashsport11
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 12
+https://livetv.mylifeisgood.ml/channels/nashsport12
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 13
+https://livetv.mylifeisgood.ml/channels/nashsport13
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 14
+https://livetv.mylifeisgood.ml/channels/nashsport14
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 15
+https://livetv.mylifeisgood.ml/channels/nashsport15
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 16
+https://livetv.mylifeisgood.ml/channels/nashsport16
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 17
+https://livetv.mylifeisgood.ml/channels/nashsport17
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 18
+https://livetv.mylifeisgood.ml/channels/nashsport18
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 19
+https://livetv.mylifeisgood.ml/channels/nashsport19
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 20
+https://livetv.mylifeisgood.ml/channels/nashsport20
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 21
+https://livetv.mylifeisgood.ml/channels/nashsport21
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 22
+https://livetv.mylifeisgood.ml/channels/nashsport22
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 23
+https://livetv.mylifeisgood.ml/channels/nashsport23
+#EXTINF:-1 tvg-id="" group-title="Спортивные",Наш Спорт 24
+https://livetv.mylifeisgood.ml/channels/nashsport24
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
-http://livetv.mylifeisgood.ml:8880/channels/radiorodniyxdorog
+https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog
 #EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
-http://livetv.mylifeisgood.ml:8880/channels/dorojnoeradio
+https://livetv.mylifeisgood.ml/channels/dorojnoeradio
 #EXTINF:-1 tvg-id="europa-plus-radio" group-title="Радио",Европа плюс радио
-http://livetv.mylifeisgood.ml:8880/channels/europaplusradio
+https://livetv.mylifeisgood.ml/channels/europaplusradio
 #EXTINF:-1 tvg-id="avtoradio" group-title="Радио",Авторадио
-http://livetv.mylifeisgood.ml:8880/channels/avtoradio
+https://livetv.mylifeisgood.ml/channels/avtoradio
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
-http://livetv.mylifeisgood.ml:8880/channels/radiomaximus
+https://livetv.mylifeisgood.ml/channels/radiomaximus
 #EXTINF:-1 tvg-id="russkoe-radio" group-title="Радио",Русское Радио
-http://livetv.mylifeisgood.ml:8880/channels/rusradio
+https://livetv.mylifeisgood.ml/channels/rusradio
 #EXTINF:-1 tvg-id="yumor-fm" group-title="Радио",Юмор ФМ
-http://livetv.mylifeisgood.ml:8880/channels/yumorfm
+https://livetv.mylifeisgood.ml/channels/yumorfm
 #EXTINF:-1 tvg-id="radio-vania" group-title="Радио",Радио Ваня
-http://livetv.mylifeisgood.ml:8880/channels/radiovanya
+https://livetv.mylifeisgood.ml/channels/radiovanya
 #EXTINF:-1 tvg-id="comedy-radio" group-title="Радио",Comedy Radio
-http://livetv.mylifeisgood.ml:8880/channels/comedyradio
+https://livetv.mylifeisgood.ml/channels/comedyradio
 #EXTINF:-1 tvg-id="radio-dfm" group-title="Радио",Радио DFM
-http://livetv.mylifeisgood.ml:8880/channels/radiodfm
+https://livetv.mylifeisgood.ml/channels/radiodfm
 #EXTINF:-1 tvg-id="retro-fm" group-title="Радио",Ретро ФМ
-http://livetv.mylifeisgood.ml:8880/channels/retrofm
+https://livetv.mylifeisgood.ml/channels/retrofm
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ХИТ FM
-http://livetv.mylifeisgood.ml:8880/channels/radiohitfm
+https://livetv.mylifeisgood.ml/channels/radiohitfm
+#EXTINF:-1 tvg-id="" group-title"Радио",Радио на семи холмах
+https://livetv.mylifeisgood.ml/channels/radionasemiholmax
+#EXTINF:-1 tvg-id="" group-title"Радио",Радио воскресение
+https://livetv.mylifeisgood.ml/channels/radiovoskresenie
+#EXTINF:-1 tvg-id="radio-zvezda" group-title"Радио",Радио Звезда
+https://livetv.mylifeisgood.ml/channels/radiozvezda
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Комсомольская правда
-http://livetv.mylifeisgood.ml:8880/channels/radiokomsomolpravda
+https://livetv.mylifeisgood.ml/channels/radiokomsomolpravda
 #EXTINF:-1 tvg-id="radio-energy" group-title="Радио",Energy FM
-http://livetv.mylifeisgood.ml:8880/channels/radioenegry
+https://livetv.mylifeisgood.ml/channels/radioenegry
 #EXTINF:-1 tvg-id="radio-romantika" group-title="Радио",Радио Romantica
-http://livetv.mylifeisgood.ml:8880/channels/radioromantica
+https://livetv.mylifeisgood.ml/channels/radioromantica
 #EXTINF:-1 tvg-id="radio-dlia-dvoix" group-title="Радио",Радио для двоих
-http://livetv.mylifeisgood.ml:8880/channels/radiodlyadvoix
+https://livetv.mylifeisgood.ml/channels/radiodlyadvoix
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио 107 Краснодар
+https://livetv.mylifeisgood.ml/channels/radio107krasnodar
+#EXTINF:-1 tvg-id="" group-title="Радио",Детское Радио
+https://livetv.mylifeisgood.ml/channels/kidsradio
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио ТВ
-http://livetv.mylifeisgood.ml:8880/channels/radiotv
+https://livetv.mylifeisgood.ml/channels/radiotv
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Град Петров
-http://livetv.mylifeisgood.ml:8880/channels/radiogradpetrov
+https://livetv.mylifeisgood.ml/channels/radiogradpetrov
+#EXTINF:-1 tvg-id="" group-title="Радио",Новое Радио
+https://livetv.mylifeisgood.ml/channels/newradio
