@@ -1333,8 +1333,8 @@
 		},
 		{
 			"number": 56,
-			"name": "Живи Активно HD",
-			"id": 0,
+			"name": "Живи Активно",
+			"id": 317669573,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1352,7 +1352,7 @@
 				0,
 				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1626944669217.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1455,6 +1455,56 @@
 			"full_logo": "/sdp/mos/nclogo1536766285308.png",
 			"logo": "/sdp/mos/nclogo1536766289571.png",
 			"background": "/sdp/mos/nclogo1536766292139.png"
+		},
+		{
+			"number": 61,
+			"name": "Наша Сибирь 4K",
+			"id": 212313670,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/nashasibir4k"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1601882614829.png",
+			"logo": "/sdp/mos/nclogo1601882618982.png",
+			"background": "/sdp/mos/nclogo1601882622182.png"
+		},
+		{
+			"number": 62,
+			"name": "HOME 4K",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/home4k"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 70,
