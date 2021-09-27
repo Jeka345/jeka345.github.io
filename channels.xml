@@ -1,31 +1,6 @@
 {
-	"total_items": 109,
+	"total_items": 115,
 	"items": [
-		{
-			"number": 0,
-			"name": "Тестовый",
-			"id": 0,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/firstspace"
-				}
-			],
-			"themes": [
-				1,
-				19
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
 		{
 			"number": 1,
 			"name": "Первый канал HD",
@@ -475,7 +450,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/mirhd"
+					"url": "https://2serv.mylifeisgood.ml/channels/mirhd"
 				}
 			],
 			"themes": [
@@ -652,7 +627,7 @@
 			"themes": [
 				6
 			],
-			"full_logo": "/sdp/mos/nclogo1508250192087.png",
+			"full_logo": "/sdp/mos/nclogo1629960527155.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1272,7 +1247,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/smile"
+					"url": "https://2serv.mylifeisgood.ml/channels/smile"
 				}
 			],
 			"themes": [
@@ -1296,7 +1271,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntc"
+					"url": "https://2serv.mylifeisgood.ml/channels/ntc"
 				}
 			],
 			"themes": [
@@ -1320,7 +1295,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/starthd"
+					"url": "https://2serv.mylifeisgood.ml/channels/starthd"
 				}
 			],
 			"themes": [
@@ -1383,8 +1358,8 @@
 		},
 		{
 			"number": 57,
-			"name": "Наша Сибирь HD",
-			"id": 212313670,
+			"name": "Da Vinci",
+			"id": 2370547,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1395,14 +1370,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/nashasibirhd"
+					"url": "https://livetv.mylifeisgood.ml/channels/davincist"
 				}
 			],
 			"themes": [
 				0,
-				4
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1601882614829.png",
+			"full_logo": "/sdp/mos/nclogo1593514521243.png",
 			"logo": "",
 			"background": ""
 		},	
@@ -1420,7 +1395,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/europaplustv"
+					"url": "https://2serv.mylifeisgood.ml/channels/europaplustv"
 				}
 			],
 			"themes": [
@@ -1433,8 +1408,8 @@
 		},
 		{
 			"number": 59,
-			"name": "Мосфильм. Золотая коллекция",
-			"id": 242075993,
+			"name": "СТС Kids HD",
+			"id": 114063401,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1445,16 +1420,16 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/mosfilm"
+					"url": "https://livetv.mylifeisgood.ml/channels/ctckidsst"
 				}
 			],
 			"themes": [
 				0,
-				8
+				5
 			],
-			"full_logo": "/sdp/mos/nclogo1609141825334.png",
-			"logo": "/sdp/mos/nclogo1609141828155.png",
-			"background": "/sdp/mos/nclogo1609141830469.png"
+			"full_logo": "/sdp/mos/nclogo1534923709826.png",
+			"logo": "/sdp/mos/nclogo1534923712727.png",
+			"background": "/sdp/mos/nclogo1534923714932.png"
 		},
 		{
 			"number": 60,
@@ -1482,7 +1457,323 @@
 			"background": "/sdp/mos/nclogo1536766292139.png"
 		},
 		{
+			"number": 61,
+			"name": "Первый Космический HD",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/firstspace"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 62,
+			"name": "VIP Megahit HD",
+			"id": 7686532,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/vipmegahit"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514267143.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 63,
+			"name": "VIP Comedy HD",
+			"id": 7686580,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/vipcomedy"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514287074.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 64,
+			"name": "VIP Premiere HD",
+			"id": 7686511,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/vippremier"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514245957.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 65,
+			"name": "VIP Serial HD",
+			"id": 27109203,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/vipserial"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514331524.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 66,
+			"name": "Viasat History HD",
+			"id": 80882936,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/viphistory"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1593514427579.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 67,
+			"name": "Viasat Explore HD",
+			"id": 80882991,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/vipexplore"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1593515024787.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 68,
+			"name": "Viasat Nature HD",
+			"id": 104701055,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/viasatnaturestar"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1593514405658.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 69,
+			"name": "Discovery Channel",
+			"id": 1131026,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/discovery"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1567606530589.png",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 70,
+			"name": "TV1000 HD",
+			"id": 80882339,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/discovery"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514194654.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 71,
+			"name": "TV1000 Action HD",
+			"id": 80882794,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/tv1000actionstar"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514116881.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 72,
+			"name": "TV1000 Русское Кино HD",
+			"id": 80882836,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/tv1000ruskinostar"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1593514220982.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 73,
+			"name": "Investigation Discovery HD",
+			"id": 77742450,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/discoveryxtra"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1602255131051.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 74,
 			"name": "Наш Спорт 1",
 			"id": 0,
 			"is_barker": false,
@@ -1507,7 +1798,7 @@
 			"background": ""
 		},
 		{
-			"number": 71,
+			"number": 75,
 			"name": "Наш Спорт 2",
 			"id": 0,
 			"is_barker": false,
@@ -1532,7 +1823,7 @@
 			"background": ""
 		},
 		{
-			"number": 72,
+			"number": 76,
 			"name": "Наш Спорт 3",
 			"id": 0,
 			"is_barker": false,
@@ -1557,7 +1848,7 @@
 			"background": ""
 		},
 		{
-			"number": 73,
+			"number": 77,
 			"name": "Наш Спорт 4",
 			"id": 0,
 			"is_barker": false,
@@ -1582,7 +1873,7 @@
 			"background": ""
 		},
 		{
-			"number": 74,
+			"number": 78,
 			"name": "Наш Спорт 5",
 			"id": 0,
 			"is_barker": false,
@@ -1607,7 +1898,7 @@
 			"background": ""
 		},
 		{
-			"number": 75,
+			"number": 79,
 			"name": "Наш Спорт 6",
 			"id": 0,
 			"is_barker": false,
@@ -1632,7 +1923,7 @@
 			"background": ""
 		},
 		{
-			"number": 76,
+			"number": 80,
 			"name": "Наш Спорт 7",
 			"id": 0,
 			"is_barker": false,
@@ -1657,7 +1948,7 @@
 			"background": ""
 		},
 		{
-			"number": 77,
+			"number": 81,
 			"name": "Наш Спорт 8",
 			"id": 0,
 			"is_barker": false,
@@ -1682,7 +1973,7 @@
 			"background": ""
 		},
 		{
-			"number": 78,
+			"number": 82,
 			"name": "Наш Спорт 9",
 			"id": 0,
 			"is_barker": false,
@@ -1707,7 +1998,7 @@
 			"background": ""
 		},
 		{
-			"number": 79,
+			"number": 83,
 			"name": "Наш Спорт 10",
 			"id": 0,
 			"is_barker": false,
@@ -1732,7 +2023,7 @@
 			"background": ""
 		},
 		{
-			"number": 80,
+			"number": 84,
 			"name": "Наш Спорт 11",
 			"id": 0,
 			"is_barker": false,
@@ -1757,7 +2048,7 @@
 			"background": ""
 		},
 		{
-			"number": 81,
+			"number": 85,
 			"name": "Наш Спорт 12",
 			"id": 0,
 			"is_barker": false,
@@ -1782,7 +2073,7 @@
 			"background": ""
 		},
 		{
-			"number": 82,
+			"number": 86,
 			"name": "Наш Спорт 13",
 			"id": 0,
 			"is_barker": false,
@@ -1807,7 +2098,7 @@
 			"background": ""
 		},
 		{
-			"number": 83,
+			"number": 87,
 			"name": "Наш Спорт 14",
 			"id": 0,
 			"is_barker": false,
@@ -1832,7 +2123,7 @@
 			"background": ""
 		},
 		{
-			"number": 84,
+			"number": 88,
 			"name": "Наш Спорт 15",
 			"id": 0,
 			"is_barker": false,
@@ -1857,7 +2148,7 @@
 			"background": ""
 		},
 		{
-			"number": 85,
+			"number": 89,
 			"name": "Наш Спорт 16",
 			"id": 0,
 			"is_barker": false,
@@ -1882,7 +2173,7 @@
 			"background": ""
 		},
 		{
-			"number": 86,
+			"number": 90,
 			"name": "Наш Спорт 17",
 			"id": 0,
 			"is_barker": false,
@@ -1907,7 +2198,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 91,
 			"name": "Наш Спорт 18",
 			"id": 0,
 			"is_barker": false,
@@ -1932,7 +2223,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 92,
 			"name": "Наш Спорт 19",
 			"id": 0,
 			"is_barker": false,
@@ -1957,7 +2248,7 @@
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 93,
 			"name": "Наш Спорт 20",
 			"id": 0,
 			"is_barker": false,
@@ -1982,7 +2273,7 @@
 			"background": ""
 		},
 		{
-			"number": 90,
+			"number": 94,
 			"name": "Наш Спорт 21",
 			"id": 0,
 			"is_barker": false,
@@ -2007,7 +2298,7 @@
 			"background": ""
 		},
 		{
-			"number": 91,
+			"number": 95,
 			"name": "Наш Спорт 22",
 			"id": 0,
 			"is_barker": false,
@@ -2032,7 +2323,7 @@
 			"background": ""
 		},
 		{
-			"number": 92,
+			"number": 96,
 			"name": "Наш Спорт 23",
 			"id": 0,
 			"is_barker": false,
@@ -2057,7 +2348,7 @@
 			"background": ""
 		},
 		{
-			"number": 93,
+			"number": 97,
 			"name": "Наш Спорт 24",
 			"id": 0,
 			"is_barker": false,
