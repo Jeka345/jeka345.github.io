@@ -2874,7 +2874,7 @@
 		{
 			"number": 120,
 			"name": "Детское радио",
-			"id": 0,
+			"id": 215276896,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2892,7 +2892,7 @@
 				0,
 				9
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1601369553927.png",
 			"logo": "",
 			"background": ""
 		},
