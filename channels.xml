@@ -413,31 +413,6 @@
 		},
 		{
 			"number": 18,
-			"name": "Мир 24 HD",
-			"id": 2370986,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/mirhdpremium"
-				}
-			],
-			"themes": [
-				1,
-				19
-			],
-			"full_logo": "/sdp/mos/nclogo1536614122484.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 19,
 			"name": "Мир HD",
 			"id": 1130945,
 			"is_barker": false,
@@ -461,7 +436,7 @@
 			"background": ""
 		},
 		{
-			"number": 20,
+			"number": 19,
 			"name": "ТНТ HD",
 			"id": 1000209,
 			"is_barker": false,
@@ -482,6 +457,30 @@
 				19
 			],
 			"full_logo": "/sdp/mos/nclogo1508420635111.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 20,
+			"name": "Муз ТВ",
+			"id": 1125412,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/muztvsd"
+				}
+			],
+			"themes": [
+				1
+			],
+			"full_logo": "/sdp/mos/nclogo1536675148376.png",
 			"logo": "",
 			"background": ""
 		},
@@ -512,8 +511,8 @@
 		},
 		{
 			"number": 22,
-			"name": "Муз ТВ",
-			"id": 1125412,
+			"name": "Мир 24 HD",
+			"id": 2370986,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -524,13 +523,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/muztvsd"
+					"url": "https://livetv.mylifeisgood.ml/channels/mirhdpremium"
 				}
 			],
 			"themes": [
-				1
+				1,
+				19
 			],
-			"full_logo": "/sdp/mos/nclogo1536675148376.png",
+			"full_logo": "/sdp/mos/nclogo1536614122484.png",
 			"logo": "",
 			"background": ""
 		},
