@@ -34,7 +34,7 @@
   {
     "Name": "ОТР",
     "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png",
-	"url_live": "https://strm.yandex.ru/kal/otr/otr0_169_720p.json/index-v1-a1.m3u8"
+	"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvb3RyL290cjBfMTY5XzcyMHAuanNvbi9pbmRleC12MS1hMS5tM3U4"
   },
   {
     "Name": "ТВ Центр",
@@ -83,7 +83,7 @@
   {
     "Name": "Кино ТВ",
     "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png",
-	"url_live": "http://live-1.otcnet.ru/kinosem/index.m3u8"
+	"url_live": "aHR0cDovL2xpdmUtMS5vdGNuZXQucnUva2lub3NlbS9pbmRleC5tM3U4"
   },
   {
     "Name": "Мир 24 HD",
