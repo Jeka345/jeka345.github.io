@@ -87,7 +87,8 @@
   },
   {
     "Name": "Мир 24 HD",
-    "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536614122484.png"
+    "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536614122484.png",
+	"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvbWlyMjQvbWlyMjQwXzE2OV8xMDgwcC5qc29uL2luZGV4LXYxLWExLm0zdTg="
   },
   {
     "Name": "Че!",
