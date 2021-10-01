@@ -142,7 +142,8 @@
 	  },
 	  {
 		"Name": "Моя Планета",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246944970.png"
+		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246944970.png",
+		"url_live": "aHR0cHM6Ly9zMjY4ODEuY2RuLm5nZW5peC5uZXQvaWZyYW1lL3N0cmVhbS9saXZlX2lkLzU5MTMy"
 	  },
 	  {
 		"Name": "Матч! Страна",
