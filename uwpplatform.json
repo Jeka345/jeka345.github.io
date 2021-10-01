@@ -124,7 +124,8 @@
   },
   {
     "Name": "Москва. Доверие",
-    "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1515662710213.png"
+    "full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1515662710213.png",
+	"url_live": "aHR0cHM6Ly9zMjY4ODEuY2RuLm5nZW5peC5uZXQvaWZyYW1lL3N0cmVhbS9saXZlX2lkLzYxMTI1"
   },
   {
     "Name": "Телеканал 360",
