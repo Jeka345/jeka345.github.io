@@ -155,11 +155,13 @@
 	  },
 	  {
 		"Name": "Эхо Москвы",
-		"full_logo": "https://itv.svc.iptv.rt.ru"
+		"full_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Echo_of_moscow_logo.svg/1200px-Echo_of_moscow_logo.svg.png",
+		"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvZWNob21vc2Nvd19zdXByZXMvZWNob21vc2Nvd19zdXByZXMwXzE2OV8xMDgwcC5qc29uL2luZGV4LXYxLWExLm0zdTg"
 	  },
 	  {
 		"Name": "Music Box Gold",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949637593.png"
+		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949637593.png",
+		"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvbXVzaWNib3hnb2xkL211c2ljYm94Z29sZDBfMTY5XzU3NnAuanNvbi9pbmRleC12MS1hMS5tM3U4"
 	  },
 	  {
 		"Name": "ТНТ Music",
@@ -167,11 +169,12 @@
 	  },
 	  {
 		"Name": "Смайлик",
-		"full_logo": "https://itv.svc.iptv.rt.ru"
+		"full_logo": "https://smilik.tv/wp-content/uploads/2015/01/logo2_smilik.png",
+		"url_live": "aHR0cHM6Ly81ZDIzMjY5YjNlYzBjLnN0cmVhbWxvY2submV0L1dFQl9TbWlsaWsvbmdycDpTbWlsaWsuc3RyZWFtLWFkYXB0aXZlL3BsYXlsaXN0Lm0zdTg"
 	  },
 	  {
 		"Name": "НТС Севастополь",
-		"full_logo": "https://itv.svc.iptv.rt.ru"
+		"full_logo": "http://a-russia.ru/wp-content/uploads/2016/11/ntc-logo.png"
 	  },
 	  {
 		"Name": "Старт HD",
