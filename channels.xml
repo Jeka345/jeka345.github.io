@@ -1138,8 +1138,8 @@
 		},
 		{
 			"number": 48,
-			"name": "Матч! Премьер",
-			"id": 20244318,
+			"name": "Eurosport 2 HD",
+			"id": 1144428,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -1150,14 +1150,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchpremiere"
+					"url": "https://livetv.mylifeisgood.ml/channels/eurosport2"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"full_logo": "/sdp/mos/nclogo1579851788766.png",
 			"logo": "",
 			"background": ""
 		},
