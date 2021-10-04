@@ -197,7 +197,8 @@
 	  },
 	  {
 		"Name": "Европа Плюс ТВ",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600683226.png"
+		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600683226.png",
+		"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvZXVyb3BhcGx1cy9ldXJvcGFwbHVzMF8xNjlfMTA4MHAuanNvbi9pbmRleC12MS1hMS5tM3U4"
 	  },
 	  {
 		"Name": "СТС Kids HD",
@@ -205,11 +206,12 @@
 	  },
 	  {
 		"Name": "Gulli Girl",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536766285308.png"
+		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536766285308.png",
+		"url_live": "aHR0cDovL2xpdmUtMS5vdGNuZXQucnUvR3VsbGlfT1QvaW5kZXgubTN1OA"
 	  },
 	  {
 		"Name": "Первый Космический HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru"
+		"full_logo": "https://www.convex.ru/gallery/1k-tv-logo-960.png"
 	  },
 	  {
 		"Name": "VIP Megahit HD",
