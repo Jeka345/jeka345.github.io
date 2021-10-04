@@ -1,88 +1,90 @@
 {
 	"error_url": "https://www.dropbox.com/s/blfwcqt4ohtkh1i/kinanebudet.mp4?dl=1",
 	"poster_player": "https://i.imgur.com/nX1Noe7.png",
-	"tv_channelsuwp": [
-	  {
-		"Name": "Первый канал HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1529398530175.png"
-	  },
-	  {
-		"Name": "Россия 1 HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612738365.png"
-	  },
-	  {
-		"Name": "Матч! ТВ HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1572514677030.png"
-	  },
-	  {
-		"Name": "НТВ",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516193016598.png"
-	  },
-	  {
-		"Name": "Пятый канал",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png"
-	  },
-	  {
-		"Name": "Россия К",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png"
-	  },
-	  {
-		"Name": "Россия 24",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497528181419.png"
-	  },
-	  {
-		"Name": "Карусель",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602681864854.png"
-	  },
-	  {
-		"Name": "ОТР",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png",
-		"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvb3RyL290cjBfMTY5XzcyMHAuanNvbi9pbmRleC12MS1hMS5tM3U4"
-	  },
-	  {
-		"Name": "ТВ Центр",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536609967851.png"
-	  },
-	  {
-		"Name": "РЕН ТВ HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1532358088298.png"
-	  },
-	  {
-		"Name": "Спас",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1569483524977.png"
-	  },
-	  {
-		"Name": "СТС HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1533311356055.png"
-	  },
-	  {
-		"Name": "Домашний HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1519580577683.png"
-	  },
-	  {
-		"Name": "ТВ 3",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1507133404466.png"
-	  },
-	  {
-		"Name": "Пятница! HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1522312220352.png"
-	  },
-	  {
-		"Name": "Звезда",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536610730242.png"
-	  },
-	  {
-		"Name": "Мир HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508243678871.png"
-	  },
-	  {
-		"Name": "ТНТ HD",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508420635111.png"
-	  },
-	  {
-		"Name": "Муз ТВ",
-		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536675148376.png"
-	  },
+	"ac_token": "b5ef0bc702cb85eab346598e389ff7846ece0dde",
+	"tv_channelsuwp": 
+	[
+		{
+			"Name": "Первый канал HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1529398530175.png"
+		},
+		{
+			"Name": "Россия 1 HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612738365.png"
+		},
+		{
+			"Name": "Матч! ТВ HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1572514677030.png"
+		},
+		{
+			"Name": "НТВ",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516193016598.png"
+		},
+		{
+			"Name": "Пятый канал",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png"
+		},
+		{
+			"Name": "Россия К",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png"
+		},
+		{
+			"Name": "Россия 24",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497528181419.png"
+		},
+		{
+			"Name": "Карусель",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602681864854.png"
+		},
+		{
+			"Name": "ОТР",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png",
+			"url_live": "aHR0cHM6Ly9zdHJtLnlhbmRleC5ydS9rYWwvb3RyL290cjBfMTY5XzcyMHAuanNvbi9pbmRleC12MS1hMS5tM3U4"
+		},
+		{
+			"Name": "ТВ Центр",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536609967851.png"
+		},
+		{
+			"Name": "РЕН ТВ HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1532358088298.png"
+		},
+		{
+			"Name": "Спас",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1569483524977.png"
+		},
+		{
+			"Name": "СТС HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1533311356055.png"
+		},
+		{
+			"Name": "Домашний HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1519580577683.png"
+		},
+		{
+			"Name": "ТВ 3",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1507133404466.png"
+		},
+		{
+			"Name": "Пятница! HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1522312220352.png"
+		},
+		{
+			"Name": "Звезда",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536610730242.png"
+		},
+		{
+			"Name": "Мир HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508243678871.png"
+		},
+		{
+			"Name": "ТНТ HD",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508420635111.png"
+		},
+		{
+			"Name": "Муз ТВ",
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536675148376.png"
+		},
 	  {
 		"Name": "Кино ТВ",
 		"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png",
