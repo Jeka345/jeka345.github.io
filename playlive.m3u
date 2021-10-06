@@ -20,9 +20,9 @@ https://livetv.mylifeisgood.ml/channels/matchftb3ace
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
 https://livetv.mylifeisgood.ml/channels/5tvmv
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
-http://f0565819.xsph.ru/play/tvc
+https://livetv.mylifeisgood.ml/channels/tvc
 #EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
-http://f0565819.xsph.ru/play/spas
+https://livetv.mylifeisgood.ml/channels/spas
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
 https://livetv.mylifeisgood.ml/channels/muztvsd
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3 HD
@@ -32,7 +32,7 @@ https://livetv.mylifeisgood.ml/channels/domashniihd
 #EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница HD
 https://livetv.mylifeisgood.ml/channels/fridayhd
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
-http://f0565819.xsph.ru/play/zvezda
+https://livetv.mylifeisgood.ml/channels/zvezda
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
 https://livetv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
@@ -48,7 +48,7 @@ https://livetv.mylifeisgood.ml/channels/2x2
 #EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
 https://livetv.mylifeisgood.ml/channels/chesd
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
-http://f0565819.xsph.ru/play/78saintpetersburg
+https://livetv.mylifeisgood.ml/channels/78saintpetersburg
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
 https://livetv.mylifeisgood.ml/channels/moscow24
 #EXTINF:-1 tvg-id="doverie" group-title="Региональные",Москва Доверие
@@ -96,45 +96,47 @@ https://livetv.mylifeisgood.ml/channels/kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
 https://livetv.mylifeisgood.ml/channels/disneysd
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
-http://f0565819.xsph.ru/play/ufctv
+https://livetv.mylifeisgood.ml/channels/ufctv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
-http://f0565819.xsph.ru/play/viasatsporthd
+https://livetv.mylifeisgood.ml/channels/viasatsporthd
 #EXTINF:-1 tvg-id="da-vinci" group-title="Образовательные",Da Vinci
-http://f0565819.xsph.ru/play/davinci
+https://livetv.mylifeisgood.ml/channels/davinci
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
-http://f0565819.xsph.ru/play/national_geographic
+https://livetv.mylifeisgood.ml/channels/national_geographic
+#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные",Discovery CEE HD
+https://livetv.mylifeisgood.ml/channels/discovery
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
-http://f0565819.xsph.ru/play/viasat_nature
+https://livetv.mylifeisgood.ml/channels/viasat_nature
 #EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",Viasat History HD
-http://f0565819.xsph.ru/play/viasat_history
+https://livetv.mylifeisgood.ml/channels/viasat_history
 #EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",Viasat Explore HD
-http://f0565819.xsph.ru/play/viasat_explore
+https://livetv.mylifeisgood.ml/channels/viasat_explore
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Vip Comedy HD
-http://f0565819.xsph.ru/play/vip_comedy
+https://livetv.mylifeisgood.ml/channels/vip_comedy
 #EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial HD
-http://f0565819.xsph.ru/play/vip_serial
+https://livetv.mylifeisgood.ml/channels/vip_serial
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
-http://f0565819.xsph.ru/play/vip_megahit
+https://livetv.mylifeisgood.ml/channels/vip_megahit
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Vip Premiere HD
-http://f0565819.xsph.ru/play/vip_premiere
+https://livetv.mylifeisgood.ml/channels/vip_premiere
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино HD
-http://f0565819.xsph.ru/play/tv1000ruskino
+https://livetv.mylifeisgood.ml/channels/tv1000ruskino
 #EXTINF:-1 tvg-id="mosfilm" group-title="Фильмовые",Мосфильм HD
-http://f0565819.xsph.ru/play/mosfilm
+https://livetv.mylifeisgood.ml/channels/mosfilm
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action HD
-http://f0565819.xsph.ru/play/tv1000action
+https://livetv.mylifeisgood.ml/channels/tv1000action
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
-http://f0565819.xsph.ru/play/tv1000
+https://livetv.mylifeisgood.ml/channels/tv1000
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
-http://f0565819.xsph.ru/play/ctckids
+https://livetv.mylifeisgood.ml/channels/ctckids
 #EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
-http://f0565819.xsph.ru/play/fox
+https://livetv.mylifeisgood.ml/channels/fox
 #EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",Fox Life HD
-http://f0565819.xsph.ru/play/foxlife
+https://livetv.mylifeisgood.ml/channels/foxlife
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Кино
-http://f0565819.xsph.ru/play/fenixkino
+https://livetv.mylifeisgood.ml/channels/fenixkino
 #EXTINF:-1 tvg-id="oruzhie" group-title="Мужские",Оружие
-http://f0565819.xsph.ru/play/oruzhie
+https://livetv.mylifeisgood.ml/channels/oruzhie
 #EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
 https://livetv.mylifeisgood.ml/channels/anekdot
 #EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
@@ -156,25 +158,21 @@ https://livetv.mylifeisgood.ml/channels/bridgerushittv
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
-https://livetv.mylifeisgood.ml/channels/smile
+https://2serv.mylifeisgood.ml/channels/smile
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-https://livetv.mylifeisgood.ml/channels/otr
-#EXTINF:-1 tvg-id="utv" group-title="Информационные",UTV Уфа
-https://livetv.mylifeisgood.ml/channels/utvufa
+https://2serv.mylifeisgood.ml/channels/otr
 #EXTINF:-1 tvg-id="mir" group-title="Информационные",Мир HD
 https://livetv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="nts-sevastopol" group-title="Федеральные",НТС
-https://livetv.mylifeisgood.ml/channels/ntc
-#EXTINF:-1 group-title="Эфирные",Мир 24 HD
-https://livetv.mylifeisgood.ml/channels/mir24hd
+https://2serv.mylifeisgood.ml/channels/ntc
+#EXTINF:-1 tvg-id="mir-24" group-title="Эфирные",Мир 24 HD
+https://livetv.mylifeisgood.ml/channels/mirhdpremium
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-https://livetv.mylifeisgood.ml/channels/starthd
+https://2serv.mylifeisgood.ml/channels/starthd
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
 https://livetv.mylifeisgood.ml/channels/zagorodhdint
-#EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
-https://livetv.mylifeisgood.ml/channels/nashasibirhd
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
-https://livetv.mylifeisgood.ml/channels/europaplustv
+https://2serv.mylifeisgood.ml/channels/europaplustv
 #EXTINF:-1 tvg-id="" group-title="Познавательные",Живи Активно HD
 https://livetv.mylifeisgood.ml/channels/jiviactivno
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
