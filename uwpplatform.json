@@ -289,195 +289,63 @@
 		},
 		{
 			"Name": "Наш Спорт 1",
-			"full_logo": "https://i.imgur.com/uUfwtPx.jpg"
+			"full_logo": "https://i.imgur.com/uUfwtPx.jpg",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1OYXNoX2tob2trZXkxLm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Наш Спорт 2",
-			"full_logo": "https://i.imgur.com/kKMv5NY.jpg"
+			"full_logo": "https://i.imgur.com/kKMv5NY.jpg",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1OYXNoX2tob2trZXkyLm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Наш Спорт 3",
-			"full_logo": "https://i.imgur.com/i3QTpMb.jpg"
+			"full_logo": "https://i.imgur.com/i3QTpMb.jpg",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1OYXNoX2tob2trZXkzLm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Наш Спорт 4",
-			"full_logo": "https://i.imgur.com/kur4kFy.jpg"
+			"full_logo": "https://i.imgur.com/kur4kFy.jpg",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1OYXNoX2tob2trZXk0Lm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Наш Спорт 5",
-			"full_logo": "https://i.imgur.com/PIXjfTL.jpg"
-		},
-		{
-			"Name": "Наш Спорт 6",
-			"full_logo": "https://i.imgur.com/lnKn9lQ.jpg"
-		},
-		{
-			"Name": "Наш Спорт 7",
-			"full_logo": "https://i.imgur.com/unBCiMA.jpg"
-		},
-		{
-			"Name": "Наш Спорт 8",
-			"full_logo": "https://i.imgur.com/qbQ3nlF.jpg"
-		},
-		{
-			"Name": "Наш Спорт 9",
-			"full_logo": "https://i.imgur.com/5Jw04iK.jpg"
-		},
-		{
-			"Name": "Наш Спорт 10",
-			"full_logo": "https://i.imgur.com/YgfEMPt.jpg"
-		},
-		{
-			"Name": "Наш Спорт 11",
-			"full_logo": "https://i.imgur.com/h2Ohj2v.jpg"
-		},
-		{
-			"Name": "Наш Спорт 12",
-			"full_logo": "https://i.imgur.com/7ggDUOo.jpg"
-		},
-		{
-			"Name": "Наш Спорт 13",
-			"full_logo": "https://i.imgur.com/W5QRTel.jpg"
-		},
-		{
-			"Name": "Наш Спорт 14",
-			"full_logo": "https://i.imgur.com/tZPACcn.jpg"
-		},
-		{
-			"Name": "Наш Спорт 15",
-			"full_logo": "https://i.imgur.com/SL2aQJn.jpg"
-		},
-		{
-			"Name": "Наш Спорт 16",
-			"full_logo": "https://i.imgur.com/e3Crfib.jpg"
-		},
-		{
-			"Name": "Наш Спорт 17",
-			"full_logo": "https://i.imgur.com/X1CpTe2.jpg"
-		},
-		{
-			"Name": "Наш Спорт 18",
-			"full_logo": "https://i.imgur.com/iVsofK6.jpg"
-		},
-		{
-			"Name": "Наш Спорт 19",
-			"full_logo": "https://i.imgur.com/PzgEgxy.jpg"
-		},
-		{
-			"Name": "Наш Спорт 20",
-			"full_logo": "https://i.imgur.com/f3bVeZB.jpg"
-		},
-		{
-			"Name": "Наш Спорт 21",
-			"full_logo": "https://i.imgur.com/5US6oPq.jpg"
-		},
-		{
-			"Name": "Наш Спорт 22",
-			"full_logo": "https://i.imgur.com/1uvN6IZ.jpg"
-		},
-		{
-			"Name": "Наш Спорт 23",
-			"full_logo": "https://i.imgur.com/D3ZAIEd.jpg"
-		},
-		{
-			"Name": "Наш Спорт 24",
-			"full_logo": "https://i.imgur.com/J80eo6C.jpg"
-		},
-		{
-			"Name": "Радио Родных Дорог",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Дорожное Радио",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://i.imgur.com/PIXjfTL.jpg",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1OYXNoX2tob2trZXk1Lm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Радио ЕвропаПлюс",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1FdnJvcGFfUGx5dXMubTN1OCZzZXJ2aWNlQXJlYT1NU0stU0EtMQ"
 		},
 		{
 			"Name": "Авторадио",
-			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368938045.png"
-		},
-		{
-			"Name": "Радио Maximus",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368938045.png",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1BdnRvcmFkaW8ubTN1OCZzZXJ2aWNlQXJlYT1NU0stU0EtMQ"
 		},
 		{
 			"Name": "Русское Радио",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1SdXNza29lX3JhZGlvLm0zdTgmc2VydmljZUFyZWE9TVNLLVNBLTE"
 		},
 		{
 			"Name": "Юмор ФМ",
-			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369186643.png"
-		},
-		{
-			"Name": "Радио Ваня",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369186643.png",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1ZdW1vcl9GTS5tM3U4JnNlcnZpY2VBcmVhPU1TSy1TQS0x"
 		},
 		{
 			"Name": "Comedy Radio",
-			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369599292.png"
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369599292.png",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1Db21lZHlfUmFkaW8ubTN1OCZzZXJ2aWNlQXJlYT1NU0stU0EtMQ"
 		},
 		{
 			"Name": "Радио DFM",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Retro FM",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио ХИТ ФМ",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио на 7 холмах",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио воскресение",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио Звезда",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио Комсомольская правда",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1ERk0ubTN1OCZzZXJ2aWNlQXJlYT1NU0stU0EtMQ"
 		},
 		{
 			"Name": "Energy FM",
-			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368850846.png"
-		},
-		{
-			"Name": "Радио Romantica",
-			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369024005.png"
-		},
-		{
-			"Name": "Радио для двоих",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио 107 Краснодар",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Детское радио",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио ТВ",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Радио Град Петров",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
-		},
-		{
-			"Name": "Новое Радио",
-			"full_logo": "https://itv.svc.iptv.rt.ru"
+			"full_logo": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368850846.png",
+			"url_live": "aHR0cHM6Ly9zZ3cub3R0LnRyaWNvbG9yLnR2L3N0cmVhbWluZ0dhdGV3YXkvR2V0TGl2ZVBsYXlMaXN0P3NvdXJjZT1SYWRpb19FTkVSR1kubTN1OCZzZXJ2aWNlQXJlYT1NU0stU0EtMQ"
 		}
 	]
 }
