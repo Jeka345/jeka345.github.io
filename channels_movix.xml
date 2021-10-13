@@ -487,7 +487,7 @@
 		},
 		{
 			"number": 33,
-			"name": "Арсенал (тест)",
+			"name": "Тестовый",
 			"id": 218540344,
 			"is_barker": false,
 			"is_erotic": false,
@@ -506,9 +506,9 @@
 				0,
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1602160177490.png",
-			"logo": "/sdp/mos/nclogo1602160179867.png",
-			"background": "/sdp/mos/nclogo1602160182676.png"
+			"full_logo": "",
+			"logo": "",
+			"background": ""
 		},
 		{
 			"number": 34,
@@ -541,7 +541,7 @@
 			"id": 0,
 			"is_barker": true,
 			"is_erotic": false,
-			"description": "Информационный канал провайдера Дом.РУ",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
