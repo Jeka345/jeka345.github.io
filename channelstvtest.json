@@ -19,7 +19,7 @@
             "id":"534",
             "name":"Первый канал HD",
             "stream":"https://movix.ru/asset/get-video-hls?asset_id=2582071&hls_id=15991595&channel_number=013&type=channel",
-			"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1529397813326.png"
+		"logo": "https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1529397813326.png"
         },
         {
             "id":"576",
