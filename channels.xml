@@ -486,11 +486,11 @@
 		},
 		{
 			"number": 21,
-			"name": "Кино ТВ",
-			"id": 94802108,
+			"name": "СТС Love",
+			"id": 64804355,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "mos",
+			"description": "ct",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -498,14 +498,15 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/kinotv"
+					"url": "https://livetv.mylifeisgood.ml/channels/stslovemv"
 				}
 			],
 			"themes": [
 				0,
+				6,
 				8
 			],
-			"full_logo": "/sdp/mos/nclogo1509023376742.png",
+			"full_logo": "/sdp/mos/nclogo1560865516031.png",
 			"logo": "",
 			"background": ""
 		},
@@ -801,11 +802,11 @@
 		},
 		{
 			"number": 34,
-			"name": "Россия 1 (+4)",
-			"id": 1000174,
+			"name": "Кино ТВ",
+			"id": 94802108,
 			"is_barker": false,
 			"is_erotic": false,
-			"description": "sib",
+			"description": "mos",
 			"age_level": {
 				"id": 3,
 				"name": "0+",
@@ -813,13 +814,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/russia1-4"
+					"url": "https://livetv.mylifeisgood.ml/channels/kinotv"
 				}
 			],
 			"themes": [
-				15
+				0,
+				8
 			],
-			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"full_logo": "/sdp/mos/nclogo1509023376742.png",
 			"logo": "",
 			"background": ""
 		},
@@ -3034,6 +3036,31 @@
 			"sources": [
 				{
 					"url": "https://livetv.mylifeisgood.ml/testfilm/38169/56/720p"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 770,
+			"name": "Тест 1 канал",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "16+",
+				"age_value": 16
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/perviytest"
 				}
 			],
 			"themes": [
