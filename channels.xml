@@ -78,7 +78,7 @@
 		{
 			"number": 4,
 			"name": "НТВ",
-			"id": 1000179,
+			"id": 64211359,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -89,13 +89,13 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntvsd"
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvhd"
 				}
 			],
 			"themes": [
 				1
 			],
-			"full_logo": "/sdp/ct/nclogo1524737541364.png",
+			"full_logo": "/sdp/mos/nclogo1516193016598.png",
 			"logo": "",
 			"background": ""
 		},
