@@ -827,8 +827,8 @@
 		},
 		{
 			"number": 35,
-			"name": "Россия 1 (+5)",
-			"id": 1000174,
+			"name": "Дождь HD",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "sib",
@@ -839,13 +839,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/russia1-5"
+					"url": "https://livetv.mylifeisgood.ml/channels/tvrainhd"
 				}
 			],
 			"themes": [
-				15
+				1,
+				19
 			],
-			"full_logo": "/sdp/ct/nclogo1497429979233.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
