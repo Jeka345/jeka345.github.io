@@ -78,7 +78,7 @@
 		{
 			"number": 4,
 			"name": "НТВ",
-			"id": 64211359,
+			"id": 1000179,
 			"is_barker": true,
 			"is_erotic": false,
 			"description": "mos",
@@ -524,7 +524,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/mirhdpremium"
+					"url": "https://2serv.mylifeisgood.ml/channels/mirhdpremium"
 				}
 			],
 			"themes": [
