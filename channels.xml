@@ -1702,30 +1702,6 @@
 		},
 		{
 			"number": 72,
-			"name": "Discovery Channel",
-			"id": 1131026,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/discovery"
-				}
-			],
-			"themes": [
-				4
-			],
-			"full_logo": "/sdp/mos/nclogo1567606530589.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 73,
 			"name": "TV1000 HD",
 			"id": 80882339,
 			"is_barker": true,
@@ -1750,7 +1726,7 @@
 			"background": ""
 		},
 		{
-			"number": 74,
+			"number": 73,
 			"name": "TV1000 Action HD",
 			"id": 80882794,
 			"is_barker": true,
@@ -1775,7 +1751,7 @@
 			"background": ""
 		},
 		{
-			"number": 75,
+			"number": 74,
 			"name": "TV1000 Русское Кино HD",
 			"id": 80882836,
 			"is_barker": true,
@@ -1796,6 +1772,30 @@
 				8
 			],
 			"full_logo": "/sdp/mos/nclogo1593514220982.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 75,
+			"name": "Discovery Channel",
+			"id": 1131026,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/discovery"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1567606530589.png",
 			"logo": "",
 			"background": ""
 		},
