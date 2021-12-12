@@ -41,14 +41,14 @@ https://livetv.mylifeisgood.ml/channels/tnthd
 https://livetv.mylifeisgood.ml/channels/muztvsd
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
-https://livetv.mylifeisgood.ml/channels/matchpremace
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
-https://livetv.mylifeisgood.ml/channels//matchftb1ace
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 2
-https://livetv.mylifeisgood.ml/channels/matchftb2ace
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
-https://livetv.mylifeisgood.ml/channels/matchftb3ace
+##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
+##https://livetv.mylifeisgood.ml/channels/matchpremace
+##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
+##https://livetv.mylifeisgood.ml/channels//matchftb1ace
+##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 2
+##https://livetv.mylifeisgood.ml/channels/matchftb2ace
+##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
+##https://livetv.mylifeisgood.ml/channels/matchftb3ace
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
 https://livetv.mylifeisgood.ml/channels/tnt4hd
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
