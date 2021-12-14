@@ -166,11 +166,11 @@ https://2serv.mylifeisgood.ml/channels/smile
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
 https://2serv.mylifeisgood.ml/channels/otr
 #EXTINF:-1 tvg-id="mir" group-title="Информационные",Мир HD
-https://livetv.mylifeisgood.ml/channels/mirhd
+https://2serv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="nts-sevastopol" group-title="Федеральные",НТС
 https://2serv.mylifeisgood.ml/channels/ntc
 #EXTINF:-1 tvg-id="mir-24" group-title="Эфирные",Мир 24 HD
-https://livetv.mylifeisgood.ml/channels/mirhdpremium
+https://2serv.mylifeisgood.ml/channels/mirhdpremium
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 https://2serv.mylifeisgood.ml/channels/starthd
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
