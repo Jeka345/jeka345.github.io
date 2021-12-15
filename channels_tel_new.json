@@ -1120,6 +1120,13 @@
 				"type":"vitrina",
 				"config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/moretv/ufc",
 				"voiceChatEnabled":false
+			},
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ufchdtv",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
 			}
 		],
 		"category":5
@@ -1132,6 +1139,13 @@
 			{
 				"type":"vitrina",
 				"config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/moretv/viasat_sport",
+				"voiceChatEnabled":false
+			},
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/viasatsportsd",
+				"startAsVitrina":false,
+				"sendStats":false,
 				"voiceChatEnabled":false
 			}
 		],
