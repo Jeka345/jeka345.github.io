@@ -1,5 +1,5 @@
 {
-	"total_items": 126,
+	"total_items": 145,
 	"items": [
 		{
 			"number": 1,
@@ -1021,7 +1021,7 @@
 			"background": ""
 		},
 		{
-			"number": 44,
+			"number": 43,
 			"name": "Вести FM",
 			"id": 0,
 			"is_barker": false,
@@ -1045,7 +1045,7 @@
 			"background": ""
 		},
 		{
-			"number": 45,
+			"number": 44,
 			"name": "Москва 24",
 			"id": 51919527,
 			"is_barker": false,
@@ -1069,7 +1069,7 @@
 			"background": ""
 		},
 		{
-			"number": 46,
+			"number": 45,
 			"name": "Москва. Доверие",
 			"id": 11800609,
 			"is_barker": false,
@@ -1093,7 +1093,7 @@
 			"background": ""
 		},
 		{
-			"number": 47,
+			"number": 46,
 			"name": "Телеканал 360",
 			"id": 7937480,
 			"is_barker": false,
@@ -1117,7 +1117,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 48,
+			"number": 47,
 			"name": "Новости 360",
 			"id": 115567629,
 			"is_barker": false,
@@ -1141,7 +1141,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 49,
+			"number": 48,
 			"name": "Моя Планета",
 			"id": 1131022,
 			"is_barker": true,
@@ -1165,7 +1165,7 @@
 			"background": ""
 		},
 		{
-			"number": 50,
+			"number": 49,
 			"name": "Матч! Страна",
 			"id": 2371350,
 			"is_barker": true,
@@ -1190,7 +1190,7 @@
 			"background": ""
 		},
 		{
-			"number": 51,
+			"number": 50,
 			"name": "Eurosport 2 HD",
 			"id": 1144428,
 			"is_barker": true,
@@ -1215,7 +1215,7 @@
 			"background": ""
 		},
 		{
-			"number": 52,
+			"number": 51,
 			"name": "Эхо Москвы",
 			"id": 0,
 			"is_barker": false,
@@ -1235,6 +1235,30 @@
 				2
 			],
 			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 52,
+			"name": "Russian Music Box",
+			"id": 85860208,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/rusmusicbox"
+				}
+			],
+			"themes": [
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1598949465804.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1871,6 +1895,531 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1593514353890.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 79,
+			"name": "Top Secret",
+			"id": 241192801,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/sovsec"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1616576008691.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 80,
+			"name": "Диалоги о рыбалке",
+			"id": 1131071,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/viasatsportsd"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1544005813039.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 81,
+			"name": "Кальмар (тест)",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://678901-ct16186.tmweb.ru:8080/kalmar/index.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 82,
+			"name": "Мульты 90-х (тест)",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://678901-ct16186.tmweb.ru:8080/mult/index.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				5
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 83,
+			"name": "Триллеры (тест)",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "http://678901-ct16186.tmweb.ru:8080/triller/index.m3u8"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 84,
+			"name": "Матч! Премьер HD",
+			"id": 20244318,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matchpremiere_hd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 85,
+			"name": "Матч! Боец",
+			"id": 1144436,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matchboew"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1497608835928.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 86,
+			"name": "Матч! Арена HD",
+			"id": 1144499,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matcharenahd"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251174538.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 87,
+			"name": "Матч! Игра HD",
+			"id": 77742737,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channnels/matchigra"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/mos/nclogo1508251445090.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 88,
+			"name": "Матч! Футбол 1",
+			"id": 66476111,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball1"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/ct/nclogo1501849625746.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 89,
+			"name": "Матч! Футбол 2",
+			"id": 66476687,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball2"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/ct/nclogo1501849658331.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 90,
+			"name": "Матч! Футбол 3",
+			"id": 66476983,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "ct",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball3"
+				}
+			],
+			"themes": [
+				0,
+				7
+			],
+			"full_logo": "/sdp/ct/nclogo1501849696895.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 91,
+			"name": "Bridge",
+			"id": 1144412,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgetvya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1638793935097.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 92,
+			"name": "Bridge Classic",
+			"id": 115477770,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgeclassictvya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1638793968662.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 93,
+			"name": "Bridge Русский хит",
+			"id": 2370896,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/bridgerushittvya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1638793947266.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 94,
+			"name": "Bridge Hits",
+			"id": 115477467,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgehitstvya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1638793958083.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 95,
+			"name": "Bridge Шлягер",
+			"id": 213115392,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgetvshlyagerya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1602157236453.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 96,
+			"name": "Bridge Deluxe",
+			"id": 115477966,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgedeluxetvya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "/sdp/mos/nclogo1638793980605.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 97,
+			"name": "НТВ Хит",
+			"id": 116536643,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvhit"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1565015693388.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 98,
+			"name": "НТВ Сериал",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvserial"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 99,
+			"name": "НТВ Право",
+			"id": 0,
+			"is_barker": true,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvpravo"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
