@@ -752,6 +752,21 @@
 	},
 	{
 			"id":0,
+			"name":"Russian Music Box",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949465804.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":0,
 			"name":"Music Box Gold",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949637593.png",
 			"sources":[
@@ -1150,6 +1165,351 @@
 			}
 		],
 		"category":5
+	},
+	{
+			"id":0,
+			"name":"Top Secret",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1616576008691.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://strm.yandex.ru/kal/sovsec/sovsec0_169_576p.json/index-v1-a1.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":7
+	},
+	{
+			"id":0,
+			"name":"Диалоги о Рыбалке",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1616576008691.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":7
+	},
+	{
+			"id":0,
+			"name":"Диалоги о Рыбалке",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1616576008691.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":7
+	},
+	{
+			"id":0,
+			"name":"Кальмар",
+			"logo":"https://mediasat.info/wp-content/uploads/2021/10/igra-v-kalmara-netflix.jpg",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"http://678901-ct16186.tmweb.ru:8080/kalmar/index.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":12
+	},
+	{
+			"id":0,
+			"name":"Мульты 90-х",
+			"logo":"https://cs9.pikabu.ru/post_img/big/2020/08/17/9/1597675641144877426.jpg",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"http://678901-ct16186.tmweb.ru:8080/mult/index.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":12
+	},
+	{
+			"id":0,
+			"name":"Триллеры",
+			"logo":"https://w7.pngwing.com/pngs/322/48/png-transparent-art-film-thriller-horror-horror-emblem-logo-monochrome.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"http://678901-ct16186.tmweb.ru:8080/triller/index.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":12
+	},
+	{
+		"id":56,
+		"name":"Матч! Премьер",
+		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1532695038074.png",
+		"sources":[
+		{
+			"type":"native",
+			"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchpremiere_hd",
+			"startAsVitrina":false,
+			"sendStats":false,
+			"voiceChatEnabled":false
+		}
+	],
+	"category":5
+	},
+	{
+			"id":49,
+			"name":"Матч! Боец",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497608835928.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchboew",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":51,
+			"name":"Матч! Арена HD",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251174538.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matcharenahd",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":52,
+			"name":"Матч! Игра HD",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251445090.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matcharenahd",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":1117,
+			"name":"Матч! Футбол 1",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849625746.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball1",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":1118,
+			"name":"Матч! Футбол 2",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849658331.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball2",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":1119,
+			"name":"Матч! Футбол 3",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849696895.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball3",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":5
+	},
+	{
+			"id":41,
+			"name":"Bridge",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793935097.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgetv24h",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":43,
+			"name":"Bridge Classic",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793968662.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgeclassictv",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":41,
+			"name":"Bridge Русский Хит",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793947266.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgerushittv",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":41,
+			"name":"Bridge Hits",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793958083.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgehitstv",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":41,
+			"name":"Bridge Шлягер",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602157236453.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgetvshlyager",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":41,
+			"name":"Bridge Deluxe",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793980605.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/bridgedeluxetv",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
+	},
+	{
+			"id":0,
+			"name":"НТВ Хит",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1565015693388.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvhit",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":8
+	},
+	{
+			"id":0,
+			"name":"НТВ Право",
+			"logo":"https://i.imgur.com/aBN9Ks4.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvpravo",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":8
+	},
+	{
+			"id":0,
+			"name":"НТВ Сериал",
+			"logo":"https://i.imgur.com/o0qBKsu.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvserial",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":8
+	},
+	{
+			"id":0,
+			"name":"НТВ Стиль",
+			"logo":"https://i.imgur.com/rY2GjoJ.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvstyle",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":8
 	},
 	{
 			"id":0,
@@ -1916,6 +2276,10 @@
 	  {
 		  "id":11,
 		  "name":"Тематические"
+	  },
+	  {
+		  "id":12,
+		  "name":"ТЕСТ"
 	  }
    ]
 }
