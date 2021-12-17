@@ -1392,7 +1392,7 @@
 		"category":4
 	},
 	{
-			"id":41,
+			"id":39,
 			"name":"Bridge Русский Хит",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793947266.png",
 			"sources":[
@@ -1407,7 +1407,7 @@
 		"category":4
 	},
 	{
-			"id":41,
+			"id":40,
 			"name":"Bridge Hits",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793958083.png",
 			"sources":[
@@ -1422,7 +1422,7 @@
 		"category":4
 	},
 	{
-			"id":41,
+			"id":0,
 			"name":"Bridge Шлягер",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602157236453.png",
 			"sources":[
@@ -1437,7 +1437,7 @@
 		"category":4
 	},
 	{
-			"id":41,
+			"id":0,
 			"name":"Bridge Deluxe",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793980605.png",
 			"sources":[
