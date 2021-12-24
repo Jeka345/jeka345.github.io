@@ -100,7 +100,7 @@ https://livetv.mylifeisgood.ml/channels/kinotv
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
 https://livetv.mylifeisgood.ml/channels/disneysd
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
-https://livetv.mylifeisgood.ml/channels/ufctv
+https://livetv.mylifeisgood.ml/channels/ufchdtv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd
 #EXTINF:-1 tvg-id="da-vinci" group-title="Образовательные",Da Vinci
@@ -149,17 +149,17 @@ https://2serv.mylifeisgood.ml/channels/ehomoscow
 https://livetv.mylifeisgood.ml/channels/musicboxgold
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
 https://livetv.mylifeisgood.ml/channels/tntmusicru
-#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
-#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge Classic
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv
-#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge Deluxe
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge Hits
 https://livetv.mylifeisgood.ml/channels/bridgehitstv
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge TV Русский хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
-#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
 https://2serv.mylifeisgood.ml/channels/smile
