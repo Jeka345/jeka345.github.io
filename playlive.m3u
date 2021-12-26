@@ -6,7 +6,7 @@ https://livetv.mylifeisgood.ml/channels/russia1
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
-https://livetv.mylifeisgood.ml/channels/ntvhd
+https://livetv.mylifeisgood.ml/channels/ntv
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
 https://livetv.mylifeisgood.ml/channels/5tvmv
 #EXTINF:-1 tvg-id="kultura" group-title="Познавательные",Россия К
@@ -24,13 +24,13 @@ https://livetv.mylifeisgood.ml/channels/rentvhd
 #EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
 https://livetv.mylifeisgood.ml/channels/spas
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные",СТС HD
-https://livetv.mylifeisgood.ml/channels/stshd
+https://livetv.mylifeisgood.ml/channels/sts
 #EXTINF:-1 tvg-id="domashny" group-title="Женские",Домашний HD
-https://livetv.mylifeisgood.ml/channels/domashniihd
+https://livetv.mylifeisgood.ml/channels/domashnii
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Развлекательные",ТВ3 HD
-https://livetv.mylifeisgood.ml/channels/tv3hd
+https://livetv.mylifeisgood.ml/channels/tv3
 #EXTINF:-1 tvg-id="piatnica" group-title="Развлекательные",Пятница HD
-https://livetv.mylifeisgood.ml/channels/fridayhd
+https://livetv.mylifeisgood.ml/channels/friday
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
@@ -41,6 +41,20 @@ https://livetv.mylifeisgood.ml/channels/tnthd
 https://livetv.mylifeisgood.ml/channels/muztvsd
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove
+#EXTINF:-1 tvg-id="mir-24" group-title="Эфирные",Мир 24 HD
+https://2serv.mylifeisgood.ml/channels/mirhdpremium
+#EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
+https://livetv.mylifeisgood.ml/channels/chesd
+#EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
+https://livetv.mylifeisgood.ml/channels/u_tv
+#EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
+https://livetv.mylifeisgood.ml/channels/subbota
+#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
+https://livetv.mylifeisgood.ml/channels/2x2
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
+https://livetv.mylifeisgood.ml/channels/tnt4hd
+#EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
+https://livetv.mylifeisgood.ml/channels/disneysd
 ##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
 ##https://livetv.mylifeisgood.ml/channels/matchpremace
 ##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 1
@@ -49,16 +63,8 @@ https://livetv.mylifeisgood.ml/channels/stslove
 ##https://livetv.mylifeisgood.ml/channels/matchftb2ace
 ##EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Футбол 3
 ##https://livetv.mylifeisgood.ml/channels/matchftb3ace
-#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
-https://livetv.mylifeisgood.ml/channels/tnt4hd
-#EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
-https://livetv.mylifeisgood.ml/channels/subbota
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
 https://livetv.mylifeisgood.ml/channels/matchstrana
-#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
-https://livetv.mylifeisgood.ml/channels/2x2
-#EXTINF:-1 tvg-id="che" group-title="Мужские",ЧЕ!
-https://livetv.mylifeisgood.ml/channels/chesd
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
@@ -69,36 +75,8 @@ https://livetv.mylifeisgood.ml/channels/moscvadoverie
 https://livetv.mylifeisgood.ml/channels/vestifm
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
 https://livetv.mylifeisgood.ml/channels/myplanet
-#EXTINF:-1 tvg-id="rossia1-pl1" group-title="Федеральные",Россия 1 (+1)
-https://livetv.mylifeisgood.ml/channels/russia1-1
-#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Федеральные",Россия 1 (+2)
-https://livetv.mylifeisgood.ml/channels/russia1-2
-#EXTINF:-1 tvg-id="rossia1-pl3" group-title="Федеральные",Россия 1 (+3)
-https://livetv.mylifeisgood.ml/channels/russia1-3
-#EXTINF:-1 tvg-id="rossia1-pl4" group-title="Федеральные",Россия 1 (+4)
-https://livetv.mylifeisgood.ml/channels/russia1-4
-#EXTINF:-1 tvg-id="rossia1-pl5" group-title="Федеральные",Россия 1 (+5)
-https://livetv.mylifeisgood.ml/channels/russia1-5
-#EXTINF:-1 tvg-id="rossia1-pl6" group-title="Федеральные",Россия 1 (+6)
-https://livetv.mylifeisgood.ml/channels/russia1-6
-#EXTINF:-1 tvg-id="rossia1-pl7" group-title="Федеральные",Россия 1 (+7)
-https://livetv.mylifeisgood.ml/channels/russia1-7
-#EXTINF:-1 tvg-id="rossia1-pl8" group-title="Федеральные",Россия 1 (+8)
-https://livetv.mylifeisgood.ml/channels/russia1-8
-#EXTINF:-1 tvg-id="rossia1-pl9" group-title="Федеральные",Россия 1 (+9)
-https://livetv.mylifeisgood.ml/channels/russia1-9
-#EXTINF:-1 tvg-id="kultura-pl2" group-title="Федеральные",Россия К (+2)
-https://livetv.mylifeisgood.ml/channels/russiak-2
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="Федеральные",Россия К (+4)
-https://livetv.mylifeisgood.ml/channels/russiak-4
-#EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
-https://livetv.mylifeisgood.ml/channels/russiak-7
-#EXTINF:-1 tvg-id="yu" group-title="Женские",Ю
-https://livetv.mylifeisgood.ml/channels/u_tv
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotv
-#EXTINF:-1 tvg-id="disney" group-title="Детские",Disney
-https://livetv.mylifeisgood.ml/channels/disneysd
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
 https://livetv.mylifeisgood.ml/channels/ufchdtv
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
