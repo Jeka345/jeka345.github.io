@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" refresh="3600"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
 https://livetv.mylifeisgood.ml/channels/perviytest
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1

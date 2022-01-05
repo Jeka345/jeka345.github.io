@@ -3622,31 +3622,6 @@
 			"full_logo": "",
 			"logo": "",
 			"background": ""
-		},
-		{
-			"number": 777,
-			"name": "ТЕСТ Фильм",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "16+",
-				"age_value": 16
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/testfilm/38169/56/1080puhd"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
 		}
 	]
 }
