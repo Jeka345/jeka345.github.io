@@ -27,17 +27,17 @@ html {
 
 .errorcode {
   position: relative;
-  top: -150px;
+  top: -500px;
   font-family: 'Creepster', cursive;
-  color: white;
+  color: red;
   text-align: center;
-  font-size: 5em;
+  font-size: 43px;
   letter-spacing: 0.1em;
 }
 
 .errortext {
   position: relative;
-  top: -200px;
+  top: -180px;
   color: #FBD130;
   text-align: center;
   text-transform: uppercase;
