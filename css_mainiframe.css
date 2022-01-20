@@ -27,7 +27,7 @@ html {
 
 .errorcode {
   position: relative;
-  top: -200px;
+  top: -150px;
   font-family: 'Creepster', cursive;
   color: white;
   text-align: center;
@@ -37,7 +37,7 @@ html {
 
 .errortext {
   position: relative;
-  top: -260px;
+  top: -200px;
   color: #FBD130;
   text-align: center;
   text-transform: uppercase;
