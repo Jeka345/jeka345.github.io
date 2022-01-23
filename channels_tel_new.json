@@ -1128,17 +1128,12 @@
 	},
 	{
 			"id":0,
-			"name":"UFC ТВ HD",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1555519051273.png",
+			"name":"Удар! ТВ",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1640863511502.png",
 			"sources":[
 			{
-				"type":"vitrina",
-				"config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/moretv/ufc",
-				"voiceChatEnabled":false
-			},
-			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ufchdtv",
+				"streamSQ":"https://2serv.mylifeisgood.ml/channels/udarlive",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false

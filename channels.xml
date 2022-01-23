@@ -5,7 +5,7 @@
 			"number": 1,
 			"name": "Первый канал HD",
 			"id": 1000069,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -54,7 +54,7 @@
 			"number": 3,
 			"name": "Матч! ТВ HD",
 			"id": 1000199,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -79,7 +79,7 @@
 			"number": 4,
 			"name": "НТВ",
 			"id": 1000179,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -247,7 +247,7 @@
 			"number": 11,
 			"name": "РЕН ТВ HD",
 			"id": 1125460,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1144,7 +1144,7 @@
 			"number": 48,
 			"name": "Моя Планета",
 			"id": 1131022,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1168,7 +1168,7 @@
 			"number": 49,
 			"name": "Матч! Страна",
 			"id": 2371350,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1193,7 +1193,7 @@
 			"number": 50,
 			"name": "Eurosport 2 HD",
 			"id": 1144428,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1242,7 +1242,7 @@
 			"number": 52,
 			"name": "Russian Music Box",
 			"id": 85860208,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1266,7 +1266,7 @@
 			"number": 53,
 			"name": "Music Box Gold",
 			"id": 1144332,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1290,7 +1290,7 @@
 			"number": 54,
 			"name": "ТНТ Music",
 			"id": 1144324,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1362,7 +1362,7 @@
 			"number": 57,
 			"name": "Старт HD",
 			"id": 162103183,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1387,7 +1387,7 @@
 			"number": 58,
 			"name": "Загородный HD Int",
 			"id": 0,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1412,7 +1412,7 @@
 			"number": 59,
 			"name": "Приключения HD",
 			"id": 0,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1437,7 +1437,7 @@
 			"number": 60,
 			"name": "Da Vinci",
 			"id": 2370547,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1462,7 +1462,7 @@
 			"number": 61,
 			"name": "Европа Плюс ТВ",
 			"id": 2370649,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1536,7 +1536,7 @@
 			"number": 64,
 			"name": "Первый Космический HD",
 			"id": 0,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1560,7 +1560,7 @@
 			"number": 65,
 			"name": "VIP Megahit HD",
 			"id": 7686532,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1584,7 +1584,7 @@
 			"number": 66,
 			"name": "VIP Comedy HD",
 			"id": 7686580,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1608,7 +1608,7 @@
 			"number": 67,
 			"name": "VIP Premiere HD",
 			"id": 7686511,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1632,7 +1632,7 @@
 			"number": 68,
 			"name": "VIP Serial HD",
 			"id": 27109203,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1656,7 +1656,7 @@
 			"number":69,
 			"name": "Viasat History HD",
 			"id": 80882936,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1680,7 +1680,7 @@
 			"number": 70,
 			"name": "Viasat Explore HD",
 			"id": 80882991,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1704,7 +1704,7 @@
 			"number": 71,
 			"name": "Viasat Nature HD",
 			"id": 104701055,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1728,7 +1728,7 @@
 			"number": 72,
 			"name": "TV1000 HD",
 			"id": 80882339,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1753,7 +1753,7 @@
 			"number": 73,
 			"name": "TV1000 Action HD",
 			"id": 80882794,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1778,7 +1778,7 @@
 			"number": 74,
 			"name": "TV1000 Русское Кино HD",
 			"id": 80882836,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1803,7 +1803,7 @@
 			"number": 75,
 			"name": "Discovery Channel",
 			"id": 1131026,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1827,7 +1827,7 @@
 			"number": 76,
 			"name": "Investigation Discovery HD",
 			"id": 77742450,
-			"is_barker": true,
+			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
 			"age_level": {
@@ -1850,7 +1850,7 @@
 		},
 		{
 			"number": 77,
-			"name": "UFC ТВ HD",
+			"name": "Udar! HD",
 			"id": 137053402,
 			"is_barker": false,
 			"is_erotic": false,
@@ -1862,14 +1862,14 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ufchdtv"
+					"url": "https://2serv.mylifeisgood.ml/channels/udarlive"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1555519051273.png",
+			"full_logo": "/sdp/mos/nclogo1640863511502.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1949,7 +1949,107 @@
 			"background": ""
 		},
 		{
+			"number": 81,
+			"name": "НТВ Хит",
+			"id": 116536643,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvhit"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1565015693388.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 82,
+			"name": "НТВ Сериал",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvserial"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 83,
+			"name": "НТВ Право",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvpravo"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
 			"number": 84,
+			"name": "НТВ Стиль",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvstyle"
+				}
+			],
+			"themes": [
+				0,
+				8
+			],
+			"full_logo": "",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 85,
 			"name": "Матч! Премьер HD",
 			"id": 20244318,
 			"is_barker": false,
@@ -1974,7 +2074,7 @@
 			"background": ""
 		},
 		{
-			"number": 85,
+			"number": 86,
 			"name": "Матч! Боец",
 			"id": 1144436,
 			"is_barker": false,
@@ -1999,7 +2099,7 @@
 			"background": ""
 		},
 		{
-			"number": 86,
+			"number": 87,
 			"name": "Матч! Арена HD",
 			"id": 1144499,
 			"is_barker": false,
@@ -2024,7 +2124,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 88,
 			"name": "Матч! Игра HD",
 			"id": 77742737,
 			"is_barker": false,
@@ -2049,7 +2149,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 89,
 			"name": "Матч! Футбол 1",
 			"id": 66476111,
 			"is_barker": false,
@@ -2074,7 +2174,7 @@
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 90,
 			"name": "Матч! Футбол 2",
 			"id": 66476687,
 			"is_barker": false,
@@ -2099,7 +2199,7 @@
 			"background": ""
 		},
 		{
-			"number": 90,
+			"number": 91,
 			"name": "Матч! Футбол 3",
 			"id": 66476983,
 			"is_barker": false,
@@ -2124,7 +2224,7 @@
 			"background": ""
 		},
 		{
-			"number": 91,
+			"number": 92,
 			"name": "Bridge",
 			"id": 1144412,
 			"is_barker": false,
@@ -2149,7 +2249,7 @@
 			"background": ""
 		},
 		{
-			"number": 92,
+			"number": 93,
 			"name": "Bridge Classic",
 			"id": 115477770,
 			"is_barker": false,
@@ -2174,7 +2274,7 @@
 			"background": ""
 		},
 		{
-			"number": 93,
+			"number": 94,
 			"name": "Bridge Русский хит",
 			"id": 2370896,
 			"is_barker": false,
@@ -2199,7 +2299,7 @@
 			"background": ""
 		},
 		{
-			"number": 94,
+			"number": 95,
 			"name": "Bridge Hits",
 			"id": 115477467,
 			"is_barker": false,
@@ -2224,7 +2324,7 @@
 			"background": ""
 		},
 		{
-			"number": 95,
+			"number": 96,
 			"name": "Bridge Шлягер",
 			"id": 213115392,
 			"is_barker": false,
@@ -2249,7 +2349,7 @@
 			"background": ""
 		},
 		{
-			"number": 96,
+			"number": 97,
 			"name": "Bridge Deluxe",
 			"id": 115477966,
 			"is_barker": false,
@@ -2270,81 +2370,6 @@
 				3
 			],
 			"full_logo": "/sdp/mos/nclogo1638793980605.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 97,
-			"name": "НТВ Хит",
-			"id": 116536643,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntvhit"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "/sdp/mos/nclogo1565015693388.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 98,
-			"name": "НТВ Сериал",
-			"id": 0,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntvserial"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 99,
-			"name": "НТВ Право",
-			"id": 0,
-			"is_barker": true,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntvpravo"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},

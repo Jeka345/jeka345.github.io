@@ -143,8 +143,8 @@ https://livetv.mylifeisgood.ml/channels/national_geographic
 https://livetv.mylifeisgood.ml/channels/discovery
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra
-#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",UFC ТВ
-https://livetv.mylifeisgood.ml/channels/ufchdtv
+#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
+https://2serv.mylifeisgood.ml/channels/udarlive
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Кино
