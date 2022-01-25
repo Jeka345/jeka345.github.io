@@ -1726,6 +1726,30 @@
 		},
 		{
 			"number": 72,
+			"name": "Viasat Nature / History HD",
+			"id": 7862873,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/viasatnaturehistory"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1593514310571.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 73,
 			"name": "TV1000 HD",
 			"id": 80882339,
 			"is_barker": false,
@@ -1750,7 +1774,7 @@
 			"background": ""
 		},
 		{
-			"number": 73,
+			"number": 74,
 			"name": "TV1000 Action HD",
 			"id": 80882794,
 			"is_barker": false,
@@ -1775,7 +1799,7 @@
 			"background": ""
 		},
 		{
-			"number": 74,
+			"number": 75,
 			"name": "TV1000 Русское Кино HD",
 			"id": 80882836,
 			"is_barker": false,
@@ -1800,7 +1824,7 @@
 			"background": ""
 		},
 		{
-			"number": 75,
+			"number": 76,
 			"name": "Discovery Channel",
 			"id": 1131026,
 			"is_barker": false,
@@ -1824,7 +1848,7 @@
 			"background": ""
 		},
 		{
-			"number": 76,
+			"number": 77,
 			"name": "Investigation Discovery HD",
 			"id": 77742450,
 			"is_barker": false,
@@ -1849,7 +1873,7 @@
 			"background": ""
 		},
 		{
-			"number": 77,
+			"number": 78,
 			"name": "Udar! HD",
 			"id": 137053402,
 			"is_barker": false,
@@ -1874,8 +1898,8 @@
 			"background": ""
 		},
 		{
-			"number": 78,
-			"name": "Viasat Sport",
+			"number": 79,
+			"name": "Viasat Sport (no working, fix later)",
 			"id": 1144444,
 			"is_barker": false,
 			"is_erotic": false,
@@ -1899,7 +1923,7 @@
 			"background": ""
 		},
 		{
-			"number": 79,
+			"number": 80,
 			"name": "Top Secret",
 			"id": 241192801,
 			"is_barker": false,
@@ -1924,7 +1948,7 @@
 			"background": ""
 		},
 		{
-			"number": 80,
+			"number": 81,
 			"name": "Диалоги о рыбалке",
 			"id": 1131071,
 			"is_barker": false,
@@ -1949,7 +1973,7 @@
 			"background": ""
 		},
 		{
-			"number": 81,
+			"number": 82,
 			"name": "НТВ Хит",
 			"id": 116536643,
 			"is_barker": false,
@@ -1974,7 +1998,7 @@
 			"background": ""
 		},
 		{
-			"number": 82,
+			"number": 83,
 			"name": "НТВ Сериал",
 			"id": 0,
 			"is_barker": false,
@@ -1999,7 +2023,7 @@
 			"background": ""
 		},
 		{
-			"number": 83,
+			"number": 84,
 			"name": "НТВ Право",
 			"id": 0,
 			"is_barker": false,
@@ -2024,7 +2048,7 @@
 			"background": ""
 		},
 		{
-			"number": 84,
+			"number": 85,
 			"name": "НТВ Стиль",
 			"id": 0,
 			"is_barker": false,
@@ -2049,7 +2073,7 @@
 			"background": ""
 		},
 		{
-			"number": 85,
+			"number": 86,
 			"name": "Матч! Премьер HD",
 			"id": 20244318,
 			"is_barker": false,
@@ -2074,7 +2098,7 @@
 			"background": ""
 		},
 		{
-			"number": 86,
+			"number": 87,
 			"name": "Матч! Боец",
 			"id": 1144436,
 			"is_barker": false,
@@ -2099,7 +2123,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 88,
 			"name": "Матч! Арена HD",
 			"id": 1144499,
 			"is_barker": false,
@@ -2124,7 +2148,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 89,
 			"name": "Матч! Игра HD",
 			"id": 77742737,
 			"is_barker": false,
@@ -2149,7 +2173,7 @@
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 90,
 			"name": "Матч! Футбол 1",
 			"id": 66476111,
 			"is_barker": false,
@@ -2174,7 +2198,7 @@
 			"background": ""
 		},
 		{
-			"number": 90,
+			"number": 91,
 			"name": "Матч! Футбол 2",
 			"id": 66476687,
 			"is_barker": false,
@@ -2199,7 +2223,7 @@
 			"background": ""
 		},
 		{
-			"number": 91,
+			"number": 92,
 			"name": "Матч! Футбол 3",
 			"id": 66476983,
 			"is_barker": false,
@@ -2224,7 +2248,7 @@
 			"background": ""
 		},
 		{
-			"number": 92,
+			"number": 93,
 			"name": "Bridge",
 			"id": 1144412,
 			"is_barker": false,
@@ -2249,7 +2273,7 @@
 			"background": ""
 		},
 		{
-			"number": 93,
+			"number": 94,
 			"name": "Bridge Classic",
 			"id": 115477770,
 			"is_barker": false,
@@ -2274,7 +2298,7 @@
 			"background": ""
 		},
 		{
-			"number": 94,
+			"number": 95,
 			"name": "Bridge Русский хит",
 			"id": 2370896,
 			"is_barker": false,
@@ -2299,7 +2323,7 @@
 			"background": ""
 		},
 		{
-			"number": 95,
+			"number": 96,
 			"name": "Bridge Hits",
 			"id": 115477467,
 			"is_barker": false,
@@ -2324,7 +2348,7 @@
 			"background": ""
 		},
 		{
-			"number": 96,
+			"number": 97,
 			"name": "Bridge Шлягер",
 			"id": 213115392,
 			"is_barker": false,
@@ -2349,7 +2373,7 @@
 			"background": ""
 		},
 		{
-			"number": 97,
+			"number": 98,
 			"name": "Bridge Deluxe",
 			"id": 115477966,
 			"is_barker": false,
