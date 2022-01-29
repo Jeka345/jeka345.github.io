@@ -1899,7 +1899,7 @@
 		},
 		{
 			"number": 79,
-			"name": "Viasat Sport (no working, fix later)",
+			"name": "Viasat Sport HD",
 			"id": 1144444,
 			"is_barker": false,
 			"is_erotic": false,
@@ -1911,7 +1911,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/viasatsportsd"
+					"url": "https://livetv.mylifeisgood.ml/channels/viasatsporthdst"
 				}
 			],
 			"themes": [

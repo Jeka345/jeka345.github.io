@@ -1153,7 +1153,7 @@
 			},
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/viasatsportsd",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/viasatsporthdst",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
