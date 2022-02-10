@@ -18,7 +18,7 @@ https://livetv.mylifeisgood.ml/channels/karusel
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
 https://2serv.mylifeisgood.ml/channels/otr
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
-https://livetv.mylifeisgood.ml/channels/tvc
+https://2serv.mylifeisgood.ml/channels/tvc
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentvhd
 #EXTINF:-1 tvg-id="spas" group-title="Религиозные",СПАС
@@ -34,7 +34,7 @@ https://livetv.mylifeisgood.ml/channels/friday
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
-https://livetv.mylifeisgood.ml/channels/mirhd
+https://2serv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
@@ -64,7 +64,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
-https://livetv.mylifeisgood.ml/channels/kinotv
+https://livetv.mylifeisgood.ml/channels/kinotvst
 #EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь
 https://2serv.mylifeisgood.ml/channels/tvrainhd
 #EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
@@ -103,8 +103,6 @@ https://livetv.mylifeisgood.ml/channels/smile
 https://2serv.mylifeisgood.ml/channels/ntc
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 https://livetv.mylifeisgood.ml/channels/startlive
-#EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный HD Int
-https://livetv.mylifeisgood.ml/channels/zagorodhdint
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd
 #EXTINF:-1 tvg-id="da-vinci" group-title="Образовательные",Da Vinci
