@@ -91,8 +91,6 @@ https://livetv.mylifeisgood.ml/channels/myplanet
 https://livetv.mylifeisgood.ml/channels/matchstrana
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg
-#EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные",Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2
 #EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
 https://2serv.mylifeisgood.ml/channels/ehomoscow
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
@@ -143,6 +141,8 @@ https://livetv.mylifeisgood.ml/channels/tv1000action
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
 https://livetv.mylifeisgood.ml/channels/national_geographic
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные",Investigation Discovery HD
@@ -163,20 +163,16 @@ https://2serv.mylifeisgood.ml/channels/dialogiorybalke
 https://livetv.mylifeisgood.ml/channels/oruzhie
 #EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
 https://livetv.mylifeisgood.ml/channels/anekdot
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
-https://livetv.mylifeisgood.ml/channels/matchpremiere_hd
-#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Матч! Боец
-https://livetv.mylifeisgood.ml/channels/matchboew
-#EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Матч! Арена
-https://livetv.mylifeisgood.ml/channels/matcharenahd
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные",Матч! Игра
-https://livetv.mylifeisgood.ml/channels/matchigra
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Матч! Футбол 1
-https://livetv.mylifeisgood.ml/channels/matchfootball1
-#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Матч! Футбол 2
-https://livetv.mylifeisgood.ml/channels/matchfootball2
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные",Матч! Футбол 3
-https://livetv.mylifeisgood.ml/channels/matchfootball3
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="Спортивные",Eurosport 1 HD
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+#EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные",Eurosport 2 HD
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные",Setanta 1 HD
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные",Setanta 2 HD
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
+https://livetv.mylifeisgood.ml/channels/matchplaneta
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge Classic
@@ -189,6 +185,8 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
+https://2serv.mylifeisgood.ml/channels/bridgefreshya
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал

@@ -1,5 +1,5 @@
 {
-	"total_items": 146,
+	"total_items": 144,
 	"items": [
 		{
 			"number": 1,
@@ -1191,8 +1191,8 @@
 		},
 		{
 			"number": 50,
-			"name": "Eurosport 2 HD",
-			"id": 1144428,
+			"name": "Animal Planet HD",
+			"id": 1144547,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1203,14 +1203,13 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/eurosport2"
+					"url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
 				}
 			],
 			"themes": [
-				0,
-				7
+				4
 			],
-			"full_logo": "/sdp/mos/nclogo1579851788766.png",
+			"full_logo": "/sdp/mos/nclogo1548669133906.png",
 			"logo": "",
 			"background": ""
 		},
@@ -2049,7 +2048,7 @@
 		},
 		{
 			"number": 86,
-			"name": "Матч! Премьер HD",
+			"name": "Eurosport 1 HD",
 			"id": 20244318,
 			"is_barker": false,
 			"is_erotic": false,
@@ -2061,20 +2060,20 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchpremiere_hd"
+					"url": "https://livetv.mylifeisgood.ml/channels/eurosport1ru"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1532695038074.png",
+			"full_logo": "/sdp/mos/nclogo1508251593211.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 87,
-			"name": "Матч! Боец",
+			"name": "Eurosport 2 HD",
 			"id": 1144436,
 			"is_barker": false,
 			"is_erotic": false,
@@ -2086,21 +2085,21 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchboew"
+					"url": "https://livetv.mylifeisgood.ml/channels/eurosport2"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1497608835928.png",
+			"full_logo": "/sdp/mos/nclogo1579851788766.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 88,
-			"name": "Матч! Арена HD",
-			"id": 1144499,
+			"name": "Setanta 1 HD",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2111,21 +2110,21 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matcharenahd"
+					"url": "https://livetv.mylifeisgood.ml/channels/setantahd"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1508251174538.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 89,
-			"name": "Матч! Игра HD",
-			"id": 77742737,
+			"name": "Setanta 2 HD",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -2136,21 +2135,21 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchigra"
+					"url": "https://livetv.mylifeisgood.ml/channels/setantaplus"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/mos/nclogo1508251445090.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 90,
-			"name": "Матч! Футбол 1",
-			"id": 66476111,
+			"name": "Матч! Планета",
+			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "ct",
@@ -2161,69 +2160,19 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball1"
+					"url": "https://livetv.mylifeisgood.ml/channels/matchplaneta"
 				}
 			],
 			"themes": [
 				0,
 				7
 			],
-			"full_logo": "/sdp/ct/nclogo1501849625746.png",
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 91,
-			"name": "Матч! Футбол 2",
-			"id": 66476687,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "ct",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball2"
-				}
-			],
-			"themes": [
-				0,
-				7
-			],
-			"full_logo": "/sdp/ct/nclogo1501849658331.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 92,
-			"name": "Матч! Футбол 3",
-			"id": 66476983,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "ct",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/matchfootball3"
-				}
-			],
-			"themes": [
-				0,
-				7
-			],
-			"full_logo": "/sdp/ct/nclogo1501849696895.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 93,
 			"name": "Bridge",
 			"id": 1144412,
 			"is_barker": false,
@@ -2248,7 +2197,7 @@
 			"background": ""
 		},
 		{
-			"number": 94,
+			"number": 92,
 			"name": "Bridge Classic",
 			"id": 115477770,
 			"is_barker": false,
@@ -2273,7 +2222,7 @@
 			"background": ""
 		},
 		{
-			"number": 95,
+			"number": 93,
 			"name": "Bridge Русский хит",
 			"id": 2370896,
 			"is_barker": false,
@@ -2298,7 +2247,7 @@
 			"background": ""
 		},
 		{
-			"number": 96,
+			"number": 94,
 			"name": "Bridge Hits",
 			"id": 115477467,
 			"is_barker": false,
@@ -2323,7 +2272,7 @@
 			"background": ""
 		},
 		{
-			"number": 97,
+			"number": 95,
 			"name": "Bridge Шлягер",
 			"id": 213115392,
 			"is_barker": false,
@@ -2348,7 +2297,7 @@
 			"background": ""
 		},
 		{
-			"number": 98,
+			"number": 96,
 			"name": "Bridge Deluxe",
 			"id": 115477966,
 			"is_barker": false,
@@ -2369,6 +2318,31 @@
 				3
 			],
 			"full_logo": "/sdp/mos/nclogo1638793980605.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 97,
+			"name": "Bridge Фрэш",
+			"id": 115477966,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://2serv.mylifeisgood.ml/channels/bridgefreshya"
+				}
+			],
+			"themes": [
+				0,
+				3
+			],
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
