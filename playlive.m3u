@@ -115,6 +115,8 @@ https://livetv.mylifeisgood.ml/channels/ctckids
 https://livetv.mylifeisgood.ml/channels/gulli
 #EXTINF:-1 tvg-id="tiji" group-title="Детские",TIJI
 https://livetv.mylifeisgood.ml/channels/tiji
+#EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
+https://livetv.mylifeisgood.ml/channels/ryjii
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
 https://livetv.mylifeisgood.ml/channels/firstspace
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
