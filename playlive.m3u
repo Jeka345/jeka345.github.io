@@ -87,8 +87,10 @@ https://livetv.mylifeisgood.ml/channels/myplanet
 https://livetv.mylifeisgood.ml/channels/matchstrana
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg
-#EXTINF:-1 tvg-id="exo-moskvy" group-title="Радио",Эхо Москвы
-https://2serv.mylifeisgood.ml/channels/ehomoscow
+#EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air HD
+https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9
+#EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
+https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
 https://2serv.mylifeisgood.ml/channels/rusmusicbox
 #EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold

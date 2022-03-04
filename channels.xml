@@ -233,7 +233,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8"
+					"url": "https://2serv.mylifeisgood.ml/channels/tvc"
 				}
 			],
 			"themes": [
@@ -947,31 +947,6 @@
 		},
 		{
 			"number": 40,
-			"name": "Дождь HD",
-			"id": 0,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "sib",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://2serv.mylifeisgood.ml/channels/tvrainhd"
-				}
-			],
-			"themes": [
-				1,
-				19
-			],
-			"full_logo": "",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 41,
 			"name": "Fox HD",
 			"id": 1144589,
 			"is_barker": false,
@@ -996,7 +971,7 @@
 			"background": ""
 		},
 		{
-			"number": 42,
+			"number": 41,
 			"name": "Fox Life HD",
 			"id": 2371796,
 			"is_barker": false,
@@ -1021,7 +996,7 @@
 			"background": ""
 		},
 		{
-			"number": 43,
+			"number": 42,
 			"name": "Вести FM",
 			"id": 0,
 			"is_barker": false,
@@ -1045,7 +1020,7 @@
 			"background": ""
 		},
 		{
-			"number": 44,
+			"number": 43,
 			"name": "Москва 24",
 			"id": 51919527,
 			"is_barker": false,
@@ -1069,7 +1044,7 @@
 			"background": ""
 		},
 		{
-			"number": 45,
+			"number": 44,
 			"name": "Москва. Доверие",
 			"id": 11800609,
 			"is_barker": false,
@@ -1093,7 +1068,7 @@
 			"background": ""
 		},
 		{
-			"number": 46,
+			"number": 45,
 			"name": "Телеканал 360",
 			"id": 7937480,
 			"is_barker": false,
@@ -1117,7 +1092,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 47,
+			"number": 46,
 			"name": "Новости 360",
 			"id": 115567629,
 			"is_barker": false,
@@ -1141,7 +1116,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 48,
+			"number": 47,
 			"name": "Моя Планета",
 			"id": 1131022,
 			"is_barker": false,
@@ -1165,7 +1140,7 @@
 			"background": ""
 		},
 		{
-			"number": 49,
+			"number": 48,
 			"name": "Матч! Страна",
 			"id": 2371350,
 			"is_barker": false,
@@ -1190,7 +1165,7 @@
 			"background": ""
 		},
 		{
-			"number": 50,
+			"number": 49,
 			"name": "Animal Planet HD",
 			"id": 1144547,
 			"is_barker": false,
@@ -1214,9 +1189,9 @@
 			"background": ""
 		},
 		{
-			"number": 51,
-			"name": "Эхо Москвы",
-			"id": 0,
+			"number": 50,
+			"name": "START AIR HD",
+			"id": 417068958,
 			"is_barker": false,
 			"is_erotic": false,
 			"description": "mos",
@@ -1227,13 +1202,37 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ehomoscow"
+					"url": "https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9"
 				}
 			],
 			"themes": [
-				2
+				8
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1640602798756.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 51,
+			"name": "START World HD",
+			"id": 428504530,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a"
+				}
+			],
+			"themes": [
+				8
+			],
+			"full_logo": "/sdp/mos/nclogo1642407269046.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1379,6 +1378,30 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1633086831301.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 58,
+			"name": "Рыжий",
+			"id": 0,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/ryjii"
+				}
+			],
+			"themes": [
+				5
+			],
+			"full_logo": "",
 			"logo": "",
 			"background": ""
 		},
