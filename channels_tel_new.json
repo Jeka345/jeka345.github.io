@@ -722,36 +722,6 @@
 	},
 	{
 			"id":0,
-			"name":"Eurosport 2",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png",
-			"sources":[
-			{
-				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/eurosport2",
-				"startAsVitrina":false,
-				"sendStats":false,
-				"voiceChatEnabled":false
-			}
-		],
-		"category":5
-	},
-	{
-			"id":0,
-			"name":"Эхо Москвы",
-			"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Echo_of_moscow_logo.svg/1200px-Echo_of_moscow_logo.svg.png",
-			"sources":[
-			{
-				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/echomoscow_supres/echomoscow_supres0_169_1080p.json/index-v1-a1.m3u8",
-				"startAsVitrina":false,
-				"sendStats":false,
-				"voiceChatEnabled":false
-			}
-		],
-		"category":1
-	},
-	{
-			"id":0,
 			"name":"Russian Music Box",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949465804.png",
 			"sources":[
@@ -865,21 +835,6 @@
 			}
 		],
 		"category":5
-	},
-	{
-			"id":0,
-			"name":"Загородный HD Int",
-			"logo":"https://i.imgur.com/UBUPhdb.png",
-			"sources":[
-			{
-				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8",
-				"startAsVitrina":false,
-				"sendStats":false,
-				"voiceChatEnabled":false
-			}
-		],
-		"category":7
 	},
 	{
 			"id":0,
@@ -1059,6 +1014,21 @@
 	},
 	{
 			"id":0,
+			"name":"Viasat Nature/History HD",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514310571.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/viasatnaturehistory",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":7
+	},
+	{
+			"id":0,
 			"name":"TV1000 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514194654.png",
 			"sources":[
@@ -1192,43 +1162,44 @@
 		"category":7
 	},
 	{
-		"id":56,
-		"name":"Матч! Премьер",
-		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1532695038074.png",
-		"sources":[
-		{
-			"type":"native",
-			"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchpremiere_hd",
-			"startAsVitrina":false,
-			"sendStats":false,
-			"voiceChatEnabled":false
-		}
-	],
-	"category":5
-	},
-	{
-			"id":49,
-			"name":"Матч! Боец",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497608835928.png",
-			"sources":[
+		"id":0,
+		"name":"Start Air",
+		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1640602798756.png",
+		"sources":
+		[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchboew",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
 			}
 		],
-		"category":5
+		"category":8
+	},
+	{
+			"id":0,
+			"name":"Start World",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1642407269046.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":8
 	},
 	{
 			"id":51,
-			"name":"Матч! Арена HD",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251174538.png",
+			"name":"Eurosport 1 HD",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251593211.png",
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matcharenahd",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/eurosport1ru",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1237,13 +1208,13 @@
 		"category":5
 	},
 	{
-			"id":52,
-			"name":"Матч! Игра HD",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251445090.png",
+			"id":0,
+			"name":"Eurosport 2 HD",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png",
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matcharenahd",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/eurosport2",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1252,13 +1223,13 @@
 		"category":5
 	},
 	{
-			"id":1117,
-			"name":"Матч! Футбол 1",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849625746.png",
+			"id":0,
+			"name":"Setanta 1 HD",
+			"logo":"https://i.imgur.com/TTrQ6ru.jpg",
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball1",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/setantahd",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1267,13 +1238,13 @@
 		"category":5
 	},
 	{
-			"id":1118,
-			"name":"Матч! Футбол 2",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849658331.png",
+			"id":0,
+			"name":"Setanta 2",
+			"logo":"https://i.imgur.com/HqVJnKR.jpg",
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball2",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/setantaplus",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1282,19 +1253,34 @@
 		"category":5
 	},
 	{
-			"id":1119,
-			"name":"Матч! Футбол 3",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1501849696895.png",
+			"id":0,
+			"name":"Матч! Планета",
+			"logo":"https://i.imgur.com/h0IprYW.jpg",
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchfootball3",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/matchplaneta",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
 			}
 		],
 		"category":5
+	},
+	{
+			"id":0,
+			"name":"Bride Фрэш",
+			"logo":"https://www.cableman.ru/sites/default/files/2021/bridge_tv_freshreadywhite.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://2serv.mylifeisgood.ml/channels/bridgefreshya",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":4
 	},
 	{
 			"id":41,
