@@ -94,7 +94,7 @@ https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
 https://2serv.mylifeisgood.ml/channels/rusmusicbox
 #EXTINF:-1 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
-https://livetv.mylifeisgood.ml/channels/musicboxgold
+https://2serv.mylifeisgood.ml/channels/musicboxgold
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
 https://2serv.mylifeisgood.ml/channels/tntmusic
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
@@ -188,13 +188,13 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
 https://2serv.mylifeisgood.ml/channels/bridgefreshya
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
-https://livetv.mylifeisgood.ml/channels/ntvhit
+https://livetv.mylifeisgood.ml/channels/ntvhit24
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал
-https://livetv.mylifeisgood.ml/channels/ntvserial
+https://livetv.mylifeisgood.ml/channels/ntvserial24
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="Фильмовые",НТВ Право
-https://livetv.mylifeisgood.ml/channels/ntvpravo
+https://livetv.mylifeisgood.ml/channels/ntvpravo24
 #EXTINF:-1 tvg-id="ntv-style" group-title="Фильмовые",НТВ Стиль
-https://livetv.mylifeisgood.ml/channels/ntvstyle
+https://livetv.mylifeisgood.ml/channels/ntvstyle24
 #EXTINF:-1 tvg-id="trashtv" group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.ml/channels/trash
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Познавательные",Живи Активно HD
