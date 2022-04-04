@@ -133,6 +133,8 @@ https://livetv.mylifeisgood.ml/channels/viasat_history
 https://livetv.mylifeisgood.ml/channels/viasat_explore
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
 https://livetv.mylifeisgood.ml/channels/viasat_nature
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viasat Nature/History HD
+https://livetv.mylifeisgood.ml/channels/viasatnaturestar
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
 https://livetv.mylifeisgood.ml/channels/tv1000
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action HD
@@ -199,10 +201,11 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24
 https://livetv.mylifeisgood.ml/channels/trash
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Познавательные",Живи Активно HD
 https://livetv.mylifeisgood.ml/channels/jiviactivno
-#EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
-https://livetv.mylifeisgood.ml/channels/glazamiturista
-#EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
-https://livetv.mylifeisgood.ml/channels/jivyapriroda
+##EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста HD
+##https://livetv.mylifeisgood.ml/channels/glazamiturista
+###EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа HD
+##https://livetv.mylifeisgood.ml/channels/jivyapriroda
+##UP Channels not working
 #EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K [HEVEC]
 https://livetv.mylifeisgood.ml/channels/nashasibir4k
 #EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",Home 4K [HEVEC]
