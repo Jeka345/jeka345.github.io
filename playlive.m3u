@@ -8,19 +8,19 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
-https://livetv.mylifeisgood.ml/channels/5tvmv
+https://livetv.mylifeisgood.ml/channels/5tv
 #EXTINF:-1 tvg-id="kultura" group-title="Эфирные",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные",Россия 24
 https://livetv.mylifeisgood.ml/channels/russia24
 #EXTINF:-1 tvg-id="karusel" group-title="Эфирные",Карусель
-https://livetv.mylifeisgood.ml/channels/karusel
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
 https://2serv.mylifeisgood.ml/channels/otr
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
 https://2serv.mylifeisgood.ml/channels/tvc
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
-https://livetv.mylifeisgood.ml/channels/rentvhd
+https://livetv.mylifeisgood.ml/channels/rentv
 #EXTINF:-1 tvg-id="spas" group-title="Эфирные",СПАС
 https://livetv.mylifeisgood.ml/channels/spas
 #EXTINF:-1 tvg-id="sts" group-title="Эфирные",СТС HD
@@ -38,15 +38,15 @@ https://2serv.mylifeisgood.ml/channels/mirhd
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd
 #EXTINF:-1 tvg-id="muztv" group-title="Эфирные",Муз ТВ
-https://livetv.mylifeisgood.ml/channels/muztvsd
+https://livetv.mylifeisgood.ml/channels/muztvhd
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24 HD
 https://2serv.mylifeisgood.ml/channels/mirhdpremium
 #EXTINF:-1 tvg-id="che" group-title="Развлекательные",ЧЕ!
-https://livetv.mylifeisgood.ml/channels/chesd
+https://livetv.mylifeisgood.ml/channels/che
 #EXTINF:-1 tvg-id="yu" group-title="Развлекательные",Ю
-https://livetv.mylifeisgood.ml/channels/u_tv
+https://livetv.mylifeisgood.ml/channels/u_ott_tv
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
 https://livetv.mylifeisgood.ml/channels/subbota
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
