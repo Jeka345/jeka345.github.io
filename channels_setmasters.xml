@@ -3,7 +3,7 @@
 	"items": [
 		{
 			"number": 1,
-			"name": "Первый канал HD",
+			"name": "Первый канал",
 			"id": 1000069,
 			"is_barker": false,
 			"is_erotic": false,
@@ -15,7 +15,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/perviyhd"
+					"url": "https://livetv.mylifeisgood.ml/channels/1kanalott"
 				}
 			],
 			"themes": [
@@ -89,7 +89,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/ntvsd"
+					"url": "https://livetv.mylifeisgood.ml/channels/ntvhd"
 				}
 			],
 			"themes": [
@@ -113,7 +113,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/5tvmv"
+					"url": "https://livetv.mylifeisgood.ml/channels/5kanal_thrw"
 				}
 			],
 			"themes": [
@@ -245,7 +245,7 @@
 		},
 		{
 			"number": 11,
-			"name": "РЕН ТВ HD",
+			"name": "РЕН ТВ",
 			"id": 1125460,
 			"is_barker": false,
 			"is_erotic": false,
@@ -257,7 +257,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/rentvhd"
+					"url": "https://livetv.mylifeisgood.ml/channels/rentvott"
 				}
 			],
 			"themes": [
@@ -293,7 +293,7 @@
 		},
 		{
 			"number": 13,
-			"name": "СТС HD",
+			"name": "СТС",
 			"id": 1125464,
 			"is_barker": false,
 			"is_erotic": false,
@@ -305,7 +305,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/stshd"
+					"url": "https://livetv.mylifeisgood.ml/channels/stsott"
 				}
 			],
 			"themes": [
@@ -329,7 +329,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/domashniihd"
+					"url": "https://livetv.mylifeisgood.ml/channels/domashniiott"
 				}
 			],
 			"themes": [
@@ -474,7 +474,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/muztvsd"
+					"url": "https://livetv.mylifeisgood.ml/channels/muztvhd"
 				}
 			],
 			"themes": [
@@ -498,7 +498,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/stslovemv"
+					"url": "https://livetv.mylifeisgood.ml/channels/stsloveott"
 				}
 			],
 			"themes": [
@@ -549,7 +549,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/chesd"
+					"url": "https://livetv.mylifeisgood.ml/channels/cheott"
 				}
 			],
 			"themes": [
@@ -574,7 +574,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/u_tv"
+					"url": "https://livetv.mylifeisgood.ml/channels/u_ott_tv_hq"
 				}
 			],
 			"themes": [
@@ -646,7 +646,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/tnt4hd"
+					"url": "https://livetv.mylifeisgood.ml/channels/tnt4"
 				}
 			],
 			"themes": [
