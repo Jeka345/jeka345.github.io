@@ -18,17 +18,13 @@
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1529398530175.png",
 		"sources":[
 		{
-		   "type":"vitrina",
-		   "config":"https://player.mediavitrina.ru/moretv_1tvch/1tv/moretv_appletv_app/5e1ee0ffd1913/sdk.json",
-		   "voiceChatEnabled":false
-		},
-		{
 			"type":"native",
 			"streamSQ":"https://livetv.mylifeisgood.ml/channels/perviytest",
 			"startAsVitrina":false,
 			"sendStats":false,
 			"voiceChatEnabled":false
-		}],
+		}
+		],
 		"category":1
 	},
 	{
@@ -574,7 +570,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/kinotv",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/kinotvst",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -727,7 +723,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -742,7 +738,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -757,7 +753,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -813,7 +809,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/nts/nts0_169_1080p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/nts/nts0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -828,7 +824,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/start/start0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -870,7 +866,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1138,7 +1134,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/sovsec/sovsec0_169_576p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1153,7 +1149,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1379,7 +1375,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvhit",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvhit24",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1394,7 +1390,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvpravo",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvpravo24",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1409,7 +1405,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvserial",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvserial24",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1424,7 +1420,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvstyle",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/ntvstyle24",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false

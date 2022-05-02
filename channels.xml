@@ -922,6 +922,30 @@
 		},
 		{
 			"number": 39,
+			"name": "Paramount Channel",
+			"id": 29944110,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/paramount_channel"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1508246021246.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 40,
 			"name": "Кино ТВ",
 			"id": 94802108,
 			"is_barker": false,
@@ -946,7 +970,7 @@
 			"background": ""
 		},
 		{
-			"number": 40,
+			"number": 41,
 			"name": "Fox HD",
 			"id": 1144589,
 			"is_barker": false,
@@ -971,7 +995,7 @@
 			"background": ""
 		},
 		{
-			"number": 41,
+			"number": 42,
 			"name": "Fox Life HD",
 			"id": 2371796,
 			"is_barker": false,
@@ -996,7 +1020,7 @@
 			"background": ""
 		},
 		{
-			"number": 42,
+			"number": 43,
 			"name": "Вести FM",
 			"id": 0,
 			"is_barker": false,
@@ -1020,7 +1044,7 @@
 			"background": ""
 		},
 		{
-			"number": 43,
+			"number": 44,
 			"name": "Москва 24",
 			"id": 51919527,
 			"is_barker": false,
@@ -1044,7 +1068,7 @@
 			"background": ""
 		},
 		{
-			"number": 44,
+			"number": 45,
 			"name": "Москва. Доверие",
 			"id": 11800609,
 			"is_barker": false,
@@ -1068,7 +1092,7 @@
 			"background": ""
 		},
 		{
-			"number": 45,
+			"number": 46,
 			"name": "Телеканал 360",
 			"id": 7937480,
 			"is_barker": false,
@@ -1092,7 +1116,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 46,
+			"number": 47,
 			"name": "Новости 360",
 			"id": 115567629,
 			"is_barker": false,
@@ -1116,7 +1140,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 47,
+			"number": 48,
 			"name": "Моя Планета",
 			"id": 1131022,
 			"is_barker": false,
@@ -1140,7 +1164,7 @@
 			"background": ""
 		},
 		{
-			"number": 48,
+			"number": 49,
 			"name": "Матч! Страна",
 			"id": 2371350,
 			"is_barker": false,
@@ -1161,30 +1185,6 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1551687506107.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 49,
-			"name": "Animal Planet HD",
-			"id": 1144547,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
-				}
-			],
-			"themes": [
-				4
-			],
-			"full_logo": "/sdp/mos/nclogo1548669133906.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1822,6 +1822,30 @@
 		},
 		{
 			"number": 76,
+			"name": "Animal Planet HD",
+			"id": 1144547,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1548669133906.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 77,
 			"name": "Discovery Channel",
 			"id": 1131026,
 			"is_barker": false,
@@ -1845,7 +1869,7 @@
 			"background": ""
 		},
 		{
-			"number": 77,
+			"number": 78,
 			"name": "Investigation Discovery HD",
 			"id": 77742450,
 			"is_barker": false,
@@ -1870,7 +1894,7 @@
 			"background": ""
 		},
 		{
-			"number": 78,
+			"number": 79,
 			"name": "Udar! HD",
 			"id": 137053402,
 			"is_barker": false,
@@ -1895,7 +1919,7 @@
 			"background": ""
 		},
 		{
-			"number": 79,
+			"number": 80,
 			"name": "Viasat Sport HD",
 			"id": 1144444,
 			"is_barker": false,
@@ -1920,7 +1944,7 @@
 			"background": ""
 		},
 		{
-			"number": 80,
+			"number": 81,
 			"name": "Top Secret",
 			"id": 241192801,
 			"is_barker": false,
@@ -1945,7 +1969,7 @@
 			"background": ""
 		},
 		{
-			"number": 81,
+			"number": 82,
 			"name": "Диалоги о рыбалке",
 			"id": 1131071,
 			"is_barker": false,
@@ -1970,7 +1994,7 @@
 			"background": ""
 		},
 		{
-			"number": 82,
+			"number": 83,
 			"name": "НТВ Хит",
 			"id": 116536643,
 			"is_barker": false,
@@ -1995,7 +2019,7 @@
 			"background": ""
 		},
 		{
-			"number": 83,
+			"number": 84,
 			"name": "НТВ Сериал",
 			"id": 0,
 			"is_barker": false,
@@ -2020,7 +2044,7 @@
 			"background": ""
 		},
 		{
-			"number": 84,
+			"number": 85,
 			"name": "НТВ Право",
 			"id": 0,
 			"is_barker": false,
@@ -2045,7 +2069,7 @@
 			"background": ""
 		},
 		{
-			"number": 85,
+			"number": 86,
 			"name": "НТВ Стиль",
 			"id": 0,
 			"is_barker": false,
@@ -2070,7 +2094,7 @@
 			"background": ""
 		},
 		{
-			"number": 86,
+			"number": 87,
 			"name": "Eurosport 1 HD",
 			"id": 20244318,
 			"is_barker": false,
@@ -2095,7 +2119,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 88,
 			"name": "Eurosport 2 HD",
 			"id": 1144436,
 			"is_barker": false,
@@ -2120,7 +2144,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 89,
 			"name": "Setanta 1 HD",
 			"id": 0,
 			"is_barker": false,
@@ -2145,7 +2169,7 @@
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 90,
 			"name": "Setanta 2 HD",
 			"id": 0,
 			"is_barker": false,
@@ -2170,7 +2194,7 @@
 			"background": ""
 		},
 		{
-			"number": 90,
+			"number": 91,
 			"name": "Матч! Планета",
 			"id": 0,
 			"is_barker": false,
@@ -2195,7 +2219,7 @@
 			"background": ""
 		},
 		{
-			"number": 91,
+			"number": 92,
 			"name": "Bridge",
 			"id": 1144412,
 			"is_barker": false,
@@ -2220,7 +2244,7 @@
 			"background": ""
 		},
 		{
-			"number": 92,
+			"number": 93,
 			"name": "Bridge Classic",
 			"id": 115477770,
 			"is_barker": false,
@@ -2245,7 +2269,7 @@
 			"background": ""
 		},
 		{
-			"number": 93,
+			"number": 94,
 			"name": "Bridge Русский хит",
 			"id": 2370896,
 			"is_barker": false,
@@ -2270,7 +2294,7 @@
 			"background": ""
 		},
 		{
-			"number": 94,
+			"number": 95,
 			"name": "Bridge Hits",
 			"id": 115477467,
 			"is_barker": false,
@@ -2295,7 +2319,7 @@
 			"background": ""
 		},
 		{
-			"number": 95,
+			"number": 96,
 			"name": "Bridge Шлягер",
 			"id": 213115392,
 			"is_barker": false,
@@ -2320,7 +2344,7 @@
 			"background": ""
 		},
 		{
-			"number": 96,
+			"number": 97,
 			"name": "Bridge Deluxe",
 			"id": 115477966,
 			"is_barker": false,
@@ -2345,7 +2369,7 @@
 			"background": ""
 		},
 		{
-			"number": 97,
+			"number": 98,
 			"name": "Bridge Фрэш",
 			"id": 115477966,
 			"is_barker": false,

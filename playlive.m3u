@@ -59,10 +59,12 @@ https://livetv.mylifeisgood.ml/channels/disney
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 #EXTINF:-1 tvg-id="dtx" group-title="Познавательные",DTX HD
 https://livetv.mylifeisgood.ml/channels/discoverydtx
-#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные",Discovery Science HD
+#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_SCIENCEHD/",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
+#EXTINF:-1 tvg-id="paramount-channel" group-title="Развлекательные",Paramount Channel
+https://livetv.mylifeisgood.ml/channels/paramount_channel
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst
 #EXTINF:-1 tvg-id="dozhd" group-title="Информационные",Дождь
@@ -134,20 +136,20 @@ https://livetv.mylifeisgood.ml/channels/viasat_explore
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
 https://livetv.mylifeisgood.ml/channels/viasat_nature
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viasat Nature/History HD
-https://livetv.mylifeisgood.ml/channels/viasatnaturestar
-#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые",TV1000 HD
-https://livetv.mylifeisgood.ml/channels/tv1000
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые",TV1000 Action HD
+https://livetv.mylifeisgood.ml/channels/viasatnaturehistory
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/TV1000_HD/",TV1000 HD
+http://livetv.mylifeisgood.ml/channels/tv1000
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/TV1000ACTION_HD/",TV1000 Action HD
 https://livetv.mylifeisgood.ml/channels/tv1000action
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые",TV1000 Русское Кино HD
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/TV1000RU_HD/",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
 https://livetv.mylifeisgood.ml/channels/national_geographic
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd
-#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные",Discovery CEE HD
+#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_CHANNEL/",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery
-#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные",Investigation Discovery HD
+#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
 https://2serv.mylifeisgood.ml/channels/udarlive
