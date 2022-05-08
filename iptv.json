@@ -3,16 +3,16 @@
     "items": [
         {
             "number": 0,
-            "name": "Пёс и Ко",
+            "name": "Udar!",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/pesiko/pesiko0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/udar/udar0.m3u8"
                 }
             ]
         },
         {
             "number": 1,
-            "name": "Эхо Москвы",
+            "name": "Viasat Nature / History",
             "sources": [
                 {
                     "url": "https://strm.yandex.ru/kal/echomoscow_supres/echomoscow_supres0_169_1080p.json/index-v1-a1.m3u8"
@@ -21,46 +21,46 @@
         },
         {
             "number": 2,
-            "name": "Рифей",
+            "name": "Start Air HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/rifey/rifey0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9"
                 }
             ]
         },
         {
             "number": 3,
-            "name": "Music Box Gold",
+            "name": "Start World HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a"
                 }
             ]
         },
         {
             "number": 4,
-            "name": "ТНТ Music",
+            "name": "Russian Music Box HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
                 }
             ]
         },
-        {
+		{
             "number": 5,
-            "name": "Смайлик",
+            "name": "THT Music HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8"
                 }
             ]
         },
         {
             "number": 6,
-            "name": "ТВ Губерния",
+            "name": "Music Box Gold",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/tvgubernia/tvgubernia0.m3u8"
+                    "url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8"
                 }
             ]
         },
@@ -75,28 +75,28 @@
         },
         {
             "number": 8,
-            "name": "Эфир",
+            "name": "Смайлик",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/efir_supres/efir_supres0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/smile"
                 }
             ]
         },
         {
             "number": 9,
-            "name": "О! Кино",
+            "name": "Рыжий",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/okino/okino0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/ryjii"
                 }
             ]
         },
         {
             "number": 10,
-            "name": "UTV Уфа",
+            "name": "Приключения",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/utvtv/utvtv0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/adventureshd"
                 }
             ]
         },
@@ -120,28 +120,28 @@
         },
         {
             "number": 13,
-            "name": "Страна ФМ",
+            "name": "Gulli Girl",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0.m3u8"
+                    "url": "http://live-1.otcnet.ru/Gulli_OT/video.m3u8"
                 }
             ]
         },
         {
             "number": 14,
-            "name": "Ямал Регион",
+            "name": "Первый космический",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/yamal/yamal0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/firstspace"
                 }
             ]
         },
         {
             "number": 15,
-            "name": "Самара 24",
+            "name": "Animal Planet Europe",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/samara24/samara240.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
                 }
             ]
         },
