@@ -147,55 +147,55 @@
         },
         {
             "number": 16,
-            "name": "Дзержинск ТВ",
+            "name": "Discovery Europe",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/dzertv/dzertv0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/discovery"
                 }
             ]
         },
         {
             "number": 17,
-            "name": "Вместе РФ",
+            "name": "Discovery ID",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/discoveryxtra"
                 }
             ]
         },
         {
             "number": 18,
-            "name": "Бьюти ТВ",
+            "name": "Top Secret",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/beauty/beauty0.m3u8"
+                    "url": "https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8"
                 }
             ]
         },
         {
             "number": 19,
-            "name": "Афонтово",
+            "name": "Диалоги о рыбалке",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/afontovo/afontovo0.m3u8"
+                    "url": "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8"
                 }
             ]
         },
         {
             "number": 20,
-            "name": "Универ ТВ",
+            "name": "Eurosport 1 HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/univer/univer0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/eurosport1ru"
                 }
             ]
         },
         {
             "number": 21,
-            "name": "Мир 24 HD",
+            "name": "Eurosport 2 HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/mirhd/mirhd0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/eurosport2"
                 }
             ]
         },
@@ -210,24 +210,33 @@
         },
         {
             "number": 23,
-            "name": "Охотник и Рыболов Интернациональный",
+            "name": "Setanta 1 HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/setantahd"
                 }
             ]
         },
         {
             "number": 24,
-            "name": "Загородный Интернациональный",
+            "name": "Setanta 2 HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/zagorod/zagorod0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/setantaplus"
+                }
+            ]
+        },
+		{
+            "number": 25,
+            "name": "Мир 24",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/mir24/mir240.m3u8"
                 }
             ]
         },
         {
-            "number": 25,
+            "number": 26,
             "name": "Наша Сибирь",
             "sources": [
                 {
@@ -236,7 +245,7 @@
             ]
         },
         {
-            "number": 26,
+            "number": 27,
             "name": "Европа Плюс ТВ",
             "sources": [
                 {
@@ -245,7 +254,7 @@
             ]
         },
 		{
-            "number": 27,
+            "number": 28,
             "name": "Москва Доверие",
             "sources": [
                 {
@@ -254,11 +263,74 @@
             ]
         },
 	    {
-            "number": 28,
-            "name": "Ростов Папа",
+            "number": 29,
+            "name": "Матч! Планета",
             "sources": [
                 {
                     "url": "https://strm.yandex.ru/kal/rospapa/rospapa0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 30,
+            "name": "Bridge",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 31,
+            "name": "Bridge Classic",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetvclassic/bridgeclassic0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 32,
+            "name": "Bridge Русский Хит",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 33,
+            "name": "Bridge Hits",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 34,
+            "name": "Bridge Шлягер",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 35,
+            "name": "Bridge Deluxe",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8"
+                }
+            ]
+        },
+		{
+            "number": 36,
+            "name": "Bridge Фрэш",
+            "sources": [
+                {
+                    "url": "https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8"
                 }
             ]
         }
