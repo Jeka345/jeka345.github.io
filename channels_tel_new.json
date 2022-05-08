@@ -132,7 +132,7 @@
 		"sources":[
 		{
 			"type":"native",
-			"streamSQ":"https://strm.yandex.ru/kal/otr/otr0_169_720p.json/index-v1-a1.m3u8",
+			"streamSQ":"https://strm.yandex.ru/kal/otr/otr0.m3u8",
 		   	"startAsVitrina":false,
 			"sendStats":false,
 			"voiceChatEnabled":false
@@ -320,7 +320,7 @@
 		"sources":[
 		{
 			"type":"native",
-			"streamSQ":"https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8",
+			"streamSQ":"https://strm.yandex.ru/kal/mir24/mir240.m3u8",
 			"startAsVitrina":false,
 			"sendStats":false,
 			"voiceChatEnabled":false
