@@ -3,7 +3,7 @@
 	[
 		{
 			"Name": "IPTV Player от софтовой помойки",
-			"NeedUpdate": true,
+			"NeedUpdate": false,
 			"LinkDownload": "https://jeka345.github.io/update-software.json"
 		}
 	]
