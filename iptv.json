@@ -60,7 +60,7 @@
             "name": "ТВ Губерния",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/tvgubernia/tvgubernia0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/tvgubernia/tvgubernia0.m3u8"
                 }
             ]
         },
@@ -69,7 +69,7 @@
             "name": "Общественное телевидение России",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/otr/otr0_169_720p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/otr/otr0.m3u8"
                 }
             ]
         },
@@ -78,7 +78,7 @@
             "name": "Эфир",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/efir_supres/efir_supres0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/efir_supres/efir_supres0.m3u8"
                 }
             ]
         },
@@ -87,7 +87,7 @@
             "name": "О! Кино",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/okino/okino0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/okino/okino0.m3u8"
                 }
             ]
         },
@@ -96,7 +96,7 @@
             "name": "UTV Уфа",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/utvtv/utvtv0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/utvtv/utvtv0.m3u8"
                 }
             ]
         },
@@ -105,7 +105,7 @@
             "name": "Мир HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/mir/mir0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/mir/mir0.m3u8"
                 }
             ]
         },
@@ -114,7 +114,7 @@
             "name": "НТС",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/nts/nts0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/nts/nts0.m3u8"
                 }
             ]
         },
@@ -123,7 +123,7 @@
             "name": "Страна ФМ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_720p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/srtranafm/srtranafm0.m3u8"
                 }
             ]
         },
@@ -132,7 +132,7 @@
             "name": "Ямал Регион",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/yamal/yamal0_169_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/yamal/yamal0.m3u8"
                 }
             ]
         },
@@ -141,7 +141,7 @@
             "name": "Самара 24",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/samara24/samara240_24_576p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/samara24/samara240.m3u8"
                 }
             ]
         },
@@ -150,7 +150,7 @@
             "name": "Дзержинск ТВ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/dzertv/dzertv0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/dzertv/dzertv0.m3u8"
                 }
             ]
         },
@@ -159,7 +159,7 @@
             "name": "Вместе РФ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0.m3u8"
                 }
             ]
         },
@@ -168,7 +168,7 @@
             "name": "Бьюти ТВ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/beauty/beauty0_169_720p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/beauty/beauty0.m3u8"
                 }
             ]
         },
@@ -177,7 +177,7 @@
             "name": "Афонтово",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/afontovo/afontovo0_169_480p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/afontovo/afontovo0.m3u8"
                 }
             ]
         },
@@ -186,7 +186,7 @@
             "name": "Универ ТВ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/univer/univer0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/univer/univer0.m3u8"
                 }
             ]
         },
@@ -195,7 +195,7 @@
             "name": "Мир 24 HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/mirhd/mirhd0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/mirhd/mirhd0.m3u8"
                 }
             ]
         },
@@ -204,7 +204,7 @@
             "name": "Старт HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/start/start0.m3u8"
                 }
             ]
         },
@@ -213,7 +213,7 @@
             "name": "Охотник и Рыболов Интернациональный",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8"
                 }
             ]
         },
@@ -222,7 +222,7 @@
             "name": "Загородный Интернациональный",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/zagorod/zagorod0.m3u8"
                 }
             ]
         },
@@ -231,7 +231,7 @@
             "name": "Наша Сибирь",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/sibir/sibir0.m3u8"
                 }
             ]
         },
@@ -240,7 +240,7 @@
             "name": "Европа Плюс ТВ",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8"
                 }
             ]
         },
@@ -258,7 +258,7 @@
             "name": "Ростов Папа",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/rospapa/rospapa0_169_1080p.json/index-v1-a1.m3u8"
+                    "url": "https://strm.yandex.ru/kal/rospapa/rospapa0.m3u8"
                 }
             ]
         }
