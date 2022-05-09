@@ -1,5 +1,5 @@
 {
-    "total_items": 36,
+    "total_items": 47,
     "items": [
         {
             "number": 0,
@@ -333,6 +333,112 @@
                     "url": "https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8"
                 }
             ]
-        }
+        },
+		{
+            "number": 37,
+            "name": "Nickelodeon HD",
+            "sources": [
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/nickelodeon-hd"
+                }
+            ]
+        },
+		{
+            "number": 38,
+            "name": "DTX",
+            "sources": [
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/discoverydtx"
+                }
+            ]
+        },
+		{
+            "number": 39,
+            "name": "Discovery Science",
+            "sources": [
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/discoveryscience"
+                }
+            ]
+        },
+		{
+            "number": 40,
+            "name": "Paramount Comedy",
+            "sources": [
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/paramount_comedy"
+                }
+            ]
+        },
+		{
+            "number": 41,
+            "name": "Paramount Channel",
+            "sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/paramount_channel"
+                }
+            ]
+        },
+		{
+			"number": 42,
+			"name": "Кино ТВ",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/kinotvst"
+                }
+            ]
+		},
+		{
+			"number": 43,
+			"name": "Телеканал 360",
+			"sources": 
+			[
+                {
+                    "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8"
+                }
+            ]
+		},
+		{
+			"number": 44,
+			"name": "Телеканал 360 новости",
+			"sources": 
+			[
+                {
+                    "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8"
+                }
+            ]
+		},
+		{
+			"number": 45,
+			"name": "1HD Music Television",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/1hdmusic"
+                }
+            ]
+		},
+		{
+			"number": 46,
+			"name": "1HD Music Television",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/trash"
+                }
+            ]
+		},
+		{
+			"number": 47,
+			"name": "Живи Активно",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/jiviactivno"
+                }
+            ]
+		}
     ]
 }
