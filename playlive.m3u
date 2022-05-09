@@ -139,9 +139,9 @@ https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/TV1000_HD/",TV1000 HD
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/TV1000ACTION_HD/",TV1000 Action HD
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup="flussonic-hls" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/",TV1000 Action HD
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/TV1000RU_HD/",TV1000 Русское Кино HD
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
