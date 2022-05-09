@@ -78,7 +78,7 @@
             "name": "Смайлик",
             "sources": [
                 {
-                    "url": "https://livetv.mylifeisgood.ml/channels/smile"
+                    "url": "https://livetv.mylifeisgood.ml/channels/smile.m3u8"
                 }
             ]
         },
@@ -416,17 +416,17 @@
 			"sources": 
 			[
                 {
-                    "url": "https://livetv.mylifeisgood.ml/channels/1hdmusic"
+                    "url": "https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8"
                 }
             ]
 		},
 		{
 			"number": 46,
-			"name": "1HD Music Television",
+			"name": "Trash",
 			"sources": 
 			[
                 {
-                    "url": "https://livetv.mylifeisgood.ml/channels/trash"
+                    "url": "https://livetv.mylifeisgood.ml/channels/trash.m3u8"
                 }
             ]
 		},
@@ -436,7 +436,7 @@
 			"sources": 
 			[
                 {
-                    "url": "https://livetv.mylifeisgood.ml/channels/jiviactivno"
+                    "url": "https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8"
                 }
             ]
 		}
