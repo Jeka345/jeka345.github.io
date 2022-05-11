@@ -220,7 +220,7 @@ https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8
 https://livetv.mylifeisgood.ml/channels/dorojnoeradio.m3u8
 #EXTINF:-1 tvg-id="europa-plus-radio" group-title="Радио",Европа плюс радио
 https://livetv.mylifeisgood.ml/channels/europaplusradio.m3u8
-#EXTINF:-1 tvg-id="avtoradio" group-title="Радио",Авторадио.m3u8
+#EXTINF:-1 tvg-id="avtoradio" group-title="Радио",Авторадио
 https://livetv.mylifeisgood.ml/channels/avtoradio.m3u8
 #EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
 https://livetv.mylifeisgood.ml/channels/radiomaximus.m3u8
