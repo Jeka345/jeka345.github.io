@@ -16,9 +16,9 @@ https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="Эфирные",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-https://2serv.mylifeisgood.ml/channels/otr.m3u8
+https://livetv.mylifeisgood.ml/channels/otr24.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
-https://2serv.mylifeisgood.ml/channels/tvc24.m3u8
+https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="Эфирные",СПАС
@@ -34,7 +34,7 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
-https://2serv.mylifeisgood.ml/channels/mirhd.m3u8
+https://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Эфирные",Муз ТВ
@@ -42,7 +42,7 @@ https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24 HD
-https://2serv.mylifeisgood.ml/channels/mirhdpremium.m3u8
+https://livetv.mylifeisgood.ml/channels/mir24.m3u8
 #EXTINF:-1 tvg-id="che" group-title="Развлекательные",ЧЕ!
 https://livetv.mylifeisgood.ml/channels/che.m3u8.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Развлекательные",Ю
@@ -107,8 +107,8 @@ https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
-https://2serv.mylifeisgood.ml/channels/europaplustv.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс TV
+https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids HD
 https://livetv.mylifeisgood.ml/channels/ctckids.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" group-title="Детские",Gulli Girl
