@@ -16,7 +16,7 @@ https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="Эфирные",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/otr.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
@@ -34,7 +34,7 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
-https://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/mirhd.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Эфирные",Муз ТВ
@@ -42,7 +42,7 @@ https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24 HD
-https://livetv.mylifeisgood.ml/channels/mir24.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/mirhdpremium.m3u8
 #EXTINF:-1 tvg-id="che" group-title="Развлекательные",ЧЕ!
 https://livetv.mylifeisgood.ml/channels/che.m3u8.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Развлекательные",Ю
@@ -92,7 +92,7 @@ https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
-https://livetv.mylifeisgood.ml/channels/rusmusicbox24.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный Int
 https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
@@ -150,7 +150,7 @@ https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
-https://2serv.mylifeisgood.ml/channels/udarlive.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Кино
@@ -160,7 +160,7 @@ https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
 #EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 tvg-id="sovsek" group-title="Познавательные",Диалоги о Рыбалке
-https://2serv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-id="oruzhie" group-title="Познавательные",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
@@ -188,7 +188,7 @@ https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
-https://livetv.mylifeisgood.ml/channels/bridgefresh21.m3u8
+https://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал

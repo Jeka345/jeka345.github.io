@@ -1270,7 +1270,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://2serv.mylifeisgood.ml/channels/bridgefreshya",
+				"streamSQ":"https://2serv.mylifeisgood.ml:8080/channels/bridgefreshya",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
