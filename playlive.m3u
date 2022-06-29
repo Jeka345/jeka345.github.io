@@ -16,7 +16,7 @@ https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="Эфирные",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="Эфирные",ОТР
-http://2serv.mylifeisgood.ml:8080/channels/otr.m3u8
+http://2serv.mylifeisgood.ml:8080/channels/otr24.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Эфирные",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",РЕН ТВ HD
