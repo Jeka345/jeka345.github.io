@@ -34,7 +34,7 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",МИР HD
-http://2serv.mylifeisgood.ml:8080/channels/mirhd.m3u8
+http://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Эфирные",Муз ТВ
@@ -79,6 +79,8 @@ https://livetv.mylifeisgood.ml/channels/moscow24.m3u8
 https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Развлекательные",Телеканал 360
 https://livetv.mylifeisgood.ml/channels/ch360.m3u8
+#EXTINF:-1 tvg-id="izvestia" group-title="Информационные",Известия
+https://livetv.mylifeisgood.ml/channels/iz.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="Информационные",360 новости
 https://livetv.mylifeisgood.ml/channels/ch360news.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета

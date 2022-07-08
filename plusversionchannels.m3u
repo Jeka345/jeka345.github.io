@@ -24,38 +24,40 @@ https://livetv.mylifeisgood.ml/channels/russiak-4
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
 https://livetv.mylifeisgood.ml/channels/russiak-7
 #EXTINF:-1 tvg-id="" group-title="Федеральные",Домашний (+1)
-https://livetv.mylifeisgood.ml/channels/domashniiplus1
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus1.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" group-title="Федеральные",Домашний (+2)
-https://livetv.mylifeisgood.ml/channels/domashniiplus2
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",Домашний (+3)
-https://livetv.mylifeisgood.ml/channels/domashniiplus3
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus3.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" group-title="Федеральные",Домашний (+4)
-https://livetv.mylifeisgood.ml/channels/domashniiplus4
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus4.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",Домашний (+5)
-https://livetv.mylifeisgood.ml/channels/domashniiplus5
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus5.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",Домашний (+6)
-https://livetv.mylifeisgood.ml/channels/domashniiplus6
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus6.m3u8
 #EXTINF:-1 tvg-id="domashny-pl7" group-title="Федеральные",Домашний (+7)
-https://livetv.mylifeisgood.ml/channels/domashniiplus7
+https://livetv.mylifeisgood.ml/channels_shift/domashniiplus7.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",СТС (+1)
-https://livetv.mylifeisgood.ml/channels/stsplus1
+https://livetv.mylifeisgood.ml/channels_shift/stsplus1.m3u8
 #EXTINF:-1 tvg-id="sts-pl2" group-title="Федеральные",СТС (+2)
-https://livetv.mylifeisgood.ml/channels/stsplus2
+https://livetv.mylifeisgood.ml/channels_shift/stsplus2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",СТС (+3)
-https://livetv.mylifeisgood.ml/channels/stsplus3
+https://livetv.mylifeisgood.ml/channels_shift/stsplus3.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" group-title="Федеральные",СТС (+4)
-https://livetv.mylifeisgood.ml/channels/stsplus4
+https://livetv.mylifeisgood.ml/channels_shift/stsplus4.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",СТС (+5)
-https://livetv.mylifeisgood.ml/channels/stsplus5
+https://livetv.mylifeisgood.ml/channels_shift/stsplus5.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",СТС (+6)
-https://livetv.mylifeisgood.ml/channels/stsplus6
+https://livetv.mylifeisgood.ml/channels_shift/stsplus6.m3u8
 #EXTINF:-1 tvg-id="sts-pl7" group-title="Федеральные",СТС (+7)
-https://livetv.mylifeisgood.ml/channels/stsplus7
+https://livetv.mylifeisgood.ml/channels_shift/stsplus7.m3u8
+#EXTINF:-1 tvg-id="ntv-pl1" group-title="Федеральные",НТВ (+1)
+https://livetv.mylifeisgood.ml/channels_shift/ntvplus1.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" group-title="Федеральные",НТВ (+2)
-https://livetv.mylifeisgood.ml/channels/ntvplus2
+https://livetv.mylifeisgood.ml/channels_shift/ntvplus2.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" group-title="Федеральные",НТВ (+4)
-https://livetv.mylifeisgood.ml/channels/ntvplus4
+https://livetv.mylifeisgood.ml/channels_shift/ntvplus4.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" group-title="Федеральные",НТВ (+7)
-https://livetv.mylifeisgood.ml/channels/ntvplus7
+https://livetv.mylifeisgood.ml/channels_shift/ntvplus7.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" group-title="Федеральные",Первый (+4) HD
-https://livetv.mylifeisgood.ml/channels/perviy4test
+https://livetv.mylifeisgood.ml/channels_shift/perviypl4.m3u8
