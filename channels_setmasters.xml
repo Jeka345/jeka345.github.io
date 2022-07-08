@@ -209,7 +209,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/otr"
+					"url": "https://strm.yandex.ru/kal/otr/otr0.m3u8"
 				}
 			],
 			"themes": [
@@ -233,7 +233,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/tvc"
+					"url": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8"
 				}
 			],
 			"themes": [
@@ -425,7 +425,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/mirhd"
+					"url": "https://livetv.mylifeisgood.ml/channels/mirhdorig"
 				}
 			],
 			"themes": [
@@ -524,7 +524,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/mirhdpremium"
+					"url": "https://strm.yandex.ru/kal/mir24/mir240.m3u8"
 				}
 			],
 			"themes": [
@@ -922,6 +922,30 @@
 		},
 		{
 			"number": 39,
+			"name": "Paramount Channel",
+			"id": 29944110,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/paramount_channel"
+				}
+			],
+			"themes": [
+				6
+			],
+			"full_logo": "/sdp/mos/nclogo1508246021246.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 40,
 			"name": "Кино ТВ",
 			"id": 94802108,
 			"is_barker": false,
@@ -946,7 +970,7 @@
 			"background": ""
 		},
 		{
-			"number": 40,
+			"number": 41,
 			"name": "Fox HD",
 			"id": 1144589,
 			"is_barker": false,
@@ -971,7 +995,7 @@
 			"background": ""
 		},
 		{
-			"number": 41,
+			"number": 42,
 			"name": "Fox Life HD",
 			"id": 2371796,
 			"is_barker": false,
@@ -996,7 +1020,7 @@
 			"background": ""
 		},
 		{
-			"number": 42,
+			"number": 43,
 			"name": "Вести FM",
 			"id": 0,
 			"is_barker": false,
@@ -1020,7 +1044,7 @@
 			"background": ""
 		},
 		{
-			"number": 43,
+			"number": 44,
 			"name": "Москва 24",
 			"id": 51919527,
 			"is_barker": false,
@@ -1044,7 +1068,7 @@
 			"background": ""
 		},
 		{
-			"number": 44,
+			"number": 45,
 			"name": "Москва. Доверие",
 			"id": 11800609,
 			"is_barker": false,
@@ -1068,7 +1092,7 @@
 			"background": ""
 		},
 		{
-			"number": 45,
+			"number": 46,
 			"name": "Телеканал 360",
 			"id": 7937480,
 			"is_barker": false,
@@ -1092,7 +1116,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 46,
+			"number": 47,
 			"name": "Новости 360",
 			"id": 115567629,
 			"is_barker": false,
@@ -1116,7 +1140,7 @@
 			"background": "/sdp/mos/nclogo1524557213973.png"
 		},
 		{
-			"number": 47,
+			"number": 48,
 			"name": "Моя Планета",
 			"id": 1131022,
 			"is_barker": false,
@@ -1140,7 +1164,7 @@
 			"background": ""
 		},
 		{
-			"number": 48,
+			"number": 49,
 			"name": "Матч! Страна",
 			"id": 2371350,
 			"is_barker": false,
@@ -1161,30 +1185,6 @@
 				7
 			],
 			"full_logo": "/sdp/mos/nclogo1551687506107.png",
-			"logo": "",
-			"background": ""
-		},
-		{
-			"number": 49,
-			"name": "Animal Planet HD",
-			"id": 1144547,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
-				}
-			],
-			"themes": [
-				4
-			],
-			"full_logo": "/sdp/mos/nclogo1548669133906.png",
 			"logo": "",
 			"background": ""
 		},
@@ -1250,7 +1250,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/rusmusicbox"
+					"url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
 				}
 			],
 			"themes": [
@@ -1274,7 +1274,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/musicboxgold"
+					"url": "https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8"
 				}
 			],
 			"themes": [
@@ -1346,7 +1346,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ntc"
+					"url": "https://strm.yandex.ru/kal/nts/nts0.m3u8"
 				}
 			],
 			"themes": [
@@ -1370,7 +1370,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/starthd"
+					"url": "https://livetv.mylifeisgood.ml/channels/startlow"
 				}
 			],
 			"themes": [
@@ -1469,7 +1469,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/europaplustv"
+					"url": "https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8"
 				}
 			],
 			"themes": [
@@ -1822,6 +1822,30 @@
 		},
 		{
 			"number": 76,
+			"name": "Animal Planet HD",
+			"id": 1144547,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/animalplanethd"
+				}
+			],
+			"themes": [
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1548669133906.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 77,
 			"name": "Discovery Channel",
 			"id": 1131026,
 			"is_barker": false,
@@ -1845,7 +1869,7 @@
 			"background": ""
 		},
 		{
-			"number": 77,
+			"number": 78,
 			"name": "Investigation Discovery HD",
 			"id": 77742450,
 			"is_barker": false,
@@ -1870,7 +1894,7 @@
 			"background": ""
 		},
 		{
-			"number": 78,
+			"number": 79,
 			"name": "Udar! HD",
 			"id": 137053402,
 			"is_barker": false,
@@ -1883,7 +1907,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/udarlive"
+					"url": "https://strm.yandex.ru/kal/udar/udar0.m3u8"
 				}
 			],
 			"themes": [
@@ -1895,7 +1919,7 @@
 			"background": ""
 		},
 		{
-			"number": 79,
+			"number": 80,
 			"name": "Viasat Sport HD",
 			"id": 1144444,
 			"is_barker": false,
@@ -1920,7 +1944,7 @@
 			"background": ""
 		},
 		{
-			"number": 80,
+			"number": 81,
 			"name": "Top Secret",
 			"id": 241192801,
 			"is_barker": false,
@@ -1933,7 +1957,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/sovsec"
+					"url": "https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8"
 				}
 			],
 			"themes": [
@@ -1945,7 +1969,7 @@
 			"background": ""
 		},
 		{
-			"number": 81,
+			"number": 82,
 			"name": "Диалоги о рыбалке",
 			"id": 1131071,
 			"is_barker": false,
@@ -1958,7 +1982,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/dialogiorybalke"
+					"url": "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8"
 				}
 			],
 			"themes": [
@@ -1970,33 +1994,8 @@
 			"background": ""
 		},
 		{
-			"number": 82,
-			"name": "НТВ Хит",
-			"id": 116536643,
-			"is_barker": false,
-			"is_erotic": false,
-			"description": "mos",
-			"age_level": {
-				"id": 3,
-				"name": "0+",
-				"age_value": 0
-			},
-			"sources": [
-				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ntvhit"
-				}
-			],
-			"themes": [
-				0,
-				8
-			],
-			"full_logo": "/sdp/mos/nclogo1565015693388.png",
-			"logo": "",
-			"background": ""
-		},
-		{
 			"number": 83,
-			"name": "НТВ Сериал",
+			"name": "HD Life",
 			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
@@ -2008,20 +2007,20 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ntvserial"
+					"url": "https://livetv.mylifeisgood.ml/channels/hdlife"
 				}
 			],
 			"themes": [
 				0,
-				8
+				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 84,
-			"name": "НТВ Право",
+			"name": "Загородный Int",
 			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
@@ -2033,20 +2032,20 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ntvpravo"
+					"url": "https://livetv.mylifeisgood.ml/channels/zagorodint"
 				}
 			],
 			"themes": [
 				0,
-				8
+				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 85,
-			"name": "НТВ Стиль",
+			"name": "Охотник и рыболов Int",
 			"id": 0,
 			"is_barker": false,
 			"is_erotic": false,
@@ -2058,19 +2057,94 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/ntvstyle"
+					"url": "https://2serv.mylifeisgood.ml/channels/ohotnikrybint"
 				}
 			],
 			"themes": [
 				0,
-				8
+				4
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
 			"number": 86,
+			"name": "Глазами туриста",
+			"id": 160772212,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/glazamiturista"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1574337364513.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 87,
+			"name": "Живи активно",
+			"id": 317669573,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/jiviactivnoactual"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1626944669217.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 88,
+			"name": "Живая природа",
+			"id": 160772386,
+			"is_barker": false,
+			"is_erotic": false,
+			"description": "mos",
+			"age_level": {
+				"id": 3,
+				"name": "0+",
+				"age_value": 0
+			},
+			"sources": [
+				{
+					"url": "https://livetv.mylifeisgood.ml/channels/jivyapriroda"
+				}
+			],
+			"themes": [
+				0,
+				4
+			],
+			"full_logo": "/sdp/mos/nclogo1574337312666.png",
+			"logo": "",
+			"background": ""
+		},
+		{
+			"number": 89,
 			"name": "Eurosport 1 HD",
 			"id": 20244318,
 			"is_barker": false,
@@ -2095,7 +2169,7 @@
 			"background": ""
 		},
 		{
-			"number": 87,
+			"number": 90,
 			"name": "Eurosport 2 HD",
 			"id": 1144436,
 			"is_barker": false,
@@ -2120,7 +2194,7 @@
 			"background": ""
 		},
 		{
-			"number": 88,
+			"number": 91,
 			"name": "Setanta 1 HD",
 			"id": 0,
 			"is_barker": false,
@@ -2140,12 +2214,12 @@
 				0,
 				7
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 89,
+			"number": 92,
 			"name": "Setanta 2 HD",
 			"id": 0,
 			"is_barker": false,
@@ -2165,12 +2239,12 @@
 				0,
 				7
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 90,
+			"number": 93,
 			"name": "Матч! Планета",
 			"id": 0,
 			"is_barker": false,
@@ -2190,12 +2264,12 @@
 				0,
 				7
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/mos/nclogo1604665103834.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 91,
+			"number": 94,
 			"name": "Bridge",
 			"id": 1144412,
 			"is_barker": false,
@@ -2208,7 +2282,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgetvya"
+					"url": "https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8"
 				}
 			],
 			"themes": [
@@ -2220,7 +2294,7 @@
 			"background": ""
 		},
 		{
-			"number": 92,
+			"number": 95,
 			"name": "Bridge Classic",
 			"id": 115477770,
 			"is_barker": false,
@@ -2233,7 +2307,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgeclassictvya"
+					"url": "https://strm.yandex.ru/kal/bridgetvclassic/bridgeclassic0.m3u8"
 				}
 			],
 			"themes": [
@@ -2245,7 +2319,7 @@
 			"background": ""
 		},
 		{
-			"number": 93,
+			"number": 96,
 			"name": "Bridge Русский хит",
 			"id": 2370896,
 			"is_barker": false,
@@ -2258,7 +2332,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://livetv.mylifeisgood.ml/channels/bridgerushittvya"
+					"url": "https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8"
 				}
 			],
 			"themes": [
@@ -2270,7 +2344,7 @@
 			"background": ""
 		},
 		{
-			"number": 94,
+			"number": 97,
 			"name": "Bridge Hits",
 			"id": 115477467,
 			"is_barker": false,
@@ -2283,7 +2357,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgehitstvya"
+					"url": "https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8"
 				}
 			],
 			"themes": [
@@ -2295,7 +2369,7 @@
 			"background": ""
 		},
 		{
-			"number": 95,
+			"number": 98,
 			"name": "Bridge Шлягер",
 			"id": 213115392,
 			"is_barker": false,
@@ -2308,19 +2382,19 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgetvshlyagerya"
+					"url": "https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8"
 				}
 			],
 			"themes": [
 				0,
 				3
 			],
-			"full_logo": "/sdp/mos/nclogo1602157236453.png",
+			"full_logo": "/sdp/vlg/nclogo1638793912204.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 96,
+			"number": 99,
 			"name": "Bridge Deluxe",
 			"id": 115477966,
 			"is_barker": false,
@@ -2333,7 +2407,7 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgedeluxetvya"
+					"url": "https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8"
 				}
 			],
 			"themes": [
@@ -2345,7 +2419,7 @@
 			"background": ""
 		},
 		{
-			"number": 97,
+			"number": 100,
 			"name": "Bridge Фрэш",
 			"id": 115477966,
 			"is_barker": false,
@@ -2358,19 +2432,19 @@
 			},
 			"sources": [
 				{
-					"url": "https://2serv.mylifeisgood.ml/channels/bridgefreshya"
+					"url": "https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8"
 				}
 			],
 			"themes": [
 				0,
 				3
 			],
-			"full_logo": "",
+			"full_logo": "/sdp/nw/broadcastChannel1650450022829.png",
 			"logo": "",
 			"background": ""
 		},
 		{
-			"number": 100,
+			"number": 150,
 			"name": "Радио Родных Дорог",
 			"id": 0,
 			"is_barker": false,
@@ -2395,7 +2469,7 @@
 			"background": ""
 		},
 		{
-			"number": 101,
+			"number": 151,
 			"name": "Дорожное Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2420,7 +2494,7 @@
 			"background": ""
 		},
 		{
-			"number": 102,
+			"number": 152,
 			"name": "Радио ЕвропаПлюс",
 			"id": 0,
 			"is_barker": false,
@@ -2445,7 +2519,7 @@
 			"background": ""
 		},
 		{
-			"number": 103,
+			"number": 153,
 			"name": "Авторадио",
 			"id": 215275922,
 			"is_barker": false,
@@ -2470,7 +2544,7 @@
 			"background": ""
 		},
 		{
-			"number": 104,
+			"number": 154,
 			"name": "Радио Maximus",
 			"id": 0,
 			"is_barker": false,
@@ -2495,7 +2569,7 @@
 			"background": ""
 		},
 		{
-			"number": 105,
+			"number": 155,
 			"name": "Русское Радио",
 			"id": 0,
 			"is_barker": false,
@@ -2520,7 +2594,7 @@
 			"background": ""
 		},
 		{
-			"number": 106,
+			"number": 156,
 			"name": "Юмор ФМ",
 			"id": 215276582,
 			"is_barker": false,
@@ -2545,7 +2619,7 @@
 			"background": ""
 		},
 		{
-			"number": 107,
+			"number": 157,
 			"name": "Радио Ваня",
 			"id": 0,
 			"is_barker": false,
@@ -2570,7 +2644,7 @@
 			"background": ""
 		},
 		{
-			"number": 108,
+			"number": 158,
 			"name": "Comedy Radio",
 			"id": 215277173,
 			"is_barker": false,
@@ -2595,7 +2669,7 @@
 			"background": ""
 		},
 		{
-			"number": 109,
+			"number": 159,
 			"name": "Радио DFM",
 			"id": 0,
 			"is_barker": false,
@@ -2620,7 +2694,7 @@
 			"background": ""
 		},
 		{
-			"number": 110,
+			"number": 160,
 			"name": "Retro FM",
 			"id": 0,
 			"is_barker": false,
@@ -2645,7 +2719,7 @@
 			"background": ""
 		},
 		{
-			"number": 111,
+			"number": 161,
 			"name": "Радио ХИТ ФМ",
 			"id": 0,
 			"is_barker": false,
@@ -2670,7 +2744,7 @@
 			"background": ""
 		},
 		{
-			"number": 112,
+			"number": 162,
 			"name": "Радио на 7 холмах",
 			"id": 0,
 			"is_barker": false,
@@ -2695,7 +2769,7 @@
 			"background": ""
 		},
 		{
-			"number": 113,
+			"number": 163,
 			"name": "Радио воскресение",
 			"id": 0,
 			"is_barker": false,
@@ -2720,7 +2794,7 @@
 			"background": ""
 		},
 		{
-			"number": 114,
+			"number": 164,
 			"name": "Радио Звезда",
 			"id": 0,
 			"is_barker": false,
@@ -2745,7 +2819,7 @@
 			"background": ""
 		},
 		{
-			"number": 115,
+			"number": 165,
 			"name": "Радио Комсомольская правда",
 			"id": 0,
 			"is_barker": false,
@@ -2770,7 +2844,7 @@
 			"background": ""
 		},
 		{
-			"number": 116,
+			"number": 166,
 			"name": "Energy FM",
 			"id": 215275912,
 			"is_barker": false,
@@ -2795,7 +2869,7 @@
 			"background": ""
 		},
 		{
-			"number": 117,
+			"number": 167,
 			"name": "Радио Romantica",
 			"id": 215276200,
 			"is_barker": false,
@@ -2820,7 +2894,7 @@
 			"background": ""
 		},
 		{
-			"number": 118,
+			"number": 168,
 			"name": "Радио для двоих",
 			"id": 0,
 			"is_barker": false,
@@ -2845,7 +2919,7 @@
 			"background": ""
 		},
 		{
-			"number": 119,
+			"number": 169,
 			"name": "Радио 107 Краснодар",
 			"id": 0,
 			"is_barker": false,
@@ -2870,7 +2944,7 @@
 			"background": ""
 		},
 		{
-			"number": 120,
+			"number": 170,
 			"name": "Детское радио",
 			"id": 215276896,
 			"is_barker": false,
@@ -2895,7 +2969,7 @@
 			"background": ""
 		},
 		{
-			"number": 121,
+			"number": 171,
 			"name": "Радио ТВ",
 			"id": 0,
 			"is_barker": false,
@@ -2920,7 +2994,7 @@
 			"background": ""
 		},
 		{
-			"number": 122,
+			"number": 172,
 			"name": "Радио Град Петров",
 			"id": 0,
 			"is_barker": false,
@@ -2945,7 +3019,7 @@
 			"background": ""
 		},
 		{
-			"number": 123,
+			"number": 173,
 			"name": "Новое Радио",
 			"id": 0,
 			"is_barker": false,
