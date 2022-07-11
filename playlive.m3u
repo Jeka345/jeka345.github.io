@@ -7,6 +7,8 @@ https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD (only Tizen OS)
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные",Пятый канал
 https://livetv.mylifeisgood.ml/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="Эфирные",Россия К
