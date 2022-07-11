@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные",НТВ SD
+https://livetv.mylifeisgood.ml/channels/ntvott.m3u8
