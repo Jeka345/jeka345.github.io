@@ -67,7 +67,7 @@
 		"sources":[
 		{
 		   "type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/ntv/ntv",
+		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/ntv/ntv0",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -565,6 +565,21 @@
       },
 	  {
 			"id":0,
+			"name":"Paramount Channel",
+			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246021246.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/paramount_channel",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":2
+      },
+	  {
+			"id":0,
 			"name":"Кино ТВ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png",
 			"sources":[
@@ -577,21 +592,6 @@
 			}
 		],
 		"category":8
-      },
-	  {
-			"id":0,
-			"name":"Дождь HD",
-			"logo":"https://www.cableman.ru/sites/default/files/dozhd.png",
-			"sources":[
-			{
-				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/tvrain2/tvrain20.m3u8",
-				"startAsVitrina":false,
-				"sendStats":false,
-				"voiceChatEnabled":false
-			}
-		],
-		"category":1
       },
 	  {
 		"id":0,
@@ -723,7 +723,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8",
+				"streamSQ":"https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1099,7 +1099,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://2serv.mylifeisgood.ml/channels/udarlive",
+				"streamSQ":"https://strm.yandex.ru/kal/udar/udar0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1270,7 +1270,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"streamSQ":"https://2serv.mylifeisgood.ml:8080/channels/bridgefreshya",
+				"streamSQ":"https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
