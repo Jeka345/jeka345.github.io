@@ -5,15 +5,15 @@
         "amountStepsShowAD":1,
         "timeShowAd":10000
     },
-    "urgentUpdate":"false",
+    "urgentUpdate":"true",
     "whatNew":
 	{
-        "title_new":"",
-        "description_new":"",
-        "items_new":[ "", "" ]
+        "title_new":"ТВ на твоем телефоне NEW",
+        "description_new":"Что сделано:",
+        "items_new":[ "Полностью переделано приложение", "Добавлены новые каналы", "Установка только новой установкой, данное приложение после обновления удалить" ]
     },
     "timeBuffering":12,
-    "link_app":"",
+    "link_app":"https://www.dropbox.com/s/jvumnvj5ge56d66/tvplayer_telephone.apk?dl=1",
     "channels":[
         {
             "id":"534",
