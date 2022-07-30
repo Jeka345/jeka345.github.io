@@ -5,7 +5,7 @@
         "amountStepsShowAD":1,
         "timeShowAd":10000
     },
-    "urgentUpdate":"true",
+    "urgentUpdate":"false",
     "whatNew":
 	{
         "title_new":"ТВ на твоем телефоне NEW",
