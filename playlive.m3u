@@ -61,7 +61,7 @@ https://livetv.mylifeisgood.ml/channels/disney.m3u8
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 tvg-id="dtx" group-title="Познавательные",DTX HD
 https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
-#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_SCIENCEHD/",Discovery Science HD
+#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_SCIENCEHD/index-${start}-${offset}.m3u8",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
@@ -139,19 +139,19 @@ https://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8
 https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viasat Nature/History HD
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
-#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/TV1000_HD/",TV1000 HD
+#EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",TV1000 HD
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/",TV1000 Action HD
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Action HD
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/",TV1000 Русское Кино HD
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
-#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_CHANNEL/",Discovery CEE HD
+#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_CHANNEL/index-${start}-${offset}.m3u8",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные" catchup="flussonic" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/",Investigation Discovery HD
+#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/index-${start}-${offset}.m3u8",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
 http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
