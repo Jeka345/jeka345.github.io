@@ -151,7 +151,7 @@ https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_CHANNEL/index-${start}-${offset}.m3u8",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/index-${start}-${offset}.m3u8",Investigation Discovery HD
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1/IDXTRA_HD/index-${start}-${offset}.m3u8",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
 http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
