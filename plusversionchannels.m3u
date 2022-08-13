@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="rossia1-pl1" group-title="Федеральные",Россия 1 (+1)
-https://livetv.mylifeisgood.ml/channels/russia1-1
+https://livetv.mylifeisgood.ml/channels/russia1-1.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl2" group-title="Федеральные",Россия 1 (+2)
-https://livetv.mylifeisgood.ml/channels/russia1-2
+https://livetv.mylifeisgood.ml/channels/russia1-2.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl3" group-title="Федеральные",Россия 1 (+3)
-https://livetv.mylifeisgood.ml/channels/russia1-3
+https://livetv.mylifeisgood.ml/channels/russia1-3.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl4" group-title="Федеральные",Россия 1 (+4)
-https://livetv.mylifeisgood.ml/channels/russia1-4
+https://livetv.mylifeisgood.ml/channels/russia1-4.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl5" group-title="Федеральные",Россия 1 (+5)
-https://livetv.mylifeisgood.ml/channels/russia1-5
+https://livetv.mylifeisgood.ml/channels/russia1-5.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" group-title="Федеральные",Россия 1 (+6)
-https://livetv.mylifeisgood.ml/channels/russia1-6
+https://livetv.mylifeisgood.ml/channels/russia1-6.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl7" group-title="Федеральные",Россия 1 (+7)
-https://livetv.mylifeisgood.ml/channels/russia1-7
+https://livetv.mylifeisgood.ml/channels/russia1-7.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl8" group-title="Федеральные",Россия 1 (+8)
-https://livetv.mylifeisgood.ml/channels/russia1-8
+https://livetv.mylifeisgood.ml/channels/russia1-8.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl9" group-title="Федеральные",Россия 1 (+9)
-https://livetv.mylifeisgood.ml/channels/russia1-9
+https://livetv.mylifeisgood.ml/channels/russia1-9.m3u8
 #EXTINF:-1 tvg-id="kultura-pl2" group-title="Федеральные",Россия К (+2)
-https://livetv.mylifeisgood.ml/channels/russiak-2
+https://livetv.mylifeisgood.ml/channels/russiak-2.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="Федеральные",Россия К (+4)
-https://livetv.mylifeisgood.ml/channels/russiak-4
+https://livetv.mylifeisgood.ml/channels/russiak-4.m3u8
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="Федеральные",Россия К (+7)
-https://livetv.mylifeisgood.ml/channels/russiak-7
+https://livetv.mylifeisgood.ml/channels/russiak-7.m3u8
 #EXTINF:-1 tvg-id="" group-title="Федеральные",Домашний (+1)
 https://livetv.mylifeisgood.ml/channels_shift/domashniiplus1.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" group-title="Федеральные",Домашний (+2)
