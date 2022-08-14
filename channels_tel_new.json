@@ -47,7 +47,7 @@
 		"sources":[
 			{
 			   "type":"vitrina",
-			   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrinaproxy/gpm/match",
+			   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/gpm/matchtv",
 			   "voiceChatEnabled":false
 			},
 			{
