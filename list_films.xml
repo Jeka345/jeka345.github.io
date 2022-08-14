@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_list code="0">
+	<channels packageId="3" locationId="100001" version="1656161603">
+		<channel>
+			<id>1</id>
+			<title>Тест перемотки</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1635847725334.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>12</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>1</id>
+					<url_live>https://livetv.mylifeisgood.ml/testfilm/41028/440/1080p/film.m3u8</url_live>
+				</link_channel>	
+		</variables>
+		</channel>
+	</channels>
+</channels_list>
