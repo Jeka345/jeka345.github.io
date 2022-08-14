@@ -212,7 +212,7 @@
 		"sources":[
 		{
 		   "type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrinaproxy/gpm/tv3",
+		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/gpm/tv3",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -225,7 +225,7 @@
 		"sources":[
 		{
 			"type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrinaproxy/gpm/friday",
+		   "config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/gpm/friday",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -281,7 +281,7 @@
 		"sources":[
 		{
 			"type":"vitrina",
-			"config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrinaproxy/gpm/tnt",
+			"config":"https://livetv.mylifeisgood.ml/sdkvin/hls/vitrina/gpm/tnt",
 			"voiceChatEnabled":false
 		}
 		],
