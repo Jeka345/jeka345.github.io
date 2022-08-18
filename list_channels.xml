@@ -617,7 +617,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ch360news.m3u8</url_live>
+					<url_live>https://balancer.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
