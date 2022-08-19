@@ -17,7 +17,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/perviytest.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/perviytest.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -37,7 +37,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/russia1.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/russia1.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -57,7 +57,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -77,7 +77,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ntv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ntv.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -97,7 +97,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/5tv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/5tv.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -117,7 +117,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/russiak.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/russiak.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -137,7 +137,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/russia24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/russia24.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -157,7 +157,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/karusel.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/karusel.m3u8</url_live>
 				</link_channel>	
 			</variables>
 		</channel>
@@ -217,7 +217,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/rentv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/rentv.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -237,7 +237,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/spas.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/spas.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -257,7 +257,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/sts.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/sts.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -277,7 +277,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/domashnii.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/domashnii.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -297,7 +297,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tv3.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tv3.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -317,7 +317,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/friday.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/friday.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -337,7 +337,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/zvezda.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/zvezda.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -377,7 +377,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tnt.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tnt.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -397,7 +397,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/muztv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/muztv.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
@@ -417,7 +417,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/stslove.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/stslove.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -437,7 +437,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/subbota.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/subbota.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -457,7 +457,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/2x2.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/2x2.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -477,7 +477,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tnt4hd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tnt4hd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -497,7 +497,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -517,7 +517,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -537,7 +537,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ch360.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ch360.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -557,7 +557,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/anekdot.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/anekdot.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -577,7 +577,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -637,7 +637,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/disneysd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/disneysd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -657,7 +657,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -677,7 +677,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/smile.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/smile.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -697,7 +697,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ctckids.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ctckids.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -717,7 +717,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/gulli.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/gulli.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -737,7 +737,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tiji.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tiji.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -757,7 +757,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ryjii.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ryjii.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -777,7 +777,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -797,7 +797,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -817,7 +817,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/myplanet.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/myplanet.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -837,7 +837,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/adventureshd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -857,7 +857,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/firstspace.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/firstspace.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -877,7 +877,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasat_history.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/viasat_history.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -897,7 +897,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -917,7 +917,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -937,7 +937,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -957,7 +957,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/national_geographic.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -977,7 +977,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discovery.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/discovery.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -997,7 +997,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1017,7 +1017,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/sovsec127.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1037,7 +1037,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1057,7 +1057,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/oruzhie.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1077,7 +1077,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/zagorodint.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1097,7 +1097,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/hdlife.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/hdlife.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1117,7 +1117,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1137,7 +1137,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1157,7 +1157,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1177,7 +1177,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1197,7 +1197,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/kinotvst.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1217,7 +1217,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/fox.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/fox.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1237,7 +1237,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/foxlife.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/foxlife.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1257,7 +1257,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1277,7 +1277,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1297,7 +1297,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1317,7 +1317,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/vip_serial.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1337,7 +1337,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tv1000.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tv1000.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1357,7 +1357,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tv1000action.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1377,7 +1377,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1397,7 +1397,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/fenixkino.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1417,7 +1417,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1437,7 +1437,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1457,7 +1457,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1477,7 +1477,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1497,7 +1497,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/trash.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/trash.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1517,7 +1517,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1537,7 +1537,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1637,7 +1637,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1657,7 +1657,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1677,7 +1677,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1697,7 +1697,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1717,7 +1717,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1737,7 +1737,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1757,7 +1757,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1797,7 +1797,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/moscow24.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/moscow24.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1817,7 +1817,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1837,7 +1837,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/78saintpetersburg.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/78saintpetersburg.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1857,7 +1857,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/matchstrana.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/matchstrana.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1877,7 +1877,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/startlive.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/startlive.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1917,7 +1917,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1937,7 +1937,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1957,7 +1957,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/eurosport2.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1977,7 +1977,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/setantahd.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/setantahd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1997,7 +1997,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/setantaplus.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2017,7 +2017,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2037,7 +2037,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/vestifm.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/vestifm.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2057,7 +2057,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2077,7 +2077,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/dorojnoeradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/dorojnoeradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2097,7 +2097,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/europaplusradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/europaplusradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2117,7 +2117,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/avtoradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/avtoradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2137,7 +2137,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiomaximus.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiomaximus.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2157,7 +2157,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/rusradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/rusradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2177,7 +2177,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/yumorfm.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/yumorfm.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2197,7 +2197,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiovanya.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiovanya.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2217,7 +2217,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/comedyradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/comedyradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2237,7 +2237,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiodfm.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiodfm.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2257,7 +2257,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/retrofm.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/retrofm.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2277,7 +2277,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiohitfm.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiohitfm.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2297,7 +2297,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radionasemiholmax.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radionasemiholmax.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2317,7 +2317,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiovoskresenie.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiovoskresenie.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2337,7 +2337,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiozvezda.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiozvezda.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2357,7 +2357,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiokomsomolpravda.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiokomsomolpravda.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2377,7 +2377,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radioenegry.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radioenegry.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2397,7 +2397,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radioromantica.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radioromantica.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2417,7 +2417,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiodlyadvoix.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiodlyadvoix.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2437,7 +2437,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radio107krasnodar.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radio107krasnodar.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2457,7 +2457,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/kidsradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/kidsradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2477,7 +2477,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiotv.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiotv.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2497,7 +2497,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/radiogradpetrov.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/radiogradpetrov.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2517,7 +2517,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/newradio.m3u8</url_live>
+					<url_live>http://livetv.mylifeisgood.ml/channels/newradio.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
