@@ -109,17 +109,6 @@
 				"type": "tv",
 				"link": null
 			}
-		},
-		{
-			"id": 30,
-			"icon": "",
-			"title": "Настройки",
-			"target": {
-				"type": "screen",
-				"link": {
-					"screen_name": "my"
-				}
-			}
 		}
 	],
 	"default": 0
