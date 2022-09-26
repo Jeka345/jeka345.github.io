@@ -28,7 +28,7 @@
 		"category":1
 	},
 	{
-		"id":16,
+		"id":2,
 		"name":"Россия 1 HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612738365.png",
 		"sources":[
@@ -41,7 +41,7 @@
 		"category":1
 	},
 	{
-		"id":4,
+		"id":3,
 		"name":"Матч! HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1572956617832.png",
 		"sources":[
@@ -61,7 +61,7 @@
 		"category":5
 	},
 	{
-		"id":6,
+		"id":4,
 		"name":"НТВ HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1524737541364.png",
 		"sources":[
@@ -74,7 +74,7 @@
 		"category":1
 	},
 	{
-         "id":7,
+         "id":5,
          "name":"Пятый канал",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536600415211.png",
          "sources":[
@@ -87,7 +87,7 @@
          "category":1
 	},
 	{
-		"id":17,
+		"id":6,
 		"name":"Россия культура",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png",
 		"sources":[
@@ -100,7 +100,7 @@
 		"category":1
 	},
 	{
-		"id":8,
+		"id":7,
 		"name":"Россия 24",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497528181419.png",
 		"sources":[
@@ -113,7 +113,7 @@
 		"category":1
 	},
 	{
-		"id":28,
+		"id":8,
 		"name":"Карусель",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602681864854.png",
 		"sources":[
@@ -126,7 +126,7 @@
 		"category":3
 	},
 	{
-		"id":29,
+		"id":9,
 		"name":"ОТР",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536676739922.png",
 		"sources":[
@@ -141,7 +141,7 @@
 		"category":1
 	},
 	{
-		"id":31,
+		"id":10,
 		"name":"ТВ-Центр",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536609967851.png",
 		"sources":[
@@ -154,7 +154,7 @@
 		"category":2
 	},
 	{
-         "id":5,
+         "id":11,
          "name":"РЕН-ТВ HD",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1532358088298.png",
          "sources":[
@@ -167,7 +167,7 @@
          "category":2
     },
 	{
-         "id":25,
+         "id":12,
          "name":"СПАС",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1569483524977.png",
          "sources":[
@@ -180,7 +180,7 @@
          "category":1
     },
 	{
-         "id":3,
+         "id":13,
          "name":"СТС HD",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1533311356055.png",
          "sources":[
@@ -193,7 +193,7 @@
          "category":2
     },
 	{
-         "id":20,
+         "id":14,
          "name":"Домашний HD",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1519580577683.png",
          "sources":[
@@ -206,7 +206,7 @@
          "category":2
 	},
 	{
-		"id":10,
+		"id":15,
 		"name":"ТВ3 HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1507133404466.png",
 		"sources":[
@@ -219,7 +219,7 @@
 		"category":2
 	},
 	{
-		"id":14,
+		"id":16,
 		"name":"Пятница! HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1522312220352.png",
 		"sources":[
@@ -232,7 +232,7 @@
 		"category":2
       },
 	  {
-         "id":30,
+         "id":17,
          "name":"Звезда",
          "logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536610730242.png",
          "sources":[
@@ -253,7 +253,7 @@
          "category":2
       },
 	  {
-		"id":23,
+		"id":18,
 		"name":"Мир HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508243678871.png",
 		"sources":[
@@ -275,7 +275,7 @@
 		"category":1
       },
 	  {
-		"id":2,
+		"id":19,
 		"name":"ТНТ HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508420635111.png",
 		"sources":[
@@ -288,7 +288,7 @@
 		"category":2
       },
 	  {
-		"id":13,
+		"id":20,
 		"name":"Муз-ТВ",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1635847725334.png",
 		"sources":[
@@ -314,7 +314,7 @@
 		"category":2
       },
 	  {
-		"id":23,
+		"id":22,
 		"name":"МИР 24",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536614122484.png",
 		"sources":[
@@ -336,7 +336,7 @@
 		"category":1
       },
 	  {
-			"id":19,
+			"id":23,
 			"name":"ЧЕ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1549532917385.png",
 			"sources":[
@@ -349,7 +349,7 @@
 		"category":2
       },
 	  {
-			"id":32,
+			"id":24,
 			"name":"Ю",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536331049265.png",
 			"sources":[
@@ -362,7 +362,7 @@
 		"category":2
       },
 	  {
-			"id":15,
+			"id":25,
 			"name":"Суббота HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1612112008234.png",
 			"sources":[
@@ -375,7 +375,7 @@
 		"category":2
       },
 	  {
-			"id":46,
+			"id":26,
 			"name":"2x2 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1629960527155.png",
 			"sources":[
@@ -388,7 +388,7 @@
 		"category":3
       },
 	  {
-			"id":18,
+			"id":27,
 			"name":"ТНТ4 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1534762634936.png",
 			"sources":[
@@ -401,7 +401,7 @@
 		"category":2
       },
 	  {
-			"id":44,
+			"id":28,
 			"name":"Disney",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1544172455207.png",
 			"sources":[
@@ -414,7 +414,7 @@
 		"category":3
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия 1 (+2)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png",
 			"sources":[
@@ -429,7 +429,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия 1 (+4)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/dv/nclogo1497319880104.png",
 			"sources":[
@@ -444,7 +444,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия 1 (+7)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/dv/nclogo1497319880104.png",
 			"sources":[
@@ -459,7 +459,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия Культура (+2)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png",
 			"sources":[
@@ -474,7 +474,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия Культура (+4)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png",
 			"sources":[
@@ -489,7 +489,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Россия Культура (+7)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497430120145.png",
 			"sources":[
@@ -504,7 +504,7 @@
 		"category":6
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Nickelodeon HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612622596.png",
 			"sources":[
@@ -519,7 +519,7 @@
 		"category":3
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"DTX HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516106158586.png",
 			"sources":[
@@ -534,7 +534,7 @@
 		"category":7
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Discovery Science HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536686299279.png",
 			"sources":[
@@ -549,7 +549,7 @@
 		"category":7
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Paramount Comedy",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612781530.png",
 			"sources":[
@@ -564,7 +564,7 @@
 		"category":2
       },
 	  {
-			"id":0,
+			"id":400,
 			"name":"Paramount Channel",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246021246.png",
 			"sources":[
@@ -579,7 +579,7 @@
 		"category":2
       },
 	  {
-			"id":0,
+			"id":29,
 			"name":"Кино ТВ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png",
 			"sources":[
@@ -594,7 +594,7 @@
 		"category":8
       },
 	  {
-		"id":0,
+		"id":400,
 		"name":"Fox HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536308528386.png",
 		"sources":[
@@ -607,7 +607,7 @@
 		"category":8
 	},
 	{
-		"id":0,
+		"id":400,
 		"name":"Fox Life HD",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508933868682.png",
 		"sources":[
@@ -620,7 +620,7 @@
 		"category":8
 	},
 	{
-		"id":0,
+		"id":400,
 		"name":"Вести FM",
 		"logo":"https://www.mvestnik.ru/mvfoto/2020/02/05/vestifm12012016.jpg",
 		"sources":[
@@ -635,7 +635,7 @@
 	"category":1
 	},
 	{
-		"id":38,
+		"id":30,
 		"name":"Москва 24",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1583844644861.png",
 		"sources":[
@@ -648,7 +648,7 @@
 		"category": 9
 	},
 	{
-		"id":0,
+		"id":400,
 		"name":"Москва. Доверие",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1515662710213.png",
 		"sources":[
@@ -661,7 +661,7 @@
 	"category":8
 	},
 	{
-			"id":61,
+			"id":31,
 			"name":"Телеканал 360",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1524557207303.png",
 			"sources":[
@@ -676,7 +676,7 @@
 		"category":2
 	},
 	{
-			"id":0,
+			"id":32,
 			"name":"Новости 360",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1533293011586.png",
 			"sources":[
@@ -691,7 +691,7 @@
 		"category":1
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Моя планета",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246944970.png",
 			"sources":[
@@ -704,7 +704,7 @@
 		"category":7
 	},
 	{
-			"id":50,
+			"id":33,
 			"name":"Матч! Страна",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1551687506107.png",
 			"sources":[
@@ -717,7 +717,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":34,
 			"name":"Russian Music Box",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949465804.png",
 			"sources":[
@@ -732,7 +732,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Music Box Gold",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1598949637593.png",
 			"sources":[
@@ -747,7 +747,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":35,
 			"name":"ТНТ Music",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1531394833182.png",
 			"sources":[
@@ -762,7 +762,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":36,
 			"name":"Смайлик",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/broadcastChannel1594367487573.png",
 			"sources":[
@@ -777,7 +777,7 @@
 		"category":3
 	},
 	{
-			"id":0,
+			"id":37,
 			"name":"Анекдот ТВ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600539849.png",
 			"sources":[
@@ -790,7 +790,7 @@
 		"category":2
 	},
 	{
-			"id":0,
+			"id":38,
 			"name":"Оружие",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1547125351834.png",
 			"sources":[
@@ -803,22 +803,7 @@
 		"category":8
 	},
 	{
-			"id":0,
-			"name":"НТС Севастополь",
-			"logo":"https://sun9-6.userapi.com/c849528/v849528044/1e0db2/n3nw5GVfcFE.jpg",
-			"sources":[
-			{
-				"type":"native",
-				"streamSQ":"https://strm.yandex.ru/kal/nts/nts0.m3u8",
-				"startAsVitrina":false,
-				"sendStats":false,
-				"voiceChatEnabled":false
-			}
-		],
-		"category":9
-	},
-	{
-			"id":0,
+			"id":39,
 			"name":"Старт HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1633086831301.png",
 			"sources":[
@@ -833,9 +818,9 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":40,
 			"name":"Приключения HD",
-			"logo":"https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_72.png",
+			"logo":"https://i.imgur.com/UJ5Pm9O.png",
 			"sources":[
 			{
 				"type":"native",
@@ -847,7 +832,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":56,
 			"name":"Davinci",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514521243.png",
 			"sources":[
@@ -860,7 +845,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":41,
 			"name":"Europa Plus TV",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600683226.png",
 			"sources":[
@@ -875,7 +860,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":42,
 			"name":"СТС Kids HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1534923709826.png",
 			"sources":[
@@ -888,7 +873,7 @@
 		"category":3
 	},
 	{
-			"id":0,
+			"id":43,
 			"name":"Gulli Girl",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536766285308.png",
 			"sources":[
@@ -903,7 +888,7 @@
 		"category":3
 	},
 	{
-			"id":0,
+			"id":44,
 			"name":"Первый Космический",
 			"logo":"https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_72.png",
 			"sources":[
@@ -918,7 +903,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":49,
 			"name":"VIP Megahit HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514267143.png",
 			"sources":[
@@ -931,7 +916,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":50,
 			"name":"VIP Comedy HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514287074.png",
 			"sources":[
@@ -944,7 +929,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":48,
 			"name":"VIP Premiere HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514245957.png",
 			"sources":[
@@ -957,7 +942,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":51,
 			"name":"VIP Serial HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514331524.png",
 			"sources":[
@@ -970,7 +955,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":52,
 			"name":"Viasat History HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514427579.png",
 			"sources":[
@@ -983,7 +968,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":53,
 			"name":"Viasat Explore HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593515024787.png",
 			"sources":[
@@ -996,7 +981,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":54,
 			"name":"Viasat Nature HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514405658.png",
 			"sources":[
@@ -1009,7 +994,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":55,
 			"name":"Viasat Nature/History HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514310571.png",
 			"sources":[
@@ -1024,7 +1009,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":45,
 			"name":"TV1000 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514194654.png",
 			"sources":[
@@ -1037,7 +1022,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":47,
 			"name":"TV1000 Action HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514116881.png",
 			"sources":[
@@ -1050,7 +1035,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":46,
 			"name":"TV1000 Русское Кино HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514220982.png",
 			"sources":[
@@ -1063,7 +1048,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Discovery HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1567606530589.png",
 			"sources":[
@@ -1078,7 +1063,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"ID XTRA",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602255131051.png",
 			"sources":[
@@ -1093,7 +1078,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Удар! ТВ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1640863511502.png",
 			"sources":[
@@ -1108,7 +1093,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":57,
 			"name":"Viasat Sport HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514353890.png",
 			"sources":[
@@ -1128,7 +1113,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Top Secret",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1616576008691.png",
 			"sources":[
@@ -1143,7 +1128,7 @@
 		"category":7
 	},
 	{
-			"id":0,
+			"id":96,
 			"name":"Диалоги о Рыбалке",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1544005813039.png",
 			"sources":[
@@ -1158,7 +1143,7 @@
 		"category":7
 	},
 	{
-		"id":0,
+		"id":58,
 		"name":"Start Air",
 		"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1640602798756.png",
 		"sources":
@@ -1174,7 +1159,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":59,
 			"name":"Start World",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1642407269046.png",
 			"sources":[
@@ -1189,7 +1174,7 @@
 		"category":8
 	},
 	{
-			"id":51,
+			"id":60,
 			"name":"Eurosport 1 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251593211.png",
 			"sources":[
@@ -1204,7 +1189,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Eurosport 2 HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png",
 			"sources":[
@@ -1219,7 +1204,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Setanta 1 HD",
 			"logo":"https://i.imgur.com/TTrQ6ru.jpg",
 			"sources":[
@@ -1234,7 +1219,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Setanta 2",
 			"logo":"https://i.imgur.com/HqVJnKR.jpg",
 			"sources":[
@@ -1249,7 +1234,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Матч! Планета",
 			"logo":"https://i.imgur.com/h0IprYW.jpg",
 			"sources":[
@@ -1264,7 +1249,7 @@
 		"category":5
 	},
 	{
-			"id":0,
+			"id":61,
 			"name":"Bride Фрэш",
 			"logo":"https://www.cableman.ru/sites/default/files/2021/bridge_tv_freshreadywhite.png",
 			"sources":[
@@ -1279,7 +1264,7 @@
 		"category":4
 	},
 	{
-			"id":41,
+			"id":62,
 			"name":"Bridge",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793935097.png",
 			"sources":[
@@ -1294,7 +1279,7 @@
 		"category":4
 	},
 	{
-			"id":43,
+			"id":63,
 			"name":"Bridge Classic",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793968662.png",
 			"sources":[
@@ -1309,7 +1294,7 @@
 		"category":4
 	},
 	{
-			"id":39,
+			"id":64,
 			"name":"Bridge Русский Хит",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793947266.png",
 			"sources":[
@@ -1324,7 +1309,7 @@
 		"category":4
 	},
 	{
-			"id":40,
+			"id":65,
 			"name":"Bridge Hits",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793958083.png",
 			"sources":[
@@ -1339,7 +1324,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":66,
 			"name":"Bridge Шлягер",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602157236453.png",
 			"sources":[
@@ -1354,7 +1339,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":67,
 			"name":"Bridge Deluxe",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1638793980605.png",
 			"sources":[
@@ -1369,7 +1354,7 @@
 		"category":4
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"НТВ Хит",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1565015693388.png",
 			"sources":[
@@ -1384,7 +1369,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":70,
 			"name":"НТВ Право",
 			"logo":"https://i.imgur.com/aBN9Ks4.png",
 			"sources":[
@@ -1399,7 +1384,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":68,
 			"name":"НТВ Сериал",
 			"logo":"https://i.imgur.com/o0qBKsu.png",
 			"sources":[
@@ -1414,7 +1399,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":69,
 			"name":"НТВ Стиль",
 			"logo":"https://i.imgur.com/rY2GjoJ.png",
 			"sources":[
@@ -1429,7 +1414,7 @@
 		"category":8
 	},
 	{
-			"id":0,
+			"id":400,
 			"name":"Радио родных дорог",
 			"logo":"https://i.imgur.com/YlgJdT6.png",
 			"sources":[
@@ -1444,7 +1429,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Дорожное Радио",
 			"logo":"https://i.imgur.com/rbfVLm8.png",
 			"sources":[
@@ -1459,7 +1444,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио ЕвропаПлюс",
 			"logo":"https://i.imgur.com/PlAiIoT.png",
 			"sources":[
@@ -1474,7 +1459,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Авторадио",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368938045.png",
 			"sources":[
@@ -1489,7 +1474,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Maximus",
 			"logo":"https://i.imgur.com/C9PbJi8.png",
 			"sources":[
@@ -1504,7 +1489,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Русское Радио",
 			"logo":"https://i.imgur.com/lGpIWNJ.png",
 			"sources":[
@@ -1519,7 +1504,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Юмор ФМ",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369186643.png",
 			"sources":[
@@ -1534,7 +1519,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Ваня",
 			"logo":"https://i.imgur.com/1eUJFXg.png",
 			"sources":[
@@ -1549,7 +1534,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Comedy Radio",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369599292.png",
 			"sources":[
@@ -1564,7 +1549,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио DFM",
 			"logo":"https://i.imgur.com/JpP6WVP.png",
 			"sources":[
@@ -1579,7 +1564,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Retro FM",
 			"logo":"https://i.imgur.com/QX43rbX.png",
 			"sources":[
@@ -1594,7 +1579,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио ХИТ ФМ",
 			"logo":"https://i.imgur.com/SRvmcnD.png",
 			"sources":[
@@ -1609,7 +1594,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио на 7 холмах",
 			"logo":"https://i.imgur.com/10pg7DJ.jpg",
 			"sources":[
@@ -1624,7 +1609,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио воскресение",
 			"logo":"https://i.imgur.com/Atnj71U.jpg",
 			"sources":[
@@ -1639,7 +1624,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Звезда",
 			"logo":"https://i.imgur.com/NpvYL9e.jpg",
 			"sources":[
@@ -1654,7 +1639,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Комсомольская правда",
 			"logo":"https://i.imgur.com/egHo3Ce.png",
 			"sources":[
@@ -1669,7 +1654,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Energy FM",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601368850846.png",
 			"sources":[
@@ -1684,7 +1669,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Romantica",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369024005.png",
 			"sources":[
@@ -1699,7 +1684,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио для двоих",
 			"logo":"https://i.imgur.com/9g2vos8.png",
 			"sources":[
@@ -1714,7 +1699,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио 107 Краснодар",
 			"logo":"https://i.imgur.com/qpNKhsC.jpg",
 			"sources":[
@@ -1729,7 +1714,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Детское радио",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601369553927.png",
 			"sources":[
@@ -1744,7 +1729,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио ТВ",
 			"logo":"https://i.imgur.com/8jjubUD.png",
 			"sources":[
@@ -1759,7 +1744,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Радио Град Петров",
 			"logo":"https://i.imgur.com/yzaxw6y.png",
 			"sources":[
@@ -1774,7 +1759,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":400,
 			"name": "Новое Радио",
 			"logo":"https://i.imgur.com/TUKLarg.jpg",
 			"sources":[
@@ -1789,7 +1774,7 @@
 		"category":10
 	},
 	{
-			"id":0,
+			"id":71,
 			"name": "Наш спорт 1",
 			"logo":"https://i.imgur.com/uUfwtPx.jpg",
 			"sources":[
@@ -1804,7 +1789,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":72,
 			"name": "Наш спорт 2",
 			"logo":"https://i.imgur.com/kKMv5NY.jpg",
 			"sources":[
@@ -1819,7 +1804,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":73,
 			"name": "Наш спорт 3",
 			"logo":"https://i.imgur.com/i3QTpMb.jpg",
 			"sources":[
@@ -1834,7 +1819,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":74,
 			"name": "Наш спорт 4",
 			"logo":"https://i.imgur.com/kur4kFy.jpg",
 			"sources":[
@@ -1849,7 +1834,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":75,
 			"name": "Наш спорт 5",
 			"logo":"https://i.imgur.com/PIXjfTL.jpg",
 			"sources":[
@@ -1864,7 +1849,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":76,
 			"name": "Наш спорт 6",
 			"logo":"https://i.imgur.com/lnKn9lQ.jpg",
 			"sources":[
@@ -1879,7 +1864,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":77,
 			"name": "Наш спорт 7",
 			"logo":"https://i.imgur.com/unBCiMA.jpg",
 			"sources":[
@@ -1894,7 +1879,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":78,
 			"name": "Наш спорт 8",
 			"logo":"https://i.imgur.com/qbQ3nlF.jpg",
 			"sources":[
@@ -1909,7 +1894,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":79,
 			"name": "Наш спорт 9",
 			"logo":"https://i.imgur.com/5Jw04iK.jpg",
 			"sources":[
@@ -1924,7 +1909,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":80,
 			"name": "Наш спорт 10",
 			"logo":"https://i.imgur.com/YgfEMPt.jpg",
 			"sources":[
@@ -1939,7 +1924,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":81,
 			"name": "Наш спорт 11",
 			"logo":"https://i.imgur.com/h2Ohj2v.jpg",
 			"sources":[
@@ -1954,7 +1939,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":82,
 			"name": "Наш спорт 12",
 			"logo":"https://i.imgur.com/7ggDUOo.jpg",
 			"sources":[
@@ -1969,7 +1954,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":83,
 			"name": "Наш спорт 13",
 			"logo":"https://i.imgur.com/W5QRTel.jpg",
 			"sources":[
@@ -1984,7 +1969,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":84,
 			"name": "Наш спорт 14",
 			"logo":"https://i.imgur.com/tZPACcn.jpg",
 			"sources":[
@@ -1999,7 +1984,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":85,
 			"name": "Наш спорт 15",
 			"logo":"https://i.imgur.com/SL2aQJn.jpg",
 			"sources":[
@@ -2014,7 +1999,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":86,
 			"name": "Наш спорт 16",
 			"logo":"https://i.imgur.com/e3Crfib.jpg",
 			"sources":[
@@ -2029,7 +2014,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":87,
 			"name": "Наш спорт 17",
 			"logo":"https://i.imgur.com/X1CpTe2.jpg",
 			"sources":[
@@ -2044,7 +2029,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":88,
 			"name": "Наш спорт 18",
 			"logo":"https://i.imgur.com/iVsofK6.jpg",
 			"sources":[
@@ -2059,7 +2044,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":89,
 			"name": "Наш спорт 19",
 			"logo":"https://i.imgur.com/PzgEgxy.jpg",
 			"sources":[
@@ -2074,7 +2059,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":90,
 			"name": "Наш спорт 20",
 			"logo":"https://i.imgur.com/f3bVeZB.jpg",
 			"sources":[
@@ -2089,7 +2074,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":91,
 			"name": "Наш спорт 21",
 			"logo":"https://i.imgur.com/5US6oPq.jpg",
 			"sources":[
@@ -2104,7 +2089,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":92,
 			"name": "Наш спорт 22",
 			"logo":"https://i.imgur.com/1uvN6IZ.jpg",
 			"sources":[
@@ -2119,7 +2104,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":93,
 			"name": "Наш спорт 23",
 			"logo":"https://i.imgur.com/D3ZAIEd.jpg",
 			"sources":[
@@ -2134,7 +2119,7 @@
 		"category":11
 	},
 	{
-			"id":0,
+			"id":94,
 			"name": "Наш спорт 24",
 			"logo":"https://i.imgur.com/J80eo6C.jpg",
 			"sources":[
