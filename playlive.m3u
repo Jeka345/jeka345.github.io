@@ -69,9 +69,9 @@ https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox HD
+#EXTINF:-1 tvg-id="" group-title="Фильмовые",Кинеко
 https://livetv.mylifeisgood.ml/channels/fox.m3u8
-#EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",Fox Life HD
+#EXTINF:-1 tvg-id="" group-title="Фильмовые",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
 https://livetv.mylifeisgood.ml/channels/vestifm.m3u8
@@ -145,7 +145,7 @@ http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",National Geographic
+#EXTINF:-1 tvg-id="" group-title="Познавательные",ТеRRa
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
@@ -209,7 +209,9 @@ https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
 https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K [HEVEC]
+#EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь
+https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8
