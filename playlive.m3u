@@ -69,9 +69,9 @@ https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 tvg-id="" group-title="Фильмовые",Кинеко
+#EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
 https://livetv.mylifeisgood.ml/channels/fox.m3u8
-#EXTINF:-1 tvg-id="" group-title="Фильмовые",Сапфир
+#EXTINF:-1 tvg-id="sapfir" group-title="Фильмовые",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
 https://livetv.mylifeisgood.ml/channels/vestifm.m3u8
@@ -145,7 +145,7 @@ http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="http://livetv.mylifeisgood.ml/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
-#EXTINF:-1 tvg-id="" group-title="Познавательные",ТеRRa
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",ТеRRa
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
@@ -180,17 +180,17 @@ https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
-https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+https://webtest.mylifeisgood.ml/channels/bridgetv24h.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge Classic
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+https://webtest.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge Deluxe
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+https://webtest.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge Hits
-https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+https://webtest.mylifeisgood.ml/channels/bridgehitstv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+https://webtest.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
@@ -204,15 +204,15 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Развлекательные",Живи Активно HD
-https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
+https://webtest.mylifeisgood.ml/channels/jiviactivno.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста
 https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь
+#EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
 https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
-#EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь
-https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K
+https://webtest.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8
 #EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
