@@ -180,17 +180,17 @@ https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
-https://webtest.mylifeisgood.ml/channels/bridgetv24h.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Музыкальные",Bridge Classic
-https://webtest.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge Deluxe
-https://webtest.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные",Bridge Hits
-https://webtest.mylifeisgood.ml/channels/bridgehitstv.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные",Bridge Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
-https://webtest.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
@@ -204,7 +204,7 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Развлекательные",Живи Активно HD
-https://webtest.mylifeisgood.ml/channels/jiviactivno.m3u8
+https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Познавательные",Глазами Туриста
 https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа
@@ -212,7 +212,7 @@ https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные",Наша Сибирь HD
 https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K
-https://webtest.mylifeisgood.ml/channels/nashasibir4k.m3u8
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8
 #EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
