@@ -107,6 +107,8 @@ https://livetv.mylifeisgood.ml/channels/smile.m3u8
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
+#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
+https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские",Da Vinci
