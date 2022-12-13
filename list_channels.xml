@@ -943,8 +943,8 @@
 		</channel>
 		<channel>
 			<id>10</id>
-			<title>National Geographic HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1504685847641.png</logo>
+			<title>ТеRRa</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1664784646420.png</logo>
 			<packages>
 			<id>3</id>
 			</packages>
@@ -1203,8 +1203,8 @@
 		</channel>
 		<channel>
 			<id>2</id>
-			<title>Fox HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536308528386.png</logo>
+			<title>Кинеко</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1664784573625.png</logo>
 			<packages>
 			<id>3</id>
 			</packages>
@@ -1223,8 +1223,8 @@
 		</channel>
 		<channel>
 			<id>3</id>
-			<title>Fox Life HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508933868682.png</logo>
+			<title>Сапфир</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1664784615558.png</logo>
 			<packages>
 			<id>3</id>
 			</packages>
