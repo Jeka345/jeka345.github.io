@@ -52,12 +52,12 @@ https://livetv.mylifeisgood.ml/channels/spas.m3u8
 #EXTINF:-1 cn-id=10338262 cn-records=1 group-title="Эфирные",СТС HD
 https://livetv.mylifeisgood.ml/channels/sts.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338255 recordable=true age-restriction=18 territory-id=126
-#EXT-INETRA-STREAM-INF: id=230 aspect-ratio=16:9 provider-id=2 crop=0:90 has-timeshift=true
+#EXT-INETRA-STREAM-INF: id=230 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338255 cn-records=1 group-title="Эфирные",Домашний HD
 https://livetv.mylifeisgood.ml/channels/domashnii
 #EXT-INETRA-CHANNEL-INF: channel-id=10338233 recordable=true age-restriction=18 territory-id=126
-#EXT-INETRA-STREAM-INF: id=211 aspect-ratio=4:3 provider-id=2 crop=0:88 has-timeshift=true
-#EXTINF:-1 cn-id=10338233 cn-records=1 group-title="Эфирные",ТВ3 HD
+#EXT-INETRA-STREAM-INF: id=211 provider-id=2 has-timeshift=true
+#EXTINF:-1 cn-id=10338233 aspect-ratio=16:9 cn-records=1 group-title="Эфирные",ТВ3 HD
 https://livetv.mylifeisgood.ml/channels/tv3hd.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338230 age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=208 aspect-ratio=16:9 provider-id=2 has-timeshift=true
