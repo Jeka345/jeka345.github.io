@@ -1,37 +1,37 @@
 #EXTM3U
-#EXT-INETRA-CHANNEL-INF: channel-id=10338245 age-restriction=16 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338245 age-restriction=16 territory-id=126
 #EXT-INETRA-STREAM-INF: id=220 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 group-title="Эфирные" cn-id=10338245,Первый HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338258 recordable=true age-restriction=16 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338258 recordable=true age-restriction=16 territory-id=126
 #EXT-INETRA-STREAM-INF: id=233 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338258 cn-records=1 group-title="Эфирные",Россия 1
 https://livetv.mylifeisgood.ml/channels/russia1.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338240 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338240 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=215 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338240 cn-records=1 group-title="Эфирные" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338229 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338229 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=207 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338229 cn-records=1 group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338257 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338257 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=232 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338257 cn-records=1 group-title="Эфирные",Пятый канал
 https://livetv.mylifeisgood.ml/channels/5tv.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338246 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338246 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=893 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338246 cn-records=1 group-title="Эфирные",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338232 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338232 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=3530 aspect-ratio=16:9 provider-id=2 audio-language="ru" subtitles-language="ru"
 #EXTINF:-1 cn-id=10338232 cn-records=1 group-title="Эфирные",Россия 24
 https://livetv.mylifeisgood.ml/channels/russia24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338254 recordable=true territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338254 recordable=true territory-id=126
 #EXT-INETRA-STREAM-INF: id=229 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338254 cn-records=1 group-title="Эфирные",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=23643734 age-restriction=16 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=23643734 age-restriction=16 territory-id=126
 #EXT-INETRA-STREAM-INF: id=861 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=23643734 group-title="Эфирные",ОТР
 https://livetv.mylifeisgood.ml/channels/otr24.m3u8
@@ -39,43 +39,43 @@ https://livetv.mylifeisgood.ml/channels/otr24.m3u8
 #EXT-INETRA-STREAM-INF: id=1020 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338249 cn-records=1 group-title="Эфирные",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338251 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338251 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=226 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338251 cn-records=1 group-title="Эфирные",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=24984375 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=24984375 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=2605 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24984375 cn-records=1 group-title="Эфирные",СПАС
 https://livetv.mylifeisgood.ml/channels/spas.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338262 recordable=true age-restriction=16 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338262 recordable=true age-restriction=16 territory-id=126
 #EXT-INETRA-STREAM-INF: id=237 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338262 cn-records=1 group-title="Эфирные",СТС HD
 https://livetv.mylifeisgood.ml/channels/sts.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338255 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338255 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=230 aspect-ratio=16:9 provider-id=2 crop=0:90 has-timeshift=true
 #EXTINF:-1 cn-id=10338255 cn-records=1 group-title="Эфирные",Домашний HD
 https://livetv.mylifeisgood.ml/channels/domashnii
-#EXT-INETRA-CHANNEL-INF: channel-id=10338233 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338233 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=211 aspect-ratio=4:3 provider-id=2 crop=0:88 has-timeshift=true
 #EXTINF:-1 cn-id=10338233 cn-records=1 group-title="Эфирные",ТВ3 HD
 https://livetv.mylifeisgood.ml/channels/tv3hd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338230 age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338230 age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=208 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338230 group-title="Эфирные",Пятница HD
 https://livetv.mylifeisgood.ml/channels/friday.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338261 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338261 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=236 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=10338261 cn-records=1 group-title="Эфирные",Звезда
 https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=22604640 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=22604640 recordable=true age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=1491 aspect-ratio=16:9 provider-id=2 has-timeshift=true
 #EXTINF:-1 cn-id=22604640 cn-records=1 group-title="Эфирные",МИР HD
 https://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338256 age-restriction=18 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=10338256 age-restriction=18 territory-id=126
 #EXT-INETRA-STREAM-INF: id=231 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338256 group-title="Эфирные",ТНТ HD
 https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=24984577 age-restriction=16 territory-id=16
+#EXT-INETRA-CHANNEL-INF: channel-id=24984577 age-restriction=16 territory-id=126
 #EXT-INETRA-STREAM-INF: id=1513 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24984577 group-title="Эфирные",Муз ТВ
 https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
