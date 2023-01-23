@@ -84,11 +84,17 @@ https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 #EXT-INETRA-STREAM-INF: id=2241 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=34498202 group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove.m3u8
-#EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24 HD
+#EXT-INETRA-CHANNEL-INF: channel-id=117044422 age-restriction=18 territory-id=126
+#EXT-INETRA-STREAM-INF: id=2033 aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=117044422 group-title="Информационные",Мир 24 HD
 http://2serv.mylifeisgood.ml:8080/channels/mirhdpremium.m3u8
-#EXTINF:-1 tvg-id="che" group-title="Развлекательные",ЧЕ!
+#EXT-INETRA-CHANNEL-INF: channel-id=10338221 recordable=true age-restriction=18 territory-id=16
+#EXT-INETRA-STREAM-INF: id=202 aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338221 cn-records=1 group-title="Развлекательные",ЧЕ!
 https://livetv.mylifeisgood.ml/channels/che.m3u8
-#EXTINF:-1 tvg-id="yu" group-title="Развлекательные",Ю
+#EXT-INETRA-CHANNEL-INF: channel-id=10338248 age-restriction=18 territory-id=16
+#EXT-INETRA-STREAM-INF: id=223 aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338248 group-title="Развлекательные",Ю
 https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
 https://livetv.mylifeisgood.ml/channels/subbota.m3u8
@@ -142,7 +148,8 @@ https://livetv.mylifeisgood.ml/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
 https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
 #EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Юпитер 7
 https://livetv.mylifeisgood.ml/channels/5103636e7cce6d68df590e4e2e46782a.m3u8
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Сатурн 9
+#EXT-INETRA-CHANNEL-INF: channel-id=28085530 recordable=true age-restriction=18 territory-id=16
+#EXTINF:-1 cn-id=28085530 cn-records=1 group-title="Спортивные",Сатурн 9
 https://livetv.mylifeisgood.ml/channels/2b94b1589912a6c47809032c1d44e36e.m3u8
 #EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Меркурий 2
 https://livetv.mylifeisgood.ml/channels/565d7e0291f8cb698d0f6d919977aed7.m3u8
