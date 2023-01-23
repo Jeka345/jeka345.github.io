@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-INETRA-VERSION:2
 #EXT-INETRA-CHANNEL-INF: channel-id=10338245 age-restriction=16 territory-id=16
 #EXT-INETRA-STREAM-INF: id=2073 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338245 group-title="Эфирные" cn-id=10338245,Первый HD
