@@ -80,7 +80,9 @@ https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
 #EXT-INETRA-STREAM-INF: id=3491 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24984577 group-title="Эфирные",Муз ТВ
 https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-id="sts-love" group-title="Развлекательные",СТС Love
+#EXT-INETRA-CHANNEL-INF: channel-id=34498202 age-restriction=16 territory-id=126
+#EXT-INETRA-STREAM-INF: id=2241 aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=34498202 group-title="Развлекательные",СТС Love
 https://livetv.mylifeisgood.ml/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="Информационные",Мир 24 HD
 http://2serv.mylifeisgood.ml:8080/channels/mirhdpremium.m3u8
