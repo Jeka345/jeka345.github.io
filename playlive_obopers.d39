@@ -12,7 +12,7 @@ https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 cn-id=10338240 cn-records=1 group-title="Эфирные" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338229 recordable=true age-restriction=18 territory-id=126
-#EXT-INETRA-STREAM-INF: id=2713 aspect-ratio=16:9 provider-id=2
+#EXT-INETRA-STREAM-INF: id=2748 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338229 cn-records=1 group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338257 recordable=true age-restriction=18 territory-id=126
