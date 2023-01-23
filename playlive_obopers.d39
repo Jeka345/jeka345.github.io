@@ -28,7 +28,7 @@ https://livetv.mylifeisgood.ml/channels/russiak.m3u8
 #EXTINF:-1 cn-id=10338232 group-title="Эфирные",Россия 24
 https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338254 recordable=true territory-id=126
-#EXT-INETRA-STREAM-INF: id=3551 aspect-ratio=16:9 provider-id=2
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338254 cn-records=1 group-title="Эфирные",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=23643734 age-restriction=16 territory-id=16
