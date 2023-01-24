@@ -112,22 +112,26 @@ https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=329664198 cn-records=1 group-title="Детские",Солнце
 https://livetv.mylifeisgood.ml/channels/disney.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=26552792 
-#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=26552792 group-title="Детские",Nickelodeon HD
+#EXTINF:-1 group-title="Детям",Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
-#EXTINF:-1 tvg-id="detsky-mir" group-title="Детские" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv17/detmir/index-${start}-${offset}.m3u8",Детский Мир
+#EXT-INETRA-CHANNEL-INF: channel-id=10338276 recordable=true 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338276 cn-records=1 group-title="Детские",Детский Мир
 https://livetv.mylifeisgood.ml/channels/detskiimir.m3u8
 #EXTINF:-1 tvg-id="baby-time" group-title="Детские",Baby Time
 https://livetv.mylifeisgood.ml/channels/babytime.m3u8
-#EXTINF:-1 tvg-id="dtx" group-title="Познавательные",DTX HD
+#EXT-INETRA-CHANNEL-INF: channel-id=10338253 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338253 group-title="Познавательные",DTX HD
 https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
-#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательные" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/DISCOVERY_SCIENCEHD/index-${start}-${offset}.m3u8",Discovery Science HD
+#EXT-INETRA-CHANNEL-INF: channel-id=10338284 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338284 group-title="Познавательные",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy
+#EXT-INETRA-CHANNEL-INF: channel-id=24984573 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=24984573 group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
-#EXTINF:-1 tvg-id="paramount-channel" group-title="Развлекательные",Paramount Channel
-https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
@@ -158,7 +162,7 @@ https://livetv.mylifeisgood.ml/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
 https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
 #EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Юпитер 7
 https://livetv.mylifeisgood.ml/channels/5103636e7cce6d68df590e4e2e46782a.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=24646031 
+#EXT-INETRA-CHANNEL-INF: channel-id=24646031
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24646031 group-title="Спортивные",Сатурн 9
 https://livetv.mylifeisgood.ml/channels/2b94b1589912a6c47809032c1d44e36e.m3u8
