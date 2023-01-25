@@ -14,7 +14,7 @@ https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=124166886 recordable=true 
 #EXT-INETRA-STREAM-INF: id=3288 aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=124166886 cn-records=1 group-title="Эфирные",НТВ HD
+#EXTINF:-1 cn-id=124166886 group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=10338257 recordable=true 
 #EXT-INETRA-STREAM-INF: id=2314 aspect-ratio=16:9 provider-id=2
@@ -132,53 +132,95 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24984573 group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
-#EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
+#EXT-INETRA-CHANNEL-INF: channel-id=72032994 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=72032994  group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
+#EXT-INETRA-CHANNEL-INF: channel-id=318958235 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=318958235  group-title="Фильмовые",Кинеко
 https://livetv.mylifeisgood.ml/channels/fox.m3u8
-#EXTINF:-1 tvg-id="sapfir" group-title="Фильмовые",Сапфир
+#EXT-INETRA-CHANNEL-INF: channel-id=318958264 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=318958264  group-title="Фильмовые",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
-#EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
+#EXT-INETRA-CHANNEL-INF: channel-id=35971070 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=35971070  group-title="Радио",VestiFM
 https://livetv.mylifeisgood.ml/channels/vestifm.m3u8
-#EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
+#EXT-INETRA-CHANNEL-INF: channel-id=28033943 recordable=true 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28033943 cn-records=1 group-title="Региональные",Москва 24
 https://livetv.mylifeisgood.ml/channels/moscow24.m3u8
-#EXTINF:-1 tvg-id="doverie" group-title="Региональные",Москва Доверие
+#EXT-INETRA-CHANNEL-INF: channel-id=28648329 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28648329  group-title="Региональные",Москва Доверие
 https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" group-title="Развлекательные",Телеканал 360
+#EXT-INETRA-CHANNEL-INF: channel-id=34498297 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=34498297  group-title="Развлекательные",Телеканал 360
 https://livetv.mylifeisgood.ml/channels/ch360.m3u8
-#EXTINF:-1 tvg-id="izvestia" group-title="Информационные",Известия
+#EXT-INETRA-CHANNEL-INF: channel-id=111033102 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=111033102 group-title="Информационные",Известия
 https://livetv.mylifeisgood.ml/channels/iz.m3u8
-#EXTINF:-1 tvg-id="360-news" group-title="Информационные",360 новости
+#EXT-INETRA-CHANNEL-INF: channel-id=276581937 recordable=true 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=276581937 cn-records=1 group-title="Информационные",360 новости
 https://livetv.mylifeisgood.ml/channels/ch360news.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета
+#EXT-INETRA-CHANNEL-INF: channel-id=17026027 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=17026027 group-title="Познавательные",Моя Планета
 https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна
+#EXT-INETRA-CHANNEL-INF: channel-id=26105588 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=26105588 group-title="Спортивные",Матч! Страна
 https://livetv.mylifeisgood.ml/channels/matchstrana.m3u8
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные",Венера 9
+#EXT-INETRA-CHANNEL-INF: channel-id=28587828 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28587828 group-title="Спортивные",Венера 9
 https://livetv.mylifeisgood.ml/channels/5a2d552d958bb1a5ed5d76b042a64c41.m3u8
-#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные",Фобос 19
+#EXT-INETRA-CHANNEL-INF: channel-id=28587841 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28587841 group-title="Спортивные",Фобос 19
 https://livetv.mylifeisgood.ml/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные",Эрида 32
+#EXT-INETRA-CHANNEL-INF: channel-id=28588449 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28588449 group-title="Спортивные",Эрида 32
 https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
-#EXTINF:-1 tvg-id="match-arena" group-title="Спортивные",Юпитер 7
+#EXT-INETRA-CHANNEL-INF: channel-id=10338206 
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338206 group-title="Спортивные",Юпитер 7
 https://livetv.mylifeisgood.ml/channels/5103636e7cce6d68df590e4e2e46782a.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=24646031
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=24646031 group-title="Спортивные",Сатурн 9
 https://livetv.mylifeisgood.ml/channels/2b94b1589912a6c47809032c1d44e36e.m3u8
-#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные",Меркурий 2
+#EXT-INETRA-CHANNEL-INF: channel-id=26105584
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=26105584 group-title="Спортивные",Меркурий 2
 https://livetv.mylifeisgood.ml/channels/565d7e0291f8cb698d0f6d919977aed7.m3u8
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные",Млечный путь 1
+#EXT-INETRA-CHANNEL-INF: channel-id=28587557
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28587557 group-title="Спортивные",Млечный путь 1
 https://livetv.mylifeisgood.ml/channels/9ba31553c7b80f525a4a7fdc1d437d7c.m3u8
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные",Звезда 90
+#EXT-INETRA-CHANNEL-INF: channel-id=10338196
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338196 group-title="Спортивные",Звезда 90
 https://livetv.mylifeisgood.ml/channels/9e56945777f23245f68f7ba074a7ff33.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",Дыра 31
+#EXT-INETRA-CHANNEL-INF: channel-id=19854716
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=19854716 group-title="Спортивные",Дыра 31
 https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg.m3u8
-#EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air HD
+#EXT-INETRA-CHANNEL-INF: channel-id=324176027
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=324176027 group-title="Фильмовые",Start Air HD
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
-#EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
+#EXT-INETRA-CHANNEL-INF: channel-id=324176009
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=324176009 group-title="Фильмовые",Start World HD
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
 http://2serv.mylifeisgood.ml:8080/channels/rusmusicbox.m3u8
