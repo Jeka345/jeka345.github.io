@@ -124,9 +124,9 @@ https://livetv.mylifeisgood.ml/channels/babytime.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338253 group-title="Познавательные",DTX HD
 https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338284 
+#EXT-INETRA-CHANNEL-INF: channel-id=49743376 
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=10338284 group-title="Познавательные",Discovery Science HD
+#EXTINF:-1 cn-id=49743376 group-title="Познавательные",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=24984573 
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
@@ -214,13 +214,13 @@ https://livetv.mylifeisgood.ml/channels/9e56945777f23245f68f7ba074a7ff33.m3u8
 https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=324176027
+#EXT-INETRA-CHANNEL-INF: channel-id=324176027 recordable=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=324176027 group-title="Фильмовые",Start Air HD
+#EXTINF:-1 cn-id=324176027 cn-records=1 group-title="Фильмовые",Start Air HD
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=324176009
+#EXT-INETRA-CHANNEL-INF: channel-id=324176009 recordable=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=324176009 group-title="Фильмовые",Start World HD
+#EXTINF:-1 cn-id=324176009 cn-records=1 group-title="Фильмовые",Start World HD
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
 http://2serv.mylifeisgood.ml:8080/channels/rusmusicbox.m3u8
