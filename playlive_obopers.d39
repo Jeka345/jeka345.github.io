@@ -216,27 +216,41 @@ https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 https://livetv.mylifeisgood.ml/channels/78saintpetersburg.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=324176027 recordable=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=324176027 cn-records=1 group-title="Фильмовые",Start Air HD
+#EXTINF:-1 cn-id=324176027 group-title="Фильмовые",Start Air HD
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 #EXT-INETRA-CHANNEL-INF: channel-id=324176009 recordable=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=324176009 cn-records=1 group-title="Фильмовые",Start World HD
+#EXTINF:-1 cn-id=324176009 group-title="Фильмовые",Start World HD
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
+#EXT-INETRA-CHANNEL-INF: channel-id=10338239 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338239 group-title="Музыкальные",Russian Music Box
 http://2serv.mylifeisgood.ml:8080/channels/rusmusicbox.m3u8
-#EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный Int
+#EXTINF:-1 group-title="Познавательные",Загородный Int
 https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
+#EXT-INETRA-CHANNEL-INF: channel-id=70096620 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=70096620 group-title="Музыкальные",ТНТ Music
 https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик
+#EXT-INETRA-CHANNEL-INF: channel-id=64011611 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=64011611 group-title="Детские",Смайлик
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
-#EXTINF:-1 tvg-id="hd-life" group-title="Познавательные",HD Life
+#EXT-INETRA-CHANNEL-INF: channel-id=15128126 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=15128126 group-title="Познавательные",HD Life
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
-#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
+#EXT-INETRA-CHANNEL-INF: channel-id=168036533 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=168036533 group-title="Спортивные",Старт HD
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
-#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
+#EXT-INETRA-CHANNEL-INF: channel-id=322405867 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=322405867 group-title="Спортивные",Старт Триумф HD
 https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
-#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
+#EXT-INETRA-CHANNEL-INF: channel-id=15127974 recordable=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=15127974 cn-records=1 group-title="Познавательные",Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
