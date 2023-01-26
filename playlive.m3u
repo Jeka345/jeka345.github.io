@@ -69,8 +69,6 @@ https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="Развлекательные",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
-#EXTINF:-1 tvg-id="paramount-channel" group-title="Развлекательные",Paramount Channel
-https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="Фильмовые",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
