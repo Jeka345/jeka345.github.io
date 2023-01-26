@@ -276,25 +276,41 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=56370495 group-title="Детские",Рыжий
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=40466023 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=40466023
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=40466023 group-title="Познавательные",Первый Космический HD
 https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
+#EXT-INETRA-CHANNEL-INF: channel-id=252496400 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=252496400 group-title="Фильмовые",Vip Megahit HD
 https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Vip Comedy HD
+#EXT-INETRA-CHANNEL-INF: channel-id=252496367 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=252496367 group-title="Фильмовые",Vip Comedy HD
 https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" group-title="Фильмовые",Vip Premiere HD
+#EXT-INETRA-CHANNEL-INF: channel-id=252496418 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=252496418 group-title="Фильмовые",Vip Premiere HD
 https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
-#EXTINF:-1 tvg-id="vip-serial" group-title="Фильмовые",Vip Serial HD
+#EXT-INETRA-CHANNEL-INF: channel-id=252496431 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=252496431 group-title="Фильмовые",Vip Serial HD
 https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
-#EXTINF:-1 tvg-id="viasat-history" group-title="Познавательные",Viasat History HD
+#EXT-INETRA-CHANNEL-INF: channel-id=17025851 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=17025851 group-title="Познавательные",Viasat History HD
 https://livetv.mylifeisgood.ml/channels/viasat_history.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательные",Viasat Explore HD
+#EXT-INETRA-CHANNEL-INF: channel-id=17025994 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=17025994 group-title="Познавательные",Viasat Explore HD
 https://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viasat Nature HD
+#EXT-INETRA-CHANNEL-INF: channel-id=10338260 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338260 group-title="Познавательные",Viasat Nature HD
 https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viasat Nature/History HD
+#EXT-INETRA-CHANNEL-INF: channel-id=102611220 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=102611220 group-title="Познавательные",Viasat Nature/History HD
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",TV1000 HD
 https://livetv.mylifeisgood.ml/channels/tv1000.m3u8
