@@ -312,35 +312,51 @@ https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=102611220 group-title="Познавательные",Viasat Nature/History HD
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338279 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=10338279
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338279 group-title="Фильмовые",TV1000 HD
 https://livetv.mylifeisgood.ml/channels/tv1000.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338264 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=10338264
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338264 group-title="Фильмовые",TV1000 Action HD
 https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=17026466 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=17026466
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=17026466 group-title="Фильмовые",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",ТеRRa
+#EXT-INETRA-CHANNEL-INF: channel-id=318958309 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=318958309 group-title="Познавательные",ТеRRa
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
+#EXT-INETRA-CHANNEL-INF: channel-id=19343500 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=19343500 group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
-#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные",Discovery CEE HD
+#EXT-INETRA-CHANNEL-INF: channel-id=19343529 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=19343529 group-title="Познавательные",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные",Investigation Discovery HD
+#EXT-INETRA-CHANNEL-INF: channel-id=21349593 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=21349593 group-title="Познавательные",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
-#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар!
+#EXTINF:-1 group-title="Спортивные",Удар!
 http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport HD
+#EXT-INETRA-CHANNEL-INF: channel-id=31561633 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=31561633 group-title="Спортивные",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
-#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Фильмовые",Феникс + Кино
+#EXT-INETRA-CHANNEL-INF: channel-id=10338243 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338243 group-title="Фильмовые",Феникс + Кино
 https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
-#EXTINF:-1 tvg-id="sovsek" group-title="Познавательные",Top Secret
+#EXT-INETRA-CHANNEL-INF: channel-id=28035547 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28035547 group-title="Познавательные",Top Secret
 https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
-#EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD Music Television
+#EXT-INETRA-CHANNEL-INF: channel-id=26957011 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=26957011 group-title="Музыкальные",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 tvg-id="sovsek" group-title="Познавательные",Диалоги о Рыбалке
 http://2serv.mylifeisgood.ml:8080/channels/dialogiorybalke.m3u8
