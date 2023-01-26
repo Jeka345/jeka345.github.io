@@ -252,11 +252,11 @@ https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=15127974 group-title="Познавательные",Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338277 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=10338277
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338277 group-title="Детские",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=17406909 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=17406909
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=17406909 group-title="Музыкальные",Европа Плюс TV
 https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
@@ -264,11 +264,11 @@ https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=201337418 group-title="Детские",СТС Kids HD
 https://livetv.mylifeisgood.ml/channels/ctckids.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=304146513 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=304146513
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=304146513 group-title="Детские",Gulli Girl
 https://livetv.mylifeisgood.ml/channels/gulli.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338265 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=10338265
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338265 group-title="Детские",TIJI
 https://livetv.mylifeisgood.ml/channels/tiji.m3u8
@@ -276,7 +276,9 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=56370495 group-title="Детские",Рыжий
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
-#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
+#EXT-INETRA-CHANNEL-INF: channel-id=40466023 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=40466023 group-title="Познавательные",Первый Космический HD
 https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Vip Megahit HD
 https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
