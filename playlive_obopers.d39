@@ -416,45 +416,45 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=298356678 group-title="Музыкальные",Bridge Фрэш
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=161760856 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=161760856
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=161760856 group-title="Фильмовые",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=155734547 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=155734547
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=155734547 group-title="Фильмовые",НТВ Сериал
 https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=98195396 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF:
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=98195396 group-title="Фильмовые",НТВ Право
 https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=155734539 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF:
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=155734539 group-title="Фильмовые",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=205645079 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=298356678 group-title="Фильмовые",Trash
+#EXTINF:-1 cn-id=205645079 group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=264687296 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=298356678 group-title="Развлекательные",Живи Активно HD
+#EXTINF:-1 cn-id=264687296 group-title="Развлекательные",Живи Активно HD
 https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=235214853 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=298356678 group-title="Познавательные",Глазами Туриста
+#EXTINF:-1 cn-id=235214853 group-title="Познавательные",Глазами Туриста
 https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=298356678 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=298356678 group-title="Познавательные",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=36824328 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=298356678 group-title="Познавательные",Наша Сибирь HD
+#EXTINF:-1 cn-id=36824328 group-title="Познавательные",Наша Сибирь HD
 https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=298356678
+#EXT-INETRA-CHANNEL-INF: channel-id=122887256 recordable=true has-timeshift=true
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
-#EXTINF:-1 cn-id=298356678 group-title="Познавательные UHD",Наша Сибирь 4K
+#EXTINF:-1 cn-id=122887256 group-title="Познавательные UHD",Наша Сибирь 4K
 https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.ml/channels/radiorodniyxdorog.m3u8
