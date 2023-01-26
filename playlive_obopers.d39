@@ -12,7 +12,7 @@ https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXT-INETRA-STREAM-INF: id=3464 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=60995105 group-title="Эфирные" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=124166886 recordable=true 
+#EXT-INETRA-CHANNEL-INF: channel-id=124166886
 #EXT-INETRA-STREAM-INF: id=3288 aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=124166886 group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.ml/channels/ntv.m3u8
@@ -328,29 +328,29 @@ https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=318958309 group-title="Познавательные",ТеRRa
 https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=19343500 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=19343500
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=19343500 group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=19343529 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=19343529
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=19343529 group-title="Познавательные",Discovery CEE HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=21349593 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=21349593
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=21349593 group-title="Познавательные",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="Спортивные",Удар!
 http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=31561633 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=31561633
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=31561633 group-title="Спортивные",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=10338243 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=10338243
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=10338243 group-title="Фильмовые",Феникс + Кино
 https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
-#EXT-INETRA-CHANNEL-INF: channel-id=28035547 recordable=true has-timeshift=true
+#EXT-INETRA-CHANNEL-INF: channel-id=28035547
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=28035547 group-title="Познавательные",Top Secret
 https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
@@ -358,21 +358,35 @@ https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
 #EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
 #EXTINF:-1 cn-id=26957011 group-title="Музыкальные",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
-#EXTINF:-1 tvg-id="sovsek" group-title="Познавательные",Диалоги о Рыбалке
+#EXT-INETRA-CHANNEL-INF: channel-id=109821142 recordable=true has-timeshift=true
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=109821142 group-title="Познавательные",Диалоги о Рыбалке
 http://2serv.mylifeisgood.ml:8080/channels/dialogiorybalke.m3u8
-#EXTINF:-1 tvg-id="oruzhie" group-title="Познавательные",Оружие
+#EXT-INETRA-CHANNEL-INF: channel-id=17406889
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=17406889 group-title="Познавательные",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
-#EXTINF:-1 tvg-id="anekdottv" group-title="Развлекательные",Анекдот ТВ
+#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
-#EXTINF:-1 tvg-id="eurosport1-cee" group-title="Спортивные",Eurosport 1 HD
+#EXT-INETRA-CHANNEL-INF: channel-id=10338194
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=10338194 group-title="Спортивные",Eurosport 1 HD
 https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
-#EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные",Eurosport 2 HD
+#EXT-INETRA-CHANNEL-INF: channel-id=32141544
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=32141544 group-title="Спортивные",Eurosport 2 HD
 https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
-#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные",Setanta 1 HD
+#EXT-INETRA-CHANNEL-INF: channel-id=55566041
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=55566041 group-title="Спортивные",Setanta 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные",Setanta 2 HD
+#EXT-INETRA-CHANNEL-INF: channel-id=55566044
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=55566044 group-title="Спортивные",Setanta 2 HD
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
+#EXT-INETRA-CHANNEL-INF: channel-id=28551322
+#EXT-INETRA-STREAM-INF: aspect-ratio=16:9 provider-id=2
+#EXTINF:-1 cn-id=28551322 group-title="Спортивные",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
 https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
