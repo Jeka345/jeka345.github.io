@@ -414,6 +414,21 @@
 		"category":3
       },
 	  {
+			"id":97,
+			"name":"Baby Time",
+			"logo":"https://i.imgur.com/4SS2hVN.png",
+			"sources":[
+			{
+				"type":"native",
+				"streamSQ":"https://livetv.mylifeisgood.ml/channels/babytime.m3u8",
+				"startAsVitrina":false,
+				"sendStats":false,
+				"voiceChatEnabled":false
+			}
+		],
+		"category":3
+      },
+	  {
 			"id":400,
 			"name":"Россия 1 (+2)",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/ct/nclogo1497429979233.png",
@@ -818,7 +833,7 @@
 		"category":5
 	},
 	{
-			"id":400,
+			"id":96,
 			"name":"Старт Триумф HD",
 			"logo":"https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1663316664570.png",
 			"sources":[
