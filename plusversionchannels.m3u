@@ -51,13 +51,31 @@ https://livetv.mylifeisgood.ml/channels_shift/stsplus5.m3u8
 https://livetv.mylifeisgood.ml/channels_shift/stsplus6.m3u8
 #EXTINF:-1 tvg-id="sts-pl7" group-title="Федеральные",СТС (+7)
 https://livetv.mylifeisgood.ml/channels_shift/stsplus7.m3u8
-#EXTINF:-1 tvg-id="ntv-pl1" group-title="Федеральные",НТВ (+1)
+#EXTINF:-1 tvg-id="ntv-pl1" group-title="Федеральные",НТВ HD (+1)
 https://livetv.mylifeisgood.ml/channels_shift/ntvplus1.m3u8
-#EXTINF:-1 tvg-id="ntv-pl2" group-title="Федеральные",НТВ (+2)
+#EXTINF:-1 tvg-id="ntv-pl2" group-title="Федеральные",НТВ HD (+2)
 https://livetv.mylifeisgood.ml/channels_shift/ntvplus2.m3u8
-#EXTINF:-1 tvg-id="ntv-pl4" group-title="Федеральные",НТВ (+4)
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="Федеральные",НТВ HD (+4)
 https://livetv.mylifeisgood.ml/channels_shift/ntvplus4.m3u8
-#EXTINF:-1 tvg-id="ntv-pl7" group-title="Федеральные",НТВ (+7)
+#EXTINF:-1 tvg-id="ntv-pl7" group-title="Федеральные",НТВ HD (+7)
 https://livetv.mylifeisgood.ml/channels_shift/ntvplus7.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="Федеральные",ТНТ HD (+2)
+https://livetv.mylifeisgood.ml/channels_shift/tntplus2.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="Федеральные",ТНТ HD (+4)
+https://livetv.mylifeisgood.ml/channels_shift/tntplus4.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7" group-title="Федеральные",ТНТ HD (+7)
+https://livetv.mylifeisgood.ml/channels_shift/tntplus7.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="Федеральные",ТВ3 HD (+2)
+https://livetv.mylifeisgood.ml/channels_shift/tv3plus2.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl4" group-title="Федеральные",ТВ3 HD (+4)
+https://livetv.mylifeisgood.ml/channels_shift/tv3plus4.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="Федеральные",ТВ3 HD (+7)
+https://livetv.mylifeisgood.ml/channels_shift/tv3plus7.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2" group-title="Федеральные",Пятница HD (+2)
+https://livetv.mylifeisgood.ml/channels_shift/pyatnica2.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4" group-title="Федеральные",Пятница HD (+4)
+https://livetv.mylifeisgood.ml/channels_shift/pyatnica4.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl7" group-title="Федеральные",Пятница HD (+7)
+https://livetv.mylifeisgood.ml/channels_shift/pyatnica7.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" group-title="Федеральные",Первый (+4) HD
 https://livetv.mylifeisgood.ml/channels_shift/perviypl4.m3u8
