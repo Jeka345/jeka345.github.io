@@ -483,26 +483,6 @@
 		</channel>
 		<channel>
 			<id>5</id>
-			<title>Paramount Comedy</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612781530.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>2</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>6</id>
 			<title>360°</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1524557207303.png</logo>
 			<packages>
@@ -522,7 +502,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>7</id>
+			<id>6</id>
 			<title>Анекдот ТВ</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600539849.png</logo>
 			<packages>
@@ -542,7 +522,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>8</id>
+			<id>7</id>
 			<title>Ю</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/ct/nclogo1536331049265.png</logo>
 			<packages>
@@ -558,6 +538,26 @@
 				<link_channel>
 					<id>2</id>
 					<url_live>https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>1</id>
+			<title>Paramount Comedy</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612781530.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>15</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -623,26 +623,6 @@
 		</channel>
 		<channel>
 			<id>2</id>
-			<title>Nickelodeon HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612622596.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>4</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>3</id>
 			<title>Смайлик</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/broadcastChannel1594367487573.png</logo>
 			<packages>
@@ -662,7 +642,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>4</id>
+			<id>3</id>
 			<title>СТС Kids HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1534923709826.png</logo>
 			<packages>
@@ -682,7 +662,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>5</id>
+			<id>4</id>
 			<title>Gulli Girl</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536766285308.png</logo>
 			<packages>
@@ -702,7 +682,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>6</id>
+			<id>5</id>
 			<title>Tiji</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1606126555684.png</logo>
 			<packages>
@@ -722,27 +702,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>7</id>
-			<title>Рыжий</title>
-			<logo>https://imgur.com/9kQDKj0.jpg</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>4</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/ryjii.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>8</id>
+			<id>6</id>
 			<title>Baby Time</title>
 			<logo>https://i.imgur.com/4SS2hVN.png</logo>
 			<packages>
@@ -763,13 +723,53 @@
 		</channel>
 		<channel>
 			<id>1</id>
+			<title>Nickelodeon HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612622596.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>14</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>2</id>
+			<title>Рыжий</title>
+			<logo>https://imgur.com/9kQDKj0.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>14</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/ryjii.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>1</id>
 			<title>DTX HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1516106158586.png</logo>
 			<packages>
 			<id>3</id>
 			</packages>
 			<categories>
-				<id>5</id>
+				<id>13</id>
 			</categories>
 			<loc>
 				<id>100001</id>
@@ -789,7 +789,7 @@
 			<id>3</id>
 			</packages>
 			<categories>
-				<id>5</id>
+				<id>13</id>
 			</categories>
 			<loc>
 				<id>100001</id>
@@ -803,6 +803,126 @@
 		</channel>
 		<channel>
 			<id>3</id>
+			<title>Приключения</title>
+			<logo>http://imgur.com/2htbIea.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>4</id>
+			<title>Первый космический HD</title>
+			<logo>http://imgur.com/Ke0Cwtw.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/firstspace.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>5</id>
+			<title>Viju+ Planet HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514310571.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>6</id>
+			<title>Discovery CEE HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1567606530589.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/discovery.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>7</id>
+			<title>Investigation Discovery HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602255131051.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>8</id>
+			<title>HD Life</title>
+			<logo>http://cdnfilesproject.sytes.net/iptvdevcm/hd-life.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>13</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/hdlife.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>1</id>
 			<title>Моя Планета</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508246944970.png</logo>
 			<packages>
@@ -822,48 +942,8 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>4</id>
-			<title>Приключения</title>
-			<logo>http://imgur.com/2htbIea.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>5</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>5</id>
-			<title>Первый космический HD</title>
-			<logo>http://imgur.com/Ke0Cwtw.jpg</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>5</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/firstspace.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>6</id>
-			<title>Viasat History HD</title>
+			<id>2</id>
+			<title>Viju History HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514427579.png</logo>
 			<packages>
 			<id>3</id>
@@ -882,8 +962,8 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>7</id>
-			<title>Viasat Explore HD</title>
+			<id>3</id>
+			<title>Viju Explore HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593515024787.png</logo>
 			<packages>
 			<id>3</id>
@@ -902,8 +982,8 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>8</id>
-			<title>Viasat Nature HD</title>
+			<id>4</id>
+			<title>Viju Nature HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514405658.png</logo>
 			<packages>
 			<id>3</id>
@@ -922,8 +1002,8 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>9</id>
-			<title>Viasat Nature/History HD</title>
+			<id>5</id>
+			<title>Viju+ Planet HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514310571.png</logo>
 			<packages>
 			<id>3</id>
@@ -937,12 +1017,12 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.ml/channels/2b95329a396c7d38c6e4ff7da93d90ea88f016f9901d6d0e7b896217cdbefaa4.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
 		<channel>
-			<id>10</id>
+			<id>6</id>
 			<title>ТеRRa</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1664784646420.png</logo>
 			<packages>
@@ -962,47 +1042,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>11</id>
-			<title>Discovery CEE HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1567606530589.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>5</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discovery.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>12</id>
-			<title>Investigation Discovery HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1602255131051.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>5</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>13</id>
+			<id>7</id>
 			<title>Top Secret</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1616576008691.png</logo>
 			<packages>
@@ -1022,7 +1062,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>14</id>
+			<id>8</id>
 			<title>Диалоги о Рыбалке</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1544005813039.png</logo>
 			<packages>
@@ -1042,7 +1082,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>15</id>
+			<id>9</id>
 			<title>Оружие</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1547125351834.png</logo>
 			<packages>
@@ -1062,7 +1102,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>16</id>
+			<id>10</id>
 			<title>Загородный Int</title>
 			<logo>http://cdnfilesproject.sytes.net/iptvdevcm/zagorodint.jpeg</logo>
 			<packages>
@@ -1082,27 +1122,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>17</id>
-			<title>HD Life</title>
-			<logo>http://cdnfilesproject.sytes.net/iptvdevcm/hd-life.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>5</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/hdlife.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>18</id>
+			<id>11</id>
 			<title>Живи активно HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1626944669217.png</logo>
 			<packages>
@@ -1122,7 +1142,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>19</id>
+			<id>12</id>
 			<title>Глазами туриста</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1574337364513.png</logo>
 			<packages>
@@ -1142,7 +1162,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>20</id>
+			<id>13</id>
 			<title>Живая природа</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1574337312666.png</logo>
 			<packages>
@@ -1243,7 +1263,7 @@
 		</channel>
 		<channel>
 			<id>4</id>
-			<title>VIP Megahit HD</title>
+			<title>Viju+ Megahit HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514267143.png</logo>
 			<packages>
 			<id>3</id>
@@ -1263,7 +1283,7 @@
 		</channel>
 		<channel>
 			<id>5</id>
-			<title>VIP Comedy HD</title>
+			<title>Viju+ Comedy HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514287074.png</logo>
 			<packages>
 			<id>3</id>
@@ -1283,7 +1303,7 @@
 		</channel>
 		<channel>
 			<id>6</id>
-			<title>VIP Premiere HD</title>
+			<title>Viju+ Premiere HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514245957.png</logo>
 			<packages>
 			<id>3</id>
@@ -1303,7 +1323,7 @@
 		</channel>
 		<channel>
 			<id>7</id>
-			<title>VIP Serial HD</title>
+			<title>Viju+ Serial HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514331524.png</logo>
 			<packages>
 			<id>3</id>
@@ -1323,7 +1343,7 @@
 		</channel>
 		<channel>
 			<id>8</id>
-			<title>TV1000 HD</title>
+			<title>Viju TV1000 HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514194654.png</logo>
 			<packages>
 			<id>3</id>
@@ -1343,7 +1363,7 @@
 		</channel>
 		<channel>
 			<id>9</id>
-			<title>TV1000 Action HD</title>
+			<title>Viju TV1000 Action HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514116881.png</logo>
 			<packages>
 			<id>3</id>
@@ -1363,7 +1383,7 @@
 		</channel>
 		<channel>
 			<id>10</id>
-			<title>TV1000 Русское кино HD</title>
+			<title>Viju TV1000 Русское HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514220982.png</logo>
 			<packages>
 			<id>3</id>
@@ -1923,7 +1943,7 @@
 		</channel>
 		<channel>
 			<id>5</id>
-			<title>Viasat Sport HD</title>
+			<title>Viju+ Sport HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514353890.png</logo>
 			<packages>
 			<id>3</id>
@@ -1957,92 +1977,12 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.ml/channels/c79355164472b3009673eddfdad968d2.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
 		<channel>
 			<id>7</id>
-			<title>Eurosport 2 HD</title>
-			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>10</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>8</id>
-			<title>Setanta 1</title>
-			<logo>http://imgur.com/TTrQ6ru.jpg</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>10</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/setantahd.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>9</id>
-			<title>Setanta 2</title>
-			<logo>http://imgur.com/HqVJnKR.jpg</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>10</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>10</id>
-			<title>Матч! Планета</title>
-			<logo>http://imgur.com/h0IprYW.jpg</logo>
-			<packages>
-			<id>3</id>
-			</packages>
-			<categories>
-				<id>10</id>
-			</categories>
-			<loc>
-				<id>100001</id>
-			</loc>
-			<variables>
-				<link_channel>
-					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8</url_live>
-				</link_channel>
-			</variables>
-		</channel>
-		<channel>
-			<id>11</id>
 			<title>Матч! Футбол 1</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849518169.png</logo>
 			<packages>
@@ -2062,7 +2002,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>12</id>
+			<id>8</id>
 			<title>Матч! Футбол 2</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849557232.png</logo>
 			<packages>
@@ -2082,7 +2022,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>13</id>
+			<id>9</id>
 			<title>Матч! Футбол 3</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849594464.png</logo>
 			<packages>
@@ -2102,7 +2042,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>14</id>
+			<id>10</id>
 			<title>Матч! Арена</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342776484.png</logo>
 			<packages>
@@ -2122,7 +2062,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>15</id>
+			<id>11</id>
 			<title>Матч! Премьер</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1532694999220.png</logo>
 			<packages>
@@ -2142,7 +2082,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>16</id>
+			<id>12</id>
 			<title>Матч! Боец</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342827185.png</logo>
 			<packages>
@@ -2162,7 +2102,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>17</id>
+			<id>13</id>
 			<title>Матч! Игра</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342544109.png</logo>
 			<packages>
@@ -2182,7 +2122,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>18</id>
+			<id>14</id>
 			<title>KHL HD</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1630923422608.png</logo>
 			<packages>
@@ -2202,7 +2142,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>19</id>
+			<id>15</id>
 			<title>KHL Prime</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1646924257894.png</logo>
 			<packages>
@@ -2218,6 +2158,106 @@
 				<link_channel>
 					<id>2</id>
 					<url_live>https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>1</id>
+			<title>Eurosport 1 HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508251593211.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>16</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>2</id>
+			<title>Eurosport 2 HD</title>
+			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>16</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>3</id>
+			<title>Setanta 1</title>
+			<logo>http://imgur.com/TTrQ6ru.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>16</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/setantahd.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>4</id>
+			<title>Setanta 2</title>
+			<logo>http://imgur.com/HqVJnKR.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>16</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>5</id>
+			<title>Матч! Планета</title>
+			<logo>http://imgur.com/h0IprYW.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>16</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>

@@ -31,6 +31,22 @@
 				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
 				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
 	</row>
+	<row number="14">
+		<GenreDictionary_externalId>int1</GenreDictionary_externalId>
+		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
+		<GenreDictionary_parent/><GenreDictionary_accessLevel>3</GenreDictionary_accessLevel>
+		<GenreDictionary_isSecondary>0</GenreDictionary_isSecondary>
+		<ID_Category>15</ID_Category>
+		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
+		<Name_Category>💥Развлекательные [VPN ONLY]</Name_Category>
+		<GenreDictionary_description/>
+			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
+			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
+			<GenreDictionary_internalId/><GenreDictionary_latinExternalId/>
+			<GenreDictionary_langId/>
+				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
+				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
+	</row>
 	<row number="2">
 		<GenreDictionary_externalId>int2</GenreDictionary_externalId>
 		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
@@ -63,6 +79,22 @@
 				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
 				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
 	</row>
+	<row number="13">
+		<GenreDictionary_externalId>int3</GenreDictionary_externalId>
+		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
+		<GenreDictionary_parent/><GenreDictionary_accessLevel>3</GenreDictionary_accessLevel>
+		<GenreDictionary_isSecondary>0</GenreDictionary_isSecondary>
+		<ID_Category>14</ID_Category>
+		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
+		<Name_Category>👩‍🚀Детские [VPN ONLY]</Name_Category>
+		<GenreDictionary_description/>
+			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
+			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
+			<GenreDictionary_internalId/><GenreDictionary_latinExternalId/>
+			<GenreDictionary_langId/>
+				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
+				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
+	</row>
 	<row number="4">
 		<GenreDictionary_externalId>int4</GenreDictionary_externalId>
 		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
@@ -71,6 +103,22 @@
 		<ID_Category>5</ID_Category>
 		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
 		<Name_Category>🌏Познавательные</Name_Category>
+		<GenreDictionary_description/>
+			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
+			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
+			<GenreDictionary_internalId/><GenreDictionary_latinExternalId/>
+			<GenreDictionary_langId/>
+				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
+				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
+	</row>
+	<row number="12">
+		<GenreDictionary_externalId>int4</GenreDictionary_externalId>
+		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
+		<GenreDictionary_parent/><GenreDictionary_accessLevel>3</GenreDictionary_accessLevel>
+		<GenreDictionary_isSecondary>0</GenreDictionary_isSecondary>
+		<ID_Category>13</ID_Category>
+		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
+		<Name_Category>🌏Познавательные [VPN ONLY]</Name_Category>
 		<GenreDictionary_description/>
 			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
 			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
@@ -151,6 +199,22 @@
 		<ID_Category>10</ID_Category>
 		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
 		<Name_Category>🏑Спортивные</Name_Category>
+		<GenreDictionary_description/>
+			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
+			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
+			<GenreDictionary_internalId/><GenreDictionary_latinExternalId/>
+			<GenreDictionary_langId/>
+				<GenreDictionary_hasChildren>1</GenreDictionary_hasChildren>
+				<GenreDictionary_isFinal>1</GenreDictionary_isFinal>
+	</row>
+	<row number="15">
+		<GenreDictionary_externalId>int8</GenreDictionary_externalId>
+		<GenreDictionary_isVirtualCity>0</GenreDictionary_isVirtualCity>
+		<GenreDictionary_parent/><GenreDictionary_accessLevel>3</GenreDictionary_accessLevel>
+		<GenreDictionary_isSecondary>0</GenreDictionary_isSecondary>
+		<ID_Category>16</ID_Category>
+		<GenreDictionary_DISCRIMINATOR>GENREDICTIONARY</GenreDictionary_DISCRIMINATOR>
+		<Name_Category>🏑Спортивные [VPN ONLY]</Name_Category>
 		<GenreDictionary_description/>
 			<GenreDictionary_sortOrder>0</GenreDictionary_sortOrder>
 			<GenreDictionary_logo/><GenreDictionary_ownerUser/>
