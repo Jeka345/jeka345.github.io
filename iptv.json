@@ -105,16 +105,16 @@
             "name": "Мир HD",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/mir/mir0.m3u8"
+                    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
                 }
             ]
         },
         {
             "number": 12,
-            "name": "НТС",
+            "name": "Start Triumf",
             "sources": [
                 {
-                    "url": "https://strm.yandex.ru/kal/nts/nts0.m3u8"
+                    "url": "https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8"
                 }
             ]
         },
