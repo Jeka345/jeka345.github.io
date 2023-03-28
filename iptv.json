@@ -372,11 +372,11 @@
         },
 		{
             "number": 41,
-            "name": "Paramount Channel",
+            "name": "Baby Time",
             "sources": 
 			[
                 {
-                    "url": "https://livetv.mylifeisgood.ml/channels/paramount_channel"
+                    "url": "https://livetv.mylifeisgood.ml/channels/babytime.m3u8"
                 }
             ]
         },
@@ -412,31 +412,21 @@
 		},
 		{
 			"number": 45,
-			"name": "1HD Music Television",
+			"name": "Звезда",
 			"sources": 
 			[
                 {
-                    "url": ""
+                    "url": "https://livetv.mylifeisgood.ml/channels/9e56945777f23245f68f7ba074a7ff33.m3u8"
                 }
             ]
 		},
 		{
 			"number": 46,
-			"name": "Trash",
+			"name": "Дыра",
 			"sources": 
 			[
                 {
-                    "url": ""
-                }
-            ]
-		},
-		{
-			"number": 47,
-			"name": "Живи Активно",
-			"sources": 
-			[
-                {
-                    "url": ""
+                    "url": "https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8"
                 }
             ]
 		}
