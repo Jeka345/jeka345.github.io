@@ -439,6 +439,40 @@
                     "url": "http://live-1.otcnet.ru/TiJi_OT/index.m3u8"
                 }
             ]
-		}
+		},
+		{
+			"number": 48,
+			"name": "Глазами Туриста",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8"
+                }
+            ],
+			"image_link": "https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1574337364513.png"
+		},
+		{
+			"number": 49,
+			"name": "Живая природа",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8"
+                }
+            ],
+			"image_link": "http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1574337312666.png"
+		},
+		{
+			"number": 50,
+			"name": "Наша Сибирь 4K",
+			"sources": 
+			[
+                {
+                    "url": "https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8"
+                }
+            ],
+			"image_link": "http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601882614829.png"
+		},
+		
     ]
 }

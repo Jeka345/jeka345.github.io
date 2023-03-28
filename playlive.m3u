@@ -217,7 +217,7 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Фрэш
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Rock
 https://livetv.mylifeisgood.ml/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
