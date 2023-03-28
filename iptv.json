@@ -429,6 +429,16 @@
                     "url": "https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8"
                 }
             ]
+		},
+		{
+			"number": 47,
+			"name": "Tiji",
+			"sources": 
+			[
+                {
+                    "url": "http://live-1.otcnet.ru/TiJi_OT/index.m3u8"
+                }
+            ]
 		}
     ]
 }
