@@ -4,16 +4,17 @@
 		{
 			"Name": "IPTV Player от софтовой помойки",
 			"NeedUpdate": true,
-			"version": "1.0.0.5",
+			"version": "1.0.0.6",
 			"newfeatures": 
 			[
 				"Добавлены новые каналы",
 				"Полностью убраны лаги",
 				"Добавлена программа передач",
 				"Добавлены настройки",
-				"Отвязана папка libvlc"
+				"Отвязана папка libvlc",
+				"Для версии 1.0.0.5 => 1.0.0.6 - Исправлена работа с внешним плеером"
 			],
-			"LinkDownload": "https://github.com/Jeka345/cmliveplayerlivetv/releases/download/ReleaseAPP/tvonyoupcupdate.zip"
+			"LinkDownload": "https://github.com/Jeka345/cmliveplayerlivetv/releases/tag/ReleaseFix"
 		}
 	]
 }
