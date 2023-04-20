@@ -15,6 +15,13 @@
 				"Для версии 1.0.0.5 => 1.0.0.6 - Исправлена работа с внешним плеером"
 			],
 			"LinkDownload": "https://github.com/Jeka345/cmliveplayerlivetv/releases/tag/ReleaseFix"
+		},
+		{
+			"Name": "Генератор конфигурации StalkerHek",
+			"NeedUpdate": false,
+			"version": "1.0.0.0",
+			"newfeatures": [],
+			"LinkDownload": ""
 		}
 	]
 }
