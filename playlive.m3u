@@ -75,6 +75,10 @@ https://livetv.mylifeisgood.ml/channels/kinotv.m3u8
 https://livetv.mylifeisgood.ml/channels/fox.m3u8
 #EXTINF:-1 tvg-id="sapfir" group-title="Фильмовые",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="Фильмовые",Fox
+https://livetv.mylifeisgood.ml/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="Фильмовые",Fox Life
+https://livetv.mylifeisgood.ml/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
 https://livetv.mylifeisgood.ml/channels/vestifm.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
@@ -131,6 +135,12 @@ https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные GeoBlock" channel-number="807",Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
+https://livetv.mylifeisgood.ml/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u8
+#EXTINF:-1 tvg-id="denpobedy" group-title="Познавательные",День победы HD
+https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1 tvg-id="arsenaltv" group-title="Познавательные",Арсенал
+https://livetv.mylifeisgood.ml/channels/1c5442c0461e5186126aaba26edd6857.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские GeoBlock" channel-number="701",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс TV
@@ -145,6 +155,8 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные GeoBlock" channel-number="805",Первый Космический HD
 https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательные",Первый Космический HD
+https://livetv.mylifeisgood.ml/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Фильмовые",Viju+ Megahit HD
 https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Фильмовые",Viju+ Comedy HD
