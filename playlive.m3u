@@ -211,6 +211,8 @@ https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 https://livetv.mylifeisgood.ml/channels/c79355164472b3009673eddfdad968d2.m3u8
 #EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные GeoBlock" channel-number="696",Eurosport 2 HD
 https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+#EXTINF:-1 tvg-id="eurosport2_cee_hd" group-title="Спортивные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv19/300/${start}.m3u8",Eurosport 2 CEE HD
+https://livetv.mylifeisgood.ml/channels/EBA1190ED13F274A87C47FECE5148C58.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные GeoBlock" channel-number="697",Setanta 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные GeoBlock" channel-number="698",Setanta 2 HD
