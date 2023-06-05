@@ -1182,6 +1182,86 @@
 			</variables>
 		</channel>
 		<channel>
+			<id>14</id>
+			<title>Первый космический HD</title>
+			<logo>http://imgur.com/Ke0Cwtw.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>5</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>15</id>
+			<title>Приключения</title>
+			<logo>http://imgur.com/2htbIea.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>5</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>16</id>
+			<title>День победы</title>
+			<logo>https://i.imgur.com/yfHwqAG.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>5</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>17</id>
+			<title>Арсенал</title>
+			<logo>https://i.imgur.com/R0l5Ai2.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>5</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/1c5442c0461e5186126aaba26edd6857.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
 			<id>1</id>
 			<title>Наша Сибирь 4К [HEVEC]</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1601882614829.png</logo>
@@ -1558,6 +1638,46 @@
 				<link_channel>
 					<id>2</id>
 					<url_live>https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>19</id>
+			<title>Fox CEE HD</title>
+			<logo>https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1536308528386.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>7</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/29a579b5d4f87bcf39d44495caafd336.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>20</id>
+			<title>Fox Life CEE HD</title>
+			<logo>https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1508933868682.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>7</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/0ba661f11d67b07b82619dfef60243b6.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1983,6 +2103,26 @@
 		</channel>
 		<channel>
 			<id>7</id>
+			<title>Eurosport 2 HD</title>
+			<logo>https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1579851788766.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>10</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.ml/channels/EBA1190ED13F274A87C47FECE5148C58.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>8</id>
 			<title>Матч! Футбол 1</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849518169.png</logo>
 			<packages>
@@ -2002,7 +2142,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>8</id>
+			<id>9</id>
 			<title>Матч! Футбол 2</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849557232.png</logo>
 			<packages>
@@ -2022,7 +2162,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>9</id>
+			<id>10</id>
 			<title>Матч! Футбол 3</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1501849594464.png</logo>
 			<packages>
@@ -2042,7 +2182,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>10</id>
+			<id>11</id>
 			<title>Матч! Арена</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342776484.png</logo>
 			<packages>
@@ -2062,7 +2202,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>11</id>
+			<id>12</id>
 			<title>Матч! Премьер</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1532694999220.png</logo>
 			<packages>
@@ -2082,7 +2222,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>12</id>
+			<id>13</id>
 			<title>Матч! Боец</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342827185.png</logo>
 			<packages>
@@ -2102,7 +2242,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>13</id>
+			<id>14</id>
 			<title>Матч! Игра</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1497342544109.png</logo>
 			<packages>
@@ -2122,7 +2262,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>14</id>
+			<id>15</id>
 			<title>KHL HD</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1630923422608.png</logo>
 			<packages>
@@ -2142,7 +2282,7 @@
 			</variables>
 		</channel>
 		<channel>
-			<id>15</id>
+			<id>16</id>
 			<title>KHL Prime</title>
 			<logo>https://itv.svc.iptv.rt.ru/sdp/vlg/nclogo1646924257894.png</logo>
 			<packages>
