@@ -58,7 +58,7 @@ https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Солнце
 https://livetv.mylifeisgood.ml/channels/disney.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт [TEST]
-https://livetv.mylifeisgood.ml/channels/multhd.m3u8
+https://livetv.mylifeisgood.ml/channels/multhd
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Детские GeoBlock" channel-number="700",Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Детские" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv17/detmir/index-${start}-${offset}.m3u8",Детский Мир
