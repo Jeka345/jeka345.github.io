@@ -17,7 +17,7 @@
 			<variables>
 				<link_channel>
 					<id>1</id>
-					<url_live>https://livetv.mylifeisgood.ml/testfilm/41028/440/1080p/film.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/testfilm/41028/440/1080p/film.m3u8</url_live>
 				</link_channel>	
 		</variables>
 		</channel>
