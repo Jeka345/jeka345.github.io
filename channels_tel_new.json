@@ -10,7 +10,33 @@
 			   "first_ad": 1
 		    }
 		},
-		"stat":{"gpm":{"server":"localhost","data":[]}},"ratingWindow":{"min_rating":0,"first_show":0,"first_show_after_close":0,"show_after_dontshow":0},"subscriptions":[{"product_id": "no_ads","title": "Тест подписка","desc": "Тут когда нибудь, что нибудь появится...","cost": 0}]},
+		"stat":
+		{
+			"gpm":
+			{
+				"server":"localhost",
+				"data":[]}},
+				"ratingWindow":
+				{
+					"min_rating":0,
+					"first_show":0,
+					"first_show_after_close":0,
+					"show_after_dontshow":0
+				},
+				"subscriptions":[{"product_id": "no_ads","title": "Тест подписка","desc": "Тут когда нибудь, что нибудь появится...","cost": 0}]
+			},
+			"update": 
+			{
+				"needUpdate": true,
+				"canSkip": false,
+				"whatNew": {
+					"title": "ТВ на твоем андроиде (телефон)",
+					"description": "Важное обновление, просим установить новую версию приложения",
+					"items": []
+				},
+				"link_app": "https://bit.ly/updatedroid343",
+				"app_version": "1.1.20"
+			},
 	"channels":[
 	{
 		"id":1,
