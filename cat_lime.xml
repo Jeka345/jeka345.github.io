@@ -1,0 +1,34 @@
+<rows version="0" code="0">
+	<row number="0">
+		<ID_Category>1</ID_Category>
+		<Name_Category>Федеральные</Name_Category>
+	</row>
+	<row number="1">
+		<ID_Category>2</ID_Category>
+		<Name_Category>Развлекательные</Name_Category>
+	</row>
+	<row number="2">
+		<ID_Category>3</ID_Category>
+		<Name_Category>Детские</Name_Category>
+	</row>
+	<row number="3">
+		<ID_Category>4</ID_Category>
+		<Name_Category>Музыкальные</Name_Category>
+	</row>
+	<row number="4">
+		<ID_Category>5</ID_Category>
+		<Name_Category>Информационные</Name_Category>
+	</row>
+	<row number="4">
+		<ID_Category>6</ID_Category>
+		<Name_Category>Фильмовые</Name_Category>
+	</row>
+	<row number="5">
+		<ID_Category>7</ID_Category>
+		<Name_Category>Познавательные</Name_Category>
+	</row>
+	<row number="6">
+		<ID_Category>11</ID_Category>
+		<Name_Category>Региональные</Name_Category>
+	</row>
+</rows>
