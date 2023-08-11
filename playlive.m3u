@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://livetv.mylifeisgood.net.ru/btx/foxtv"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
@@ -77,10 +77,6 @@ https://livetv.mylifeisgood.net.ru/channels/kinotv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
 #EXTINF:-1 tvg-id="sapfir" group-title="Фильмовые",Сапфир
 https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8
-#EXTINF:-1 tvg-id="fox_btt" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4511/${start}.m3u8",Fox HD CEE
-https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
-#EXTINF:-1 tvg-id="foxlife_btt" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4510/${start}.m3u8",Fox Life HD CEE
-https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 tvg-id="vesti-fm" group-title="Радио",VestiFM
 https://livetv.mylifeisgood.net.ru/channels/vestifm.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="Региональные",Москва 24
@@ -233,7 +229,7 @@ https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge Rock
+#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные",Bridge Rock
 https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
