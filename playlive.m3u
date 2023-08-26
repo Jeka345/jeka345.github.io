@@ -57,7 +57,7 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Солнце
 https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
-#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт [TEST]
+#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт
 https://livetv.mylifeisgood.net.ru/channels/multhd
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Детские GeoBlock" channel-number="700",Nickelodeon HD
 https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
@@ -209,8 +209,6 @@ https://livetv.mylifeisgood.net.ru/channels/eurosport1ru.m3u8
 https://livetv.mylifeisgood.net.ru/channels/c79355164472b3009673eddfdad968d2.m3u8
 #EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные GeoBlock" channel-number="696",Eurosport 2 HD
 https://livetv.mylifeisgood.net.ru/channels/eurosport2.m3u8
-#EXTINF:-1 tvg-id="eurosport2_cee_hd" group-title="Спортивные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/300/${start}.m3u8",Eurosport 2 CEE HD
-https://livetv.mylifeisgood.net.ru/channels/EBA1190ED13F274A87C47FECE5148C58.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные GeoBlock" channel-number="697",Setanta 1 HD
 https://livetv.mylifeisgood.net.ru/channels/setantahd.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные GeoBlock" channel-number="698",Setanta 2 HD
@@ -231,14 +229,20 @@ https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные",Bridge Rock
 https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/3781/${start}",НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/784/${start}",НТВ Сериал
 https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" group-title="Фильмовые",НТВ Право
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/785/${start}",НТВ Право
 https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 tvg-id="ntv-style" group-title="Фильмовые",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/786/${start}",НТВ Стиль
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал HD
+https://livetv.mylifeisgood.net.ru/channels/ntvserial_hd.m3u8
+#EXTINF:-1 tvg-id="ntv-style" group-title="Фильмовые",НТВ Стиль HD
+https://livetv.mylifeisgood.net.ru/channels/ntvstyle_hd.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno" group-title="Развлекательные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/5046/${start}",Живи Активно HD
@@ -251,6 +255,14 @@ https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K
 https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
+#EXTINF:-1 tvg-id="travel-xp-4k" group-title="Познавательные UHD",Travel XP 4K [TEST]
+https://livetv.mylifeisgood.net.ru/channels/a3846a87fd771460d16978436ccc8f77.m3u8
+#EXTINF:-1 tvg-id="quadro4k" group-title="Познавательные UHD",QUADRO 4K [TEST]
+https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8
+#EXTINF:-1 tvg-id="nasa4k" group-title="Познавательные UHD",NASA UHD [TEST]
+https://livetv.mylifeisgood.net.ru/channels/48d3547a93414fc8c173517bd7edf9fd.m3u8
+#EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",HOME 4K [TEST]
+https://livetv.mylifeisgood.net.ru/channels/0fcf4d9882d7bde663310c9820c74381.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.net.ru/channels/radiorodniyxdorog.m3u8
 #EXTINF:-1 tvg-id="" group-title="Радио",Дорожное Радио
