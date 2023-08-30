@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://livetv.mylifeisgood.net.ru/btx/foxtv"
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1
@@ -213,6 +213,10 @@ https://livetv.mylifeisgood.net.ru/channels/eurosport2.m3u8
 https://livetv.mylifeisgood.net.ru/channels/setantahd.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные GeoBlock" channel-number="698",Setanta 2 HD
 https://livetv.mylifeisgood.net.ru/channels/setantaplus.m3u8
+#EXTINF:-1 tvg-id="fox_btt" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4511/${start}.m3u8",Fox HD CEE [TEST]
+https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
+#EXTINF:-1 tvg-id="foxlife_btt" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4510/${start}.m3u8",Fox Life HD CEE [TEST]
+https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные GeoBlock" channel-number="699",Матч! Планета
 https://livetv.mylifeisgood.net.ru/channels/matchplaneta.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыкальные",Bridge
