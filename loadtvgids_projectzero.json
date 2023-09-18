@@ -1,0 +1,1149 @@
+{
+  "channels": [
+    {
+      "title": "Первый HD",
+      "group": "Эфирные",
+      "tvg-id": "pervy"
+    },
+    {
+      "title": "Россия 1",
+      "group": "Эфирные",
+      "tvg-id": "rossia1"
+    },
+    {
+      "title": "Матч!",
+      "group": "Спортивные",
+      "tvg-id": "match-tv"
+    },
+    {
+      "title": "НТВ",
+      "group": "Эфирные",
+      "tvg-id": "ntv"
+    },
+    {
+      "title": "Пятый канал",
+      "group": "Эфирные",
+      "tvg-id": "5kanal-ru"
+    },
+    {
+      "title": "Россия Культура",
+      "group": "Познавательные",
+      "tvg-id": "kultura"
+    },
+    {
+      "title": "Россия 24",
+      "group": "Эфирные",
+      "tvg-id": "rossia-24"
+    },
+    {
+      "title": "Карусель",
+      "group": "Детские",
+      "tvg-id": "karusel"
+    },
+    {
+      "title": "ОТР",
+      "group": "Эфирные",
+      "tvg-id": "otr"
+    },
+    {
+      "title": "ТВ Центр",
+      "group": "Эфирные",
+      "tvg-id": "tvcentr"
+    },
+    {
+      "title": "Рен ТВ",
+      "group": "Эфирные",
+      "tvg-id": "rentv"
+    },
+    {
+      "title": "Спас",
+      "group": "Религиозные",
+      "tvg-id": "spas"
+    },
+    {
+      "title": "СТС",
+      "group": "Развлекательные",
+      "tvg-id": "sts"
+    },
+    {
+      "title": "Домашний",
+      "group": "Женские",
+      "tvg-id": "domashny"
+    },
+    {
+      "title": "ТВ3",
+      "group": "Развлекательные",
+      "tvg-id": "tv3-ru"
+    },
+    {
+      "title": "Пятница",
+      "group": "Развлекательные",
+      "tvg-id": "piatnica"
+    },
+    {
+      "title": "Звезда",
+      "group": "Эфирные",
+      "tvg-id": "zvezda"
+    },
+    {
+      "title": "Мир",
+      "group": "Эфирные",
+      "tvg-id": "mir"
+    },
+    {
+      "title": "ТНТ",
+      "group": "Развлекательные",
+      "tvg-id": "tnt"
+    },
+    {
+      "title": "Муз ТВ",
+      "group": "Музыкальные",
+      "tvg-id": "muztv"
+    },
+    {
+      "title": "ОРТ",
+      "group": "Региональные",
+      "tvg-id": "ort-planeta-orenburg"
+    },
+    {
+      "title": "Город (Оренбург)",
+      "group": "Региональные",
+      "tvg-id": "no_epg"
+    },
+    {
+      "title": "8 канал",
+      "group": "Информационные",
+      "tvg-id": "8kanal-ru"
+    },
+    {
+      "title": "Евразия",
+      "group": "Региональные",
+      "tvg-id": "evrasia"
+    },
+    {
+      "title": "Открытый мир",
+      "group": "Познавательные",
+      "tvg-id": "otkryty-mir"
+    },
+    {
+      "title": "ОРЕН-ТВ",
+      "group": "Региональные",
+      "tvg-id": "no_epg"
+    },
+    {
+      "title": "CuriosityStream",
+      "group": "Познавательные",
+      "tvg-id": "curiosity-stream"
+    },
+    {
+      "title": "7 канал",
+      "group": "Региональные",
+      "tvg-id": "7kanal-krasnoyarsk"
+    },
+    {
+      "title": "Дом.ру Гид HD",
+      "group": "Информационные",
+      "tvg-id": "no_epg"
+    },
+    {
+      "title": "Россия 1 HD",
+      "group": "Информационные",
+      "tvg-id": "rossia1"
+    },
+    {
+		"title": "Shopping live",
+		"group": "Телемагазины",
+		"tvg-id": "shopping-live"
+    },
+	{
+		"title": "Shop&show",
+		"group": "Телемагазины",
+		"tvg-id": "shop-n-show"
+	},
+	{
+		"title": "Че",
+		"group": "Развлекательные",
+		"tvg-id": "che"
+	},
+	{
+		"title": "Ювелирочка",
+		"group": "Телемагазины",
+		"tvg-id": "yuvelirochka"
+	},
+	{
+		"title": "СОЛНЦЕ",
+		"group": "Детские",
+		"tvg-id": "solnce"
+	},
+	{
+		"title": "Ю",
+		"group": "Развлекательные",
+		"tvg-id": "yu"
+	},
+	{
+		"title": "Ювелирочка",
+		"group": "Телемагазины",
+		"tvg-id": "yuvelirochka"
+	},
+	{
+		"title": "Leomax24",
+		"group": "Телемагазины",
+		"tvg-id": "shop24"
+    },
+	{
+      "title": "ТНТ HD",
+      "group": "Развлекательные",
+      "tvg-id": "tnt"
+    },
+    {
+      "title": "Мосфильм. Золотая коллекция HD",
+      "group": "Фильмовые",
+      "tvg-id": "mosfilm"
+    },
+    {
+      "title": "Рен ТВ HD",
+      "group": "Эфирные",
+      "tvg-id": "rentv"
+    },
+    {
+      "title": "НТВ HD",
+      "group": "Эфирные",
+      "tvg-id": "ntv"
+    },
+	{
+		"title": "СТС HD",
+		"group": "Эфирные",
+		"tvg-id": "sts"
+	},
+	{
+		"title": "Пятница HD",
+		"group": "Эфирные",
+		"tvg-id": "piatnica"		
+	},
+	{
+		"title": "ОТР HD - телеканал",
+		"group": "Региональные",
+		"tvg-id": "otr"		
+	},
+	{
+		"title": "Домашний HD",
+		"group": "Эфирные",
+		"tvg-id": "domashny"		
+	},
+	{
+		"title": "ТВ-3 HD",
+		"group": "Эфирные",
+		"tvg-id": "tv3-ru"		
+	},
+	{
+		"title": "Мир HD",
+		"group": "Эфирные",
+		"tvg-id": "mir"		
+	},
+    {
+      "title": "Русский роман HD",
+      "group": "Фильмовые",
+      "tvg-id": "russky-roman"
+    },
+    {
+      "title": "Русский Бестселлер",
+      "group": "Фильмовые",
+      "tvg-id": "russky-bestseller"
+    },
+    {
+      "title": "Русский Детектив",
+      "group": "Фильмовые",
+      "tvg-id": "russky-detektiv"
+    },
+    {
+      "title": "Киноужас HD",
+      "group": "Фильмовые",
+      "tvg-id": "kinouzhas"
+    },
+	{
+      "title": "Viju+ Megahit",
+      "group": "Фильмовые",
+      "tvg-id": "vip-megahit"
+    },
+    {
+      "title": "Дом Кино",
+      "group": "Фильмовые",
+      "tvg-id": "domkino"
+    },
+    {
+      "title": "Суббота",
+      "group": "Развлекательные",
+      "tvg-id": "super"
+    },
+    {
+      "title": "Кинеко",
+      "group": "Фильмовые",
+      "tvg-id": "kineko"
+    },
+    {
+      "title": "Сапфир",
+      "group": "Фильмовые",
+      "tvg-id": "sapfir"
+    },
+    {
+      "title": ".red",
+      "group": "Фильмовые",
+      "tvg-id": "sony-enter"
+    },
+    {
+      "title": ".sci-fi",
+      "group": "Фильмовые",
+      "tvg-id": "sony-scifi"
+    },
+    {
+      "title": "Кинокомедия",
+      "group": "Фильмовые",
+      "tvg-id": "kinokomedia"
+    },
+    {
+      "title": "Start Air",
+      "group": "Фильмовые",
+      "tvg-id": "sapfir"
+    },
+    {
+      "title": "Кино ТВ",
+      "group": "Фильмовые",
+      "tvg-id": "kino-tv"
+    },
+    {
+      "title": "Киномикс",
+      "group": "Фильмовые",
+      "tvg-id": "kinomiks"
+    },
+    {
+      "title": "Наше Новое Кино",
+      "group": "Фильмовые",
+      "tvg-id": "nashe-novoe-kino"
+    },
+    {
+      "title": "СТС Love",
+      "group": "Развлекательные",
+      "tvg-id": "sts-love"
+    },
+    {
+      "title": ".black",
+      "group": "Фильмовые",
+      "tvg-id": "sony-turbo"
+    },
+    {
+      "title": "Киносемья",
+      "group": "Фильмовые",
+      "tvg-id": "kinosemiya"
+    },
+    {
+      "title": "A2",
+      "group": "Фильмовые",
+      "tvg-id": "amedia2"
+    },
+    {
+      "title": "A1",
+      "group": "Фильмовые",
+      "tvg-id": "amedia1"
+    },
+    {
+      "title": "Amedia Premium HD",
+      "group": "Фильмовые",
+      "tvg-id": "amedia-premium"
+    },
+    {
+      "title": "Иллюзион+",
+      "group": "Фильмовые",
+      "tvg-id": "illuzion-plus"
+    },
+    {
+      "title": "Hollywood HD",
+      "group": "Фильмовые",
+      "tvg-id": "hollywood-hd"
+    },
+	{
+      "title": "Viju+ Premiere",
+      "group": "Фильмовые",
+      "tvg-id": "vip-premiere"
+    },
+	{
+      "title": "Viju+ comedy",
+      "group": "Фильмовые",
+      "tvg-id": "vip-comedy"
+    },
+    {
+      "title": "Кинопремьера HD",
+      "group": "Фильмовые",
+      "tvg-id": "kinopremiera-hd"
+    },
+    {
+      "title": "Киносвидание HD",
+      "group": "Фильмовые",
+      "tvg-id": "kinosvidanie"
+    },
+    {
+      "title": "Настоящее страшное телевидение",
+      "group": "Фильмовые",
+      "tvg-id": "nst"
+    },
+    {
+      "title": "Amedia HIT HD",
+      "group": "Фильмовые",
+      "tvg-id": "amedia-hit"
+    },
+    {
+      "title": "Русский Иллюзион",
+      "group": "Фильмовые",
+      "tvg-id": "russky-illuzion"
+    },
+    {
+      "title": "Кинохит HD",
+      "group": "Фильмовые",
+      "tvg-id": "kinoxit"
+    },
+    {
+      "title": "Родное Кино",
+      "group": "Фильмовые",
+      "tvg-id": "rodnoe-kino"
+    },
+    {
+      "title": "Дом Кино Премиум HD",
+      "group": "Фильмовые",
+      "tvg-id": "domkino-premium"
+    },
+    {
+      "title": "viju ТВ1000 Русское",
+      "group": "Фильмовые",
+      "tvg-id": "tv1000-russkoe-kino"
+    },
+    {
+      "title": "Мужское Кино HD",
+      "group": "Фильмовые",
+      "tvg-id": "muzhskoe-kino"
+    },
+	{
+      "title": "viju ТВ1000",
+      "group": "Фильмовые",
+      "tvg-id": "tv1000"
+    },
+	{
+      "title": "viju ТВ1000 Action",
+      "group": "Фильмовые",
+      "tvg-id": "tv1000-action"
+    },
+    {
+      "title": "Cinema",
+      "group": "Фильмовые",
+      "tvg-id": "cinema-ru"
+    },
+    {
+      "title": "Дорама",
+      "group": "Фильмовые",
+      "tvg-id": "dorama"
+    },
+    {
+      "title": "Комедия",
+      "group": "Фильмовые",
+      "tvg-id": "russkaya-komedia"
+    },
+    {
+      "title": "Камеди",
+      "group": "Фильмовые",
+      "tvg-id": "kamedi"
+    },
+    {
+      "title": "Киносерия",
+      "group": "Фильмовые",
+      "tvg-id": "kinoseria"
+    },
+    {
+      "title": "Star Familly",
+      "group": "Фильмовые",
+      "tvg-id": "star-family"
+    },
+    {
+      "title": "Star Cinema",
+      "group": "Фильмовые",
+      "tvg-id": "star-cinema"
+    },
+    {
+      "title": "Plan B",
+      "group": "Фильмовые",
+      "tvg-id": "plan-b"
+    },
+    {
+      "title": "Bolt HD",
+      "group": "Фильмовые",
+      "tvg-id": "bolt-ru"
+    },
+    {
+      "title": "НТВ Хит HD",
+      "group": "Фильмовые",
+      "tvg-id": "ntv-xit"
+    },
+    {
+      "title": "Победа",
+      "group": "Фильмовые",
+      "tvg-id": "pobeda"
+    },
+	{
+      "title": "Феникс+Кино",
+      "group": "Фильмовые",
+      "tvg-id": "feniks-plus-kino"
+    },
+	{
+      "title": "НТВ Сериал HD",
+      "group": "Фильмовые",
+      "tvg-id": "ntv-serial"
+    },
+	{
+      "title": "Время",
+      "group": "Познавательные",
+      "tvg-id": "vremia"
+    },
+	{
+      "title": "Viju+ Serial",
+      "group": "Фильмовые",
+      "tvg-id": "vip-serial"
+    },
+    {
+      "title": "FAN HD",
+      "group": "Развлекательные",
+      "tvg-id": "fanhd"
+    },
+	{
+      "title": "Start World",
+      "group": "Фильмовые",
+      "tvg-id": "start-world"
+    },
+	{
+      "title": "Еврокино",
+      "group": "Фильмовые",
+      "tvg-id": "evrokino"
+    },
+	{
+      "title": "Индия",
+      "group": "Фильмовые",
+      "tvg-id": "zee-tv"
+    },
+    {
+      "title": "ТНТ4",
+      "group": "Развлекательные",
+      "tvg-id": "tnt4"
+    },
+    {
+      "title": "КВН ТВ",
+      "group": "Развлекательные",
+      "tvg-id": "kvn-tv"
+    },
+    {
+      "title": "E HD",
+      "group": "Развлекательные",
+      "tvg-id": "e-tv"
+    },
+    {
+      "title": "myZen.tv HD",
+      "group": "Познавательные",
+      "tvg-id": "myzen-tv"
+    },
+    {
+      "title": "1HD Music Television",
+      "group": "Музыкальные",
+      "tvg-id": "1hd"
+    },
+	{
+      "title": "2x2",
+      "group": "Развлекательные",
+      "tvg-id": "2na2"
+    },
+    {
+      "title": "Телекафе",
+      "group": "Познавательные",
+      "tvg-id": "telekafe"
+    },
+    {
+      "title": "Кухня ТВ",
+      "group": "Познавательные",
+      "tvg-id": "kuxnia-tv"
+    },
+    {
+      "title": "НТВ Стиль HD",
+      "group": "Женские",
+      "tvg-id": "ntv-style"
+    },
+    {
+      "title": "Ностальгия",
+      "group": "Развлекательные",
+      "tvg-id": "nostalgia"
+    },
+    {
+      "title": "Живи",
+      "group": "Развлекательные",
+      "tvg-id": "zhivi"
+    },
+    {
+      "title": "Сарафан ТВ",
+      "group": "Познавательные",
+      "tvg-id": "sarafan"
+    },
+	{
+      "title": "360",
+      "group": "Познавательные",
+      "tvg-id": "360-podmoskovie"
+    },
+	{
+      "title": "World Fashion Channel",
+      "group": "Познавательные",
+      "tvg-id": "world-fashion-channel"
+    },
+    {
+      "title": "Еда HD",
+      "group": "Познавательные",
+      "tvg-id": "eda-hd"
+    },
+    {
+      "title": "Terra",
+      "group": "Познавательные",
+      "tvg-id": "terra-ru"
+    },
+    {
+      "title": "В мире животных HD",
+      "group": "Познавательные",
+      "tvg-id": "v-mire-zhivotnyx-hd"
+    },
+    {
+      "title": "Звезда плюс",
+      "group": "Познавательные",
+      "tvg-id": "zvezda-plus"
+    },
+    {
+      "title": "Арсенал",
+      "group": "Познавательные",
+      "tvg-id": "arsenaltv"
+    },
+    {
+      "title": "Доктор",
+      "group": "Познавательные",
+      "tvg-id": "doktor"
+    },
+	{
+      "title": "Big Planet",
+      "group": "Познавательные",
+      "tvg-id": "big-planet"
+    },
+    {
+      "title": "Моя планета",
+      "group": "Познавательные",
+      "tvg-id": "moya-planeta"
+    },
+    {
+      "title": "Наука",
+      "group": "Познавательные",
+      "tvg-id": "nauka-20"
+    },
+    {
+      "title": "Давинчи",
+      "group": "Познавательные",
+      "tvg-id": "da-vinci"
+    },
+    {
+      "title": "Ключ",
+      "group": "Познавательные",
+      "tvg-id": "kluch"
+    },
+    {
+      "title": "Viju History",
+      "group": "Познавательные",
+      "tvg-id": "viasat-history"
+    },
+    {
+      "title": "Охотник и рыболов HD",
+      "group": "Познавательные",
+      "tvg-id": "oxotnik-i-rybolov"
+    },
+	{
+      "title": "Диалоги о рыбалке",
+      "group": "Познавательные",
+      "tvg-id": "dialogi-o-rybalke"
+    },
+    {
+      "title": "Загородная жизнь HD",
+      "group": "Познавательные",
+      "tvg-id": "zagorodnaya-zhizn"
+    },
+    {
+      "title": "Мама",
+      "group": "Познавательные",
+      "tvg-id": "mama"
+    },
+    {
+      "title": "365 Дней",
+      "group": "Познавательные",
+      "tvg-id": "365-dnej"
+    },
+    {
+      "title": "English Club HD",
+      "group": "Познавательные",
+      "tvg-id": "english-club-tv"
+    },
+    {
+      "title": "Приключения HD",
+      "group": "Познавательные",
+      "tvg-id": "prikluchenia-hd"
+    },
+	{
+      "title": "Viju+ Planet HD",
+      "group": "Познавательные",
+      "tvg-id": "viasat-nature-history-hd"
+    },
+    {
+      "title": "HDL",
+      "group": "Познавательные",
+      "tvg-id": "hd-life"
+    },
+    {
+      "title": "История",
+      "group": "Познавательные",
+      "tvg-id": "istoria"
+    },
+    {
+      "title": "Russia Today Doc HD",
+      "group": "Познавательные",
+      "tvg-id": "rtd-hd"
+    },
+    {
+      "title": "24 техно",
+      "group": "Познавательные",
+      "tvg-id": "texno-24"
+    },
+    {
+      "title": "Viju Explore",
+      "group": "Познавательные",
+      "tvg-id": "viasat-explore"
+    },
+    {
+      "title": "Viju Nature",
+      "group": "Познавательные",
+      "tvg-id": "viasat-nature"
+    },
+    {
+      "title": "Живая планета",
+      "group": "Познавательные",
+      "tvg-id": "zhivaya-planeta"
+    },
+    {
+      "title": "Бобер",
+      "group": "Познавательные",
+      "tvg-id": "bobior"
+    },
+    {
+      "title": "Неизвестная Россия",
+      "group": "Познавательные",
+      "tvg-id": "neizvestnaya-rosia"
+    },
+    {
+      "title": "Оружие",
+      "group": "Познавательные",
+      "tvg-id": "oruzhie"
+    },
+    {
+      "title": "Дикая рыбалка HD",
+      "group": "Познавательные",
+      "tvg-id": "dikaya-rybalka-hd"
+    },
+    {
+      "title": "RTG HD",
+      "group": "Познавательные",
+      "tvg-id": "rtg-hd"
+    },
+    {
+      "title": "Поехали!",
+      "group": "Познавательные",
+      "tvg-id": "poexali"
+    },
+    {
+      "title": "Docubox HD",
+      "group": "Познавательные",
+      "tvg-id": "docubox-hd"
+    },
+    {
+      "title": "Museum HD",
+      "group": "Познавательные",
+      "tvg-id": "museum-hd"
+    },
+    {
+      "title": "Моя планета HD",
+      "group": "Познавательные",
+      "tvg-id": "moya-planeta"
+    },
+    {
+      "title": "Galaxy",
+      "group": "Познавательные",
+      "tvg-id": "galaxy-tv"
+    },
+    {
+      "title": "Дикая охота HD",
+      "group": "Познавательные",
+      "tvg-id": "dikaya-oxota-hd"
+    },
+    {
+      "title": "Матч! Премьер HD",
+      "group": "Спортивные",
+      "tvg-id": "match-premier"
+    },
+    {
+      "title": "Матч! Боец",
+      "group": "Спортивные",
+      "tvg-id": "match-boets"
+    },
+    {
+      "title": "Авто плюс",
+      "group": "Развлекательные",
+      "tvg-id": "avto-plus"
+    },
+    {
+      "title": "Авто 24",
+      "group": "Развлекательные",
+      "tvg-id": "avto24"
+    },
+    {
+      "title": "Матч! Арена HD",
+      "group": "Спортивные",
+      "tvg-id": "match-arena"
+    },
+    {
+      "title": "Моторспорт HD",
+      "group": "Спортивные",
+      "tvg-id": "motorsportv-tv"
+    },
+	{
+      "title": "Матч ТВ! HD",
+      "group": "Спортивные",
+      "tvg-id": "match-tv"
+    },
+    {
+      "title": "Матч! Игра HD",
+      "group": "Спортивные",
+      "tvg-id": "match-igra"
+    },
+    {
+      "title": "Матч! Футбол 1 HD",
+      "group": "Спортивные",
+      "tvg-id": "match-football1"
+    },
+    {
+      "title": "MMA TV",
+      "group": "Спортивные",
+      "tvg-id": "m1global"
+    },
+    {
+      "title": "KHL Prime HD",
+      "group": "Спортивные",
+      "tvg-id": "kxl-hd"
+    },
+	{
+      "title": "Viju+ Sport",
+      "group": "Спортивные",
+      "tvg-id": "viasat-sport"
+    },
+    {
+      "title": "Бокс ТВ",
+      "group": "Спортивные",
+      "tvg-id": "box-tv"
+    },
+    {
+      "title": "Матч! Страна",
+      "group": "Спортивные",
+      "tvg-id": "match-nash-sport"
+    },
+    {
+      "title": "HD Rex",
+      "group": "Развлекательные",
+      "tvg-id": "russky-ekstrim"
+    },
+    {
+      "title": "KHL",
+      "group": "Спортивные",
+      "tvg-id": "kxl"
+    },
+    {
+      "title": "Матч! Футбол 2 HD",
+      "group": "Спортивные",
+      "tvg-id": "match-football2"
+    },
+    {
+      "title": "Матч! Футбол 3 HD",
+      "group": "Спортивные",
+      "tvg-id": "match-football3"
+    },
+    {
+      "title": "Драйв",
+      "group": "Развлекательные",
+      "tvg-id": "drive"
+    },
+    {
+      "title": "Телеканал Футбол HD",
+      "group": "Спортивные",
+      "tvg-id": "football-ru"
+    },
+    {
+      "title": "Tiji",
+      "group": "Детские",
+      "tvg-id": "tiji"
+    },
+    {
+      "title": "Duck TV",
+      "group": "Детские",
+      "tvg-id": "ducktv"
+    },
+    {
+      "title": "Детский мир",
+      "group": "Детские",
+      "tvg-id": "detsky-mir"
+    },
+    {
+      "title": "Ani",
+      "group": "Детские",
+      "tvg-id": "ani"
+    },
+    {
+      "title": "Мультиландия HD",
+      "group": "Детские",
+      "tvg-id": "multimania"
+    },
+    {
+      "title": "СуперГерои HD",
+      "group": "Детские",
+      "tvg-id": "malysh"
+    },
+    {
+      "title": "Уникум",
+      "group": "Детские",
+      "tvg-id": "detsky"
+    },
+    {
+      "title": "Мульт",
+      "group": "Детские",
+      "tvg-id": "mult"
+    },
+    {
+      "title": "Gulli Girl",
+      "group": "Детские",
+      "tvg-id": "gulli-girl"
+    },
+    {
+      "title": "Капитан Фантастика",
+      "group": "Детские",
+      "tvg-id": "ginger-hd"
+    },
+    {
+      "title": "O!",
+      "group": "Детские",
+      "tvg-id": "o_"
+    },
+    {
+      "title": "Лёва HD",
+      "group": "Детские",
+      "tvg-id": "liova"
+    },
+    {
+      "title": "СТС Kids HD",
+      "group": "Детские",
+      "tvg-id": "sts-kids-hd"
+    },
+    {
+      "title": "Радость моя",
+      "group": "Детские",
+      "tvg-id": "radost-moya"
+    },
+    {
+      "title": "Рыжий",
+      "group": "Детские",
+      "tvg-id": "ryzhy"
+    },
+    {
+      "title": "Мультимузыка",
+      "group": "Детские",
+      "tvg-id": "multimuzyka"
+    },
+    {
+      "title": "Мульт HD",
+      "group": "Детские",
+      "tvg-id": "mult"
+    },
+    {
+      "title": "В гостях у сказки HD",
+      "group": "Детские",
+      "tvg-id": "v-gostiax-u-skazki"
+    },
+    {
+      "title": "RU TV",
+      "group": "Музыкальные",
+      "tvg-id": "ru-tv"
+    },
+    {
+      "title": "О2",
+      "group": "Музыкальные",
+      "tvg-id": "o2tv"
+    },
+    {
+      "title": "Ля-минор",
+      "group": "Музыкальные",
+      "tvg-id": "la-minor"
+    },
+    {
+      "title": "ТНТ Music",
+      "group": "Музыкальные",
+      "tvg-id": "tnt-music"
+    },
+    {
+      "title": "Bridge TV Русский хит",
+      "group": "Музыкальные",
+      "tvg-id": "bridge-tv-ruxit"
+    },
+    {
+      "title": "Музыка Первого",
+      "group": "Музыкальные",
+      "tvg-id": "muzyka-pervogo"
+    },
+    {
+      "title": "Bridge TV Classic",
+      "group": "Музыкальные",
+      "tvg-id": "bridge-tv-classic"
+    },
+    {
+      "title": "Europa Plus TV",
+      "group": "Музыкальные",
+      "tvg-id": "europa-plus-tv"
+    },
+    {
+      "title": "Bridge TV",
+      "group": "Музыкальные",
+      "tvg-id": "bridge-tv"
+    },
+	{
+      "title": "Жара HD",
+      "group": "Музыкальные",
+      "tvg-id": "zhara"
+    },
+    {
+      "title": "Mezzo Live HD",
+      "group": "Музыкальные",
+      "tvg-id": "mezzo-live-hd"
+    },
+    {
+      "title": "Известия HD",
+      "group": "Информационные",
+      "tvg-id": "izvestia"
+    },
+    {
+      "title": "РБК ТВ",
+      "group": "Информационные",
+      "tvg-id": "rbk"
+    },
+    {
+      "title": "Соловьев.Live",
+      "group": "Информационные",
+      "tvg-id": "solovjinypomiot"
+    },
+    {
+      "title": "Russia Today",
+      "group": "Информационные",
+      "tvg-id": "russia-today-ru"
+    },
+    {
+      "title": "CGTN",
+      "group": "Информационные",
+      "tvg-id": "cctv-ru"
+    },
+    {
+      "title": "Мир 24",
+      "group": "Информационные",
+      "tvg-id": "mir-24"
+    },
+	{
+      "title": "CCTV-4",
+      "group": "Информационные",
+      "tvg-id": "cctv4"
+    },
+    {
+      "title": "Союз",
+      "group": "Религиозные",
+      "tvg-id": "soyuz"
+    },
+    {
+      "title": "Шант Premium HD",
+      "group": "Фильмовые",
+      "tvg-id": "shant-premium-hd"
+    },
+    {
+      "title": "Майдан",
+      "group": "Музыкальные",
+      "tvg-id": "maydan"
+    },
+    {
+      "title": "ТНВ Татарстан",
+      "group": "Региональные",
+      "tvg-id": "tnv"
+    },
+    {
+      "title": "Грозный",
+      "group": "Региональные",
+      "tvg-id": "grozny"
+    },
+    {
+      "title": "ТНВ Планета",
+      "group": "Региональные",
+      "tvg-id": "tnv-planeta"
+    },
+    {
+      "title": "Arirang",
+      "group": "Развлекательные",
+      "tvg-id": "arirang"
+    },
+    {
+      "title": "SILK WAY",
+      "group": "Информационные",
+      "tvg-id": "no_epg"
+    },
+    {
+      "title": "Беларусь 24",
+      "group": "Информационные",
+      "tvg-id": "belarus24"
+    },
+    {
+      "title": "БСТ",
+      "group": "Региональные",
+      "tvg-id": "bst"
+    },
+	{
+		"title": "Blue Hustler HD",
+		"group": "Эротические",
+		"tvg-id": "blue-hustler"
+	},
+	{
+		"title": "Русская ночь HD",
+		"group": "Эротические",
+		"tvg-id": "russkaya-noch"
+	},
+	{
+		"title": "Шёлк HD",
+		"group": "Эротические",
+		"tvg-id": "sholk"
+	},
+	{
+		"title": "О-ля-ля",
+		"group": "Эротические",
+		"tvg-id": "o-la-la"
+	},
+	{
+		"title": "Red Lips HD",
+		"group": "Эротические",
+		"tvg-id": "redlips"
+	},
+	{
+		"title": "Brazzers TV Europe",
+		"group": "Эротические",
+		"tvg-id": "brazzers-tv-europe-ru"
+	}
+  ]
+}
