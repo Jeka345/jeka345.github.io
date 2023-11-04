@@ -139,7 +139,7 @@ https://livetv.mylifeisgood.net.ru/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" group-title="Познавательные",Арсенал
 https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="Детские GeoBlock" channel-number="701",Da Vinci
+#EXTINF:-1 tvg-id="da-vinci" group-title="Детские",Da Vinci
 https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс TV
 https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
@@ -259,13 +259,13 @@ https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
 https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir-4k" group-title="Познавательные UHD",Наша Сибирь 4K
 https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
-#EXTINF:-1 tvg-id="travel-xp-4k" group-title="Познавательные UHD",Travel XP 4K [TEST]
+#EXTINF:-1 tvg-id="travel-xp-4k" group-title="Познавательные UHD",Travel XP 4K
 https://livetv.mylifeisgood.net.ru/channels/a3846a87fd771460d16978436ccc8f77.m3u8
-#EXTINF:-1 tvg-id="quadro4k" group-title="Познавательные UHD",QUADRO 4K [TEST]
+#EXTINF:-1 tvg-id="quadro4k" group-title="Познавательные UHD",QUADRO 4K
 https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8
-#EXTINF:-1 tvg-id="nasa4k" group-title="Познавательные UHD",NASA UHD [TEST]
+#EXTINF:-1 tvg-id="nasa4k" group-title="Познавательные UHD",NASA UHD
 https://livetv.mylifeisgood.net.ru/channels/48d3547a93414fc8c173517bd7edf9fd.m3u8
-#EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",HOME 4K [TEST]
+#EXTINF:-1 tvg-id="home-4k" group-title="Познавательные UHD",HOME 4K
 https://livetv.mylifeisgood.net.ru/channels/0fcf4d9882d7bde663310c9820c74381.m3u8
 #EXTINF:-1 tvg-id="radio-rodnyx-dorog" group-title="Радио",Радио Родных Дорог
 https://livetv.mylifeisgood.net.ru/channels/radiorodniyxdorog.m3u8

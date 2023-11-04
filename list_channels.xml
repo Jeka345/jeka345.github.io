@@ -722,6 +722,66 @@
 			</variables>
 		</channel>
 		<channel>
+			<id>7</id>
+			<title>Da Vinci</title>
+			<logo>https://i.imgur.com/9kUzkys.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>4</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>8</id>
+			<title>Мульт</title>
+			<logo>https://i.imgur.com/5zIggAF.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>4</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/multhd</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>9</id>
+			<title>Детский мир</title>
+			<logo>https://i.imgur.com/CfGBtVy.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>4</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/detskiimir.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
 			<id>1</id>
 			<title>Nickelodeon HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497612622596.png</logo>
@@ -1282,6 +1342,86 @@
 			</variables>
 		</channel>
 		<channel>
+			<id>2</id>
+			<title>Travel XP 4K [HEVEC]</title>
+			<logo>https://i.imgur.com/15SCNdU.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>6</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/a3846a87fd771460d16978436ccc8f77.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>3</id>
+			<title>QUADRO 4K [HEVEC]</title>
+			<logo>https://i.imgur.com/AD6loDG.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>6</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>4</id>
+			<title>NASA UHD</title>
+			<logo>https://i.imgur.com/2w0Zm9V.jpg</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>6</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/48d3547a93414fc8c173517bd7edf9fd.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
+			<id>5</id>
+			<title>HOME 4K [HEVEC]</title>
+			<logo>https://i.imgur.com/ZwaeKNa.png</logo>
+			<packages>
+			<id>3</id>
+			</packages>
+			<categories>
+				<id>6</id>
+			</categories>
+			<loc>
+				<id>100001</id>
+			</loc>
+			<variables>
+				<link_channel>
+					<id>2</id>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/0fcf4d9882d7bde663310c9820c74381.m3u8</url_live>
+				</link_channel>
+			</variables>
+		</channel>
+		<channel>
 			<id>1</id>
 			<title>Кино ТВ</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1509023376742.png</logo>
@@ -1503,7 +1643,7 @@
 		</channel>
 		<channel>
 			<id>12</id>
-			<title>НТВ Хит</title>
+			<title>НТВ Хит HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1565015693388.png</logo>
 			<packages>
 			<id>3</id>
@@ -1517,13 +1657,13 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
 		<channel>
 			<id>13</id>
-			<title>НТВ Сериал</title>
+			<title>НТВ Сериал HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1660076016778.png</logo>
 			<packages>
 			<id>3</id>
@@ -1537,7 +1677,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvserial_hd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1563,7 +1703,7 @@
 		</channel>
 		<channel>
 			<id>15</id>
-			<title>НТВ Стиль</title>
+			<title>НТВ Стиль HD</title>
 			<logo>http://itv.svc.iptv.rt.ru/sdp/mos/nclogo1660076061962.png</logo>
 			<packages>
 			<id>3</id>
@@ -1577,7 +1717,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/ntvstyle_hd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
