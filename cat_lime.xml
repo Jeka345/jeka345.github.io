@@ -28,6 +28,10 @@
 		<Name_Category>Познавательные</Name_Category>
 	</row>
 	<row number="6">
+		<ID_Category>8</ID_Category>
+		<Name_Category>Спортивные</Name_Category>
+	</row>
+	<row number="7">
 		<ID_Category>11</ID_Category>
 		<Name_Category>Региональные</Name_Category>
 	</row>
