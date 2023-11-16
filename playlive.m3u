@@ -169,8 +169,8 @@ https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viju Nature HD
 https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные",Viju+ Planet HD
-https://livetv.mylifeisgood.net.ru/channels/2b95329a396c7d38c6e4ff7da93d90ea88f016f9901d6d0e7b896217cdbefaa4.m3u8
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Познавательные тест",Viju+ Planet HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Action HD
@@ -181,8 +181,8 @@ https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
 https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные GeoBlock" channel-number="804",Animal Planet HD
 https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
-https://livetv.mylifeisgood.net.ru/channels/3b55aca8a5010c4531ededad51a4c88a.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="Познавательные тест",Animal Planet HD
+https://livetv.mylifeisgood.net.ru/channels/06abc038d8d3467acfaa5a154c9a8c95863f3ca86d5677a9a9caa9d381e3d7f3.m3u8
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="Познавательные GeoBlock" channel-number="802" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/DISCOVERY_CHANNEL/index-${start}-${offset}.m3u8",Discovery CEE HD
 https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные GeoBlock" channel-number="803" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/IDXTRA_HD/index-${start}-${offset}.m3u8",Investigation Discovery HD
@@ -205,8 +205,10 @@ https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
 https://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
 #EXTINF:-1 tvg-id="eurosport1-cee" group-title="Спортивные GeoBlock" channel-number="695",Eurosport 1 HD
 https://livetv.mylifeisgood.net.ru/channels/eurosport1ru.m3u8
-#EXTINF:-1 tvg-id="eurosport1-cee" group-title="Спортивные",Eurosport 1 HD
-https://livetv.mylifeisgood.net.ru/channels/c79355164472b3009673eddfdad968d2.m3u8
+#EXTINF:-1 tvg-id="eurosport1-cee" group-title="Спортивные тест",Eurosport 1 HD
+https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
+#EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные тест",Eurosport 2 HD
+https://livetv.mylifeisgood.net.ru/channels/84176c70f4eef2a3e7f11ed2f1560c9afa8f2c529c215204371ea56ec5abb807.m3u8
 #EXTINF:-1 tvg-id="eurosport2-cee" group-title="Спортивные GeoBlock" channel-number="696",Eurosport 2 HD
 https://livetv.mylifeisgood.net.ru/channels/eurosport2.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные GeoBlock" channel-number="697",Setanta 1 HD
