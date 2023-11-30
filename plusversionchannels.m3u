@@ -59,6 +59,12 @@ https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus2.m3u8
 https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus4.m3u8
 #EXTINF:-1 tvg-id="ntv-pl7" group-title="Федеральные",НТВ HD (+7)
 https://livetv.mylifeisgood.net.ru/channels_shift/ntvplus7.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Федеральные",Пятый канал (+2)
+https://livetv.mylifeisgood.net.ru/channels_shift/tv5pl2.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="Федеральные",Пятый канал (+4)
+https://livetv.mylifeisgood.net.ru/channels_shift/tv5pl4.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" group-title="Федеральные",Пятый канал (+7)
+https://livetv.mylifeisgood.net.ru/channels_shift/tv5pl7.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="Федеральные",ТНТ HD (+2)
 https://livetv.mylifeisgood.net.ru/channels_shift/tntplus2.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" group-title="Федеральные",ТНТ HD (+4)
