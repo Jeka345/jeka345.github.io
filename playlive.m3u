@@ -56,7 +56,7 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="disney" group-title="Детские",Солнце
-https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
+https://livetv.mylifeisgood.net.ru/channels/sun.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт
 https://livetv.mylifeisgood.net.ru/channels/multhd
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Детские GeoBlock" channel-number="700",Nickelodeon HD
