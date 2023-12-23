@@ -48,7 +48,7 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
 #EXTINF:-1 tvg-id="che" group-title="Развлекательные",ЧЕ!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Развлекательные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/channelu/index-${start}-${offset}.m3u8",Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
