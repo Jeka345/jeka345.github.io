@@ -657,7 +657,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/stskids.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1017,7 +1017,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1037,7 +1037,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-explore.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1057,7 +1057,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1097,7 +1097,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/terra.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1157,7 +1157,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/wois.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1457,7 +1457,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/fox.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/kineko.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1477,7 +1477,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1497,7 +1497,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1517,7 +1517,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1537,7 +1537,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1557,7 +1557,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1577,7 +1577,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1597,7 +1597,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -1617,7 +1617,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
@@ -2217,7 +2217,7 @@
 			<variables>
 				<link_channel>
 					<id>2</id>
-					<url_live>https://livetv.mylifeisgood.net.ru/channels/viasatsporthd.m3u8</url_live>
+					<url_live>https://livetv.mylifeisgood.net.ru/channels/viju-sporthd.m3u8</url_live>
 				</link_channel>
 			</variables>
 		</channel>
