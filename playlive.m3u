@@ -128,9 +128,9 @@ https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательные GeoBlock" channel-number="806",HD Life
 https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+https://livetv.mylifeisgood.net.ru/channels/starthd.m3u8
 #EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
-https://livetv.mylifeisgood.net.ru/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
+https://livetv.mylifeisgood.net.ru/channels/starttriumf.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные GeoBlock" channel-number="807",Приключения HD
 https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Познавательные",Приключения HD
