@@ -114,9 +114,9 @@ https://livetv.mylifeisgood.net.ru/channels/59aeeed39af9b48140491bd2ab653e65.m3u
 #EXTINF:-1 group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air HD
-https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
-https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыкальные",Russian Music Box
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="Познавательные",Загородный Int
