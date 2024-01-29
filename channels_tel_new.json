@@ -286,8 +286,6 @@
 		{
 			"type":"vitrina",
 			"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/mtrkmir/mir",
-			"sendStats":false,
-			"startAsVitrina":false,
 			"voiceChatEnabled":false
 		},
 		{
@@ -755,7 +753,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/channels/matchstrana.m3u8",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/matchstrana.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -843,7 +841,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/channels/wois.m3u8",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/wois.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -930,7 +928,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/channels/stskids.m3u8",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/stskids.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1109,7 +1107,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/moretv/tv1000",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1124,7 +1122,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -1139,7 +1137,7 @@
 			"sources":[
 			{
 				"type":"native",
-				"config":"https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
