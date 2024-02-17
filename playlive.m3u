@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg-server.mylifeisgood.net.ru/tv/BvSEY2UrCmsmum0ziHfl2w,1738963665/epgplaylist"
+#EXTM3U url-tvg="https://epg-server.mylifeisgood.net.ru/tv/BvSEY2UrCmsmum0ziHfl2w/1738963665/epgplaylist"
 #EXTINF:-1 group-title="Эфирные" tvg-id="devcm_lanak1_2024",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="Эфирные",Россия 1
