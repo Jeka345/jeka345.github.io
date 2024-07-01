@@ -4,7 +4,7 @@ https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="Эфирные",Россия 1
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="devcm_hctam_2024" group-title="Эфирные" description="Без ограничения на матчи",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные",НТВ HD (only Tizen OS)
