@@ -235,7 +235,7 @@ https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
 #EXTINF:-1 tvg-id="devcm_3781_2024" group-title="Фильмовые",НТВ Хит HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8
-#EXTINF:-1 tvg-id="devcm_784_2024" group-title="Фильмовые",НТВ Сериал HD
+#EXTINF:-1 tvg-id="devcm_784_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/wen_laires_vtn/${start}-${end}.m3u8" group-title="Фильмовые",НТВ Сериал HD
 https://livetv.mylifeisgood.net.ru/channels/ntvserial_hd.m3u8
 #EXTINF:-1 tvg-id="devcm_786_2024" group-title="Фильмовые",НТВ Стиль HD
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle_hd.m3u8
