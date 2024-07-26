@@ -78,7 +78,7 @@
 			},
 			{
 				"type":"native",
-				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored",
+				"streamSQ":"https://livetv.mylifeisgood.net.ru/channels/match",
 				"startAsVitrina":false,
 				"sendStats":false,
 				"voiceChatEnabled":false
@@ -106,7 +106,7 @@
          "sources":[
             {
                "type":"vitrina",
-               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/tv5/tv-5",
+               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/tv5/5tv",
                "voiceChatEnabled":false
             }
          ],
@@ -119,7 +119,7 @@
 		"sources":[
 		{
 		   "type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/vgtrk/russiak",
+		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/russiak/russiak",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -132,7 +132,7 @@
 		"sources":[
 		{
 		   "type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/vgtrk/russia24",
+		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/russia24/russia24",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -186,7 +186,7 @@
          "sources":[
             {
                "type":"vitrina",
-               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/nmg/ren-tv",
+               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/nmg/rentv_msk_blackout",
                "voiceChatEnabled":false
             }
          ],
@@ -225,7 +225,7 @@
          "sources":[
             {
                "type":"vitrina",
-               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/dom/ctc-dom",
+               "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/dom/domashniy",
                "voiceChatEnabled":false
             }
          ],
@@ -238,7 +238,7 @@
 		"sources":[
 		{
 		   "type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/gpm-tv3/tv3",
+		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/tv3/gpm_tv3",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -251,7 +251,7 @@
 		"sources":[
 		{
 			"type":"vitrina",
-		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/gpm-friday/friday",
+		   "config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/gpm_friday/gpm_friday",
 		   "voiceChatEnabled":false
 		}
 		],
@@ -305,7 +305,7 @@
 		"sources":[
 		{
 			"type":"vitrina",
-			"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/gpm-tnt/tnt",
+			"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/tnt/gpm_tnt",
 			"voiceChatEnabled":false
 		}
 		],
@@ -331,7 +331,7 @@
 		"sources":[
 		{
 			"type":"vitrina",
-			"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/ctclove/ctc-love",
+			"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/ctclove/ctclove",
 			"voiceChatEnabled":false
 		}
 		],
@@ -366,7 +366,7 @@
 			"sources":[
 			{
 				"type":"vitrina",
-				"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/che/ctc-che",
+				"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/che/che",
 				"voiceChatEnabled":false
 			}
 		],
@@ -820,19 +820,6 @@
 			}
 		],
 		"category":3
-	},
-	{
-			"id":37,
-			"name":"Анекдот ТВ",
-			"logo":"https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1497600539849.png",
-			"sources":[
-			{
-				"type":"vitrina",
-				"config":"https://livetv.mylifeisgood.net.ru/sdkvin/hls/vitrina/moretv/anekdot_tv",
-				"voiceChatEnabled":false
-			}
-		],
-		"category":2
 	},
 	{
 			"id":38,
