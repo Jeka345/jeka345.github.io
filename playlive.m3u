@@ -189,6 +189,8 @@ https://livetv.mylifeisgood.net.ru/channels/viju-sporthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 #EXTINF:-1 tvg-id="devcm_110_2024" group-title="Музыкальные",1HD Music Television
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+#EXTINF:-1 tvg-id="devcm_5716_2024" group-title="Фильмовые",Plan B [test]
+https://livetv.mylifeisgood.net.ru/channels/fc820eda5d48d2a7ef912222188c55d6.m3u8
 #EXTINF:-1 tvg-id="devcm_474a9dc577196c07822a690ee425658a_2024" group-title="Познавательные",Диалоги о Рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-id="devcm_366_2024" group-title="Познавательные",Оружие
