@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://epg-server.mylifeisgood.net.ru/tv/BvSEY2UrCmsmum0ziHfl2w/1738963665/epgplaylist"
 #EXTINF:-1 group-title="Эфирные" tvg-id="devcm_lanak1_2024",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="Эфирные",Россия 1
+#EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 tvg-id="devcm_hctam_2024" group-title="Эфирные" description="Без ограничения на матчи",Матч! HD
+#EXTINF:-1 tvg-id="devcm_hctam_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/match/index-${start}-${offset}.m3u8" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
-#EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные",НТВ HD
+#EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные",НТВ HD (only Tizen OS)
+#EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD (only Tizen OS)
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 tvg-id="devcm_lanak5_2024" group-title="Эфирные",Пятый канал
+#EXTINF:-1 tvg-id="devcm_lanak5_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4833/${start}",Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="devcm_kaissur_2024" group-title="Эфирные",Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
@@ -21,23 +21,23 @@ https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 tvg-id="devcm_cvt_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tvc/index-${start}-${offset}.m3u8",ТВ Центр
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
-#EXTINF:-1 tvg-id="devcm_vtner_2024" group-title="Эфирные",РЕН ТВ HD
+#EXTINF:-1 tvg-id="devcm_vtner_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 tvg-id="devcm_saps_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/spas/index-${start}-${offset}.m3u8",СПАС
 https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
-#EXTINF:-1 tvg-id="devcm_sts_2024" group-title="Эфирные",СТС HD
+#EXTINF:-1 tvg-id="devcm_sts_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 tvg-id="devcm_yinhsamod_2024" group-title="Эфирные",Домашний HD
+#EXTINF:-1 tvg-id="devcm_yinhsamod_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/10115/${start}",Домашний HD
 https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 tvg-id="devcm_3vt_2024" group-title="Эфирные",ТВ3 HD
+#EXTINF:-1 tvg-id="devcm_3vt_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1 tvg-id="devcm_acintayp_2024" group-title="Эфирные",Пятница HD
+#EXTINF:-1 tvg-id="devcm_acintayp_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/pyatnica/index-${start}-${offset}.m3u8",Пятница HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="devcm_adzevz_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="devcm_rim_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/mir/index-${start}-${offset}.m3u8",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 tvg-id="devcm_tnt_2024" group-title="Эфирные",ТНТ HD
+#EXTINF:-1 tvg-id="devcm_tnt_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="devcm_vtzum_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/muztv/index-${start}-${offset}.m3u8",Муз ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
