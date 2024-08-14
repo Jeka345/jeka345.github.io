@@ -63,7 +63,7 @@ https://livetv.mylifeisgood.net.ru/channels/multhd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 tvg-id="devcm_rimted_2024" group-title="Детские" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/detmir/index-${start}-${offset}.m3u8",Детский Мир
 https://livetv.mylifeisgood.net.ru/channels/detskiimir.m3u8
-#EXTINF:-1 tvg-id="devcm_emit_ybab_2024" group-title="Детские",Baby Time
+#EXTINF:-1 tvg-id="devcm_emit_ybab_2024" group-title="Детские" catchup-days="7" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/baby_time/index-${start}-${offset}.m3u8",Baby Time
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1 tvg-id="" group-title="Развлекательные GeoBlock" channel-number="900",Paramount Comedy
 https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
@@ -143,10 +143,8 @@ https://livetv.mylifeisgood.net.ru/channels/stskids.m3u8
 https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
 #EXTINF:-1 tvg-id="devcm_1db1001a304c8fbe83c5f535_2024" group-title="Детские",TIJI
 https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
-#EXTINF:-1 tvg-id="devcm_285d20f80176e2e48138e065_2024" group-title="Детские GeoBlock" channel-number="702",Рыжий
+#EXTINF:-1 tvg-id="devcm_285d20f80176e2e48138e065_2024" group-title="Детские" channel-number="702",Рыжий
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
-#EXTINF:-1 tvg-id="devcm_dhakerue_2024" group-title="Познавательные GeoBlock" channel-number="805",Первый Космический HD
-https://livetv.mylifeisgood.net.ru/channels/firstspace.m3u8
 #EXTINF:-1 tvg-id="devcm_dhakerue_2024" group-title="Познавательные",Первый Космический HD
 https://livetv.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
 #EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" group-title="Фильмовые",Viju+ Megahit HD
@@ -155,8 +153,6 @@ https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 tvg-id="devcm_e2f08e0dbd77ed2b9e386fb5_2024" group-title="Фильмовые",Viju+ Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
-#EXTINF:-1 tvg-id="devcm_317ba756259c564f2f18af06_2024" group-title="Фильмовые",Viju+ Serial HD
-https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
 #EXTINF:-1 tvg-id="devcm_235540f80176e2e420aa1165_2024" group-title="Познавательные",Viju History HD
 https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
 #EXTINF:-1 tvg-id="devcm_925540f80176e2e4ca9a1165_2024" group-title="Познавательные",Viju Explore HD
@@ -173,9 +169,7 @@ https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 tvg-id="devcm_c85dbbf36077ed2b7cd3bbb5_2024" group-title="Познавательные",ТеRRa
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 tvg-id="devcm_214_2024" group-title="Познавательные GeoBlock" channel-number="804",Animal Planet HD
-https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-#EXTINF:-1 tvg-id="devcm_214_2024" group-title="Познавательные тест",Animal Planet HD
+#EXTINF:-1 tvg-id="devcm_214_2024" group-title="Познавательные",Animal Planet HD
 https://livetv.mylifeisgood.net.ru/channels/06abc038d8d3467acfaa5a154c9a8c95863f3ca86d5677a9a9caa9d381e3d7f3.m3u8
 #EXTINF:-1 tvg-id="devcm_143_2024" group-title="Познавательные GeoBlock" channel-number="802" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/DISCOVERY_CHANNEL/index-${start}-${offset}.m3u8",Discovery CEE HD
 https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
@@ -195,22 +189,14 @@ https://livetv.mylifeisgood.net.ru/channels/fc820eda5d48d2a7ef912222188c55d6.m3u
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-id="devcm_366_2024" group-title="Познавательные",Оружие
 https://livetv.mylifeisgood.net.ru/channels/wois.m3u8
-#EXTINF:-1 tvg-id="devcm_150_2024" group-title="Спортивные GeoBlock" channel-number="695",Eurosport 1 HD
-https://livetv.mylifeisgood.net.ru/channels/eurosport1ru.m3u8
-#EXTINF:-1 tvg-id="devcm_150_2024" group-title="Спортивные тест",Eurosport 1 HD
+#EXTINF:-1 tvg-id="devcm_150_2024" group-title="Спортивные",Eurosport 1 HD
 https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
-#EXTINF:-1 tvg-id="devcm_169_2024" group-title="Спортивные тест",Eurosport 2 HD
+#EXTINF:-1 tvg-id="devcm_169_2024" group-title="Спортивные",Eurosport 2 HD
 https://livetv.mylifeisgood.net.ru/channels/84176c70f4eef2a3e7f11ed2f1560c9afa8f2c529c215204371ea56ec5abb807.m3u8
-#EXTINF:-1 tvg-id="devcm_169_2024" group-title="Спортивные GeoBlock" channel-number="696",Eurosport 2 HD
-https://livetv.mylifeisgood.net.ru/channels/eurosport2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Спортивные GeoBlock" channel-number="697",Setanta 1 HD
 https://livetv.mylifeisgood.net.ru/channels/setantahd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Спортивные GeoBlock" channel-number="698",Setanta 2 HD
 https://livetv.mylifeisgood.net.ru/channels/setantaplus.m3u8
-#EXTINF:-1 tvg-id="devcm_1c7c8e46a2ad4280b083dd110cc56af8_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4511/${start}.m3u8",Fox HD CEE [TEST]
-https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
-#EXTINF:-1 tvg-id="devcm_f085bc639b8e4cc2b8d74f4303d26fc0_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv19/4510/${start}.m3u8",Fox Life HD CEE [TEST]
-https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 tvg-id="" group-title="Спортивные GeoBlock" channel-number="699",Матч! Планета
 https://livetv.mylifeisgood.net.ru/channels/matchplaneta.m3u8
 #EXTINF:-1 tvg-id="devcm_69_2024" group-title="Музыкальные",Bridge
@@ -227,19 +213,13 @@ https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 tvg-id="devcm_43f1ad5b1c7ba605ba29d571a5f8431f_2024" group-title="Музыкальные",Bridge Rock
 https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
-#EXTINF:-1 tvg-id="devcm_3781_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/3781/${start}",НТВ Хит
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 tvg-id="devcm_784_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/784/${start}",НТВ Сериал
-https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
 #EXTINF:-1 tvg-id="devcm_785_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/785/${start}",НТВ Право
 https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 tvg-id="devcm_786_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/786/${start}",НТВ Стиль
-https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
-#EXTINF:-1 tvg-id="devcm_3781_2024" group-title="Фильмовые",НТВ Хит HD
+#EXTINF:-1 tvg-id="devcm_3781_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/tih_vtn/${start}-${end}.m3u8",НТВ Хит HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8
 #EXTINF:-1 tvg-id="devcm_784_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/wen_laires_vtn/${start}-${end}.m3u8" group-title="Фильмовые",НТВ Сериал HD
 https://livetv.mylifeisgood.net.ru/channels/ntvserial_hd.m3u8
-#EXTINF:-1 tvg-id="devcm_786_2024" group-title="Фильмовые",НТВ Стиль HD
+#EXTINF:-1 tvg-id="devcm_786_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/lits_vtn/${start}-${end}.m3u8",НТВ Стиль HD
 https://livetv.mylifeisgood.net.ru/channels/ntvstyle_hd.m3u8
 #EXTINF:-1 tvg-id="devcm_4830_2024" group-title="Фильмовые",Trash
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
