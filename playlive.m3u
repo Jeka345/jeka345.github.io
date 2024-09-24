@@ -68,7 +68,7 @@ https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1 tvg-id="" group-title="Развлекательные GeoBlock" channel-number="900",Paramount Comedy
 https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
 #EXTINF:-1 tvg-id="devcm_7c71001a304c8fbef5b3f535_2024" group-title="Фильмовые",Кино ТВ
-https://livetv.mylifeisgood.net.ru/channels/kinotv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/kinotvst.m3u8
 #EXTINF:-1 tvg-id="devcm_okenik_2024" group-title="Фильмовые",Кинеко
 https://livetv.mylifeisgood.net.ru/channels/kineko.m3u8
 #EXTINF:-1 tvg-id="devcm_rifpas_2024" group-title="Фильмовые",Сапфир
