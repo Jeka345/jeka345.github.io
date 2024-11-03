@@ -62,8 +62,10 @@ https://livetv.mylifeisgood.net.ru/channels/multhd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Детские GeoBlock" channel-number="700",Nickelodeon HD
 https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 tvg-id="devcm_rimted_2024" group-title="Детские" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/detmir/index-${start}-${offset}.m3u8",Детский Мир
+#EXTVLCOPT:http-user-agent=devcm-962FFC19050E33D09D5EF2F33CBEE2D724A41E2E
 https://livetv.mylifeisgood.net.ru/channels/detskiimir.m3u8
 #EXTINF:-1 tvg-id="devcm_emit_ybab_2024" group-title="Детские" catchup-days="7" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/baby_time/index-${start}-${offset}.m3u8",Baby Time
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1 tvg-id="" group-title="Развлекательные GeoBlock" channel-number="900",Paramount Comedy
 https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
@@ -88,22 +90,31 @@ https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
 #EXTINF:-1 tvg-id="devcm_tropshsan_2024" group-title="Спортивные",Матч! Страна
 https://livetv.mylifeisgood.net.ru/channels/matchstrana.m3u8
 #EXTINF:-1 tvg-id="devcm_dh-1llabtoof_2024" group-title="Спортивные",Венера 9
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/5a2d552d958bb1a5ed5d76b042a64c41.m3u8
 #EXTINF:-1 tvg-id="devcm_dh-2llabtoof_2024" group-title="Спортивные",Фобос 19
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
 #EXTINF:-1 tvg-id="devcm_dh-3llabtoof_2024" group-title="Спортивные",Эрида 32
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
 #EXTINF:-1 tvg-id="devcm_anera_hctam_2024" group-title="Спортивные",Юпитер 7
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/5103636e7cce6d68df590e4e2e46782a.m3u8
 #EXTINF:-1 tvg-id="devcm_labtoofhsan_2024" group-title="Спортивные",Сатурн 9
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/2b94b1589912a6c47809032c1d44e36e.m3u8
 #EXTINF:-1 tvg-id="devcm_vtceob_2024" group-title="Спортивные",Меркурий 2
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/565d7e0291f8cb698d0f6d919977aed7.m3u8
 #EXTINF:-1 tvg-id="devcm_argi_hctam_2024" group-title="Спортивные",Млечный путь 1
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/9ba31553c7b80f525a4a7fdc1d437d7c.m3u8
 #EXTINF:-1 tvg-id="devcm_vtlhk_2024" group-title="Спортивные",Звезда 90
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/9e56945777f23245f68f7ba074a7ff33.m3u8
 #EXTINF:-1 tvg-id="devcm_dhlhk_2024" group-title="Спортивные",Дыра 31
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 #EXTINF:-1 tvg-id="devcm_hc87_2024" group-title="Региональные",78 канал Санкт-Петербург
 https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
@@ -128,12 +139,16 @@ https://livetv.mylifeisgood.net.ru/channels/starttriumf.m3u8
 #EXTINF:-1 tvg-id="devcm_dherutnevda_2024" group-title="Познавательные GeoBlock" channel-number="807",Приключения HD
 https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
 #EXTINF:-1 tvg-id="devcm_dherutnevda_2024" group-title="Познавательные",Приключения HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u8
 #EXTINF:-1 tvg-id="devcm_idebop-ned_2024" group-title="Познавательные",День победы HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 tvg-id="devcm_dhkitlum_2024" group-title="Познавательные",Арсенал
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
 #EXTINF:-1 tvg-id="devcm_ldh_2024" group-title="Познавательные",HD Life
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/5bcd12f0d4be9b3a44142f1087fb6f23.m3u8
 #EXTINF:-1 tvg-id="devcm_sulpaporve_2024" group-title="Музыкальные",Европа Плюс TV
 https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
@@ -146,6 +161,7 @@ https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
 #EXTINF:-1 tvg-id="devcm_285d20f80176e2e48138e065_2024" group-title="Детские" channel-number="702",Рыжий
 https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:-1 tvg-id="devcm_dhakerue_2024" group-title="Познавательные",Первый Космический HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
 #EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" group-title="Фильмовые",Viju+ Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
