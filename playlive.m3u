@@ -82,10 +82,12 @@ https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 #EXTINF:-1 tvg-id="" group-title="Региональные",Москва Доверие
 https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
 #EXTINF:-1 tvg-id="devcm_ds063_2024" group-title="Развлекательные",Телеканал 360
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
 #EXTINF:-1 tvg-id="devcm_aitsevzi_2024" group-title="Информационные",Известия
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1 tvg-id="devcm_swen063_2024" group-title="Информационные",360 новости
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
 #EXTINF:-1 tvg-id="devcm_tropshsan_2024" group-title="Спортивные",Матч! Страна
 https://livetv.mylifeisgood.net.ru/channels/matchstrana.m3u8
@@ -195,15 +197,13 @@ https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
 https://livetv.mylifeisgood.net.ru/channels/udarlive.m3u8
 #EXTINF:-1 tvg-id="devcm_4f07beabb7066d659f88eb802a2ada68_2024" group-title="Спортивные",Viju+ Sport HD
 https://livetv.mylifeisgood.net.ru/channels/viju-sporthd.m3u8
-#EXTINF:-1 tvg-id="devcm_224_2024" group-title="Познавательные",Top Secret
+#EXTINF:-1 tvg-id="devcm_sovershenno-sekretno_2024" group-title="Познавательные",Top Secret
 https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
 #EXTINF:-1 tvg-id="devcm_110_2024" group-title="Музыкальные",1HD Music Television
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 tvg-id="devcm_5716_2024" group-title="Фильмовые",Plan B [test]
-https://livetv.mylifeisgood.net.ru/channels/fc820eda5d48d2a7ef912222188c55d6.m3u8
 #EXTINF:-1 tvg-id="devcm_474a9dc577196c07822a690ee425658a_2024" group-title="Познавательные",Диалоги о Рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
-#EXTINF:-1 tvg-id="devcm_366_2024" group-title="Познавательные",Оружие
+#EXTINF:-1 tvg-id="devcm_orujie_2024" group-title="Познавательные",Оружие
 https://livetv.mylifeisgood.net.ru/channels/wois.m3u8
 #EXTINF:-1 tvg-id="devcm_150_2024" group-title="Спортивные",Eurosport 1 HD
 https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
@@ -215,22 +215,22 @@ https://livetv.mylifeisgood.net.ru/channels/setantahd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/setantaplus.m3u8
 #EXTINF:-1 tvg-id="" group-title="Спортивные GeoBlock" channel-number="699",Матч! Планета
 https://livetv.mylifeisgood.net.ru/channels/matchplaneta.m3u8
-#EXTINF:-1 tvg-id="devcm_69_2024" group-title="Музыкальные",Bridge
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 tvg-id="devcm_389_2024" group-title="Музыкальные",Bridge Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 tvg-id="devcm_154_2024" group-title="Музыкальные",Bridge Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 tvg-id="devcm_7352_2024" group-title="Музыкальные",Bridge Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 tvg-id="devcm_158_2024" group-title="Музыкальные",Bridge Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 tvg-id="devcm_5014_2024" group-title="Музыкальные",Bridge Шлягер
+#EXTINF:-1 tvg-id="devcm_bridgetv_2024" group-title="Музыкальные",Bridge
+https://livetv.mylifeisgood.net.ru/channels/bridgetvya.m3u8
+#EXTINF:-1 tvg-id="devcm_br_classic_2024" group-title="Музыкальные",Bridge Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictvya.m3u8
+#EXTINF:-1 tvg-id="devcm_br_delux_2024" group-title="Музыкальные",Bridge Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetvya.m3u8
+#EXTINF:-1 tvg-id="devcm_br_dance_2024" group-title="Музыкальные",Bridge Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
+#EXTINF:-1 tvg-id="devcm_br_rushit_2024" group-title="Музыкальные",Bridge Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittvya.m3u8
+#EXTINF:-1 tvg-id="devcm_br_shlyager_2024" group-title="Музыкальные",Bridge Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-id="devcm_43f1ad5b1c7ba605ba29d571a5f8431f_2024" group-title="Музыкальные",Bridge Rock
+#EXTINF:-1 tvg-id="devcm_br_rock_2024" group-title="Музыкальные",Bridge Rock
 https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-id="devcm_785_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/785/${start}",НТВ Право
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo.m3u8
 #EXTINF:-1 tvg-id="devcm_3781_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/tih_vtn/${start}-${end}.m3u8",НТВ Хит HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhit_hd.m3u8
 #EXTINF:-1 tvg-id="devcm_784_2024" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv3/wen_laires_vtn/${start}-${end}.m3u8" group-title="Фильмовые",НТВ Сериал HD
