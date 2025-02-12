@@ -169,7 +169,7 @@ https://livetv.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="devcm_d5f08e5dbd77ed2b67486fb5_2024" group-title="Фильмовые",Viju+ Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
-#EXTINF:-1 tvg-id="devcm_e2f08e0dbd77ed2b9e386fb5_2024" group-title="Фильмовые",Viju+ Premiere HD
+#EXTINF:-1 tvg-id="devcm_e2f08e0dbd77ed2b9e386fb5_2024" group-title="Фильмовые" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srvt1/31780B9D88218454C124DE44BB518295/AC62C5574D1B1D7BAA3D427F9FACC6DE/229/${start}/${end}",Viju+ Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 #EXTINF:-1 tvg-id="devcm_235540f80176e2e420aa1165_2024" group-title="Познавательные",Viju History HD
 https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
