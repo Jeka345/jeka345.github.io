@@ -2,38 +2,52 @@
 #EXTINF:-1 group-title="Эфирные" tvg-id="devcm_lanak1_2024",Первый HD
 https://livetv-app.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/12/${start}/${end}",Россия 1
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="devcm_hctam_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/match/index-${start}-${offset}.m3u8" description="Без ограничения на матчи",Матч! HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/14/${start}/${end}",НТВ HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/14/${start}/${end}",НТВ HD (only Tizen OS)
 https://livetv-app.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-id="devcm_lanak5_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/15/${start}/${end}",Пятый канал
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="devcm_kaissur_2024" group-title="Эфирные",Россия К
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 tvg-id="devcm_42aissor_2024" group-title="Эфирные",Россия 24
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 tvg-id="devcm_lesurak_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/karusel/index-${start}-${offset}.m3u8",Карусель
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1 tvg-id="devcm_rto_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/otr/index-${start}-${offset}.m3u8",ОТР
 https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 tvg-id="devcm_cvt_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tvc/index-${start}-${offset}.m3u8",ТВ Центр
 https://livetv-app.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 tvg-id="devcm_vtner_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/27/${start}/${end}",РЕН ТВ HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 tvg-id="devcm_saps_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/spas/index-${start}-${offset}.m3u8",СПАС
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/spas.m3u8
 #EXTINF:-1 tvg-id="devcm_sts_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/25/${start}/${end}",СТС HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-id="devcm_yinhsamod_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv95_fss/24/${start}/${end}",Домашний HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 tvg-id="devcm_3vt_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-id="devcm_acintayp_2024" group-title="Эфирные" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/pyatnica/index-${start}-${offset}.m3u8",Пятница HD
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="devcm_adzevz_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="devcm_rim_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/mir/index-${start}-${offset}.m3u8",МИР HD
 https://livetv-app.mylifeisgood.net.ru/channels/mirhdorig.m3u8
@@ -42,10 +56,12 @@ https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="devcm_vtzum_2024" group-title="Эфирные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/muztv/index-${start}-${offset}.m3u8",Муз ТВ
 https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 tvg-id="devcm_evolsts_2024" group-title="Развлекательные",СТС Love
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="devcm_42rim_2024" group-title="Информационные",Мир 24 HD
 https://livetv-app.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
 #EXTINF:-1 tvg-id="devcm_ehc_2024" group-title="Развлекательные",ЧЕ!
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 tvg-id="devcm_ulennahc_2024" group-title="Развлекательные" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/channelu/index-${start}-${offset}.m3u8",Ю
 https://livetv-app.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
@@ -119,6 +135,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/9e56945777f23245f68f7ba074a7ff33
 #EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 #EXTINF:-1 tvg-id="devcm_hc87_2024" group-title="Региональные",78 канал Санкт-Петербург
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
 #EXTINF:-1 tvg-id="devcm_89818e56c43df79a1ee43226_2024" group-title="Фильмовые",Start Air HD
 https://livetv-app.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -131,6 +148,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="devcm_cisumtnt_2024" group-title="Музыкальные",ТНТ Music
 https://livetv-app.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 #EXTINF:-1 tvg-id="devcm_elims_2024" group-title="Детские",Смайлик
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 tvg-id="devcm_ldh_2024" group-title="Познавательные GeoBlock" channel-number="806",HD Life
 https://livetv-app.mylifeisgood.net.ru/channels/hdlife.m3u8
@@ -161,8 +179,12 @@ https://livetv-app.mylifeisgood.net.ru/channels/gulli.m3u8
 #EXTINF:-1 tvg-id="devcm_1db1001a304c8fbe83c5f535_2024" group-title="Детские",TIJI
 https://livetv-app.mylifeisgood.net.ru/channels/tiji.m3u8
 #EXTINF:-1 tvg-id="devcm_285d20f80176e2e48138e065_2024" group-title="Детские" channel-number="702",Рыжий
+#EXTVLCOPT:http-user-agent=devcm-CB058DA4ED5F2CAA1D0BBA0EE5B58E641AD8BEE9
 https://livetv-app.mylifeisgood.net.ru/channels/ryjii.m3u8
 #EXTINF:-1 tvg-id="devcm_dhakerue_2024" group-title="Познавательные",Первый Космический HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv-app.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
+#EXTINF:-1 tvg-id="devcm_jaz_2024" group-title="Детские",Сказки зайки
 #EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
 #EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" group-title="Фильмовые",Viju+ Megahit HD
@@ -200,6 +222,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/viju-sporthd.m3u8
 #EXTINF:-1 tvg-id="devcm_sovershenno-sekretno_2024" group-title="Познавательные",Top Secret
 https://livetv-app.mylifeisgood.net.ru/channels/sovsec127.m3u8
 #EXTINF:-1 tvg-id="devcm_110_2024" group-title="Музыкальные",1HD Music Television
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 tvg-id="devcm_474a9dc577196c07822a690ee425658a_2024" group-title="Познавательные",Диалоги о Рыбалке
 https://livetv-app.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
