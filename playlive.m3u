@@ -101,6 +101,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
 #EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/ch360.m3u8
 #EXTINF:-1 tvg-id="devcm_aitsevzi_2024" group-title="Информационные",Известия
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
 https://livetv-app.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1 tvg-id="devcm_swen063_2024" group-title="Информационные",360 новости
 #EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
