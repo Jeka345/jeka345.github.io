@@ -187,7 +187,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/ryjii.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
 #EXTINF:-1 tvg-id="devcm_jaz_2024" group-title="Детские",Сказки зайки
 #EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
-https://livetv-app.mylifeisgood.net.ru/channels/55ec284b8c8c4d79ad411127b1cccfb4.m3u8
+https://livetv-app.mylifeisgood.net.ru/channels/skazkizaiki_new.m3u8
 #EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" group-title="Фильмовые",Viju+ Megahit HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="devcm_d5f08e5dbd77ed2b67486fb5_2024" group-title="Фильмовые",Viju+ Comedy HD
